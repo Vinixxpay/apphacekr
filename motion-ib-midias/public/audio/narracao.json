@@ -2,50 +2,50 @@
   {
     "scene": 1,
     "start": 0.2,
-    "spoken_seconds": 4.014,
-    "speed": 1.0,
+    "spoken_seconds": 3.046,
+    "speed": 1.12,
     "text": "Sua loja anuncia, mas o cliente só pergunta o preço e some?"
   },
   {
     "scene": 2,
     "start": 6.2,
-    "spoken_seconds": 4.179,
-    "speed": 1.0,
+    "spoken_seconds": 3.468,
+    "speed": 1.12,
     "text": "Oportunidades reais de venda. E clareza sobre o retorno dos anúncios."
   },
   {
     "scene": 3,
     "start": 11.2,
-    "spoken_seconds": 3.984,
-    "speed": 1.0,
+    "spoken_seconds": 3.341,
+    "speed": 1.12,
     "text": "I bê Mídias. Anúncios para lojas e concessionárias de motos."
   },
   {
     "scene": 4,
     "start": 16.2,
-    "spoken_seconds": 6.514,
-    "speed": 1.0,
+    "spoken_seconds": 5.54,
+    "speed": 1.12,
     "text": "Campanhas pensadas para seu estoque, sua região e suas condições de pagamento. Para atrair quem tem interesse em comprar."
   },
   {
     "scene": 5,
     "start": 24.2,
-    "spoken_seconds": 6.696,
-    "speed": 1.0,
+    "spoken_seconds": 5.732,
+    "speed": 1.12,
     "text": "Saiba quanto investiu, quantas conversas gerou e quais contatos avançaram. Acompanhamento junto à sua equipe comercial."
   },
   {
     "scene": 6,
     "start": 32.2,
-    "spoken_seconds": 4.497,
-    "speed": 1.0,
+    "spoken_seconds": 3.848,
+    "speed": 1.12,
     "text": "Acompanhamento próximo. Resultados transparentes. Valor justo pelo serviço."
   },
   {
     "scene": 7,
     "start": 37.2,
-    "spoken_seconds": 6.169,
-    "speed": 1.0,
+    "spoken_seconds": 5.143,
+    "speed": 1.12,
     "text": "Onde sua loja está perdendo oportunidades? Preencha o formulário e agende uma conversa. I bê Mídias."
   }
 ]

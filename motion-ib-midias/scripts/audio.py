@@ -17,11 +17,11 @@ scenes=[
 rate=48000; voice=np.zeros(rate*45,dtype=np.float64); manifest=[]
 for i,(start,slot,words) in enumerate(scenes):
  raw=RAW/f'{i+1}.wav'; text=RAW/f'{i+1}.txt';text.write_text(words,encoding='utf-8')
- scale=[1.35,1.04,1.10,1.10,1.08,.96,1.12][i]
- subprocess.run([str(PYTHON),'-m','piper','--model',str(MODEL),'--input-file',str(text),'--output-file',str(raw),'--length-scale',str(scale),'--sentence-silence','0.12'],check=True,stdout=subprocess.DEVNULL)
+ scale=[.96,.90,.94,.94,.92,.88,.94][i]
+ subprocess.run([str(PYTHON),'-m','piper','--model',str(MODEL),'--input-file',str(text),'--output-file',str(raw),'--length-scale',str(scale),'--sentence-silence','0.08'],check=True,stdout=subprocess.DEVNULL)
  with wave.open(str(raw)) as w: dur=w.getnframes()/w.getframerate()
  # Conservar a fala inteira: acelerar apenas o necessário para caber na janela.
- available=slot-.48; tempo=max(1.,dur/available)
+ available=slot-.48; tempo=max(1.12,dur/available)
  if tempo>1.30: raise RuntimeError(f'Cena {i+1}: voz rápida demais ({tempo:.2f}), revisar o texto.')
  fitted=RAW/f'{i+1}-fit.wav'
  subprocess.run(['ffmpeg','-v','error','-y','-i',str(raw),'-af',f'atempo={tempo:.6f},afade=t=in:d=0.025,afade=t=out:st={max(0,dur/tempo-.07):.3f}:d=0.07','-ar',str(rate),'-ac','1','-c:a','pcm_s16le',str(fitted)],check=True)

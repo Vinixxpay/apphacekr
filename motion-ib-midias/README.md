@@ -1,6 +1,6 @@
 # iB Mídias — Motion design com narração
 
-Peça vertical de 45 segundos, 1080 × 1920, 30 fps, em preto/grafite/branco e verde-limão `#C6FF00`. Logo oficial fornecida pelo usuário, com fundo preparado para transparência, aplicada no cabeçalho, na apresentação e na assinatura final. As cores azul/ciano e azul-marinho da logo são preservadas sobre uma base branca; a paleta do restante do vídeo continua preto/grafite/branco e verde-limão. As sete cenas seguem os tempos pedidos: 0–6, 6–11, 11–16, 16–24, 24–32, 32–37 e 37–45 segundos.
+Peça vertical de 45 segundos, 1080 × 1920, 30 fps, em azul-marinho, branco e azul `#19A5FF`. Logo oficial fornecida pelo usuário, com fundo preparado para transparência, aplicada no cabeçalho, na apresentação e na assinatura final. As cores azul/ciano e azul-marinho da logo são preservadas sobre uma base branca; a paleta do restante do vídeo acompanha os tons de azul da marca. As sete cenas seguem os tempos pedidos: 0–6, 6–11, 11–16, 16–24, 24–32, 32–37 e 37–45 segundos.
 
 O painel usa traços no lugar de métricas. O contato em movimento é ilustrativo; não representa resultado ou depoimento. Os textos principais ficam entre x=84 e x=946, acima de y=1450, reservando espaço para a interface de anúncios. A chamada final está totalmente revelada a partir de aproximadamente 39,1 s e permanece até 45 s.
 
@@ -41,7 +41,7 @@ node scripts/stills.mjs
 
 A voz é sintética em português do Brasil, gerada localmente pelo Piper com o modelo `pt_BR-faber-medium`, sem clonagem e sem serviço pago. O cartão do modelo, com a licença CC0 do conjunto de voz, está em `public/audio/VOICE-MODEL-CARD.txt`. Fonte: https://huggingface.co/rhasspy/piper-voices/tree/main/pt/pt_BR/faber/medium
 
-`public/audio/mix.wav` já contém narração, trilha instrumental original sintetizada para esta peça e sopros discretos nas transições. As falas e suas durações estão em `public/audio/narracao.json`. A voz foi encaixada por cena, sem truncar frases. Não é necessário baixar o modelo para renderizar o vídeo com esse áudio.
+`public/audio/mix.wav` já contém narração, trilha instrumental original sintetizada para esta peça e sopros discretos nas transições. As falas e suas durações estão em `public/audio/narracao.json`. A narração usa ritmo mais ágil, com pausas de frase mais curtas e geração em velocidade natural mais rápida. A voz foi encaixada por cena, sem truncar frases. Não é necessário baixar o modelo para renderizar o vídeo com esse áudio.
 
 Para recriar a narração e a trilha após editar as falas em `scripts/audio.py`, com Python 3.12, `uv`, `curl`, `sha256sum` e `ffmpeg` disponíveis:
 

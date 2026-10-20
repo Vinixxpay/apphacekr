@@ -1,7 +1,7 @@
 import React, {useEffect, useState} from 'react';
 import {AbsoluteFill, Audio, cancelRender, continueRender, delayRender, Easing, Img, interpolate, Sequence, staticFile, useCurrentFrame} from 'remotion';
 
-const L='#C6FF00', W='#F6F7F3', M='#A9B0A7', BG='#090B0A';
+const L='#19A5FF', W='#F4F8FF', M='#A6B8D2', BG='#040C1C';
 const ease=Easing.bezier(.2,.8,.2,1);
 const p=(f:number,a:number,b:number)=>interpolate(f,[a,b],[0,1],{extrapolateLeft:'clamp',extrapolateRight:'clamp',easing:ease});
 const enter=(f:number,at=0)=>({opacity:p(f,at,at+14),transform:`translateY(${(1-p(f,at,at+18))*45}px) scale(${.98+.02*p(f,at,at+18)})`,clipPath:`inset(${(1-p(f,at,at+16))*100}% 0 0 0)`});
@@ -19,8 +19,8 @@ const Mark:React.FC<{size?:number}>=({size=42})=><span style={{fontWeight:800,fo
 const Logo:React.FC<{size?:number}>=({size=80})=><div style={{width:size,height:size,flexShrink:0,padding:size*.075,borderRadius:size*.17,background:'#fff',display:'flex',alignItems:'center',justifyContent:'center'}}><Img src={staticFile('logo-ib-midias.png')} style={{width:'100%',height:'100%',objectFit:'contain'}}/></div>;
 
 function Background(){const f=useCurrentFrame();return <AbsoluteFill style={{background:BG}}>
- <AbsoluteFill style={{background:'radial-gradient(ellipse at 85% 16%, #22310e88, transparent 52%), radial-gradient(ellipse at 5% 90%, #18211c88, transparent 45%)'}}/>
- <AbsoluteFill style={{opacity:.16,backgroundImage:'linear-gradient(#53604b38 1px,transparent 1px),linear-gradient(90deg,#53604b38 1px,transparent 1px)',backgroundSize:'96px 96px',transform:`translateY(${f*.03%96}px)`}}/>
+ <AbsoluteFill style={{background:'radial-gradient(ellipse at 85% 16%, #0068ff44, transparent 52%), radial-gradient(ellipse at 5% 90%, #00295766, transparent 45%)'}}/>
+ <AbsoluteFill style={{opacity:.16,backgroundImage:'linear-gradient(#3876be38 1px,transparent 1px),linear-gradient(90deg,#3876be38 1px,transparent 1px)',backgroundSize:'96px 96px',transform:`translateY(${f*.03%96}px)`}}/>
  <div style={{position:'absolute',left:84,right:134,top:169,height:1,background:'#ffffff25'}}/>
  <div style={{position:'absolute',left:84,top:88,display:'flex',alignItems:'center',gap:18}}><Logo size={64}/><Mark size={34}/></div>
  <div style={{position:'absolute',right:134,top:116,fontSize:20,letterSpacing:'.12em',color:M}}>LOJAS DE MOTOS</div>
@@ -31,7 +31,7 @@ function Scene({children}:{children:React.ReactNode}){const f=useCurrentFrame();
 
 function Hook(){const f=useCurrentFrame();const fade=1-p(f,60,80);return <Scene>
  <div style={{...box,top:246,...enter(f,3)}}><Tag>Para donos de lojas de motos</Tag></div>
- {['Qual o valor?','Ainda está disponível?'].map((v,i)=><div key={v} style={{position:'absolute',top:350+i*106,left:110+i*110,width:635,background:'#252b25',border:'1px solid #ffffff20',borderRadius:24,padding:'22px 28px',fontSize:36,color:W,opacity:p(f,9+i*14,22+i*14)*fade,transform:`translateX(${(1-p(f,9+i*14,26+i*14))*100+(1-fade)*(i?160:-160)}px)`,display:'flex',gap:18,alignItems:'center'}}><Icon kind="chat" size={37}/>{v}<span style={{marginLeft:'auto',color:'#75816e',fontSize:24}}>•••</span></div>)}
+ {['Qual o valor?','Ainda está disponível?'].map((v,i)=><div key={v} style={{position:'absolute',top:350+i*106,left:110+i*110,width:635,background:'#12233B',border:'1px solid #ffffff20',borderRadius:24,padding:'22px 28px',fontSize:36,color:W,opacity:p(f,9+i*14,22+i*14)*fade,transform:`translateX(${(1-p(f,9+i*14,26+i*14))*100+(1-fade)*(i?160:-160)}px)`,display:'flex',gap:18,alignItems:'center'}}><Icon kind="chat" size={37}/>{v}<span style={{marginLeft:'auto',color:'#7999BE',fontSize:24}}>•••</span></div>)}
  <div style={{...box,top:650}}>
   <h1 style={{...text,fontSize:84,...enter(f,7)}}>Sua loja<br/>anuncia…</h1>
   <div style={{height:50}}/>
@@ -42,7 +42,7 @@ function Hook(){const f=useCurrentFrame();const fade=1-p(f,60,80);return <Scene>
 
 function Need(){const f=useCurrentFrame();return <Scene>
  <div style={{...box,top:250,...enter(f)}}><Tag>Mais direção para seus anúncios</Tag></div>
- <div style={{...box,top:400,display:'flex',gap:18}}>{[0,1,2].map((i)=><div key={i} style={{flex:1,height:100+80*p(f,4+i*6,30+i*6),border:'1px solid #c6ff0055',background:'#1b2415',borderRadius:52-28*p(f,4+i*6,30+i*6),padding:24,...enter(f,i*7)}}><Icon kind={f<15+i*6?'chat':i===0?'chat':i===1?'moto':'check'} size={48}/><div style={{marginTop:15,fontSize:29,fontWeight:600,color:L,opacity:p(f,20+i*6,36+i*6)}}>{['Contato','Interesse','Oportunidade'][i]}</div></div>)}</div>
+ <div style={{...box,top:400,display:'flex',gap:18}}>{[0,1,2].map((i)=><div key={i} style={{flex:1,height:100+80*p(f,4+i*6,30+i*6),border:'1px solid #19a5ff55',background:'#0B2443',borderRadius:52-28*p(f,4+i*6,30+i*6),padding:24,...enter(f,i*7)}}><Icon kind={f<15+i*6?'chat':i===0?'chat':i===1?'moto':'check'} size={48}/><div style={{marginTop:15,fontSize:29,fontWeight:600,color:L,opacity:p(f,20+i*6,36+i*6)}}>{['Contato','Interesse','Oportunidade'][i]}</div></div>)}</div>
  <div style={{...box,top:680}}><h1 style={{...text,fontSize:78,...enter(f,12)}}>Sua loja precisa de<br/><span style={{color:L}}>oportunidades<br/>reais de venda.</span></h1>
  <p style={{fontSize:49,lineHeight:1.3,color:M,marginTop:65,...enter(f,47)}}>E clareza sobre o<br/><span style={{color:W}}>retorno dos anúncios.</span></p></div>
  </Scene>}
@@ -50,14 +50,14 @@ function Need(){const f=useCurrentFrame();return <Scene>
 function Brand(){const f=useCurrentFrame();return <Scene>
  <div style={{...box,top:250,...enter(f)}}><Tag>Especialização faz diferença</Tag></div>
  <div style={{...box,top:520,...enter(f,5)}}><div style={{display:'flex',alignItems:'center',gap:32}}><Logo size={220}/><Mark size={110}/></div><p style={{fontSize:58,lineHeight:1.2,fontWeight:600,color:W,marginTop:55}}>Anúncios para lojas<br/>e concessionárias<br/><span style={{color:L}}>de motos.</span></p></div>
- <svg style={{position:'absolute',left:84,top:1080}} width="862" height="260" viewBox="0 0 862 260"><path d="M-40 210H240Q320 210 370 135T520 60H900" fill="none" stroke="#39402f" strokeWidth="28"/><path d="M-40 210H240Q320 210 370 135T520 60H900" fill="none" stroke={L} strokeWidth="3" pathLength="1" strokeDasharray="1" strokeDashoffset={1-p(f,10,95)}/><path d="M-40 210H240Q320 210 370 135T520 60H900" fill="none" stroke="#c6ff0044" strokeWidth="2" strokeDasharray="15 20"/></svg>
+ <svg style={{position:'absolute',left:84,top:1080}} width="862" height="260" viewBox="0 0 862 260"><path d="M-40 210H240Q320 210 370 135T520 60H900" fill="none" stroke="#18345A" strokeWidth="28"/><path d="M-40 210H240Q320 210 370 135T520 60H900" fill="none" stroke={L} strokeWidth="3" pathLength="1" strokeDasharray="1" strokeDashoffset={1-p(f,10,95)}/><path d="M-40 210H240Q320 210 370 135T520 60H900" fill="none" stroke="#19a5ff44" strokeWidth="2" strokeDasharray="15 20"/></svg>
  <div style={{position:'absolute',left:84+520*p(f,20,105),top:1070-65*p(f,20,105),opacity:p(f,10,25)}}><Icon kind="moto" size={150}/></div>
  </Scene>}
 
 function Strategy(){const f=useCurrentFrame();return <Scene>
  <div style={{...box,top:250,...enter(f)}}><Tag>Estratégia sob medida</Tag></div>
  <h1 style={{...box,...text,top:338,fontSize:76,...enter(f,3)}}>Campanhas<br/>pensadas para:</h1>
- {['Seu estoque.','Sua região.','Suas condições\nde pagamento.'].map((s,i)=><div key={s} style={{...box,top:575+i*180,height:156,background:'#171b17',border:`1px solid ${f>i*48+17?'#c6ff0066':'#ffffff11'}`,borderRadius:24,display:'flex',alignItems:'center',gap:29,padding:'0 34px',...enter(f,14+i*48)}}><Icon kind={['moto','pin','pay'][i]} size={68}/><span style={{fontSize:i===2?49:58,fontWeight:600,lineHeight:1.12,whiteSpace:'pre-line',letterSpacing:'-.035em'}}>{s}</span></div>)}
+ {['Seu estoque.','Sua região.','Suas condições\nde pagamento.'].map((s,i)=><div key={s} style={{...box,top:575+i*180,height:156,background:'#0D1B30',border:`1px solid ${f>i*48+17?'#19a5ff66':'#ffffff11'}`,borderRadius:24,display:'flex',alignItems:'center',gap:29,padding:'0 34px',...enter(f,14+i*48)}}><Icon kind={['moto','pin','pay'][i]} size={68}/><span style={{fontSize:i===2?49:58,fontWeight:600,lineHeight:1.12,whiteSpace:'pre-line',letterSpacing:'-.035em'}}>{s}</span></div>)}
  <p style={{...box,top:1165,fontSize:48,lineHeight:1.2,fontWeight:600,color:L,...enter(f,173)}}>Para atrair quem tem<br/>interesse em comprar.</p>
  </Scene>}
 
@@ -65,9 +65,9 @@ function Tracking(){const f=useCurrentFrame();const phase=f<64?0:f<130?1:2;const
  <div style={{...box,top:250,...enter(f)}}><Tag>Visibilidade da operação</Tag></div>
  <h1 style={{...box,...text,top:360,fontSize:75,...enter(f,[4,64,130][phase])}}>{lines[phase]}</h1>
  <div style={{...box,top:640,fontSize:27,color:M,letterSpacing:'.09em',...enter(f,15)}}>PAINEL ILUSTRATIVO</div>
- <div style={{...box,top:700,display:'flex',gap:15}}>{['Investimento','Conversas','Negociações'].map((s,i)=><div key={s} style={{flex:1,height:180,background:'#1b201b',border:'1px solid #ffffff22',borderRadius:22,padding:'30px 18px',...enter(f,15+i*10)}}><div style={{fontSize:30,fontWeight:600,color:M,letterSpacing:'-.04em'}}>{s}</div><div style={{fontSize:63,color:L,marginTop:6}}>—</div></div>)}</div>
- <div style={{...box,top:965,display:'flex',gap:46,...enter(f,90)}}>{['Novo contato','Em negociação'].map((s,i)=><div key={s} style={{width:408,height:300,border:'1px solid #ffffff22',borderRadius:24,padding:25,background:i?'#1d2714':'#141914'}}><div style={{fontSize:33,color:i?L:M,fontWeight:600,letterSpacing:'-.035em'}}>{s}</div><div style={{height:1,background:'#ffffff20',marginTop:23}}/></div>)}</div>
- <div style={{position:'absolute',left:110+move*452,top:1094,width:352,height:120,background:move>.9?L:'#293026',color:move>.9?BG:W,borderRadius:18,padding:24,display:'flex',alignItems:'center',gap:19,opacity:p(f,95,110),boxShadow:'0 18px 30px #0005'}}><Icon kind={move>.9?'check':'chat'} size={48} color={move>.9?BG:L}/><span style={{fontSize:33,fontWeight:600}}>Contato</span></div>
+ <div style={{...box,top:700,display:'flex',gap:15}}>{['Investimento','Conversas','Negociações'].map((s,i)=><div key={s} style={{flex:1,height:180,background:'#0D2039',border:'1px solid #ffffff22',borderRadius:22,padding:'30px 18px',...enter(f,15+i*10)}}><div style={{fontSize:30,fontWeight:600,color:M,letterSpacing:'-.04em'}}>{s}</div><div style={{fontSize:63,color:L,marginTop:6}}>—</div></div>)}</div>
+ <div style={{...box,top:965,display:'flex',gap:46,...enter(f,90)}}>{['Novo contato','Em negociação'].map((s,i)=><div key={s} style={{width:408,height:300,border:'1px solid #ffffff22',borderRadius:24,padding:25,background:i?'#0A2D55':'#0A1729'}}><div style={{fontSize:33,color:i?L:M,fontWeight:600,letterSpacing:'-.035em'}}>{s}</div><div style={{height:1,background:'#ffffff20',marginTop:23}}/></div>)}</div>
+ <div style={{position:'absolute',left:110+move*452,top:1094,width:352,height:120,background:move>.9?L:'#183653',color:move>.9?BG:W,borderRadius:18,padding:24,display:'flex',alignItems:'center',gap:19,opacity:p(f,95,110),boxShadow:'0 18px 30px #0005'}}><Icon kind={move>.9?'check':'chat'} size={48} color={move>.9?BG:L}/><span style={{fontSize:33,fontWeight:600}}>Contato</span></div>
  <div style={{...box,top:1330,fontSize:35,lineHeight:1.25,color:M,...enter(f,130)}}>Acompanhamento junto à<br/><span style={{color:W}}>sua equipe comercial.</span></div>
  </Scene>}
 
