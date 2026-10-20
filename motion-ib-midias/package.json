@@ -1,0 +1,24 @@
+{
+  "name": "ib-midias-motion",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts --browser-executable=/usr/bin/chromium",
+    "render": "remotion render src/index.ts IBMidias out/remotion-master.mp4 --codec=h264 --pixel-format=yuv420p --audio-codec=aac --browser-executable=/usr/bin/chromium --concurrency=2 --crf=20 && node scripts/finalize.mjs",
+    "typecheck": "tsc --noEmit",
+    "still": "remotion still src/index.ts IBMidias out/preview.png --frame=120 --browser-executable=/usr/bin/chromium"
+  },
+  "dependencies": {
+    "remotion": "4.0.537",
+    "@remotion/cli": "4.0.537",
+    "@remotion/player": "4.0.537",
+    "@fontsource/inter": "5.2.8",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/react": "19.0.0",
+    "@types/react-dom": "19.0.0"
+  }
+}
