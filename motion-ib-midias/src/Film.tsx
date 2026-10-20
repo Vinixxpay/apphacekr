@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from 'react';
-import {AbsoluteFill, Audio, cancelRender, continueRender, delayRender, Easing, interpolate, Sequence, staticFile, useCurrentFrame} from 'remotion';
+import {AbsoluteFill, Audio, cancelRender, continueRender, delayRender, Easing, Img, interpolate, Sequence, staticFile, useCurrentFrame} from 'remotion';
 
 const L='#C6FF00', W='#F6F7F3', M='#A9B0A7', BG='#090B0A';
 const ease=Easing.bezier(.2,.8,.2,1);
@@ -16,12 +16,13 @@ function Icon({kind,size=64,color=L}:{kind:string;size?:number;color?:string}){
 
 const Tag:React.FC<{children:React.ReactNode}>=({children})=><div style={{display:'inline-flex',alignItems:'center',gap:14,fontSize:28,letterSpacing:'.12em',fontWeight:600,color:L,textTransform:'uppercase'}}><span style={{width:9,height:9,background:L,borderRadius:9}}/>{children}</div>;
 const Mark:React.FC<{size?:number}>=({size=42})=><span style={{fontWeight:800,fontSize:size,letterSpacing:'-.065em'}}>iB <span style={{color:L}}>Mídias</span></span>;
+const Logo:React.FC<{size?:number}>=({size=80})=><div style={{width:size,height:size,flexShrink:0,padding:size*.075,borderRadius:size*.17,background:'#fff',display:'flex',alignItems:'center',justifyContent:'center'}}><Img src={staticFile('logo-ib-midias.png')} style={{width:'100%',height:'100%',objectFit:'contain'}}/></div>;
 
 function Background(){const f=useCurrentFrame();return <AbsoluteFill style={{background:BG}}>
  <AbsoluteFill style={{background:'radial-gradient(ellipse at 85% 16%, #22310e88, transparent 52%), radial-gradient(ellipse at 5% 90%, #18211c88, transparent 45%)'}}/>
  <AbsoluteFill style={{opacity:.16,backgroundImage:'linear-gradient(#53604b38 1px,transparent 1px),linear-gradient(90deg,#53604b38 1px,transparent 1px)',backgroundSize:'96px 96px',transform:`translateY(${f*.03%96}px)`}}/>
  <div style={{position:'absolute',left:84,right:134,top:169,height:1,background:'#ffffff25'}}/>
- <div style={{position:'absolute',left:84,top:102}}><Mark size={34}/></div>
+ <div style={{position:'absolute',left:84,top:88,display:'flex',alignItems:'center',gap:18}}><Logo size={64}/><Mark size={34}/></div>
  <div style={{position:'absolute',right:134,top:116,fontSize:20,letterSpacing:'.12em',color:M}}>LOJAS DE MOTOS</div>
  <div style={{position:'absolute',left:84,top:1515,width:862,height:3,background:'#ffffff16'}}><div style={{width:`${f/1349*100}%`,height:3,background:L}}/></div>
  </AbsoluteFill>}
@@ -48,7 +49,7 @@ function Need(){const f=useCurrentFrame();return <Scene>
 
 function Brand(){const f=useCurrentFrame();return <Scene>
  <div style={{...box,top:250,...enter(f)}}><Tag>Especialização faz diferença</Tag></div>
- <div style={{...box,top:545,...enter(f,5)}}><Mark size={134}/><p style={{fontSize:58,lineHeight:1.2,fontWeight:600,color:W,marginTop:55}}>Anúncios para lojas<br/>e concessionárias<br/><span style={{color:L}}>de motos.</span></p></div>
+ <div style={{...box,top:520,...enter(f,5)}}><div style={{display:'flex',alignItems:'center',gap:32}}><Logo size={220}/><Mark size={110}/></div><p style={{fontSize:58,lineHeight:1.2,fontWeight:600,color:W,marginTop:55}}>Anúncios para lojas<br/>e concessionárias<br/><span style={{color:L}}>de motos.</span></p></div>
  <svg style={{position:'absolute',left:84,top:1080}} width="862" height="260" viewBox="0 0 862 260"><path d="M-40 210H240Q320 210 370 135T520 60H900" fill="none" stroke="#39402f" strokeWidth="28"/><path d="M-40 210H240Q320 210 370 135T520 60H900" fill="none" stroke={L} strokeWidth="3" pathLength="1" strokeDasharray="1" strokeDashoffset={1-p(f,10,95)}/><path d="M-40 210H240Q320 210 370 135T520 60H900" fill="none" stroke="#c6ff0044" strokeWidth="2" strokeDasharray="15 20"/></svg>
  <div style={{position:'absolute',left:84+520*p(f,20,105),top:1070-65*p(f,20,105),opacity:p(f,10,25)}}><Icon kind="moto" size={150}/></div>
  </Scene>}
@@ -80,7 +81,7 @@ function CTA(){const f=useCurrentFrame();return <Scene>
  <h1 style={{...box,...text,top:425,fontSize:80,...enter(f,3)}}>Onde sua loja<br/>está perdendo<br/><span style={{color:L}}>oportunidades?</span></h1>
  <p style={{...box,top:815,fontSize:49,fontWeight:600,lineHeight:1.3,color:W,...enter(f,18)}}>Preencha o formulário<br/>e agende uma conversa.</p>
  <div style={{...box,top:1060,height:170,padding:'28px 32px',borderRadius:25,background:L,color:BG,display:'flex',alignItems:'center',justifyContent:'space-between',gap:20,...enter(f,35)}}><span style={{fontSize:42,fontWeight:800,letterSpacing:'-.035em',lineHeight:1.2}}>QUERO UMA ANÁLISE<br/>DA MINHA LOJA</span><Icon kind="arrow" color={BG} size={65}/></div>
- <div style={{...box,top:1325,...enter(f,44)}}><Mark size={47}/><div style={{fontSize:31,color:M,marginTop:16,fontWeight:600}}>Anúncios para lojas de motos</div></div>
+ <div style={{...box,top:1300,display:'flex',alignItems:'center',gap:24,...enter(f,44)}}><Logo size={112}/><div><Mark size={47}/><div style={{fontSize:31,color:M,marginTop:16,fontWeight:600}}>Anúncios para lojas de motos</div></div></div>
  </Scene>}
 
 export const Film:React.FC=()=>{

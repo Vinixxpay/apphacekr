@@ -1,6 +1,6 @@
 # iB Mídias — Motion design com narração
 
-Peça vertical de 45 segundos, 1080 × 1920, 30 fps, em preto/grafite/branco e verde-limão `#C6FF00`. Marca em texto, sem símbolo inventado. As sete cenas seguem os tempos pedidos: 0–6, 6–11, 11–16, 16–24, 24–32, 32–37 e 37–45 segundos.
+Peça vertical de 45 segundos, 1080 × 1920, 30 fps, em preto/grafite/branco e verde-limão `#C6FF00`. Logo oficial fornecida pelo usuário, com fundo preparado para transparência, aplicada no cabeçalho, na apresentação e na assinatura final. As cores azul/ciano e azul-marinho da logo são preservadas sobre uma base branca; a paleta do restante do vídeo continua preto/grafite/branco e verde-limão. As sete cenas seguem os tempos pedidos: 0–6, 6–11, 11–16, 16–24, 24–32, 32–37 e 37–45 segundos.
 
 O painel usa traços no lugar de métricas. O contato em movimento é ilustrativo; não representa resultado ou depoimento. Os textos principais ficam entre x=84 e x=946, acima de y=1450, reservando espaço para a interface de anúncios. A chamada final está totalmente revelada a partir de aproximadamente 39,1 s e permanece até 45 s.
 
@@ -50,7 +50,7 @@ bash scripts/prepare-voice.sh
 npm run render
 ```
 
-O script baixa o modelo por HTTPS, verifica os hashes, instala as dependências locais e gera novamente o áudio. As fontes Inter e sua licença estão em `public/`. Os ícones de moto, localização, pagamento e conversa são vetores do projeto, não logos de terceiros.
+O script baixa o modelo por HTTPS, verifica os hashes, instala as dependências locais e gera novamente o áudio. As fontes Inter e sua licença estão em `public/`. Os ícones de moto, localização, pagamento e conversa são vetores do projeto, não logos de terceiros. A logo oficial está em `public/logo-ib-midias.png` e não deve ser substituída por um símbolo criado para o vídeo.
 
 ## Estrutura
 
