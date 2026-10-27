@@ -33,3 +33,7 @@ O valor é exibido como R$ 600, sem acrescentar periodicidade nem condições co
 Voz masculina sintética pt-BR (Piper Faber), com ritmo ágil e preservação do tom. O áudio pronto está em `public/audio/mix.wav`, junto à trilha instrumental original. O texto e a duração de cada fala estão em `public/audio/narracao.json`. Licença do modelo em `public/audio/VOICE-MODEL-CARD.txt`.
 
 Para regenerar a voz: `bash scripts/prepare-voice.sh`. A geração exige Python, uv e o modelo Piper; o render funciona com o áudio pronto sem baixar pesos. Não há dependência de serviço pago. Fontes Inter locais com licença em public/.
+
+## Versão mais dinâmica
+
+Após `npm run render`, execute `node scripts/fast-export.mjs`. A pós-produção acelera vídeo e áudio em 12%, preserva o tom da voz, aplica dissoluções de 180 ms entre as seis cenas e interpola os movimentos para 60 fps. A duração passa de 42 para aproximadamente 36,6 segundos. Saída: `out/ib-midias-vidraceiros-dinamico.mp4`. A oferta e a chamada final permanecem legíveis.
