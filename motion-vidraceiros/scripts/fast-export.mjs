@@ -1,14 +1,14 @@
 import {spawnSync} from 'node:child_process';
 import fs from 'node:fs';
 fs.mkdirSync('out',{recursive:true});
-const speed=1.12,fade=.18,times=[0,5,11,18,25,33,42];
+const speed=1.12,fade=.18,times=[0,5,11,20,27,34,42,51];
 const filters=[];
-for(let i=0;i<6;i++){
+for(let i=0;i<times.length-1;i++){
  filters.push(`[0:v]trim=start=${times[i]}:end=${times[i+1]},setpts=(PTS-STARTPTS)/${speed},framerate=fps=60:interp_start=0:interp_end=255:scene=8,settb=1/60,format=yuv420p[v${i}]`);
  filters.push(`[0:a]atrim=start=${times[i]}:end=${times[i+1]},asetpts=PTS-STARTPTS,atempo=${speed}[a${i}]`);
 }
 let video='v0',audio='a0',duration=(times[1]-times[0])/speed;
-for(let i=1;i<6;i++){
+for(let i=1;i<times.length-1;i++){
  const nextV=`vx${i}`,nextA=`ax${i}`;
  filters.push(`[${video}][v${i}]xfade=transition=fade:duration=${fade}:offset=${(duration-fade).toFixed(6)}[${nextV}]`);
  filters.push(`[${audio}][a${i}]acrossfade=d=${fade}:c1=tri:c2=tri[${nextA}]`);

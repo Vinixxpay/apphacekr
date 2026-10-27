@@ -1,0 +1,2 @@
+Pernambuco mainland boundary: https://github.com/codeforamerica/click_that_hood/blob/master/public/data/brazil-states.geojson
+Source geometry simplified for display; animated pins are illustrative and do not represent measured customers.
