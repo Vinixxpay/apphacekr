@@ -37,3 +37,9 @@ Para regenerar a voz: `bash scripts/prepare-voice.sh`. A geração exige Python,
 ## Versão mais dinâmica
 
 Após `npm run render`, execute `node scripts/fast-export.mjs`. A pós-produção acelera vídeo e áudio em 12%, preserva o tom da voz, aplica dissoluções de 180 ms entre as seis cenas e interpola os movimentos para 60 fps. A duração passa de 42 para aproximadamente 36,6 segundos. Saída: `out/ib-midias-vidraceiros-dinamico.mp4`. A oferta e a chamada final permanecem legíveis.
+
+## Mais animações e retirada das pausas
+
+A cena 3D agora tem separação progressiva dos painéis, reflexos mais ativos, desenho das linhas de vidro, radar com ondas, cartões móveis e pulso discreto no preço. Cada cena tem uma aproximação de câmera e um marcador de luz em movimento.
+
+Após `npm run render`, execute `node scripts/punch-export.mjs`. O corte usa os tempos reais de `public/audio/narracao.json`, guarda 80 ms antes e 120 ms depois de cada fala e aplica transições de 80 ms. Mantém a velocidade de voz aprovada (12% acima da base), em 60 fps, com duração aproximada de 28,3 segundos. Saída: `out/ib-midias-vidraceiros-intenso.mp4`.
