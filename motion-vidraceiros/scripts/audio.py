@@ -7,7 +7,7 @@ OUT=ROOT/'public/audio'; RAW=OUT/'raw'; RAW.mkdir(parents=True,exist_ok=True)
 MODEL=Path(os.environ.get('PIPER_MODEL',str(ROOT/'.cache/piper/pt_BR-faber-medium.onnx')))
 PYTHON=ROOT/'.venv/bin/python'
 scenes=[
-(0,5,'Você, vidraceiro: sabia que pode estar deixando dinheiro na mesa?'),
+(0,5,'Você, vidraceiro, sabia que pode estar deixando dinheiro na mesa?'),
 (5,6,'Se você depende só de indicação, o que acontece quando as indicações param?'),
 (11,9,'Que tal combinar indicação com anúncios? Em Pernambuco, tem gente procurando box, espelhos e fachadas.'),
 (20,7,'Mas, se você não aparece, perde oportunidades de orçamento. Faça sua vidraçaria ser encontrada.'),
@@ -17,14 +17,15 @@ scenes=[
 rate=48000; voice=np.zeros(rate*51,dtype=np.float64); manifest=[]
 for i,(start,slot,words) in enumerate(scenes):
  raw=RAW/f'{i+1}.wav'; text=RAW/f'{i+1}.txt';text.write_text(words,encoding='utf-8')
- scale=.96
- subprocess.run([str(PYTHON),'-m','piper','--model',str(MODEL),'--input-file',str(text),'--output-file',str(raw),'--length-scale',str(scale),'--sentence-silence','0.08'],check=True,stdout=subprocess.DEVNULL)
+ scale=1.08
+ subprocess.run([str(PYTHON),'-m','piper','--model',str(MODEL),'--input-file',str(text),'--output-file',str(raw),'--length-scale',str(scale),'--sentence-silence','0.18','--noise-scale','0.45','--noise-w-scale','0.55'],check=True,stdout=subprocess.DEVNULL)
  with wave.open(str(raw)) as w: dur=w.getnframes()/w.getframerate()
  # Conservar a fala inteira: acelerar apenas o necessário para caber na janela.
- available=slot-.48; tempo=max(1.04,dur/available)
+ available=slot-.48; tempo=1.0
+ if dur>available: raise RuntimeError(f'Cena {i+1}: ajustar janela visual para fala natural de {dur:.2f}s.')
  if tempo>1.30: raise RuntimeError(f'Cena {i+1}: voz rápida demais ({tempo:.2f}), revisar o texto.')
  fitted=RAW/f'{i+1}-fit.wav'
- subprocess.run(['ffmpeg','-v','error','-y','-i',str(raw),'-af',f'atempo={tempo:.6f},afade=t=in:d=0.025,afade=t=out:st={max(0,dur/tempo-.07):.3f}:d=0.07','-ar',str(rate),'-ac','1','-c:a','pcm_s16le',str(fitted)],check=True)
+ subprocess.run(['ffmpeg','-v','error','-y','-i',str(raw),'-af','afade=t=in:d=0.008','-ar',str(rate),'-ac','1','-c:a','pcm_s16le',str(fitted)],check=True)
  with wave.open(str(fitted)) as w: audio=np.frombuffer(w.readframes(w.getnframes()),dtype=np.int16).astype(float)/32768
  offset=round((start+.20)*rate);voice[offset:offset+len(audio)]+=audio
  manifest.append({'scene':i+1,'start':start+.20,'spoken_seconds':round(len(audio)/rate,3),'speed':round(tempo,3),'text':words})
