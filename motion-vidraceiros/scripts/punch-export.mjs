@@ -16,7 +16,7 @@ for(let i=1;i<narration.length;i++){
  filters.push(`[${audio}][a${i}]acrossfade=d=${fade}:c1=tri:c2=tri[${nextA}]`);
  duration+=(windows[i][1]-windows[i][0])/speed-fade;video=nextV;audio=nextA;
 }
-const args=['-v','error','-y','-filter_complex_threads','2','-i','out/ib-midias-motion.mp4','-filter_complex',filters.join(';'),'-map',`[${video}]`,'-map',`[${audio}]`,'-c:v','libx264','-preset','fast','-crf','18','-pix_fmt','yuv420p','-r','60','-color_range','tv','-colorspace','bt709','-color_primaries','bt709','-color_trc','bt709','-c:a','aac','-b:a','192k','-t',duration.toFixed(6),'-movflags','+faststart','out/ib-midias-vidraceiros-pernambuco.mp4'];
+const args=['-v','error','-y','-filter_complex_threads','2','-i','out/ib-midias-motion.mp4','-filter_complex',filters.join(';'),'-map',`[${video}]`,'-map',`[${audio}]`,'-c:v','libx264','-preset','fast','-crf','18','-pix_fmt','yuv420p','-r','60','-color_range','tv','-colorspace','bt709','-color_primaries','bt709','-color_trc','bt709','-c:a','aac','-b:a','192k','-t',duration.toFixed(6),'-movflags','+faststart','out/ib-midias-vidraceiros-cinema.mp4'];
 const result=spawnSync('ffmpeg',args,{stdio:'inherit'});
 if(result.error)throw result.error;
 if(result.status!==0)process.exit(result.status??1);

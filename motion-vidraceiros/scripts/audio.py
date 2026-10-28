@@ -7,13 +7,13 @@ OUT=ROOT/'public/audio'; RAW=OUT/'raw'; RAW.mkdir(parents=True,exist_ok=True)
 MODEL=Path(os.environ.get('PIPER_MODEL',str(ROOT/'.cache/piper/pt_BR-faber-medium.onnx')))
 PYTHON=ROOT/'.venv/bin/python'
 scenes=[
-(0,5,'Vidraceiro, serviço bom não pode depender só de indicação.'),
-(5,6,'Enquanto você espera o telefone tocar, tem gente na sua região procurando box, espelhos e fachadas.'),
-(11,9,'Tem gente em Pernambuco procurando seus serviços. Mas, se sua vidraçaria não aparece, você perde oportunidades. Deixe de depender só de indicações.'),
-(20,7,'A i bê Mídias coloca seus serviços na frente dessas pessoas, com anúncios direcionados para a sua região.'),
-(27,7,'Do anúncio ao WhatsApp. Mais oportunidades de orçamento para você negociar e buscar novos contratos.'),
-(34,8,'Por apenas seiscentos reais, tenha uma estratégia de anúncios para sua vidraçaria sair da espera e entrar no radar.'),
-(42,9,'Quer buscar novos contratos? Preencha o formulário e fale com a i bê Mídias. Sua vidraçaria merece ser vista.')]
+(0,5,'Você, vidraceiro: sabia que pode estar deixando dinheiro na mesa?'),
+(5,6,'Se você depende só de indicação, o que acontece quando as indicações param?'),
+(11,9,'Que tal combinar indicação com anúncios? Em Pernambuco, tem gente procurando box, espelhos e fachadas.'),
+(20,7,'Mas, se você não aparece, perde oportunidades de orçamento. Faça sua vidraçaria ser encontrada.'),
+(27,7,'A i bê Mídias coloca seus serviços na frente de quem procura, com anúncios para sua região.'),
+(34,8,'Por apenas seiscentos reais, tenha uma estratégia de anúncios para buscar novos contratos.'),
+(42,9,'Pare de esperar a próxima indicação. Preencha o formulário e fale com a i bê Mídias. Sua vidraçaria merece ser vista.')]
 rate=48000; voice=np.zeros(rate*51,dtype=np.float64); manifest=[]
 for i,(start,slot,words) in enumerate(scenes):
  raw=RAW/f'{i+1}.wav'; text=RAW/f'{i+1}.txt';text.write_text(words,encoding='utf-8')
