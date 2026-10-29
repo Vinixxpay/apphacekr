@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "remotion studio src/index.ts --browser-executable=/usr/bin/chromium",
     "typecheck": "tsc --noEmit",
-    "render": "node scripts/render.mjs"
+    "render": "node scripts/render.mjs",
+    "render:review": "node scripts/review_render.mjs render"
   },
   "dependencies": {
     "remotion": "4.0.537",

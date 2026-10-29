@@ -3,3 +3,5 @@ opencv-python-headless==4.11.0.86
 onnxruntime==1.31.0
 faster-whisper==1.2.1
 gdown==6.5.1
+Pillow==13.0.0
+scipy==1.18.1

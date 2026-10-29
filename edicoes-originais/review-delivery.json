@@ -1,0 +1,173 @@
+{
+  "revision": 2,
+  "clientAudioSeconds": 20.094666666666665,
+  "pauseAudit": {
+    "2203": {
+      "insertionSeconds": 16.1,
+      "pauseRmsDb": -91.84
+    },
+    "2200": {
+      "insertionSeconds": 10.3,
+      "pauseRmsDb": -90.35
+    }
+  },
+  "videos": [
+    {
+      "id": "01-completo",
+      "name": "Gravação completa com áudio da cliente",
+      "parts": [
+        {
+          "source": "r2-2203",
+          "sourceStartFrame": 0,
+          "sourceEndFrame": 483,
+          "outputStartFrame": 0,
+          "frames": 483
+        },
+        {
+          "source": "r2-client",
+          "sourceStartFrame": 0,
+          "sourceEndFrame": 603,
+          "outputStartFrame": 483,
+          "frames": 603
+        },
+        {
+          "source": "r2-2203",
+          "sourceStartFrame": 483,
+          "sourceEndFrame": 1851,
+          "outputStartFrame": 1086,
+          "frames": 1368
+        }
+      ],
+      "frames": 2454,
+      "duration": 81.8,
+      "clientStartSeconds": 16.1,
+      "audioVerification": {
+        "originalDecodedSamples48k": 964544,
+        "normalizedSamples48k": 964544,
+        "fullMessagePreserved": true,
+        "alignmentOffsetSeconds": 0.0,
+        "correlation": {
+          "full": 0.9999186011997274,
+          "beginning": 0.9999668125949709,
+          "end": 0.9999713159349133
+        }
+      }
+    },
+    {
+      "id": "02-direto",
+      "name": "Versão direta com áudio da cliente",
+      "parts": [
+        {
+          "source": "r2-2200",
+          "sourceStartFrame": 0,
+          "sourceEndFrame": 309,
+          "outputStartFrame": 0,
+          "frames": 309
+        },
+        {
+          "source": "r2-client",
+          "sourceStartFrame": 0,
+          "sourceEndFrame": 603,
+          "outputStartFrame": 309,
+          "frames": 603
+        },
+        {
+          "source": "r2-2200",
+          "sourceStartFrame": 309,
+          "sourceEndFrame": 623,
+          "outputStartFrame": 912,
+          "frames": 314
+        }
+      ],
+      "frames": 1226,
+      "duration": 40.86666666666667,
+      "clientStartSeconds": 10.3,
+      "audioVerification": {
+        "originalDecodedSamples48k": 964544,
+        "normalizedSamples48k": 964544,
+        "fullMessagePreserved": true,
+        "alignmentOffsetSeconds": 0.0,
+        "correlation": {
+          "full": 0.9999292526770355,
+          "beginning": 0.9999334223789876,
+          "end": 0.9999679487230458
+        }
+      }
+    },
+    {
+      "id": "03-apresentacao",
+      "name": "Apresentação, áudio da cliente e convite",
+      "parts": [
+        {
+          "source": "r2-2197",
+          "sourceStartFrame": 0,
+          "sourceEndFrame": 236,
+          "outputStartFrame": 0,
+          "frames": 236
+        },
+        {
+          "source": "r2-client",
+          "sourceStartFrame": 0,
+          "sourceEndFrame": 603,
+          "outputStartFrame": 236,
+          "frames": 603
+        },
+        {
+          "source": "r2-2196",
+          "sourceStartFrame": 0,
+          "sourceEndFrame": 526,
+          "outputStartFrame": 839,
+          "frames": 526
+        }
+      ],
+      "frames": 1365,
+      "duration": 45.5,
+      "clientStartSeconds": 7.866666666666666,
+      "audioVerification": {
+        "originalDecodedSamples48k": 964544,
+        "normalizedSamples48k": 964544,
+        "fullMessagePreserved": true,
+        "alignmentOffsetSeconds": 0.0,
+        "correlation": {
+          "full": 0.9999631693314487,
+          "beginning": 0.9999787189496557,
+          "end": 0.9999670037337764
+        }
+      }
+    },
+    {
+      "id": "04-depoimento",
+      "name": "Áudio da cliente e convite completo",
+      "parts": [
+        {
+          "source": "r2-client",
+          "sourceStartFrame": 0,
+          "sourceEndFrame": 603,
+          "outputStartFrame": 0,
+          "frames": 603
+        },
+        {
+          "source": "r2-2196",
+          "sourceStartFrame": 0,
+          "sourceEndFrame": 526,
+          "outputStartFrame": 603,
+          "frames": 526
+        }
+      ],
+      "frames": 1129,
+      "duration": 37.63333333333333,
+      "clientStartSeconds": 0.0,
+      "audioVerification": {
+        "originalDecodedSamples48k": 964544,
+        "normalizedSamples48k": 964544,
+        "fullMessagePreserved": true,
+        "alignmentOffsetSeconds": 0.0,
+        "correlation": {
+          "full": 0.9999674930665724,
+          "beginning": 0.9999780656460571,
+          "end": 0.999971835514984
+        }
+      }
+    }
+  ]
+}
