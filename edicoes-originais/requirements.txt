@@ -1,0 +1,5 @@
+numpy==2.5.4
+opencv-python-headless==4.11.0.86
+onnxruntime==1.31.0
+faster-whisper==1.2.1
+gdown==6.5.1

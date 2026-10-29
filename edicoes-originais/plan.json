@@ -1,0 +1,187 @@
+[
+  {
+    "id": "01-gestor",
+    "name": "Pare de trocar de agência",
+    "segments": [
+      {
+        "file": "IMG_2203",
+        "start": 2.3,
+        "end": 8.35,
+        "theme": "swap",
+        "caption": "De gestor em gestor?",
+        "from": 0,
+        "duration": 6.05
+      },
+      {
+        "file": "IMG_2203",
+        "start": 25.75,
+        "end": 33.15,
+        "theme": "expectation",
+        "caption": "Expectativas alinhadas.",
+        "from": 6.05,
+        "duration": 7.4
+      },
+      {
+        "file": "IMG_2203",
+        "start": 33.4,
+        "end": 41.9,
+        "theme": "funnel",
+        "caption": "Melhore seu funil de vendas.",
+        "from": 13.45,
+        "duration": 8.5
+      },
+      {
+        "file": "IMG_2203",
+        "start": 50,
+        "end": 54.35,
+        "theme": "proposal",
+        "caption": "Uma proposta só para você.",
+        "from": 21.95,
+        "duration": 4.35
+      },
+      {
+        "file": "IMG_2203",
+        "start": 54.6,
+        "end": 58.85,
+        "theme": "cta",
+        "caption": "Saiba Mais • Preencha o formulário",
+        "from": 26.3,
+        "duration": 4.25
+      }
+    ],
+    "speechDuration": 30.55,
+    "duration": 31.25
+  },
+  {
+    "id": "02-demanda",
+    "name": "Demanda qualificada",
+    "segments": [
+      {
+        "file": "IMG_2197",
+        "start": 0.35,
+        "end": 3.2,
+        "theme": "people",
+        "caption": "Para empresários de qualquer ramo.",
+        "from": 0,
+        "duration": 2.85
+      },
+      {
+        "file": "IMG_2203",
+        "start": 8.78,
+        "end": 13.25,
+        "theme": "demand",
+        "caption": "Demanda qualificada.",
+        "from": 2.85,
+        "duration": 4.47
+      },
+      {
+        "file": "IMG_2203",
+        "start": 32.12,
+        "end": 41.9,
+        "theme": "funnel",
+        "caption": "Alinhamento e processo comercial.",
+        "from": 7.32,
+        "duration": 9.78
+      },
+      {
+        "file": "IMG_2203",
+        "start": 50,
+        "end": 54.35,
+        "theme": "proposal",
+        "caption": "Uma proposta só para você.",
+        "from": 17.1,
+        "duration": 4.35
+      },
+      {
+        "file": "IMG_2203",
+        "start": 54.6,
+        "end": 58.85,
+        "theme": "cta",
+        "caption": "Agende uma conversa.",
+        "from": 21.45,
+        "duration": 4.25
+      }
+    ],
+    "speechDuration": 25.7,
+    "duration": 26.4
+  },
+  {
+    "id": "03-cliente",
+    "name": "O caso da cliente",
+    "segments": [
+      {
+        "file": "IMG_2200",
+        "start": 0.25,
+        "end": 6.98,
+        "theme": "swap",
+        "caption": "Cansado de trocar de gestor?",
+        "from": 0,
+        "duration": 6.73
+      },
+      {
+        "file": "IMG_2200",
+        "start": 11.95,
+        "end": 15.25,
+        "theme": "sold",
+        "caption": "Ela vendeu tudo.",
+        "from": 6.73,
+        "duration": 3.3
+      },
+      {
+        "file": "IMG_2200",
+        "start": 15.59,
+        "end": 19.85,
+        "theme": "cta",
+        "caption": "Fale direto comigo no Saiba Mais.",
+        "from": 10.03,
+        "duration": 4.26
+      }
+    ],
+    "speechDuration": 14.29,
+    "duration": 14.99
+  },
+  {
+    "id": "04-proposta",
+    "name": "Uma proposta sob medida",
+    "segments": [
+      {
+        "file": "IMG_2196",
+        "start": 10.55,
+        "end": 14.42,
+        "theme": "people",
+        "caption": "Você é empresário?",
+        "from": 0,
+        "duration": 3.87
+      },
+      {
+        "file": "IMG_2203",
+        "start": 33.4,
+        "end": 35.7,
+        "theme": "funnel",
+        "caption": "Melhore o funil de vendas.",
+        "from": 3.87,
+        "duration": 2.3
+      },
+      {
+        "file": "IMG_2203",
+        "start": 50,
+        "end": 54.35,
+        "theme": "proposal",
+        "caption": "Uma proposta idealizada para você.",
+        "from": 6.17,
+        "duration": 4.35
+      },
+      {
+        "file": "IMG_2196",
+        "start": 7.72,
+        "end": 10.4,
+        "theme": "cta",
+        "caption": "Preencha o formulário.",
+        "from": 10.52,
+        "duration": 2.68
+      }
+    ],
+    "speechDuration": 13.2,
+    "duration": 13.9
+  }
+]
