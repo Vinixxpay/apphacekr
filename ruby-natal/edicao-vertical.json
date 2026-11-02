@@ -1,0 +1,50 @@
+{
+  "brand": "Ruby Lingerie",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "workingWidth": 720,
+  "workingHeight": 1280,
+  "frames": 1024,
+  "duration": 34.13333333333333,
+  "segments": [
+    [
+      "entrada",
+      0,
+      5.3
+    ],
+    [
+      "chocolate",
+      4.7,
+      6.7
+    ],
+    [
+      "controle",
+      10.8,
+      6.2
+    ],
+    [
+      "portal",
+      17.0,
+      3.6
+    ],
+    [
+      "filme",
+      19.95,
+      5.4
+    ],
+    [
+      "sonho",
+      24.55,
+      5.9
+    ],
+    [
+      "marca",
+      29.65,
+      4.5
+    ]
+  ],
+  "originalMusic": true,
+  "status": "Prévia: cenas 1–3; aguardando o take e áudio da divulgação Amigo Calcinha",
+  "note": "Recorte com escala uniforme no portal; sem deformação de rosto ou corpo. Tomadas horizontais preservadas e sonho vertical enquadrado com fundo desfocado."
+}
