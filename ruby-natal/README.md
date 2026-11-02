@@ -1,4 +1,20 @@
-# Ruby Lingerie — prévia de Natal vertical
+# Ruby Lingerie — Natal vertical
+
+## Revisão — cochilo antes da abdução
+
+Entrega atual: `../entregas/ruby-lingerie-natal-cochilo-abducao.mp4`, 35 segundos, 1080 × 1920, 30 fps. Após o controle, o take original do cochilo entra aos 16,5 s. A abdução começa aos 22,4 s usando o recorte da mesma pose adormecida; luz, partículas e um movimento para cima conduzem a apresentadora para a televisão. O filme vem depois, seguido pela assinatura da Ruby. A pose do efeito é extraída do próprio vídeo, sem criar uma pessoa ou alterar proporções do rosto e corpo.
+
+A primeira prévia permanece disponível. O vídeo e áudio da divulgação falada continuam pendentes; esta revisão altera a sequência e o efeito solicitados.
+
+Após reproduzir a primeira prévia, execute:
+
+```bash
+python scripts/prepare_abduction.py
+python scripts/render_abduction.py
+python scripts/verify_abduction.py
+```
+
+O render reaproveita os primeiros 495 quadros da primeira prévia e reconstrói a sequência a partir do cochilo. O áudio instrumental é remontado integralmente para sincronizar o crescimento da trilha e os sinos com o novo momento da abdução. Os dados estão em `edicao-abducao.json` e `verificacao-abducao.json`.
 
 Prévia de 34,13 segundos, 1080 × 1920, 9:16, 30 fps, H.264/AAC. Cenas 1–3 montadas com os quatro vídeos enviados, tratamento quente, dissoluções, recorte da apresentadora, luz e partículas na entrada na televisão, sonho e assinatura temporária bordô/dourado do Amigo Calcinha.
 
