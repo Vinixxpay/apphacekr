@@ -1,5 +1,21 @@
 # Ruby Lingerie — Natal vertical
 
+## Revisão atual — apresentadora e TV no mesmo quadro
+
+Entrega: `../entregas/ruby-lingerie-natal-tv-mesma-cena.mp4`, aproximadamente 38 s, vertical Full HD. Mantém o cochilo antes da abdução. Aos 22,4 s, abre uma composição com a apresentadora adormecida à esquerda no sofá e a televisão à direita. A composição permanece por um momento antes de iniciar o feixe de luz; o recorte então flutua na direção da TV e diminui uniformemente até entrar na tela. A câmera se aproxima da televisão para a passagem ao filme.
+
+O fundo é uma imagem real do sofá vazio no primeiro quadro do take horizontal enviado. A apresentadora e o lençol são recortados do próprio take do cochilo, com máscara e bordas suavizadas. A TV vem do vídeo original e é posicionada em perspectiva; a perspectiva afeta somente a televisão. Não são criados rosto, corpo ou roupas. É uma composição de takes originais, e não uma gravação simultânea dos dois ângulos. A parte de divulgação falada continua aguardando o arquivo original.
+
+Após preparar e renderizar as revisões anteriores:
+
+```bash
+python scripts/prepare_same_scene.py
+python scripts/render_same_scene.py
+python scripts/verify_same_scene.py
+```
+
+O render preserva os primeiros 672 quadros da revisão com cochilo. Os registros são `edicao-mesma-cena.json` e `verificacao-mesma-cena.json`.
+
 ## Revisão — cochilo antes da abdução
 
 Entrega atual: `../entregas/ruby-lingerie-natal-cochilo-abducao.mp4`, 35 segundos, 1080 × 1920, 30 fps. Após o controle, o take original do cochilo entra aos 16,5 s. A abdução começa aos 22,4 s usando o recorte da mesma pose adormecida; luz, partículas e um movimento para cima conduzem a apresentadora para a televisão. O filme vem depois, seguido pela assinatura da Ruby. A pose do efeito é extraída do próprio vídeo, sem criar uma pessoa ou alterar proporções do rosto e corpo.
