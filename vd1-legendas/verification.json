@@ -1,0 +1,29 @@
+{
+  "file": "ib-midias-vd1-somente-legendas.mp4",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "videoCodec": "h264",
+  "audioCodec": "aac",
+  "originalFrameRate": "60/1",
+  "outputFrameRate": "60/1",
+  "originalFrames": 5168,
+  "outputFrames": 5168,
+  "duration": 86.133333,
+  "originalDuration": 86.13,
+  "timelinePreserved": true,
+  "framing": "Entire original frame, only scaled to requested 1080x1920; no crop or zoom",
+  "audioPacketsUnchanged": true,
+  "originalAudioSha256": "17983f0f2b7a0e2362b5d424e9a0c6e67b805a7f52e460596a44d4320fb904ef",
+  "outputAudioSha256": "17983f0f2b7a0e2362b5d424e9a0c6e67b805a7f52e460596a44d4320fb904ef",
+  "subtitleGroups": 92,
+  "spokenWords": 204,
+  "wordGroups": "1–3 words",
+  "finalCtaHoldSeconds": 3.94,
+  "captionFit": "passed",
+  "fullDecode": "passed",
+  "newLayer": "captions only",
+  "bytes": 87792535,
+  "sha256": "a14e6cfb2f434285e2cb2906a5f603fdfbbf37fb2638bb35d5e84e5e4d26bd96"
+}

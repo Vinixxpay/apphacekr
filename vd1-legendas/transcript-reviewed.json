@@ -1,0 +1,1434 @@
+{
+  "source": "vd1.MOV",
+  "words": [
+    {
+      "start": 4.6101,
+      "end": 5.26,
+      "text": "Vidraceiro,",
+      "probability": 0.7021541744470596,
+      "highlight": true
+    },
+    {
+      "start": 5.359999999999999,
+      "end": 5.54,
+      "text": "você",
+      "probability": 0.9718154668807983,
+      "highlight": false
+    },
+    {
+      "start": 5.54,
+      "end": 5.74,
+      "text": "quer",
+      "probability": 0.9928063154220581,
+      "highlight": false
+    },
+    {
+      "start": 5.74,
+      "end": 6.0,
+      "text": "vender",
+      "probability": 0.9957429766654968,
+      "highlight": true
+    },
+    {
+      "start": 6.0,
+      "end": 6.46,
+      "text": "mais,",
+      "probability": 0.9957544803619385,
+      "highlight": true
+    },
+    {
+      "start": 6.640000000000001,
+      "end": 6.76,
+      "text": "mas",
+      "probability": 0.9837768077850342,
+      "highlight": false
+    },
+    {
+      "start": 6.76,
+      "end": 6.98,
+      "text": "toda",
+      "probability": 0.9427348375320435,
+      "highlight": false
+    },
+    {
+      "start": 6.98,
+      "end": 7.36,
+      "text": "vez",
+      "probability": 0.977249026298523,
+      "highlight": false
+    },
+    {
+      "start": 7.36,
+      "end": 7.58,
+      "text": "que",
+      "probability": 0.9948552846908569,
+      "highlight": false
+    },
+    {
+      "start": 7.58,
+      "end": 7.96,
+      "text": "manda",
+      "probability": 0.7885307371616364,
+      "highlight": false
+    },
+    {
+      "start": 8.02,
+      "end": 8.16,
+      "text": "um",
+      "probability": 0.8365171551704407,
+      "highlight": false
+    },
+    {
+      "start": 8.03,
+      "end": 8.36,
+      "text": "orçamento",
+      "probability": 0.996052106221517,
+      "highlight": true
+    },
+    {
+      "start": 8.36,
+      "end": 8.92,
+      "text": "escuta,",
+      "probability": 0.6177219823002815,
+      "highlight": false
+    },
+    {
+      "start": 9.42,
+      "end": 9.6,
+      "text": "a",
+      "probability": 0.853036105632782,
+      "highlight": false
+    },
+    {
+      "start": 9.6,
+      "end": 9.92,
+      "text": "outra",
+      "probability": 0.9922669529914856,
+      "highlight": false
+    },
+    {
+      "start": 9.92,
+      "end": 10.120000000000001,
+      "text": "ali",
+      "probability": 0.8248587250709534,
+      "highlight": false
+    },
+    {
+      "start": 10.2,
+      "end": 10.32,
+      "text": "faz",
+      "probability": 0.7424259185791016,
+      "highlight": false
+    },
+    {
+      "start": 10.26,
+      "end": 10.5,
+      "text": "mais",
+      "probability": 0.9815371632575989,
+      "highlight": true
+    },
+    {
+      "start": 10.5,
+      "end": 10.96,
+      "text": "barato.",
+      "probability": 0.9921745955944061,
+      "highlight": true
+    },
+    {
+      "start": 11.36,
+      "end": 11.92,
+      "text": "Imagina",
+      "probability": 0.930942952632904,
+      "highlight": false
+    },
+    {
+      "start": 11.92,
+      "end": 12.18,
+      "text": "duas",
+      "probability": 0.6790838241577148,
+      "highlight": false
+    },
+    {
+      "start": 12.18,
+      "end": 12.96,
+      "text": "vidraçarias",
+      "probability": 0.8882728070020676,
+      "highlight": false
+    },
+    {
+      "start": 12.96,
+      "end": 13.18,
+      "text": "na",
+      "probability": 0.7103496789932251,
+      "highlight": false
+    },
+    {
+      "start": 13.18,
+      "end": 13.48,
+      "text": "mesma",
+      "probability": 0.9939133524894714,
+      "highlight": false
+    },
+    {
+      "start": 13.48,
+      "end": 14.16,
+      "text": "cidade,",
+      "probability": 0.9977900981903076,
+      "highlight": false
+    },
+    {
+      "start": 14.719999999999999,
+      "end": 14.84,
+      "text": "as",
+      "probability": 0.9280415177345276,
+      "highlight": false
+    },
+    {
+      "start": 14.84,
+      "end": 15.02,
+      "text": "duas",
+      "probability": 0.9924152493476868,
+      "highlight": false
+    },
+    {
+      "start": 15.02,
+      "end": 15.58,
+      "text": "trabalham",
+      "probability": 0.9896561205387115,
+      "highlight": false
+    },
+    {
+      "start": 15.58,
+      "end": 15.74,
+      "text": "com",
+      "probability": 0.9859740138053894,
+      "highlight": false
+    },
+    {
+      "start": 15.74,
+      "end": 16.1,
+      "text": "box,",
+      "probability": 0.7540452778339386,
+      "highlight": false
+    },
+    {
+      "start": 16.4,
+      "end": 16.86,
+      "text": "espelho",
+      "probability": 0.9970720410346985,
+      "highlight": false
+    },
+    {
+      "start": 16.86,
+      "end": 17.0,
+      "text": "e",
+      "probability": 0.9656647443771362,
+      "highlight": false
+    },
+    {
+      "start": 17.0,
+      "end": 17.32,
+      "text": "porta",
+      "probability": 0.9859528541564941,
+      "highlight": false
+    },
+    {
+      "start": 17.32,
+      "end": 17.5,
+      "text": "de",
+      "probability": 0.9250251054763794,
+      "highlight": false
+    },
+    {
+      "start": 17.5,
+      "end": 17.72,
+      "text": "vidro.",
+      "probability": 0.7090330123901367,
+      "highlight": false
+    },
+    {
+      "start": 18.16,
+      "end": 18.26,
+      "text": "A",
+      "probability": 0.9850735068321228,
+      "highlight": false
+    },
+    {
+      "start": 18.26,
+      "end": 18.64,
+      "text": "primeira",
+      "probability": 0.990426778793335,
+      "highlight": false
+    },
+    {
+      "start": 18.8,
+      "end": 18.96,
+      "text": "só",
+      "probability": 0.38993725180625916,
+      "highlight": false
+    },
+    {
+      "start": 18.96,
+      "end": 19.38,
+      "text": "divulga",
+      "probability": 0.9839745461940765,
+      "highlight": false
+    },
+    {
+      "start": 19.38,
+      "end": 20.16,
+      "text": "promoção,",
+      "probability": 0.9484098553657532,
+      "highlight": false
+    },
+    {
+      "start": 20.52,
+      "end": 20.56,
+      "text": "o",
+      "probability": 0.9620547890663147,
+      "highlight": false
+    },
+    {
+      "start": 20.56,
+      "end": 21.04,
+      "text": "cliente",
+      "probability": 0.9969876408576965,
+      "highlight": false
+    },
+    {
+      "start": 21.04,
+      "end": 21.240000000000002,
+      "text": "pede",
+      "probability": 0.9902057647705078,
+      "highlight": false
+    },
+    {
+      "start": 21.240000000000002,
+      "end": 21.759999999999998,
+      "text": "orçamento,",
+      "probability": 0.9618909955024719,
+      "highlight": true
+    },
+    {
+      "start": 21.96,
+      "end": 22.48,
+      "text": "compara",
+      "probability": 0.983733057975769,
+      "highlight": false
+    },
+    {
+      "start": 22.48,
+      "end": 22.66,
+      "text": "com",
+      "probability": 0.9827170968055725,
+      "highlight": false
+    },
+    {
+      "start": 22.66,
+      "end": 22.82,
+      "text": "os",
+      "probability": 0.6255699992179871,
+      "highlight": false
+    },
+    {
+      "start": 22.82,
+      "end": 22.96,
+      "text": "outros",
+      "probability": 0.9569529891014099,
+      "highlight": false
+    },
+    {
+      "start": 22.96,
+      "end": 23.3,
+      "text": "três",
+      "probability": 0.6975698471069336,
+      "highlight": false
+    },
+    {
+      "start": 23.3,
+      "end": 23.82,
+      "text": "e",
+      "probability": 0.817762553691864,
+      "highlight": false
+    },
+    {
+      "start": 23.82,
+      "end": 24.06,
+      "text": "tenta",
+      "probability": 0.9922403991222382,
+      "highlight": false
+    },
+    {
+      "start": 24.06,
+      "end": 24.42,
+      "text": "conseguir",
+      "probability": 0.9842801094055176,
+      "highlight": false
+    },
+    {
+      "start": 24.42,
+      "end": 24.68,
+      "text": "mais",
+      "probability": 0.9944273233413696,
+      "highlight": false
+    },
+    {
+      "start": 24.68,
+      "end": 25.22,
+      "text": "desconto",
+      "probability": 0.9096609950065613,
+      "highlight": false
+    },
+    {
+      "start": 25.22,
+      "end": 25.52,
+      "text": "ainda.",
+      "probability": 0.9531911015510559,
+      "highlight": false
+    },
+    {
+      "start": 26.8,
+      "end": 27.32,
+      "text": "Você",
+      "probability": 0.9854270219802856,
+      "highlight": false
+    },
+    {
+      "start": 27.32,
+      "end": 27.88,
+      "text": "mede,",
+      "probability": 0.9762721657752991,
+      "highlight": false
+    },
+    {
+      "start": 28.1,
+      "end": 28.38,
+      "text": "compra",
+      "probability": 0.9943199157714844,
+      "highlight": false
+    },
+    {
+      "start": 28.64,
+      "end": 29.12,
+      "text": "material,",
+      "probability": 0.6540244221687317,
+      "highlight": false
+    },
+    {
+      "start": 29.46,
+      "end": 29.88,
+      "text": "instala",
+      "probability": 0.9817607700824738,
+      "highlight": false
+    },
+    {
+      "start": 29.88,
+      "end": 30.02,
+      "text": "e",
+      "probability": 0.7740699648857117,
+      "highlight": false
+    },
+    {
+      "start": 30.02,
+      "end": 30.1,
+      "text": "no",
+      "probability": 0.9343453049659729,
+      "highlight": false
+    },
+    {
+      "start": 30.1,
+      "end": 30.38,
+      "text": "final",
+      "probability": 0.9972018003463745,
+      "highlight": false
+    },
+    {
+      "start": 30.38,
+      "end": 31.04,
+      "text": "quase",
+      "probability": 0.7925595641136169,
+      "highlight": false
+    },
+    {
+      "start": 31.04,
+      "end": 31.22,
+      "text": "não",
+      "probability": 0.97471684217453,
+      "highlight": false
+    },
+    {
+      "start": 31.22,
+      "end": 31.48,
+      "text": "sobra",
+      "probability": 0.9748249351978302,
+      "highlight": false
+    },
+    {
+      "start": 31.48,
+      "end": 31.740000000000002,
+      "text": "nada",
+      "probability": 0.9892648458480835,
+      "highlight": false
+    },
+    {
+      "start": 31.740000000000002,
+      "end": 31.94,
+      "text": "no",
+      "probability": 0.8716664910316467,
+      "highlight": false
+    },
+    {
+      "start": 31.94,
+      "end": 32.08,
+      "text": "seu",
+      "probability": 0.9939152598381042,
+      "highlight": false
+    },
+    {
+      "start": 32.08,
+      "end": 32.42,
+      "text": "lucro,",
+      "probability": 0.9572154879570007,
+      "highlight": false
+    },
+    {
+      "start": 32.66,
+      "end": 32.78,
+      "text": "no",
+      "probability": 0.9316705465316772,
+      "highlight": false
+    },
+    {
+      "start": 32.78,
+      "end": 32.92,
+      "text": "seu",
+      "probability": 0.9977553486824036,
+      "highlight": false
+    },
+    {
+      "start": 32.92,
+      "end": 34.04,
+      "text": "bolso.",
+      "probability": 0.9922737181186676,
+      "highlight": false
+    },
+    {
+      "start": 34.06,
+      "end": 34.28,
+      "text": "A",
+      "probability": 0.5782060623168945,
+      "highlight": false
+    },
+    {
+      "start": 34.28,
+      "end": 34.64,
+      "text": "segunda,",
+      "probability": 0.9762198328971863,
+      "highlight": false
+    },
+    {
+      "start": 35.2,
+      "end": 35.3,
+      "text": "ela",
+      "probability": 0.9065935015678406,
+      "highlight": false
+    },
+    {
+      "start": 35.3,
+      "end": 35.78,
+      "text": "mostra",
+      "probability": 0.9852703809738159,
+      "highlight": false
+    },
+    {
+      "start": 35.78,
+      "end": 36.6,
+      "text": "os",
+      "probability": 0.949535071849823,
+      "highlight": false
+    },
+    {
+      "start": 36.6,
+      "end": 37.44,
+      "text": "projetos",
+      "probability": 0.9932312071323395,
+      "highlight": false
+    },
+    {
+      "start": 37.44,
+      "end": 37.66,
+      "text": "que",
+      "probability": 0.9814690351486206,
+      "highlight": false
+    },
+    {
+      "start": 37.66,
+      "end": 38.26,
+      "text": "entrega,",
+      "probability": 0.9674935042858124,
+      "highlight": false
+    },
+    {
+      "start": 38.3,
+      "end": 38.6,
+      "text": "mostra",
+      "probability": 0.9395281672477722,
+      "highlight": false
+    },
+    {
+      "start": 38.6,
+      "end": 38.7,
+      "text": "o",
+      "probability": 0.9439963102340698,
+      "highlight": false
+    },
+    {
+      "start": 38.7,
+      "end": 39.3,
+      "text": "acabamento,",
+      "probability": 0.9987817406654358,
+      "highlight": false
+    },
+    {
+      "start": 39.53,
+      "end": 39.71,
+      "text": "o",
+      "probability": 0.7502650618553162,
+      "highlight": false
+    },
+    {
+      "start": 39.54,
+      "end": 39.74,
+      "text": "cuidado",
+      "probability": 0.9961860775947571,
+      "highlight": false
+    },
+    {
+      "start": 39.74,
+      "end": 40.0,
+      "text": "na",
+      "probability": 0.8117021918296814,
+      "highlight": false
+    },
+    {
+      "start": 40.0,
+      "end": 40.58,
+      "text": "instalação",
+      "probability": 0.9940610925356547,
+      "highlight": false
+    },
+    {
+      "start": 40.58,
+      "end": 40.74,
+      "text": "e",
+      "probability": 0.8897079825401306,
+      "highlight": false
+    },
+    {
+      "start": 40.74,
+      "end": 40.86,
+      "text": "os",
+      "probability": 0.9566512703895569,
+      "highlight": false
+    },
+    {
+      "start": 40.86,
+      "end": 41.26,
+      "text": "depoimentos",
+      "probability": 0.9920437335968018,
+      "highlight": false
+    },
+    {
+      "start": 41.26,
+      "end": 41.48,
+      "text": "de",
+      "probability": 0.9751101136207581,
+      "highlight": false
+    },
+    {
+      "start": 41.48,
+      "end": 41.62,
+      "text": "outros",
+      "probability": 0.9878886342048645,
+      "highlight": false
+    },
+    {
+      "start": 41.62,
+      "end": 42.16,
+      "text": "clientes.",
+      "probability": 0.9974814653396606,
+      "highlight": false
+    },
+    {
+      "start": 42.72,
+      "end": 42.92,
+      "text": "Quando",
+      "probability": 0.9883255958557129,
+      "highlight": false
+    },
+    {
+      "start": 42.92,
+      "end": 43.34,
+      "text": "alguém",
+      "probability": 0.9964346885681152,
+      "highlight": false
+    },
+    {
+      "start": 43.34,
+      "end": 44.12,
+      "text": "pede",
+      "probability": 0.9650841057300568,
+      "highlight": false
+    },
+    {
+      "start": 44.12,
+      "end": 44.72,
+      "text": "orçamento,",
+      "probability": 0.9673886100451151,
+      "highlight": true
+    },
+    {
+      "start": 44.9,
+      "end": 45.12,
+      "text": "já",
+      "probability": 0.9831027984619141,
+      "highlight": false
+    },
+    {
+      "start": 45.12,
+      "end": 45.519999999999996,
+      "text": "conhece",
+      "probability": 0.9988135397434235,
+      "highlight": false
+    },
+    {
+      "start": 45.519999999999996,
+      "end": 45.6,
+      "text": "o",
+      "probability": 0.9979627132415771,
+      "highlight": false
+    },
+    {
+      "start": 45.6,
+      "end": 45.94,
+      "text": "trabalho",
+      "probability": 0.998205304145813,
+      "highlight": false
+    },
+    {
+      "start": 45.92,
+      "end": 46.16,
+      "text": "e",
+      "probability": 0.9574205875396729,
+      "highlight": false
+    },
+    {
+      "start": 46.16,
+      "end": 46.3,
+      "text": "tem",
+      "probability": 0.9660713076591492,
+      "highlight": false
+    },
+    {
+      "start": 46.3,
+      "end": 46.92,
+      "text": "motivos",
+      "probability": 0.9870215952396393,
+      "highlight": false
+    },
+    {
+      "start": 46.97,
+      "end": 47.25,
+      "text": "para",
+      "probability": 0.7303029298782349,
+      "highlight": false
+    },
+    {
+      "start": 47.06,
+      "end": 47.56,
+      "text": "confiar.",
+      "probability": 0.9943262338638306,
+      "highlight": false
+    },
+    {
+      "start": 48.2,
+      "end": 48.46,
+      "text": "Agora",
+      "probability": 0.9497918486595154,
+      "highlight": false
+    },
+    {
+      "start": 48.46,
+      "end": 48.66,
+      "text": "me",
+      "probability": 0.7517181038856506,
+      "highlight": false
+    },
+    {
+      "start": 48.66,
+      "end": 49.28,
+      "text": "responde,",
+      "probability": 0.9280059039592743,
+      "highlight": false
+    },
+    {
+      "start": 49.480000000000004,
+      "end": 49.7,
+      "text": "quem",
+      "probability": 0.9232134222984314,
+      "highlight": false
+    },
+    {
+      "start": 49.7,
+      "end": 49.94,
+      "text": "está",
+      "probability": 0.9871499538421631,
+      "highlight": false
+    },
+    {
+      "start": 49.94,
+      "end": 50.46,
+      "text": "procurando",
+      "probability": 0.9978727698326111,
+      "highlight": false
+    },
+    {
+      "start": 50.46,
+      "end": 50.62,
+      "text": "esse",
+      "probability": 0.9305005073547363,
+      "highlight": false
+    },
+    {
+      "start": 50.62,
+      "end": 51.06,
+      "text": "serviço",
+      "probability": 0.9993940591812134,
+      "highlight": false
+    },
+    {
+      "start": 51.06,
+      "end": 51.18,
+      "text": "na",
+      "probability": 0.9874873161315918,
+      "highlight": false
+    },
+    {
+      "start": 51.18,
+      "end": 51.36,
+      "text": "sua",
+      "probability": 0.9955688118934631,
+      "highlight": false
+    },
+    {
+      "start": 51.36,
+      "end": 51.84,
+      "text": "região?",
+      "probability": 0.9982483386993408,
+      "highlight": false
+    },
+    {
+      "start": 52.55,
+      "end": 52.95,
+      "text": "Consegue",
+      "probability": 0.9660689830780029,
+      "highlight": false
+    },
+    {
+      "start": 52.82,
+      "end": 53.32,
+      "text": "encontrar",
+      "probability": 0.9969311952590942,
+      "highlight": false
+    },
+    {
+      "start": 53.41,
+      "end": 53.67,
+      "text": "a",
+      "probability": 0.6673798561096191,
+      "highlight": false
+    },
+    {
+      "start": 53.67,
+      "end": 53.85,
+      "text": "sua",
+      "probability": 0.9957938194274902,
+      "highlight": false
+    },
+    {
+      "start": 53.68,
+      "end": 54.42,
+      "text": "vidraçaria",
+      "probability": 0.9620384573936462,
+      "highlight": false
+    },
+    {
+      "start": 54.42,
+      "end": 54.74,
+      "text": "hoje",
+      "probability": 0.9906728863716125,
+      "highlight": false
+    },
+    {
+      "start": 55.0,
+      "end": 55.56,
+      "text": "ou",
+      "probability": 0.3558094799518585,
+      "highlight": false
+    },
+    {
+      "start": 55.56,
+      "end": 55.9,
+      "text": "você",
+      "probability": 0.9939788579940796,
+      "highlight": false
+    },
+    {
+      "start": 55.9,
+      "end": 56.28,
+      "text": "ainda",
+      "probability": 0.9957671165466309,
+      "highlight": false
+    },
+    {
+      "start": 56.28,
+      "end": 56.78,
+      "text": "precisa",
+      "probability": 0.9970390796661377,
+      "highlight": false
+    },
+    {
+      "start": 56.78,
+      "end": 57.0,
+      "text": "de",
+      "probability": 0.9862250089645386,
+      "highlight": false
+    },
+    {
+      "start": 57.0,
+      "end": 57.44,
+      "text": "indicação?",
+      "probability": 0.9917763471603394,
+      "highlight": false
+    },
+    {
+      "start": 58.2,
+      "end": 58.220000000000006,
+      "text": "É",
+      "probability": 0.9573819041252136,
+      "highlight": false
+    },
+    {
+      "start": 58.22,
+      "end": 58.38,
+      "text": "aí",
+      "probability": 0.948638379573822,
+      "highlight": false
+    },
+    {
+      "start": 58.38,
+      "end": 58.46,
+      "text": "que",
+      "probability": 0.9944098591804504,
+      "highlight": false
+    },
+    {
+      "start": 58.46,
+      "end": 58.58,
+      "text": "eu",
+      "probability": 0.9833231568336487,
+      "highlight": false
+    },
+    {
+      "start": 58.58,
+      "end": 58.82,
+      "text": "posso",
+      "probability": 0.9958667755126953,
+      "highlight": false
+    },
+    {
+      "start": 58.82,
+      "end": 58.980000000000004,
+      "text": "te",
+      "probability": 0.9857099056243896,
+      "highlight": false
+    },
+    {
+      "start": 58.980000000000004,
+      "end": 59.3,
+      "text": "ajudar.",
+      "probability": 0.9995591044425964,
+      "highlight": false
+    },
+    {
+      "start": 59.66,
+      "end": 59.84,
+      "text": "Com",
+      "probability": 0.5498170256614685,
+      "highlight": false
+    },
+    {
+      "start": 59.84,
+      "end": 60.2,
+      "text": "anúncios",
+      "probability": 0.9048165281613668,
+      "highlight": false
+    },
+    {
+      "start": 60.2,
+      "end": 60.32,
+      "text": "no",
+      "probability": 0.9653217196464539,
+      "highlight": false
+    },
+    {
+      "start": 60.32,
+      "end": 60.76,
+      "text": "Instagram,",
+      "probability": 0.8353938460350037,
+      "highlight": false
+    },
+    {
+      "start": 60.96,
+      "end": 61.32,
+      "text": "Facebook",
+      "probability": 0.9656736254692078,
+      "highlight": false
+    },
+    {
+      "start": 61.32,
+      "end": 61.54,
+      "text": "e",
+      "probability": 0.9549056887626648,
+      "highlight": false
+    },
+    {
+      "start": 61.54,
+      "end": 61.66,
+      "text": "no",
+      "probability": 0.8948407769203186,
+      "highlight": false
+    },
+    {
+      "start": 61.66,
+      "end": 61.96,
+      "text": "Google,",
+      "probability": 0.9888091683387756,
+      "highlight": false
+    },
+    {
+      "start": 62.18,
+      "end": 62.46,
+      "text": "vamos",
+      "probability": 0.16919459402561188,
+      "highlight": false
+    },
+    {
+      "start": 62.46,
+      "end": 62.76,
+      "text": "mostrar",
+      "probability": 0.9910990595817566,
+      "highlight": false
+    },
+    {
+      "start": 62.76,
+      "end": 62.9,
+      "text": "o",
+      "probability": 0.9462833404541016,
+      "highlight": false
+    },
+    {
+      "start": 62.9,
+      "end": 63.019999999999996,
+      "text": "seu",
+      "probability": 0.9738352298736572,
+      "highlight": false
+    },
+    {
+      "start": 63.019999999999996,
+      "end": 63.6,
+      "text": "serviço",
+      "probability": 0.9989224672317505,
+      "highlight": false
+    },
+    {
+      "start": 63.79,
+      "end": 64.05,
+      "text": "para",
+      "probability": 0.5307623744010925,
+      "highlight": false
+    },
+    {
+      "start": 63.9,
+      "end": 64.14,
+      "text": "mais",
+      "probability": 0.9876054525375366,
+      "highlight": false
+    },
+    {
+      "start": 64.14,
+      "end": 64.58,
+      "text": "pessoas",
+      "probability": 0.9964220523834229,
+      "highlight": false
+    },
+    {
+      "start": 64.58,
+      "end": 64.98,
+      "text": "na",
+      "probability": 0.9548684358596802,
+      "highlight": false
+    },
+    {
+      "start": 64.98,
+      "end": 65.16,
+      "text": "sua",
+      "probability": 0.9779801368713379,
+      "highlight": false
+    },
+    {
+      "start": 65.16,
+      "end": 65.5,
+      "text": "região",
+      "probability": 0.998080849647522,
+      "highlight": false
+    },
+    {
+      "start": 65.57,
+      "end": 66.09,
+      "text": "e",
+      "probability": 0.5284868478775024,
+      "highlight": false
+    },
+    {
+      "start": 66.0,
+      "end": 66.42,
+      "text": "facilitar",
+      "probability": 0.9941210150718689,
+      "highlight": false
+    },
+    {
+      "start": 66.42,
+      "end": 66.54,
+      "text": "o",
+      "probability": 0.9204277992248535,
+      "highlight": false
+    },
+    {
+      "start": 66.54,
+      "end": 66.64,
+      "text": "seu",
+      "probability": 0.9941732287406921,
+      "highlight": false
+    },
+    {
+      "start": 66.64,
+      "end": 67.12,
+      "text": "contato",
+      "probability": 0.9812512695789337,
+      "highlight": false
+    },
+    {
+      "start": 67.28,
+      "end": 67.44,
+      "text": "pelo",
+      "probability": 0.9737738370895386,
+      "highlight": false
+    },
+    {
+      "start": 67.44,
+      "end": 67.66,
+      "text": "WhatsApp.",
+      "probability": 0.8600748777389526,
+      "highlight": true
+    },
+    {
+      "start": 68.26,
+      "end": 68.48,
+      "text": "Você",
+      "probability": 0.9902631044387817,
+      "highlight": false
+    },
+    {
+      "start": 68.48,
+      "end": 68.84,
+      "text": "já",
+      "probability": 0.9829443097114563,
+      "highlight": false
+    },
+    {
+      "start": 68.84,
+      "end": 69.14,
+      "text": "sabe",
+      "probability": 0.9930154085159302,
+      "highlight": false
+    },
+    {
+      "start": 69.14,
+      "end": 69.66,
+      "text": "transformar",
+      "probability": 0.9892403781414032,
+      "highlight": false
+    },
+    {
+      "start": 69.66,
+      "end": 70.12,
+      "text": "vidro",
+      "probability": 0.9539017081260681,
+      "highlight": false
+    },
+    {
+      "start": 70.12,
+      "end": 70.3,
+      "text": "em",
+      "probability": 0.992163896560669,
+      "highlight": false
+    },
+    {
+      "start": 70.3,
+      "end": 70.36,
+      "text": "um",
+      "probability": 0.9779453873634338,
+      "highlight": false
+    },
+    {
+      "start": 70.36,
+      "end": 70.62,
+      "text": "projeto",
+      "probability": 0.9924951791763306,
+      "highlight": false
+    },
+    {
+      "start": 70.62,
+      "end": 71.0,
+      "text": "bonito.",
+      "probability": 0.9953638315200806,
+      "highlight": false
+    },
+    {
+      "start": 71.48,
+      "end": 71.72,
+      "text": "Agora",
+      "probability": 0.9859157800674438,
+      "highlight": false
+    },
+    {
+      "start": 71.72,
+      "end": 71.92,
+      "text": "é",
+      "probability": 0.9076273441314697,
+      "highlight": false
+    },
+    {
+      "start": 71.92,
+      "end": 72.14,
+      "text": "hora",
+      "probability": 0.9476428031921387,
+      "highlight": false
+    },
+    {
+      "start": 72.14,
+      "end": 72.28,
+      "text": "de",
+      "probability": 0.9969276785850525,
+      "highlight": false
+    },
+    {
+      "start": 72.28,
+      "end": 72.66,
+      "text": "mostrar",
+      "probability": 0.9941052198410034,
+      "highlight": false
+    },
+    {
+      "start": 72.66,
+      "end": 72.9,
+      "text": "esse",
+      "probability": 0.9444575905799866,
+      "highlight": false
+    },
+    {
+      "start": 72.9,
+      "end": 73.04,
+      "text": "seu",
+      "probability": 0.975366473197937,
+      "highlight": false
+    },
+    {
+      "start": 73.04,
+      "end": 73.34,
+      "text": "trabalho",
+      "probability": 0.9988422989845276,
+      "highlight": false
+    },
+    {
+      "start": 73.41,
+      "end": 73.77,
+      "text": "para",
+      "probability": 0.6784251928329468,
+      "highlight": false
+    },
+    {
+      "start": 73.58,
+      "end": 73.96,
+      "text": "quem",
+      "probability": 0.9976235032081604,
+      "highlight": false
+    },
+    {
+      "start": 73.94,
+      "end": 74.4,
+      "text": "pode",
+      "probability": 0.9950907230377197,
+      "highlight": false
+    },
+    {
+      "start": 74.4,
+      "end": 74.96,
+      "text": "contratar",
+      "probability": 0.9933290481567383,
+      "highlight": false
+    },
+    {
+      "start": 74.96,
+      "end": 75.24,
+      "text": "você.",
+      "probability": 0.995806097984314,
+      "highlight": false
+    },
+    {
+      "start": 75.86,
+      "end": 75.88,
+      "text": "Quer",
+      "probability": 0.9838729500770569,
+      "highlight": false
+    },
+    {
+      "start": 75.88,
+      "end": 76.12,
+      "text": "vender",
+      "probability": 0.9981630444526672,
+      "highlight": true
+    },
+    {
+      "start": 76.12,
+      "end": 76.5,
+      "text": "mais?",
+      "probability": 0.9990987777709961,
+      "highlight": true
+    },
+    {
+      "start": 77.02,
+      "end": 77.04,
+      "text": "Quer",
+      "probability": 0.9691004157066345,
+      "highlight": false
+    },
+    {
+      "start": 77.04,
+      "end": 77.34,
+      "text": "deixar",
+      "probability": 0.992645263671875,
+      "highlight": false
+    },
+    {
+      "start": 77.34,
+      "end": 77.86,
+      "text": "depender",
+      "probability": 0.7402917742729187,
+      "highlight": false
+    },
+    {
+      "start": 77.95,
+      "end": 78.15,
+      "text": "de",
+      "probability": 0.9299436807632446,
+      "highlight": false
+    },
+    {
+      "start": 78.15,
+      "end": 78.51,
+      "text": "indicações?",
+      "probability": 0.6471109390258789,
+      "highlight": false
+    },
+    {
+      "start": 78.7,
+      "end": 78.8,
+      "text": "Clica",
+      "probability": 0.8351265788078308,
+      "highlight": false
+    },
+    {
+      "start": 78.8,
+      "end": 79.02,
+      "text": "aqui",
+      "probability": 0.9748729467391968,
+      "highlight": false
+    },
+    {
+      "start": 79.02,
+      "end": 79.08,
+      "text": "no",
+      "probability": 0.9137027263641357,
+      "highlight": false
+    },
+    {
+      "start": 79.17,
+      "end": 79.41,
+      "text": "Saiba",
+      "probability": 0.8086233139038086,
+      "highlight": true
+    },
+    {
+      "start": 79.38,
+      "end": 79.62,
+      "text": "mais",
+      "probability": 0.5120276808738708,
+      "highlight": true
+    },
+    {
+      "start": 79.62,
+      "end": 80.1,
+      "text": "e",
+      "probability": 0.942744791507721,
+      "highlight": false
+    },
+    {
+      "start": 80.1,
+      "end": 80.38,
+      "text": "fala",
+      "probability": 0.9833120107650757,
+      "highlight": false
+    },
+    {
+      "start": 80.38,
+      "end": 80.88,
+      "text": "direto",
+      "probability": 0.9899161458015442,
+      "highlight": false
+    },
+    {
+      "start": 80.86,
+      "end": 81.2,
+      "text": "comigo,",
+      "probability": 0.9985094666481018,
+      "highlight": false
+    },
+    {
+      "start": 81.56,
+      "end": 81.76,
+      "text": "tá",
+      "probability": 0.9119454026222229,
+      "highlight": false
+    },
+    {
+      "start": 81.76,
+      "end": 81.88,
+      "text": "bem?",
+      "probability": 0.993259072303772,
+      "highlight": false
+    }
+  ],
+  "review": "Português; tempos refinados em janelas curtas e grafia de termos técnicos revisada; sequência completa sem cortes."
+}

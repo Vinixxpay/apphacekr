@@ -1,0 +1,8 @@
+{
+  "input": "IMG_2393 3.MOV",
+  "videoFilters": "scale=1080:1920,ass=captions.ass",
+  "audio": "stream copy, no filters",
+  "timing": "passthrough original timestamps and frame rate",
+  "fullOriginal": true,
+  "output": "ib-midias-vd1-somente-legendas.mp4"
+}
