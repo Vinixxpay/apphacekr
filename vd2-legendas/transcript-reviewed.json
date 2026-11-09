@@ -1,0 +1,649 @@
+{
+  "language": "pt-BR",
+  "words": [
+    {
+      "text": "Dono",
+      "sourceStart": 2.255,
+      "sourceEnd": 2.54,
+      "start": 0.155,
+      "end": 0.44
+    },
+    {
+      "text": "de",
+      "sourceStart": 2.54,
+      "sourceEnd": 2.68,
+      "start": 0.44,
+      "end": 0.58
+    },
+    {
+      "text": "Vidraçaria.",
+      "sourceStart": 2.68,
+      "sourceEnd": 3.28,
+      "start": 0.58,
+      "end": 1.18
+    },
+    {
+      "text": "Você",
+      "sourceStart": 3.36,
+      "sourceEnd": 3.5,
+      "start": 1.26,
+      "end": 1.4
+    },
+    {
+      "text": "tá",
+      "sourceStart": 3.5,
+      "sourceEnd": 3.68,
+      "start": 1.4,
+      "end": 1.58
+    },
+    {
+      "text": "cansado",
+      "sourceStart": 3.68,
+      "sourceEnd": 4.38,
+      "start": 1.58,
+      "end": 2.28
+    },
+    {
+      "text": "de",
+      "sourceStart": 4.38,
+      "sourceEnd": 4.5,
+      "start": 2.28,
+      "end": 2.4
+    },
+    {
+      "text": "depender",
+      "sourceStart": 4.5,
+      "sourceEnd": 4.72,
+      "start": 2.4,
+      "end": 2.62
+    },
+    {
+      "text": "de",
+      "sourceStart": 4.72,
+      "sourceEnd": 4.9,
+      "start": 2.62,
+      "end": 2.8
+    },
+    {
+      "text": "indicação?",
+      "sourceStart": 4.9,
+      "sourceEnd": 5.4,
+      "start": 2.8,
+      "end": 3.3
+    },
+    {
+      "text": "Eu",
+      "sourceStart": 5.94,
+      "sourceEnd": 6.1,
+      "start": 3.84,
+      "end": 4.0
+    },
+    {
+      "text": "sei",
+      "sourceStart": 6.1,
+      "sourceEnd": 6.18,
+      "start": 4.0,
+      "end": 4.08
+    },
+    {
+      "text": "como",
+      "sourceStart": 6.18,
+      "sourceEnd": 6.4,
+      "start": 4.08,
+      "end": 4.3
+    },
+    {
+      "text": "isso",
+      "sourceStart": 6.4,
+      "sourceEnd": 6.58,
+      "start": 4.3,
+      "end": 4.48
+    },
+    {
+      "text": "é.",
+      "sourceStart": 6.58,
+      "sourceEnd": 6.8,
+      "start": 4.48,
+      "end": 4.7
+    },
+    {
+      "text": "Eu",
+      "sourceStart": 7.08,
+      "sourceEnd": 7.2,
+      "start": 4.98,
+      "end": 5.1
+    },
+    {
+      "text": "tinha",
+      "sourceStart": 7.2,
+      "sourceEnd": 7.28,
+      "start": 5.1,
+      "end": 5.18
+    },
+    {
+      "text": "um",
+      "sourceStart": 7.28,
+      "sourceEnd": 7.4,
+      "start": 5.18,
+      "end": 5.3
+    },
+    {
+      "text": "cliente",
+      "sourceStart": 7.4,
+      "sourceEnd": 7.68,
+      "start": 5.3,
+      "end": 5.58
+    },
+    {
+      "text": "aqui",
+      "sourceStart": 7.68,
+      "sourceEnd": 7.84,
+      "start": 5.58,
+      "end": 5.74
+    },
+    {
+      "text": "que",
+      "sourceStart": 7.84,
+      "sourceEnd": 8.0,
+      "start": 5.74,
+      "end": 5.9
+    },
+    {
+      "text": "exatamente",
+      "sourceStart": 8.0,
+      "sourceEnd": 8.6,
+      "start": 5.9,
+      "end": 6.5
+    },
+    {
+      "text": "tinha",
+      "sourceStart": 8.6,
+      "sourceEnd": 9.0,
+      "start": 6.5,
+      "end": 6.9
+    },
+    {
+      "text": "essa",
+      "sourceStart": 9.0,
+      "sourceEnd": 9.18,
+      "start": 6.9,
+      "end": 7.08
+    },
+    {
+      "text": "mesma",
+      "sourceStart": 9.18,
+      "sourceEnd": 9.5,
+      "start": 7.08,
+      "end": 7.4
+    },
+    {
+      "text": "dor",
+      "sourceStart": 9.5,
+      "sourceEnd": 9.72,
+      "start": 7.4,
+      "end": 7.62
+    },
+    {
+      "text": "que",
+      "sourceStart": 9.72,
+      "sourceEnd": 9.86,
+      "start": 7.62,
+      "end": 7.76
+    },
+    {
+      "text": "você.",
+      "sourceStart": 9.86,
+      "sourceEnd": 10.18,
+      "start": 7.76,
+      "end": 8.08
+    },
+    {
+      "text": "Ele",
+      "sourceStart": 10.68,
+      "sourceEnd": 10.84,
+      "start": 8.58,
+      "end": 8.74
+    },
+    {
+      "text": "só",
+      "sourceStart": 10.84,
+      "sourceEnd": 10.92,
+      "start": 8.74,
+      "end": 8.82
+    },
+    {
+      "text": "dependia",
+      "sourceStart": 10.92,
+      "sourceEnd": 11.18,
+      "start": 8.82,
+      "end": 9.08
+    },
+    {
+      "text": "de",
+      "sourceStart": 11.18,
+      "sourceEnd": 11.3,
+      "start": 9.08,
+      "end": 9.2
+    },
+    {
+      "text": "indicação.",
+      "sourceStart": 11.3,
+      "sourceEnd": 11.62,
+      "start": 9.2,
+      "end": 9.52
+    },
+    {
+      "text": "Fechava",
+      "sourceStart": 11.88,
+      "sourceEnd": 12.12,
+      "start": 9.78,
+      "end": 10.02
+    },
+    {
+      "text": "um,",
+      "sourceStart": 12.12,
+      "sourceEnd": 12.34,
+      "start": 10.02,
+      "end": 10.24
+    },
+    {
+      "text": "dois,",
+      "sourceStart": 12.36,
+      "sourceEnd": 12.56,
+      "start": 10.26,
+      "end": 10.46
+    },
+    {
+      "text": "três,",
+      "sourceStart": 12.68,
+      "sourceEnd": 12.84,
+      "start": 10.58,
+      "end": 10.74
+    },
+    {
+      "text": "quatro",
+      "sourceStart": 12.86,
+      "sourceEnd": 13.1,
+      "start": 10.76,
+      "end": 11.0
+    },
+    {
+      "text": "projetos",
+      "sourceStart": 13.1,
+      "sourceEnd": 13.54,
+      "start": 11.0,
+      "end": 11.44
+    },
+    {
+      "text": "na",
+      "sourceStart": 13.54,
+      "sourceEnd": 13.66,
+      "start": 11.44,
+      "end": 11.56
+    },
+    {
+      "text": "semana.",
+      "sourceStart": 13.66,
+      "sourceEnd": 14.06,
+      "start": 11.56,
+      "end": 11.96
+    },
+    {
+      "text": "Ficava",
+      "sourceStart": 14.6,
+      "sourceEnd": 14.8,
+      "start": 12.5,
+      "end": 12.7
+    },
+    {
+      "text": "com",
+      "sourceStart": 14.8,
+      "sourceEnd": 14.94,
+      "start": 12.7,
+      "end": 12.84
+    },
+    {
+      "text": "a",
+      "sourceStart": 14.94,
+      "sourceEnd": 14.98,
+      "start": 12.84,
+      "end": 12.88
+    },
+    {
+      "text": "agenda",
+      "sourceStart": 14.98,
+      "sourceEnd": 15.12,
+      "start": 12.88,
+      "end": 13.02
+    },
+    {
+      "text": "parada.",
+      "sourceStart": 15.12,
+      "sourceEnd": 15.62,
+      "start": 13.02,
+      "end": 13.52
+    },
+    {
+      "text": "E",
+      "sourceStart": 17.4,
+      "sourceEnd": 17.96,
+      "start": 13.8,
+      "end": 14.36
+    },
+    {
+      "text": "Aqui",
+      "sourceStart": 17.96,
+      "sourceEnd": 18.22,
+      "start": 14.36,
+      "end": 14.62
+    },
+    {
+      "text": "na",
+      "sourceStart": 17.96,
+      "sourceEnd": 18.22,
+      "start": 14.36,
+      "end": 14.62
+    },
+    {
+      "text": "iB",
+      "sourceStart": 18.36,
+      "sourceEnd": 18.54,
+      "start": 14.76,
+      "end": 14.94
+    },
+    {
+      "text": "Mídias",
+      "sourceStart": 18.54,
+      "sourceEnd": 19.06,
+      "start": 14.94,
+      "end": 15.46
+    },
+    {
+      "text": "nós",
+      "sourceStart": 19.06,
+      "sourceEnd": 19.26,
+      "start": 15.46,
+      "end": 15.66
+    },
+    {
+      "text": "mandamos",
+      "sourceStart": 19.26,
+      "sourceEnd": 19.8,
+      "start": 15.66,
+      "end": 16.2
+    },
+    {
+      "text": "demanda",
+      "sourceStart": 20.3,
+      "sourceEnd": 20.72,
+      "start": 16.7,
+      "end": 17.12
+    },
+    {
+      "text": "qualificada",
+      "sourceStart": 20.72,
+      "sourceEnd": 21.68,
+      "start": 17.12,
+      "end": 18.08
+    },
+    {
+      "text": "para",
+      "sourceStart": 21.68,
+      "sourceEnd": 21.9,
+      "start": 18.08,
+      "end": 18.3
+    },
+    {
+      "text": "o",
+      "sourceStart": 21.9,
+      "sourceEnd": 22.06,
+      "start": 18.3,
+      "end": 18.46
+    },
+    {
+      "text": "seu",
+      "sourceStart": 22.06,
+      "sourceEnd": 22.2,
+      "start": 18.46,
+      "end": 18.6
+    },
+    {
+      "text": "WhatsApp.",
+      "sourceStart": 22.2,
+      "sourceEnd": 22.64,
+      "start": 18.6,
+      "end": 19.04
+    },
+    {
+      "text": "Orçamentos",
+      "sourceStart": 23.0,
+      "sourceEnd": 23.42,
+      "start": 19.4,
+      "end": 19.82
+    },
+    {
+      "text": "diários,",
+      "sourceStart": 23.42,
+      "sourceEnd": 23.985,
+      "start": 19.82,
+      "end": 20.385
+    },
+    {
+      "text": "pedidos",
+      "sourceStart": 24.975,
+      "sourceEnd": 25.24,
+      "start": 20.7083,
+      "end": 20.9733
+    },
+    {
+      "text": "diários",
+      "sourceStart": 25.24,
+      "sourceEnd": 25.74,
+      "start": 20.9733,
+      "end": 21.4733
+    },
+    {
+      "text": "e",
+      "sourceStart": 26.14,
+      "sourceEnd": 26.2,
+      "start": 21.8733,
+      "end": 21.9333
+    },
+    {
+      "text": "trabalhos",
+      "sourceStart": 26.2,
+      "sourceEnd": 26.56,
+      "start": 21.9333,
+      "end": 22.2933
+    },
+    {
+      "text": "diários.",
+      "sourceStart": 26.56,
+      "sourceEnd": 26.9,
+      "start": 22.2933,
+      "end": 22.6333
+    },
+    {
+      "text": "Então",
+      "sourceStart": 26.9,
+      "sourceEnd": 27.2,
+      "start": 22.6333,
+      "end": 22.9333
+    },
+    {
+      "text": "você",
+      "sourceStart": 27.2,
+      "sourceEnd": 27.44,
+      "start": 22.9333,
+      "end": 23.1733
+    },
+    {
+      "text": "fecha",
+      "sourceStart": 27.44,
+      "sourceEnd": 27.7,
+      "start": 23.1733,
+      "end": 23.4333
+    },
+    {
+      "text": "de",
+      "sourceStart": 27.7,
+      "sourceEnd": 27.86,
+      "start": 23.4333,
+      "end": 23.5933
+    },
+    {
+      "text": "pequeno",
+      "sourceStart": 27.86,
+      "sourceEnd": 28.3,
+      "start": 23.5933,
+      "end": 24.0333
+    },
+    {
+      "text": "projeto",
+      "sourceStart": 28.3,
+      "sourceEnd": 28.8,
+      "start": 24.0333,
+      "end": 24.5333
+    },
+    {
+      "text": "a",
+      "sourceStart": 28.8,
+      "sourceEnd": 29.18,
+      "start": 24.5333,
+      "end": 24.9133
+    },
+    {
+      "text": "grande",
+      "sourceStart": 29.18,
+      "sourceEnd": 29.36,
+      "start": 24.9133,
+      "end": 25.0933
+    },
+    {
+      "text": "projeto.",
+      "sourceStart": 29.36,
+      "sourceEnd": 29.78,
+      "start": 25.0933,
+      "end": 25.5133
+    },
+    {
+      "text": "Se",
+      "sourceStart": 29.9,
+      "sourceEnd": 29.94,
+      "start": 25.6333,
+      "end": 25.6733
+    },
+    {
+      "text": "você",
+      "sourceStart": 29.94,
+      "sourceEnd": 30.14,
+      "start": 25.6733,
+      "end": 25.8733
+    },
+    {
+      "text": "quer",
+      "sourceStart": 30.14,
+      "sourceEnd": 30.32,
+      "start": 25.8733,
+      "end": 26.0533
+    },
+    {
+      "text": "ter",
+      "sourceStart": 30.32,
+      "sourceEnd": 30.54,
+      "start": 26.0533,
+      "end": 26.2733
+    },
+    {
+      "text": "esse",
+      "sourceStart": 30.54,
+      "sourceEnd": 30.72,
+      "start": 26.2733,
+      "end": 26.4533
+    },
+    {
+      "text": "mesmo",
+      "sourceStart": 30.72,
+      "sourceEnd": 30.86,
+      "start": 26.4533,
+      "end": 26.5933
+    },
+    {
+      "text": "resultado,",
+      "sourceStart": 30.86,
+      "sourceEnd": 31.34,
+      "start": 26.5933,
+      "end": 27.0733
+    },
+    {
+      "text": "clica",
+      "sourceStart": 31.62,
+      "sourceEnd": 31.96,
+      "start": 27.3533,
+      "end": 27.6933
+    },
+    {
+      "text": "aqui",
+      "sourceStart": 31.96,
+      "sourceEnd": 32.2,
+      "start": 27.6933,
+      "end": 27.9333
+    },
+    {
+      "text": "no",
+      "sourceStart": 32.2,
+      "sourceEnd": 32.26,
+      "start": 27.9333,
+      "end": 27.9933
+    },
+    {
+      "text": "Saiba",
+      "sourceStart": 32.26,
+      "sourceEnd": 32.54,
+      "start": 27.9933,
+      "end": 28.2733
+    },
+    {
+      "text": "Mais",
+      "sourceStart": 32.54,
+      "sourceEnd": 32.78,
+      "start": 28.2733,
+      "end": 28.5133
+    },
+    {
+      "text": "e",
+      "sourceStart": 33.23,
+      "sourceEnd": 33.3,
+      "start": 28.9633,
+      "end": 29.0333
+    },
+    {
+      "text": "agenda",
+      "sourceStart": 33.3,
+      "sourceEnd": 33.6,
+      "start": 29.0333,
+      "end": 29.3333
+    },
+    {
+      "text": "uma",
+      "sourceStart": 33.6,
+      "sourceEnd": 33.66,
+      "start": 29.3333,
+      "end": 29.3933
+    },
+    {
+      "text": "reunião",
+      "sourceStart": 33.66,
+      "sourceEnd": 33.84,
+      "start": 29.3933,
+      "end": 29.5733
+    },
+    {
+      "text": "comigo.",
+      "sourceStart": 33.84,
+      "sourceEnd": 34.15,
+      "start": 29.5733,
+      "end": 29.8833
+    }
+  ]
+}

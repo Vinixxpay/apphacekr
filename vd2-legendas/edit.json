@@ -1,0 +1,47 @@
+{
+  "source": "vd2.mp4",
+  "fps": 60,
+  "segments": [
+    {
+      "sourceStart": 2.1,
+      "sourceEnd": 15.8,
+      "outputStart": 0,
+      "frames": 822
+    },
+    {
+      "sourceStart": 17.3,
+      "sourceEnd": 24.133333333333333,
+      "outputStart": 13.7,
+      "frames": 410
+    },
+    {
+      "sourceStart": 24.8,
+      "sourceEnd": 34.7,
+      "outputStart": 20.53333333333333,
+      "frames": 594
+    }
+  ],
+  "duration": 30.433333333333334,
+  "removed": [
+    {
+      "start": 0,
+      "end": 2.1,
+      "reason": "Espera antes do início da fala"
+    },
+    {
+      "start": 15.8,
+      "end": 17.3,
+      "reason": "Primeira tentativa incompleta: Aqui na iB Mídias nós…; segunda tentativa mantida inteira"
+    },
+    {
+      "start": 24.133333333333333,
+      "end": 24.8,
+      "reason": "Encurtar silêncio entre orçamentos diários e pedidos diários"
+    },
+    {
+      "start": 34.7,
+      "end": 37.166667,
+      "reason": "Trecho posterior ao encerramento; fala final preservada"
+    }
+  ]
+}

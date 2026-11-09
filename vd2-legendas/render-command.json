@@ -1,0 +1,9 @@
+{
+  "input": "vd2-review.mp4",
+  "filter": "[0:v]scale=1080:1920:flags=lanczos,split=3[src0][src1][src2];[src0]trim=start_frame=126:end_frame=948,setpts=PTS-STARTPTS[v0];[0:a]atrim=start=2.1:end=15.8,asetpts=PTS-STARTPTS[a0];[src1]trim=start_frame=1038:end_frame=1448,setpts=PTS-STARTPTS[v1];[0:a]atrim=start=17.3:end=24.133333333333333,asetpts=PTS-STARTPTS[a1];[src2]trim=start_frame=1488:end_frame=2082,setpts=PTS-STARTPTS[v2];[0:a]atrim=start=24.8:end=34.7,asetpts=PTS-STARTPTS[a2];[v0][a0][v1][a1][v2][a2]concat=n=3:v=1:a=1[vc][a];[vc]ass=filename='/workspace/apphacekr/vd2-legendas/captions.ass':fontsdir='/workspace/apphacekr/vd2-legendas/public/fonts'[v]",
+  "output": "ib-midias-vd2-legendas-e-cortes.mp4",
+  "speed": 1,
+  "originalFraming": true,
+  "addedLayer": "Only dynamic subtitles",
+  "audio": "Original voice, only approved editorial trims and AAC encoding"
+}

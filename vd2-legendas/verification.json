@@ -1,0 +1,20 @@
+{
+  "file": "ib-midias-vd2-legendas-e-cortes.mp4",
+  "duration": 30.433333,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 60,
+  "frames": 1826,
+  "originalSpeed": true,
+  "originalFraming": true,
+  "retainedAudioCorrelation": 0.9986576544526343,
+  "subtitleWords": 92,
+  "subtitleGroups": 38,
+  "captionFit": "passed",
+  "fullDecode": "passed",
+  "cuts": "Only ranges documented in edit.json",
+  "sha256": "61ebbec748f907771568e33319f6300601917d5ddd3998d9d80d4fbf5034f7e5",
+  "bytes": 31783087
+}
