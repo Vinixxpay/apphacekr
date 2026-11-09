@@ -1,0 +1,24 @@
+{
+  "file": "ib-midias-vd4-legendas-logo.mp4",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 60,
+  "duration": 35.2,
+  "frames": 2112,
+  "speechSeconds": 33,
+  "logoOutroSeconds": 2.2,
+  "originalVoiceSpeed": true,
+  "originalFraming": true,
+  "retainedVoiceCorrelation": 0.9999905095302412,
+  "soundEffectCorrelation": 0.9909615607132796,
+  "outroPeak": 0.18141785264015198,
+  "subtitleWords": 108,
+  "subtitleGroups": 47,
+  "captionFit": "passed",
+  "fullDecode": "passed",
+  "soundStartsAfterSpeech": true,
+  "bytes": 34896032,
+  "sha256": "97046cc00ec75414af34d5c7baa15ef53effe1f8420ea00dd5a67f09ba851ae0"
+}

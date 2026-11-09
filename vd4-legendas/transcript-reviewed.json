@@ -1,0 +1,761 @@
+{
+  "language": "pt-BR",
+  "words": [
+    {
+      "text": "Vidraceiro.",
+      "sourceStart": 2.66,
+      "sourceEnd": 3.5,
+      "start": 0.16,
+      "end": 1.0
+    },
+    {
+      "text": "Você",
+      "sourceStart": 3.58,
+      "sourceEnd": 3.68,
+      "start": 1.08,
+      "end": 1.18
+    },
+    {
+      "text": "tá",
+      "sourceStart": 3.68,
+      "sourceEnd": 3.84,
+      "start": 1.18,
+      "end": 1.34
+    },
+    {
+      "text": "cansado",
+      "sourceStart": 3.84,
+      "sourceEnd": 4.64,
+      "start": 1.34,
+      "end": 2.14
+    },
+    {
+      "text": "de",
+      "sourceStart": 4.64,
+      "sourceEnd": 4.98,
+      "start": 2.14,
+      "end": 2.48
+    },
+    {
+      "text": "depender",
+      "sourceStart": 4.98,
+      "sourceEnd": 5.3,
+      "start": 2.48,
+      "end": 2.8
+    },
+    {
+      "text": "só",
+      "sourceStart": 5.3,
+      "sourceEnd": 5.54,
+      "start": 2.8,
+      "end": 3.04
+    },
+    {
+      "text": "de",
+      "sourceStart": 5.54,
+      "sourceEnd": 5.64,
+      "start": 3.04,
+      "end": 3.14
+    },
+    {
+      "text": "indicação?",
+      "sourceStart": 5.64,
+      "sourceEnd": 6.24,
+      "start": 3.14,
+      "end": 3.74
+    },
+    {
+      "text": "Aqui",
+      "sourceStart": 7.08,
+      "sourceEnd": 7.52,
+      "start": 4.58,
+      "end": 5.02
+    },
+    {
+      "text": "na",
+      "sourceStart": 7.52,
+      "sourceEnd": 7.66,
+      "start": 5.02,
+      "end": 5.16
+    },
+    {
+      "text": "iB",
+      "sourceStart": 7.66,
+      "sourceEnd": 7.82,
+      "start": 5.16,
+      "end": 5.32
+    },
+    {
+      "text": "Mídias",
+      "sourceStart": 7.82,
+      "sourceEnd": 8.26,
+      "start": 5.32,
+      "end": 5.76
+    },
+    {
+      "text": "nós",
+      "sourceStart": 8.26,
+      "sourceEnd": 8.42,
+      "start": 5.76,
+      "end": 5.92
+    },
+    {
+      "text": "trabalhamos",
+      "sourceStart": 8.42,
+      "sourceEnd": 8.94,
+      "start": 5.92,
+      "end": 6.44
+    },
+    {
+      "text": "com",
+      "sourceStart": 8.94,
+      "sourceEnd": 9.2,
+      "start": 6.44,
+      "end": 6.7
+    },
+    {
+      "text": "um",
+      "sourceStart": 9.2,
+      "sourceEnd": 9.54,
+      "start": 6.7,
+      "end": 7.04
+    },
+    {
+      "text": "método",
+      "sourceStart": 9.54,
+      "sourceEnd": 9.84,
+      "start": 7.04,
+      "end": 7.34
+    },
+    {
+      "text": "MVP,",
+      "sourceStart": 9.84,
+      "sourceEnd": 10.32,
+      "start": 7.34,
+      "end": 7.82
+    },
+    {
+      "text": "onde",
+      "sourceStart": 10.84,
+      "sourceEnd": 11.08,
+      "start": 8.34,
+      "end": 8.58
+    },
+    {
+      "text": "aí",
+      "sourceStart": 11.08,
+      "sourceEnd": 11.16,
+      "start": 8.58,
+      "end": 8.66
+    },
+    {
+      "text": "trabalha",
+      "sourceStart": 11.16,
+      "sourceEnd": 11.54,
+      "start": 8.66,
+      "end": 9.04
+    },
+    {
+      "text": "o",
+      "sourceStart": 11.54,
+      "sourceEnd": 11.6,
+      "start": 9.04,
+      "end": 9.1
+    },
+    {
+      "text": "marketing,",
+      "sourceStart": 11.6,
+      "sourceEnd": 12.12,
+      "start": 9.1,
+      "end": 9.62
+    },
+    {
+      "text": "venda",
+      "sourceStart": 12.26,
+      "sourceEnd": 12.48,
+      "start": 9.76,
+      "end": 9.98
+    },
+    {
+      "text": "e",
+      "sourceStart": 12.48,
+      "sourceEnd": 12.66,
+      "start": 9.98,
+      "end": 10.16
+    },
+    {
+      "text": "o",
+      "sourceStart": 12.66,
+      "sourceEnd": 12.84,
+      "start": 10.16,
+      "end": 10.34
+    },
+    {
+      "text": "teu",
+      "sourceStart": 12.84,
+      "sourceEnd": 12.86,
+      "start": 10.34,
+      "end": 10.36
+    },
+    {
+      "text": "pós-venda.",
+      "sourceStart": 12.86,
+      "sourceEnd": 13.32,
+      "start": 10.36,
+      "end": 10.82
+    },
+    {
+      "text": "Então",
+      "sourceStart": 13.72,
+      "sourceEnd": 13.86,
+      "start": 11.22,
+      "end": 11.36
+    },
+    {
+      "text": "aqui",
+      "sourceStart": 13.86,
+      "sourceEnd": 14.1,
+      "start": 11.36,
+      "end": 11.6
+    },
+    {
+      "text": "a",
+      "sourceStart": 14.1,
+      "sourceEnd": 14.14,
+      "start": 11.6,
+      "end": 11.64
+    },
+    {
+      "text": "gente",
+      "sourceStart": 14.14,
+      "sourceEnd": 14.28,
+      "start": 11.64,
+      "end": 11.78
+    },
+    {
+      "text": "consegue",
+      "sourceStart": 14.28,
+      "sourceEnd": 14.52,
+      "start": 11.78,
+      "end": 12.02
+    },
+    {
+      "text": "fazer",
+      "sourceStart": 14.86,
+      "sourceEnd": 15.3,
+      "start": 12.36,
+      "end": 12.8
+    },
+    {
+      "text": "um",
+      "sourceStart": 15.3,
+      "sourceEnd": 15.4,
+      "start": 12.8,
+      "end": 12.9
+    },
+    {
+      "text": "marketing",
+      "sourceStart": 15.4,
+      "sourceEnd": 15.74,
+      "start": 12.9,
+      "end": 13.24
+    },
+    {
+      "text": "qualificado.",
+      "sourceStart": 15.74,
+      "sourceEnd": 16.36,
+      "start": 13.24,
+      "end": 13.86
+    },
+    {
+      "text": "A",
+      "sourceStart": 16.98,
+      "sourceEnd": 17.0,
+      "start": 14.48,
+      "end": 14.5
+    },
+    {
+      "text": "gente",
+      "sourceStart": 17.0,
+      "sourceEnd": 17.16,
+      "start": 14.5,
+      "end": 14.66
+    },
+    {
+      "text": "tem",
+      "sourceStart": 17.16,
+      "sourceEnd": 17.72,
+      "start": 14.66,
+      "end": 15.22
+    },
+    {
+      "text": "um",
+      "sourceStart": 17.72,
+      "sourceEnd": 17.86,
+      "start": 15.22,
+      "end": 15.36
+    },
+    {
+      "text": "script",
+      "sourceStart": 17.86,
+      "sourceEnd": 18.18,
+      "start": 15.36,
+      "end": 15.68
+    },
+    {
+      "text": "de",
+      "sourceStart": 18.18,
+      "sourceEnd": 18.48,
+      "start": 15.68,
+      "end": 15.98
+    },
+    {
+      "text": "vendas",
+      "sourceStart": 18.48,
+      "sourceEnd": 18.72,
+      "start": 15.98,
+      "end": 16.22
+    },
+    {
+      "text": "pra",
+      "sourceStart": 18.72,
+      "sourceEnd": 18.86,
+      "start": 16.22,
+      "end": 16.36
+    },
+    {
+      "text": "você",
+      "sourceStart": 18.86,
+      "sourceEnd": 19.04,
+      "start": 16.36,
+      "end": 16.54
+    },
+    {
+      "text": "vender",
+      "sourceStart": 19.04,
+      "sourceEnd": 19.24,
+      "start": 16.54,
+      "end": 16.74
+    },
+    {
+      "text": "mais",
+      "sourceStart": 19.24,
+      "sourceEnd": 19.62,
+      "start": 16.74,
+      "end": 17.12
+    },
+    {
+      "text": "pros",
+      "sourceStart": 19.62,
+      "sourceEnd": 20.12,
+      "start": 17.12,
+      "end": 17.62
+    },
+    {
+      "text": "teus",
+      "sourceStart": 20.12,
+      "sourceEnd": 20.26,
+      "start": 17.62,
+      "end": 17.76
+    },
+    {
+      "text": "clientes,",
+      "sourceStart": 20.26,
+      "sourceEnd": 20.76,
+      "start": 17.76,
+      "end": 18.26
+    },
+    {
+      "text": "pra",
+      "sourceStart": 21.13,
+      "sourceEnd": 21.18,
+      "start": 18.63,
+      "end": 18.68
+    },
+    {
+      "text": "não",
+      "sourceStart": 21.18,
+      "sourceEnd": 21.34,
+      "start": 18.68,
+      "end": 18.84
+    },
+    {
+      "text": "ficar",
+      "sourceStart": 21.34,
+      "sourceEnd": 21.52,
+      "start": 18.84,
+      "end": 19.02
+    },
+    {
+      "text": "só",
+      "sourceStart": 21.52,
+      "sourceEnd": 21.74,
+      "start": 19.02,
+      "end": 19.24
+    },
+    {
+      "text": "pedindo",
+      "sourceStart": 21.74,
+      "sourceEnd": 21.96,
+      "start": 19.24,
+      "end": 19.46
+    },
+    {
+      "text": "orçamento,",
+      "sourceStart": 21.96,
+      "sourceEnd": 22.42,
+      "start": 19.46,
+      "end": 19.92
+    },
+    {
+      "text": "orçamento.",
+      "sourceStart": 22.56,
+      "sourceEnd": 22.92,
+      "start": 20.06,
+      "end": 20.42
+    },
+    {
+      "text": "Aí",
+      "sourceStart": 23.4,
+      "sourceEnd": 23.46,
+      "start": 20.9,
+      "end": 20.96
+    },
+    {
+      "text": "a",
+      "sourceStart": 23.46,
+      "sourceEnd": 23.48,
+      "start": 20.96,
+      "end": 20.98
+    },
+    {
+      "text": "gente",
+      "sourceStart": 23.48,
+      "sourceEnd": 23.54,
+      "start": 20.98,
+      "end": 21.04
+    },
+    {
+      "text": "vende",
+      "sourceStart": 23.54,
+      "sourceEnd": 23.74,
+      "start": 21.04,
+      "end": 21.24
+    },
+    {
+      "text": "mais",
+      "sourceStart": 23.74,
+      "sourceEnd": 24.06,
+      "start": 21.24,
+      "end": 21.56
+    },
+    {
+      "text": "e",
+      "sourceStart": 24.52,
+      "sourceEnd": 24.58,
+      "start": 22.02,
+      "end": 22.08
+    },
+    {
+      "text": "o",
+      "sourceStart": 24.58,
+      "sourceEnd": 24.66,
+      "start": 22.08,
+      "end": 22.16
+    },
+    {
+      "text": "pós-venda.",
+      "sourceStart": 24.66,
+      "sourceEnd": 25.08,
+      "start": 22.16,
+      "end": 22.58
+    },
+    {
+      "text": "Onde",
+      "sourceStart": 25.4,
+      "sourceEnd": 25.62,
+      "start": 22.9,
+      "end": 23.12
+    },
+    {
+      "text": "a",
+      "sourceStart": 25.62,
+      "sourceEnd": 25.66,
+      "start": 23.12,
+      "end": 23.16
+    },
+    {
+      "text": "gente",
+      "sourceStart": 25.66,
+      "sourceEnd": 25.78,
+      "start": 23.16,
+      "end": 23.28
+    },
+    {
+      "text": "faz",
+      "sourceStart": 25.78,
+      "sourceEnd": 25.92,
+      "start": 23.28,
+      "end": 23.42
+    },
+    {
+      "text": "toda",
+      "sourceStart": 25.92,
+      "sourceEnd": 26.06,
+      "start": 23.42,
+      "end": 23.56
+    },
+    {
+      "text": "a",
+      "sourceStart": 26.06,
+      "sourceEnd": 26.2,
+      "start": 23.56,
+      "end": 23.7
+    },
+    {
+      "text": "qualificação,",
+      "sourceStart": 26.2,
+      "sourceEnd": 26.78,
+      "start": 23.7,
+      "end": 24.28
+    },
+    {
+      "text": "pergunta",
+      "sourceStart": 26.9,
+      "sourceEnd": 27.02,
+      "start": 24.4,
+      "end": 24.52
+    },
+    {
+      "text": "como",
+      "sourceStart": 27.02,
+      "sourceEnd": 27.3,
+      "start": 24.52,
+      "end": 24.8
+    },
+    {
+      "text": "é",
+      "sourceStart": 27.3,
+      "sourceEnd": 27.38,
+      "start": 24.8,
+      "end": 24.88
+    },
+    {
+      "text": "que",
+      "sourceStart": 27.38,
+      "sourceEnd": 27.44,
+      "start": 24.88,
+      "end": 24.94
+    },
+    {
+      "text": "tá",
+      "sourceStart": 27.44,
+      "sourceEnd": 27.5,
+      "start": 24.94,
+      "end": 25.0
+    },
+    {
+      "text": "o",
+      "sourceStart": 27.5,
+      "sourceEnd": 27.58,
+      "start": 25.0,
+      "end": 25.08
+    },
+    {
+      "text": "produto,",
+      "sourceStart": 27.58,
+      "sourceEnd": 27.92,
+      "start": 25.08,
+      "end": 25.42
+    },
+    {
+      "text": "e",
+      "sourceStart": 28.36,
+      "sourceEnd": 28.4,
+      "start": 25.86,
+      "end": 25.9
+    },
+    {
+      "text": "a",
+      "sourceStart": 28.4,
+      "sourceEnd": 28.44,
+      "start": 25.9,
+      "end": 25.94
+    },
+    {
+      "text": "gente",
+      "sourceStart": 28.44,
+      "sourceEnd": 28.54,
+      "start": 25.94,
+      "end": 26.04
+    },
+    {
+      "text": "qualifica",
+      "sourceStart": 28.54,
+      "sourceEnd": 29.06,
+      "start": 26.04,
+      "end": 26.56
+    },
+    {
+      "text": "você",
+      "sourceStart": 29.06,
+      "sourceEnd": 29.48,
+      "start": 26.56,
+      "end": 26.98
+    },
+    {
+      "text": "e",
+      "sourceStart": 29.48,
+      "sourceEnd": 29.92,
+      "start": 26.98,
+      "end": 27.42
+    },
+    {
+      "text": "o",
+      "sourceStart": 29.92,
+      "sourceEnd": 30.04,
+      "start": 27.42,
+      "end": 27.54
+    },
+    {
+      "text": "seu",
+      "sourceStart": 30.04,
+      "sourceEnd": 30.14,
+      "start": 27.54,
+      "end": 27.64
+    },
+    {
+      "text": "lead",
+      "sourceStart": 30.14,
+      "sourceEnd": 30.38,
+      "start": 27.64,
+      "end": 27.88
+    },
+    {
+      "text": "para",
+      "sourceStart": 30.38,
+      "sourceEnd": 30.78,
+      "start": 27.88,
+      "end": 28.28
+    },
+    {
+      "text": "fechar.",
+      "sourceStart": 30.78,
+      "sourceEnd": 31.16,
+      "start": 28.28,
+      "end": 28.66
+    },
+    {
+      "text": "Então,",
+      "sourceStart": 31.66,
+      "sourceEnd": 31.84,
+      "start": 29.16,
+      "end": 29.34
+    },
+    {
+      "text": "se",
+      "sourceStart": 31.92,
+      "sourceEnd": 31.98,
+      "start": 29.42,
+      "end": 29.48
+    },
+    {
+      "text": "você",
+      "sourceStart": 31.98,
+      "sourceEnd": 32.12,
+      "start": 29.48,
+      "end": 29.62
+    },
+    {
+      "text": "quer",
+      "sourceStart": 32.12,
+      "sourceEnd": 32.26,
+      "start": 29.62,
+      "end": 29.76
+    },
+    {
+      "text": "ter",
+      "sourceStart": 32.26,
+      "sourceEnd": 32.42,
+      "start": 29.76,
+      "end": 29.92
+    },
+    {
+      "text": "esse",
+      "sourceStart": 32.42,
+      "sourceEnd": 32.6,
+      "start": 29.92,
+      "end": 30.1
+    },
+    {
+      "text": "mesmo",
+      "sourceStart": 32.6,
+      "sourceEnd": 32.82,
+      "start": 30.1,
+      "end": 30.32
+    },
+    {
+      "text": "resultado,",
+      "sourceStart": 32.82,
+      "sourceEnd": 33.2,
+      "start": 30.32,
+      "end": 30.7
+    },
+    {
+      "text": "clica",
+      "sourceStart": 33.48,
+      "sourceEnd": 33.62,
+      "start": 30.98,
+      "end": 31.12
+    },
+    {
+      "text": "aqui",
+      "sourceStart": 33.62,
+      "sourceEnd": 33.84,
+      "start": 31.12,
+      "end": 31.34
+    },
+    {
+      "text": "no",
+      "sourceStart": 33.84,
+      "sourceEnd": 33.94,
+      "start": 31.34,
+      "end": 31.44
+    },
+    {
+      "text": "Saiba",
+      "sourceStart": 33.94,
+      "sourceEnd": 34.16,
+      "start": 31.44,
+      "end": 31.66
+    },
+    {
+      "text": "Mais",
+      "sourceStart": 34.16,
+      "sourceEnd": 34.36,
+      "start": 31.66,
+      "end": 31.86
+    },
+    {
+      "text": "e",
+      "sourceStart": 34.36,
+      "sourceEnd": 34.52,
+      "start": 31.86,
+      "end": 32.02
+    },
+    {
+      "text": "fala",
+      "sourceStart": 34.52,
+      "sourceEnd": 34.72,
+      "start": 32.02,
+      "end": 32.22
+    },
+    {
+      "text": "comigo.",
+      "sourceStart": 34.72,
+      "sourceEnd": 35.0,
+      "start": 32.22,
+      "end": 32.5
+    }
+  ]
+}

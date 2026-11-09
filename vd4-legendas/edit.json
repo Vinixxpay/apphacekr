@@ -1,0 +1,28 @@
+{
+  "source": "IMG_2395 3.MOV",
+  "fps": 60,
+  "segments": [
+    {
+      "sourceStart": 2.5,
+      "sourceEnd": 35.5,
+      "outputStart": 0,
+      "frames": 1980
+    }
+  ],
+  "speechDuration": 33,
+  "outroDuration": 2.2,
+  "duration": 35.2,
+  "removed": [
+    {
+      "start": 0,
+      "end": 2.5,
+      "reason": "Preparação antes da primeira palavra"
+    },
+    {
+      "start": 35.5,
+      "end": 38.83,
+      "reason": "Trecho depois da conclusão, substituído pela vinheta solicitada"
+    }
+  ],
+  "outro": "Logo oficial em azul, nome iB Mídias, animação suave e assinatura sonora original; começa após a fala"
+}
