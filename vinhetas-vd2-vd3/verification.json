@@ -1,0 +1,44 @@
+[
+  {
+    "file": "ib-midias-vd2-com-final-logo.mp4",
+    "inputUploadVerified": true,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 60,
+    "originalDuration": 30.433333333333334,
+    "finalDuration": 32.633333,
+    "originalFrames": 1826,
+    "finalFrames": 1958,
+    "mainVideo": "Stream copy, no re-encoding, cropping, or timeline changes",
+    "decodedFrameSamples": "identical",
+    "voice": "Original voice in full; sound added only after the original ends",
+    "outroSeconds": 2.2,
+    "outro": "Same official iB Mídias logo animation and sonic signature as approved video 4",
+    "fullDecode": "passed",
+    "sha256": "aff74998114ed604d837248d95a0ca4555c054d7f6536fd7baa77d78f6e550c0",
+    "bytes": 31933161
+  },
+  {
+    "file": "ib-midias-vd3-com-final-logo.mp4",
+    "inputUploadVerified": true,
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 60,
+    "originalDuration": 28.0,
+    "finalDuration": 30.2,
+    "originalFrames": 1680,
+    "finalFrames": 1812,
+    "mainVideo": "Stream copy, no re-encoding, cropping, or timeline changes",
+    "decodedFrameSamples": "identical",
+    "voice": "Original voice in full; sound added only after the original ends",
+    "outroSeconds": 2.2,
+    "outro": "Same official iB Mídias logo animation and sonic signature as approved video 4",
+    "fullDecode": "passed",
+    "sha256": "68aed91575a4d7a155b68a54f0ee9033461b6973052df82c7e67125dfe6311b4",
+    "bytes": 29438481
+  }
+]
