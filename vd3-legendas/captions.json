@@ -1,0 +1,1179 @@
+{
+  "sourceTimeline": "Cortes editoriais em edit.json, sem mudança de velocidade",
+  "placement": {
+    "centerX": 540,
+    "centerY": 1490,
+    "maxBoxWidth": 866
+  },
+  "groups": [
+    {
+      "start": 0.1567,
+      "end": 1.4166999999999998,
+      "words": [
+        {
+          "text": "Dono",
+          "sourceStart": 3.14,
+          "sourceEnd": 3.54,
+          "start": 0.1567,
+          "end": 0.5567,
+          "highlight": false
+        },
+        {
+          "text": "de",
+          "sourceStart": 3.54,
+          "sourceEnd": 3.66,
+          "start": 0.5567,
+          "end": 0.6767,
+          "highlight": false
+        },
+        {
+          "text": "vidraçaria,",
+          "sourceStart": 3.66,
+          "sourceEnd": 4.22,
+          "start": 0.6767,
+          "end": 1.2367,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 108.0234375,
+        "y": 1439.0,
+        "width": 863.953125,
+        "height": 102
+      }
+    },
+    {
+      "start": 1.4367,
+      "end": 1.7967,
+      "words": [
+        {
+          "text": "você",
+          "sourceStart": 4.42,
+          "sourceEnd": 4.58,
+          "start": 1.4367,
+          "end": 1.5967,
+          "highlight": false
+        },
+        {
+          "text": "quer",
+          "sourceStart": 4.58,
+          "sourceEnd": 4.78,
+          "start": 1.5967,
+          "end": 1.7967,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 306.90625,
+        "y": 1439.0,
+        "width": 466.1875,
+        "height": 102
+      }
+    },
+    {
+      "start": 1.7967,
+      "end": 2.6167,
+      "words": [
+        {
+          "text": "parar",
+          "sourceStart": 4.78,
+          "sourceEnd": 5.12,
+          "start": 1.7967,
+          "end": 2.1367,
+          "highlight": false
+        },
+        {
+          "text": "de",
+          "sourceStart": 5.12,
+          "sourceEnd": 5.26,
+          "start": 2.1367,
+          "end": 2.2767,
+          "highlight": false
+        },
+        {
+          "text": "depender",
+          "sourceStart": 5.26,
+          "sourceEnd": 5.6,
+          "start": 2.2767,
+          "end": 2.6167,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 132.140625,
+        "y": 1439.0,
+        "width": 815.71875,
+        "height": 102
+      }
+    },
+    {
+      "start": 2.6167,
+      "end": 3.7767,
+      "words": [
+        {
+          "text": "só",
+          "sourceStart": 5.6,
+          "sourceEnd": 5.86,
+          "start": 2.6167,
+          "end": 2.8767,
+          "highlight": false
+        },
+        {
+          "text": "de",
+          "sourceStart": 5.86,
+          "sourceEnd": 6.0,
+          "start": 2.8767,
+          "end": 3.0167,
+          "highlight": false
+        },
+        {
+          "text": "indicação?",
+          "sourceStart": 6.0,
+          "sourceEnd": 6.58,
+          "start": 3.0167,
+          "end": 3.5967,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 179.546875,
+        "y": 1439.0,
+        "width": 720.90625,
+        "height": 102
+      }
+    },
+    {
+      "start": 4.3367,
+      "end": 4.6967,
+      "words": [
+        {
+          "text": "Então,",
+          "sourceStart": 7.32,
+          "sourceEnd": 7.5,
+          "start": 4.3367,
+          "end": 4.5167,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 383.1875,
+        "y": 1439.0,
+        "width": 313.625,
+        "height": 102
+      }
+    },
+    {
+      "start": 5.0217,
+      "end": 5.4167,
+      "words": [
+        {
+          "text": "aqui",
+          "sourceStart": 8.005,
+          "sourceEnd": 8.28,
+          "start": 5.0217,
+          "end": 5.2967,
+          "highlight": false
+        },
+        {
+          "text": "na",
+          "sourceStart": 8.28,
+          "sourceEnd": 8.4,
+          "start": 5.2967,
+          "end": 5.4167,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 361.1640625,
+        "y": 1439.0,
+        "width": 357.671875,
+        "height": 102
+      }
+    },
+    {
+      "start": 5.4167,
+      "end": 6.0367,
+      "words": [
+        {
+          "text": "iB",
+          "sourceStart": 8.4,
+          "sourceEnd": 8.56,
+          "start": 5.4167,
+          "end": 5.5767,
+          "highlight": false
+        },
+        {
+          "text": "Mídias,",
+          "sourceStart": 8.56,
+          "sourceEnd": 9.0,
+          "start": 5.5767,
+          "end": 6.0167,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 330.328125,
+        "y": 1439.0,
+        "width": 419.34375,
+        "height": 102
+      }
+    },
+    {
+      "start": 6.0367,
+      "end": 6.6767,
+      "words": [
+        {
+          "text": "nós",
+          "sourceStart": 9.02,
+          "sourceEnd": 9.12,
+          "start": 6.0367,
+          "end": 6.1367,
+          "highlight": false
+        },
+        {
+          "text": "trabalhamos",
+          "sourceStart": 9.12,
+          "sourceEnd": 9.66,
+          "start": 6.1367,
+          "end": 6.6767,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 158.765625,
+        "y": 1439.0,
+        "width": 762.46875,
+        "height": 102
+      }
+    },
+    {
+      "start": 6.6767,
+      "end": 7.7967,
+      "words": [
+        {
+          "text": "com",
+          "sourceStart": 9.66,
+          "sourceEnd": 9.86,
+          "start": 6.6767,
+          "end": 6.8767,
+          "highlight": false
+        },
+        {
+          "text": "várias",
+          "sourceStart": 9.86,
+          "sourceEnd": 10.12,
+          "start": 6.8767,
+          "end": 7.1367,
+          "highlight": false
+        },
+        {
+          "text": "vidraçarias",
+          "sourceStart": 10.12,
+          "sourceEnd": 10.78,
+          "start": 7.1367,
+          "end": 7.7967,
+          "highlight": false
+        }
+      ],
+      "fontSize": 54,
+      "box": {
+        "x": 112.6953125,
+        "y": 1445.0,
+        "width": 854.609375,
+        "height": 90
+      }
+    },
+    {
+      "start": 7.7967,
+      "end": 8.316699999999999,
+      "words": [
+        {
+          "text": "aqui",
+          "sourceStart": 10.78,
+          "sourceEnd": 11.12,
+          "start": 7.7967,
+          "end": 8.1367,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 422.1015625,
+        "y": 1439.0,
+        "width": 235.796875,
+        "height": 102
+      }
+    },
+    {
+      "start": 8.7517,
+      "end": 9.4567,
+      "words": [
+        {
+          "text": "E",
+          "sourceStart": 11.735,
+          "sourceEnd": 11.88,
+          "start": 8.7517,
+          "end": 8.8967,
+          "highlight": false
+        },
+        {
+          "text": "nós",
+          "sourceStart": 11.88,
+          "sourceEnd": 12.08,
+          "start": 8.8967,
+          "end": 9.0967,
+          "highlight": false
+        },
+        {
+          "text": "conseguimos",
+          "sourceStart": 12.08,
+          "sourceEnd": 12.44,
+          "start": 9.0967,
+          "end": 9.4567,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 138.453125,
+        "y": 1439.0,
+        "width": 803.09375,
+        "height": 102
+      }
+    },
+    {
+      "start": 9.4567,
+      "end": 10.4367,
+      "words": [
+        {
+          "text": "alcançar",
+          "sourceStart": 12.44,
+          "sourceEnd": 13.18,
+          "start": 9.4567,
+          "end": 10.1967,
+          "highlight": false
+        },
+        {
+          "text": "mais",
+          "sourceStart": 13.18,
+          "sourceEnd": 13.42,
+          "start": 10.1967,
+          "end": 10.4367,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 222.7265625,
+        "y": 1439.0,
+        "width": 634.546875,
+        "height": 102
+      }
+    },
+    {
+      "start": 10.4367,
+      "end": 11.5767,
+      "words": [
+        {
+          "text": "de",
+          "sourceStart": 13.42,
+          "sourceEnd": 13.68,
+          "start": 10.4367,
+          "end": 10.6967,
+          "highlight": false
+        },
+        {
+          "text": "30%",
+          "sourceStart": 13.68,
+          "sourceEnd": 14.56,
+          "start": 10.6967,
+          "end": 11.5767,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 382.140625,
+        "y": 1439.0,
+        "width": 315.71875,
+        "height": 102
+      }
+    },
+    {
+      "start": 11.5767,
+      "end": 12.4167,
+      "words": [
+        {
+          "text": "de",
+          "sourceStart": 14.56,
+          "sourceEnd": 14.8,
+          "start": 11.5767,
+          "end": 11.8167,
+          "highlight": false
+        },
+        {
+          "text": "conversão",
+          "sourceStart": 14.8,
+          "sourceEnd": 15.4,
+          "start": 11.8167,
+          "end": 12.4167,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 235.390625,
+        "y": 1439.0,
+        "width": 609.21875,
+        "height": 102
+      }
+    },
+    {
+      "start": 12.4167,
+      "end": 13.0967,
+      "words": [
+        {
+          "text": "no",
+          "sourceStart": 15.4,
+          "sourceEnd": 15.54,
+          "start": 12.4167,
+          "end": 12.5567,
+          "highlight": false
+        },
+        {
+          "text": "WhatsApp.",
+          "sourceStart": 15.54,
+          "sourceEnd": 15.9,
+          "start": 12.5567,
+          "end": 12.9167,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 238.71875,
+        "y": 1439.0,
+        "width": 602.5625,
+        "height": 102
+      }
+    },
+    {
+      "start": 13.2767,
+      "end": 13.5967,
+      "words": [
+        {
+          "text": "O",
+          "sourceStart": 16.26,
+          "sourceEnd": 16.36,
+          "start": 13.2767,
+          "end": 13.3767,
+          "highlight": false
+        },
+        {
+          "text": "pessoal",
+          "sourceStart": 16.36,
+          "sourceEnd": 16.58,
+          "start": 13.3767,
+          "end": 13.5967,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 315.328125,
+        "y": 1439.0,
+        "width": 449.34375,
+        "height": 102
+      }
+    },
+    {
+      "start": 13.5967,
+      "end": 13.9967,
+      "words": [
+        {
+          "text": "que",
+          "sourceStart": 16.58,
+          "sourceEnd": 16.8,
+          "start": 13.5967,
+          "end": 13.8167,
+          "highlight": false
+        },
+        {
+          "text": "chega",
+          "sourceStart": 16.8,
+          "sourceEnd": 16.98,
+          "start": 13.8167,
+          "end": 13.9967,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 305.828125,
+        "y": 1439.0,
+        "width": 468.34375,
+        "height": 102
+      }
+    },
+    {
+      "start": 13.9967,
+      "end": 14.8367,
+      "words": [
+        {
+          "text": "pedindo",
+          "sourceStart": 16.98,
+          "sourceEnd": 17.36,
+          "start": 13.9967,
+          "end": 14.3767,
+          "highlight": false
+        },
+        {
+          "text": "informação,",
+          "sourceStart": 17.36,
+          "sourceEnd": 17.64,
+          "start": 14.3767,
+          "end": 14.6567,
+          "highlight": false
+        }
+      ],
+      "fontSize": 60,
+      "box": {
+        "x": 117.7265625,
+        "y": 1441.5,
+        "width": 844.546875,
+        "height": 97
+      }
+    },
+    {
+      "start": 15.2567,
+      "end": 15.7567,
+      "words": [
+        {
+          "text": "orçamento",
+          "sourceStart": 18.24,
+          "sourceEnd": 18.74,
+          "start": 15.2567,
+          "end": 15.7567,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 286.2265625,
+        "y": 1439.0,
+        "width": 507.546875,
+        "height": 102
+      }
+    },
+    {
+      "start": 15.7567,
+      "end": 16.8567,
+      "words": [
+        {
+          "text": "acaba",
+          "sourceStart": 18.74,
+          "sourceEnd": 19.14,
+          "start": 15.7567,
+          "end": 16.1567,
+          "highlight": false
+        },
+        {
+          "text": "fechando.",
+          "sourceStart": 19.14,
+          "sourceEnd": 19.66,
+          "start": 16.1567,
+          "end": 16.6767,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 173.234375,
+        "y": 1439.0,
+        "width": 733.53125,
+        "height": 102
+      }
+    },
+    {
+      "start": 17.1167,
+      "end": 17.6367,
+      "words": [
+        {
+          "text": "Então,",
+          "sourceStart": 20.1,
+          "sourceEnd": 20.24,
+          "start": 17.1167,
+          "end": 17.2567,
+          "highlight": false
+        },
+        {
+          "text": "se",
+          "sourceStart": 20.28,
+          "sourceEnd": 20.38,
+          "start": 17.2967,
+          "end": 17.3967,
+          "highlight": false
+        },
+        {
+          "text": "você",
+          "sourceStart": 20.38,
+          "sourceEnd": 20.62,
+          "start": 17.3967,
+          "end": 17.6367,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 225.2890625,
+        "y": 1439.0,
+        "width": 629.421875,
+        "height": 102
+      }
+    },
+    {
+      "start": 17.6367,
+      "end": 18.1567,
+      "words": [
+        {
+          "text": "quer,",
+          "sourceStart": 20.62,
+          "sourceEnd": 20.96,
+          "start": 17.6367,
+          "end": 17.9767,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 403.5390625,
+        "y": 1439.0,
+        "width": 272.921875,
+        "height": 102
+      }
+    },
+    {
+      "start": 18.3367,
+      "end": 18.6767,
+      "words": [
+        {
+          "text": "É,",
+          "sourceStart": 21.32,
+          "sourceEnd": 21.4,
+          "start": 18.3367,
+          "end": 18.4167,
+          "highlight": false
+        },
+        {
+          "text": "a",
+          "sourceStart": 21.4,
+          "sourceEnd": 21.44,
+          "start": 18.4167,
+          "end": 18.4567,
+          "highlight": false
+        },
+        {
+          "text": "cada",
+          "sourceStart": 21.44,
+          "sourceEnd": 21.66,
+          "start": 18.4567,
+          "end": 18.6767,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 334.5859375,
+        "y": 1439.0,
+        "width": 410.828125,
+        "height": 102
+      }
+    },
+    {
+      "start": 18.6767,
+      "end": 19.0567,
+      "words": [
+        {
+          "text": "10,",
+          "sourceStart": 21.66,
+          "sourceEnd": 21.98,
+          "start": 18.6767,
+          "end": 18.9967,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 466.5078125,
+        "y": 1439.0,
+        "width": 146.984375,
+        "height": 102
+      }
+    },
+    {
+      "start": 19.0567,
+      "end": 20.0367,
+      "words": [
+        {
+          "text": "3",
+          "sourceStart": 22.04,
+          "sourceEnd": 22.28,
+          "start": 19.0567,
+          "end": 19.2967,
+          "highlight": false
+        },
+        {
+          "text": "pessoas",
+          "sourceStart": 22.28,
+          "sourceEnd": 22.64,
+          "start": 19.2967,
+          "end": 19.6567,
+          "highlight": false
+        },
+        {
+          "text": "fechando",
+          "sourceStart": 22.64,
+          "sourceEnd": 23.02,
+          "start": 19.6567,
+          "end": 20.0367,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 116.28125,
+        "y": 1439.0,
+        "width": 847.4375,
+        "height": 102
+      }
+    },
+    {
+      "start": 20.0367,
+      "end": 20.5567,
+      "words": [
+        {
+          "text": "direto",
+          "sourceStart": 23.02,
+          "sourceEnd": 23.22,
+          "start": 20.0367,
+          "end": 20.2367,
+          "highlight": false
+        },
+        {
+          "text": "com",
+          "sourceStart": 23.22,
+          "sourceEnd": 23.34,
+          "start": 20.2367,
+          "end": 20.3567,
+          "highlight": false
+        },
+        {
+          "text": "você",
+          "sourceStart": 23.34,
+          "sourceEnd": 23.54,
+          "start": 20.3567,
+          "end": 20.5567,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 184.7109375,
+        "y": 1439.0,
+        "width": 710.578125,
+        "height": 102
+      }
+    },
+    {
+      "start": 20.5567,
+      "end": 21.276699999999998,
+      "words": [
+        {
+          "text": "no",
+          "sourceStart": 23.54,
+          "sourceEnd": 23.66,
+          "start": 20.5567,
+          "end": 20.6767,
+          "highlight": false
+        },
+        {
+          "text": "seu",
+          "sourceStart": 23.66,
+          "sourceEnd": 23.76,
+          "start": 20.6767,
+          "end": 20.7767,
+          "highlight": false
+        },
+        {
+          "text": "WhatsApp,",
+          "sourceStart": 23.76,
+          "sourceEnd": 24.08,
+          "start": 20.7767,
+          "end": 21.0967,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 161.359375,
+        "y": 1439.0,
+        "width": 757.28125,
+        "height": 102
+      }
+    },
+    {
+      "start": 21.5917,
+      "end": 21.9967,
+      "words": [
+        {
+          "text": "clica",
+          "sourceStart": 24.575,
+          "sourceEnd": 24.76,
+          "start": 21.5917,
+          "end": 21.7767,
+          "highlight": false
+        },
+        {
+          "text": "aqui",
+          "sourceStart": 24.76,
+          "sourceEnd": 24.98,
+          "start": 21.7767,
+          "end": 21.9967,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 310.2421875,
+        "y": 1439.0,
+        "width": 459.515625,
+        "height": 102
+      }
+    },
+    {
+      "start": 21.9967,
+      "end": 22.7767,
+      "words": [
+        {
+          "text": "no",
+          "sourceStart": 24.98,
+          "sourceEnd": 25.02,
+          "start": 21.9967,
+          "end": 22.0367,
+          "highlight": false
+        },
+        {
+          "text": "Saiba",
+          "sourceStart": 25.02,
+          "sourceEnd": 25.32,
+          "start": 22.0367,
+          "end": 22.3367,
+          "highlight": true
+        },
+        {
+          "text": "mais",
+          "sourceStart": 25.32,
+          "sourceEnd": 25.6,
+          "start": 22.3367,
+          "end": 22.6167,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 243.4453125,
+        "y": 1439.0,
+        "width": 593.109375,
+        "height": 102
+      }
+    },
+    {
+      "start": 22.7767,
+      "end": 23.9967,
+      "words": [
+        {
+          "text": "preenche",
+          "sourceStart": 25.76,
+          "sourceEnd": 26.08,
+          "start": 22.7767,
+          "end": 23.0967,
+          "highlight": false
+        },
+        {
+          "text": "o",
+          "sourceStart": 26.08,
+          "sourceEnd": 26.2,
+          "start": 23.0967,
+          "end": 23.2167,
+          "highlight": false
+        },
+        {
+          "text": "formulário",
+          "sourceStart": 26.2,
+          "sourceEnd": 26.8,
+          "start": 23.2167,
+          "end": 23.8167,
+          "highlight": false
+        }
+      ],
+      "fontSize": 54,
+      "box": {
+        "x": 113.0703125,
+        "y": 1445.0,
+        "width": 853.859375,
+        "height": 90
+      }
+    },
+    {
+      "start": 24.1867,
+      "end": 24.3567,
+      "words": [
+        {
+          "text": "que",
+          "sourceStart": 27.17,
+          "sourceEnd": 27.18,
+          "start": 24.1867,
+          "end": 24.206699999999998,
+          "highlight": false
+        },
+        {
+          "text": "eu",
+          "sourceStart": 27.18,
+          "sourceEnd": 27.24,
+          "start": 24.1967,
+          "end": 24.2567,
+          "highlight": false
+        },
+        {
+          "text": "vou",
+          "sourceStart": 27.24,
+          "sourceEnd": 27.34,
+          "start": 24.2567,
+          "end": 24.3567,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 293.6484375,
+        "y": 1439.0,
+        "width": 492.703125,
+        "height": 102
+      }
+    },
+    {
+      "start": 24.3567,
+      "end": 25.0767,
+      "words": [
+        {
+          "text": "fazer",
+          "sourceStart": 27.34,
+          "sourceEnd": 27.46,
+          "start": 24.3567,
+          "end": 24.4767,
+          "highlight": false
+        },
+        {
+          "text": "reunião",
+          "sourceStart": 27.46,
+          "sourceEnd": 27.78,
+          "start": 24.4767,
+          "end": 24.7967,
+          "highlight": false
+        },
+        {
+          "text": "contigo",
+          "sourceStart": 27.78,
+          "sourceEnd": 28.06,
+          "start": 24.7967,
+          "end": 25.0767,
+          "highlight": false
+        }
+      ],
+      "fontSize": 56,
+      "box": {
+        "x": 114.7734375,
+        "y": 1444.0,
+        "width": 850.453125,
+        "height": 92
+      }
+    },
+    {
+      "start": 25.0767,
+      "end": 25.4167,
+      "words": [
+        {
+          "text": "e",
+          "sourceStart": 28.06,
+          "sourceEnd": 28.18,
+          "start": 25.0767,
+          "end": 25.1967,
+          "highlight": false
+        },
+        {
+          "text": "te",
+          "sourceStart": 28.18,
+          "sourceEnd": 28.2,
+          "start": 25.1967,
+          "end": 25.2167,
+          "highlight": false
+        },
+        {
+          "text": "mostrar",
+          "sourceStart": 28.2,
+          "sourceEnd": 28.4,
+          "start": 25.2167,
+          "end": 25.4167,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 255.8515625,
+        "y": 1439.0,
+        "width": 568.296875,
+        "height": 102
+      }
+    },
+    {
+      "start": 25.4167,
+      "end": 26.0767,
+      "words": [
+        {
+          "text": "como",
+          "sourceStart": 28.4,
+          "sourceEnd": 28.82,
+          "start": 25.4167,
+          "end": 25.8367,
+          "highlight": false
+        },
+        {
+          "text": "a",
+          "sourceStart": 28.82,
+          "sourceEnd": 28.94,
+          "start": 25.8367,
+          "end": 25.9567,
+          "highlight": false
+        },
+        {
+          "text": "gente",
+          "sourceStart": 28.94,
+          "sourceEnd": 29.06,
+          "start": 25.9567,
+          "end": 26.0767,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 243.953125,
+        "y": 1439.0,
+        "width": 592.09375,
+        "height": 102
+      }
+    },
+    {
+      "start": 26.0767,
+      "end": 26.4967,
+      "words": [
+        {
+          "text": "faz",
+          "sourceStart": 29.06,
+          "sourceEnd": 29.28,
+          "start": 26.0767,
+          "end": 26.2967,
+          "highlight": false
+        },
+        {
+          "text": "isso",
+          "sourceStart": 29.28,
+          "sourceEnd": 29.48,
+          "start": 26.2967,
+          "end": 26.4967,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 354.1171875,
+        "y": 1439.0,
+        "width": 371.765625,
+        "height": 102
+      }
+    },
+    {
+      "start": 26.4967,
+      "end": 26.9767,
+      "words": [
+        {
+          "text": "para",
+          "sourceStart": 29.48,
+          "sourceEnd": 29.64,
+          "start": 26.4967,
+          "end": 26.6567,
+          "highlight": false
+        },
+        {
+          "text": "alcançar",
+          "sourceStart": 29.64,
+          "sourceEnd": 29.96,
+          "start": 26.6567,
+          "end": 26.9767,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 213.8359375,
+        "y": 1439.0,
+        "width": 652.328125,
+        "height": 102
+      }
+    },
+    {
+      "start": 26.9767,
+      "end": 27.97,
+      "words": [
+        {
+          "text": "o",
+          "sourceStart": 29.96,
+          "sourceEnd": 30.1,
+          "start": 26.9767,
+          "end": 27.1167,
+          "highlight": false
+        },
+        {
+          "text": "seu",
+          "sourceStart": 30.1,
+          "sourceEnd": 30.14,
+          "start": 27.1167,
+          "end": 27.1567,
+          "highlight": false
+        },
+        {
+          "text": "resultado.",
+          "sourceStart": 30.14,
+          "sourceEnd": 30.52,
+          "start": 27.1567,
+          "end": 27.5367,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 181.140625,
+        "y": 1439.0,
+        "width": 717.71875,
+        "height": 102
+      }
+    }
+  ]
+}

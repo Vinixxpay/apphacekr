@@ -1,0 +1,26 @@
+{
+  "source": "vd3.MOV",
+  "fps": 60,
+  "segments": [
+    {
+      "sourceStart": 2.9833333333333334,
+      "sourceEnd": 30.983333333333334,
+      "outputStart": 0,
+      "frames": 1680
+    }
+  ],
+  "duration": 28.0,
+  "removed": [
+    {
+      "start": 0,
+      "end": 2.9833333333333334,
+      "reason": "Preparação e espera antes da primeira frase"
+    },
+    {
+      "start": 30.983333333333334,
+      "end": 33.698333,
+      "reason": "Trecho posterior ao encerramento; frase final inteira preservada"
+    }
+  ],
+  "decision": "Fala sem repetição completa de tomada. Preservado todo o conteúdo falado, incluindo a explicação da conversão e o CTA. Sem acelerar a voz."
+}

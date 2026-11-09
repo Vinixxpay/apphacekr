@@ -1,0 +1,607 @@
+{
+  "language": "pt-BR",
+  "words": [
+    {
+      "text": "Dono",
+      "sourceStart": 3.14,
+      "sourceEnd": 3.54,
+      "start": 0.1567,
+      "end": 0.5567
+    },
+    {
+      "text": "de",
+      "sourceStart": 3.54,
+      "sourceEnd": 3.66,
+      "start": 0.5567,
+      "end": 0.6767
+    },
+    {
+      "text": "vidraçaria,",
+      "sourceStart": 3.66,
+      "sourceEnd": 4.22,
+      "start": 0.6767,
+      "end": 1.2367
+    },
+    {
+      "text": "você",
+      "sourceStart": 4.42,
+      "sourceEnd": 4.58,
+      "start": 1.4367,
+      "end": 1.5967
+    },
+    {
+      "text": "quer",
+      "sourceStart": 4.58,
+      "sourceEnd": 4.78,
+      "start": 1.5967,
+      "end": 1.7967
+    },
+    {
+      "text": "parar",
+      "sourceStart": 4.78,
+      "sourceEnd": 5.12,
+      "start": 1.7967,
+      "end": 2.1367
+    },
+    {
+      "text": "de",
+      "sourceStart": 5.12,
+      "sourceEnd": 5.26,
+      "start": 2.1367,
+      "end": 2.2767
+    },
+    {
+      "text": "depender",
+      "sourceStart": 5.26,
+      "sourceEnd": 5.6,
+      "start": 2.2767,
+      "end": 2.6167
+    },
+    {
+      "text": "só",
+      "sourceStart": 5.6,
+      "sourceEnd": 5.86,
+      "start": 2.6167,
+      "end": 2.8767
+    },
+    {
+      "text": "de",
+      "sourceStart": 5.86,
+      "sourceEnd": 6.0,
+      "start": 2.8767,
+      "end": 3.0167
+    },
+    {
+      "text": "indicação?",
+      "sourceStart": 6.0,
+      "sourceEnd": 6.58,
+      "start": 3.0167,
+      "end": 3.5967
+    },
+    {
+      "text": "Então,",
+      "sourceStart": 7.32,
+      "sourceEnd": 7.5,
+      "start": 4.3367,
+      "end": 4.5167
+    },
+    {
+      "text": "aqui",
+      "sourceStart": 8.005,
+      "sourceEnd": 8.28,
+      "start": 5.0217,
+      "end": 5.2967
+    },
+    {
+      "text": "na",
+      "sourceStart": 8.28,
+      "sourceEnd": 8.4,
+      "start": 5.2967,
+      "end": 5.4167
+    },
+    {
+      "text": "iB",
+      "sourceStart": 8.4,
+      "sourceEnd": 8.56,
+      "start": 5.4167,
+      "end": 5.5767
+    },
+    {
+      "text": "Mídias,",
+      "sourceStart": 8.56,
+      "sourceEnd": 9.0,
+      "start": 5.5767,
+      "end": 6.0167
+    },
+    {
+      "text": "nós",
+      "sourceStart": 9.02,
+      "sourceEnd": 9.12,
+      "start": 6.0367,
+      "end": 6.1367
+    },
+    {
+      "text": "trabalhamos",
+      "sourceStart": 9.12,
+      "sourceEnd": 9.66,
+      "start": 6.1367,
+      "end": 6.6767
+    },
+    {
+      "text": "com",
+      "sourceStart": 9.66,
+      "sourceEnd": 9.86,
+      "start": 6.6767,
+      "end": 6.8767
+    },
+    {
+      "text": "várias",
+      "sourceStart": 9.86,
+      "sourceEnd": 10.12,
+      "start": 6.8767,
+      "end": 7.1367
+    },
+    {
+      "text": "vidraçarias",
+      "sourceStart": 10.12,
+      "sourceEnd": 10.78,
+      "start": 7.1367,
+      "end": 7.7967
+    },
+    {
+      "text": "aqui",
+      "sourceStart": 10.78,
+      "sourceEnd": 11.12,
+      "start": 7.7967,
+      "end": 8.1367
+    },
+    {
+      "text": "E",
+      "sourceStart": 11.735,
+      "sourceEnd": 11.88,
+      "start": 8.7517,
+      "end": 8.8967
+    },
+    {
+      "text": "nós",
+      "sourceStart": 11.88,
+      "sourceEnd": 12.08,
+      "start": 8.8967,
+      "end": 9.0967
+    },
+    {
+      "text": "conseguimos",
+      "sourceStart": 12.08,
+      "sourceEnd": 12.44,
+      "start": 9.0967,
+      "end": 9.4567
+    },
+    {
+      "text": "alcançar",
+      "sourceStart": 12.44,
+      "sourceEnd": 13.18,
+      "start": 9.4567,
+      "end": 10.1967
+    },
+    {
+      "text": "mais",
+      "sourceStart": 13.18,
+      "sourceEnd": 13.42,
+      "start": 10.1967,
+      "end": 10.4367
+    },
+    {
+      "text": "de",
+      "sourceStart": 13.42,
+      "sourceEnd": 13.68,
+      "start": 10.4367,
+      "end": 10.6967
+    },
+    {
+      "text": "30%",
+      "sourceStart": 13.68,
+      "sourceEnd": 14.56,
+      "start": 10.6967,
+      "end": 11.5767
+    },
+    {
+      "text": "de",
+      "sourceStart": 14.56,
+      "sourceEnd": 14.8,
+      "start": 11.5767,
+      "end": 11.8167
+    },
+    {
+      "text": "conversão",
+      "sourceStart": 14.8,
+      "sourceEnd": 15.4,
+      "start": 11.8167,
+      "end": 12.4167
+    },
+    {
+      "text": "no",
+      "sourceStart": 15.4,
+      "sourceEnd": 15.54,
+      "start": 12.4167,
+      "end": 12.5567
+    },
+    {
+      "text": "WhatsApp.",
+      "sourceStart": 15.54,
+      "sourceEnd": 15.9,
+      "start": 12.5567,
+      "end": 12.9167
+    },
+    {
+      "text": "O",
+      "sourceStart": 16.26,
+      "sourceEnd": 16.36,
+      "start": 13.2767,
+      "end": 13.3767
+    },
+    {
+      "text": "pessoal",
+      "sourceStart": 16.36,
+      "sourceEnd": 16.58,
+      "start": 13.3767,
+      "end": 13.5967
+    },
+    {
+      "text": "que",
+      "sourceStart": 16.58,
+      "sourceEnd": 16.8,
+      "start": 13.5967,
+      "end": 13.8167
+    },
+    {
+      "text": "chega",
+      "sourceStart": 16.8,
+      "sourceEnd": 16.98,
+      "start": 13.8167,
+      "end": 13.9967
+    },
+    {
+      "text": "pedindo",
+      "sourceStart": 16.98,
+      "sourceEnd": 17.36,
+      "start": 13.9967,
+      "end": 14.3767
+    },
+    {
+      "text": "informação,",
+      "sourceStart": 17.36,
+      "sourceEnd": 17.64,
+      "start": 14.3767,
+      "end": 14.6567
+    },
+    {
+      "text": "orçamento",
+      "sourceStart": 18.24,
+      "sourceEnd": 18.74,
+      "start": 15.2567,
+      "end": 15.7567
+    },
+    {
+      "text": "acaba",
+      "sourceStart": 18.74,
+      "sourceEnd": 19.14,
+      "start": 15.7567,
+      "end": 16.1567
+    },
+    {
+      "text": "fechando.",
+      "sourceStart": 19.14,
+      "sourceEnd": 19.66,
+      "start": 16.1567,
+      "end": 16.6767
+    },
+    {
+      "text": "Então,",
+      "sourceStart": 20.1,
+      "sourceEnd": 20.24,
+      "start": 17.1167,
+      "end": 17.2567
+    },
+    {
+      "text": "se",
+      "sourceStart": 20.28,
+      "sourceEnd": 20.38,
+      "start": 17.2967,
+      "end": 17.3967
+    },
+    {
+      "text": "você",
+      "sourceStart": 20.38,
+      "sourceEnd": 20.62,
+      "start": 17.3967,
+      "end": 17.6367
+    },
+    {
+      "text": "quer,",
+      "sourceStart": 20.62,
+      "sourceEnd": 20.96,
+      "start": 17.6367,
+      "end": 17.9767
+    },
+    {
+      "text": "É,",
+      "sourceStart": 21.32,
+      "sourceEnd": 21.4,
+      "start": 18.3367,
+      "end": 18.4167
+    },
+    {
+      "text": "a",
+      "sourceStart": 21.4,
+      "sourceEnd": 21.44,
+      "start": 18.4167,
+      "end": 18.4567
+    },
+    {
+      "text": "cada",
+      "sourceStart": 21.44,
+      "sourceEnd": 21.66,
+      "start": 18.4567,
+      "end": 18.6767
+    },
+    {
+      "text": "10,",
+      "sourceStart": 21.66,
+      "sourceEnd": 21.98,
+      "start": 18.6767,
+      "end": 18.9967
+    },
+    {
+      "text": "3",
+      "sourceStart": 22.04,
+      "sourceEnd": 22.28,
+      "start": 19.0567,
+      "end": 19.2967
+    },
+    {
+      "text": "pessoas",
+      "sourceStart": 22.28,
+      "sourceEnd": 22.64,
+      "start": 19.2967,
+      "end": 19.6567
+    },
+    {
+      "text": "fechando",
+      "sourceStart": 22.64,
+      "sourceEnd": 23.02,
+      "start": 19.6567,
+      "end": 20.0367
+    },
+    {
+      "text": "direto",
+      "sourceStart": 23.02,
+      "sourceEnd": 23.22,
+      "start": 20.0367,
+      "end": 20.2367
+    },
+    {
+      "text": "com",
+      "sourceStart": 23.22,
+      "sourceEnd": 23.34,
+      "start": 20.2367,
+      "end": 20.3567
+    },
+    {
+      "text": "você",
+      "sourceStart": 23.34,
+      "sourceEnd": 23.54,
+      "start": 20.3567,
+      "end": 20.5567
+    },
+    {
+      "text": "no",
+      "sourceStart": 23.54,
+      "sourceEnd": 23.66,
+      "start": 20.5567,
+      "end": 20.6767
+    },
+    {
+      "text": "seu",
+      "sourceStart": 23.66,
+      "sourceEnd": 23.76,
+      "start": 20.6767,
+      "end": 20.7767
+    },
+    {
+      "text": "WhatsApp,",
+      "sourceStart": 23.76,
+      "sourceEnd": 24.08,
+      "start": 20.7767,
+      "end": 21.0967
+    },
+    {
+      "text": "clica",
+      "sourceStart": 24.575,
+      "sourceEnd": 24.76,
+      "start": 21.5917,
+      "end": 21.7767
+    },
+    {
+      "text": "aqui",
+      "sourceStart": 24.76,
+      "sourceEnd": 24.98,
+      "start": 21.7767,
+      "end": 21.9967
+    },
+    {
+      "text": "no",
+      "sourceStart": 24.98,
+      "sourceEnd": 25.02,
+      "start": 21.9967,
+      "end": 22.0367
+    },
+    {
+      "text": "Saiba",
+      "sourceStart": 25.02,
+      "sourceEnd": 25.32,
+      "start": 22.0367,
+      "end": 22.3367
+    },
+    {
+      "text": "mais",
+      "sourceStart": 25.32,
+      "sourceEnd": 25.6,
+      "start": 22.3367,
+      "end": 22.6167
+    },
+    {
+      "text": "preenche",
+      "sourceStart": 25.76,
+      "sourceEnd": 26.08,
+      "start": 22.7767,
+      "end": 23.0967
+    },
+    {
+      "text": "o",
+      "sourceStart": 26.08,
+      "sourceEnd": 26.2,
+      "start": 23.0967,
+      "end": 23.2167
+    },
+    {
+      "text": "formulário",
+      "sourceStart": 26.2,
+      "sourceEnd": 26.8,
+      "start": 23.2167,
+      "end": 23.8167
+    },
+    {
+      "text": "que",
+      "sourceStart": 27.17,
+      "sourceEnd": 27.18,
+      "start": 24.1867,
+      "end": 24.1967
+    },
+    {
+      "text": "eu",
+      "sourceStart": 27.18,
+      "sourceEnd": 27.24,
+      "start": 24.1967,
+      "end": 24.2567
+    },
+    {
+      "text": "vou",
+      "sourceStart": 27.24,
+      "sourceEnd": 27.34,
+      "start": 24.2567,
+      "end": 24.3567
+    },
+    {
+      "text": "fazer",
+      "sourceStart": 27.34,
+      "sourceEnd": 27.46,
+      "start": 24.3567,
+      "end": 24.4767
+    },
+    {
+      "text": "reunião",
+      "sourceStart": 27.46,
+      "sourceEnd": 27.78,
+      "start": 24.4767,
+      "end": 24.7967
+    },
+    {
+      "text": "contigo",
+      "sourceStart": 27.78,
+      "sourceEnd": 28.06,
+      "start": 24.7967,
+      "end": 25.0767
+    },
+    {
+      "text": "e",
+      "sourceStart": 28.06,
+      "sourceEnd": 28.18,
+      "start": 25.0767,
+      "end": 25.1967
+    },
+    {
+      "text": "te",
+      "sourceStart": 28.18,
+      "sourceEnd": 28.2,
+      "start": 25.1967,
+      "end": 25.2167
+    },
+    {
+      "text": "mostrar",
+      "sourceStart": 28.2,
+      "sourceEnd": 28.4,
+      "start": 25.2167,
+      "end": 25.4167
+    },
+    {
+      "text": "como",
+      "sourceStart": 28.4,
+      "sourceEnd": 28.82,
+      "start": 25.4167,
+      "end": 25.8367
+    },
+    {
+      "text": "a",
+      "sourceStart": 28.82,
+      "sourceEnd": 28.94,
+      "start": 25.8367,
+      "end": 25.9567
+    },
+    {
+      "text": "gente",
+      "sourceStart": 28.94,
+      "sourceEnd": 29.06,
+      "start": 25.9567,
+      "end": 26.0767
+    },
+    {
+      "text": "faz",
+      "sourceStart": 29.06,
+      "sourceEnd": 29.28,
+      "start": 26.0767,
+      "end": 26.2967
+    },
+    {
+      "text": "isso",
+      "sourceStart": 29.28,
+      "sourceEnd": 29.48,
+      "start": 26.2967,
+      "end": 26.4967
+    },
+    {
+      "text": "para",
+      "sourceStart": 29.48,
+      "sourceEnd": 29.64,
+      "start": 26.4967,
+      "end": 26.6567
+    },
+    {
+      "text": "alcançar",
+      "sourceStart": 29.64,
+      "sourceEnd": 29.96,
+      "start": 26.6567,
+      "end": 26.9767
+    },
+    {
+      "text": "o",
+      "sourceStart": 29.96,
+      "sourceEnd": 30.1,
+      "start": 26.9767,
+      "end": 27.1167
+    },
+    {
+      "text": "seu",
+      "sourceStart": 30.1,
+      "sourceEnd": 30.14,
+      "start": 27.1167,
+      "end": 27.1567
+    },
+    {
+      "text": "resultado.",
+      "sourceStart": 30.14,
+      "sourceEnd": 30.52,
+      "start": 27.1567,
+      "end": 27.5367
+    }
+  ]
+}
