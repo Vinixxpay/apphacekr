@@ -1,0 +1,74 @@
+{
+  "file": "ib-midias-vd1-editado.mp4",
+  "video": "H.264 1080x1920 30 fps",
+  "audio": "AAC",
+  "duration": 75.733333,
+  "frames": 2272,
+  "style": {
+    "palette": [
+      "#0131CD",
+      "#FFFFFF",
+      "#B9FC01"
+    ],
+    "captions": false,
+    "illustrations": false,
+    "splitScreen": false,
+    "musicVolume": 0.025
+  },
+  "brandColors": {
+    "blue": {
+      "rgb": [
+        1,
+        49,
+        205
+      ],
+      "pixels": 3413
+    },
+    "white": {
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "pixels": 14538
+    },
+    "lime": {
+      "rgb": [
+        185,
+        252,
+        1
+      ],
+      "pixels": 234
+    }
+  },
+  "voicePreservation": [
+    {
+      "interval": [
+        0.4,
+        4.4
+      ],
+      "correlation": 0.9999,
+      "offsetSeconds": 0.0
+    },
+    {
+      "interval": [
+        25.4,
+        29.4
+      ],
+      "correlation": 0.999894,
+      "offsetSeconds": 0.0
+    },
+    {
+      "interval": [
+        70.73333333333333,
+        75.69333333333333
+      ],
+      "correlation": 0.999915,
+      "offsetSeconds": 0.0
+    }
+  ],
+  "speed": 1.0,
+  "fullDecode": "passed",
+  "bytes": 78455295,
+  "sha256": "43bb81090dbe1350ebb126309badc37e9f828b1c1051fc512383bc3f9b3759ac"
+}

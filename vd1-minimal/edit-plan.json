@@ -1,0 +1,196 @@
+{
+  "parts": [
+    {
+      "start": 4.1,
+      "end": 31.866666666666667,
+      "output": 0
+    },
+    {
+      "start": 32.666666666666664,
+      "end": 77.0,
+      "output": 27.766666666666666
+    },
+    {
+      "start": 78.63333333333334,
+      "end": 82.26666666666667,
+      "output": 72.1
+    }
+  ],
+  "frames": 2272,
+  "duration": 75.73333333333333,
+  "zooms": [
+    {
+      "start": 0.14000000000000057,
+      "scale": 1.0,
+      "fast": false
+    },
+    {
+      "start": 5.48,
+      "scale": 1.18,
+      "fast": true
+    },
+    {
+      "start": 5.92,
+      "scale": 1.06,
+      "fast": false
+    },
+    {
+      "start": 7.28,
+      "scale": 1.04,
+      "fast": false
+    },
+    {
+      "start": 7.460000000000001,
+      "scale": 1.1,
+      "fast": false
+    },
+    {
+      "start": 13.299999999999999,
+      "scale": 1.0,
+      "fast": false
+    },
+    {
+      "start": 14.12,
+      "scale": 1.06,
+      "fast": false
+    },
+    {
+      "start": 19.4,
+      "scale": 1.1,
+      "fast": false
+    },
+    {
+      "start": 23.0,
+      "scale": 1.0,
+      "fast": false
+    },
+    {
+      "start": 26.5,
+      "scale": 1.18,
+      "fast": true
+    },
+    {
+      "start": 27.800000000000004,
+      "scale": 1.06,
+      "fast": false
+    },
+    {
+      "start": 28.3,
+      "scale": 1.04,
+      "fast": false
+    },
+    {
+      "start": 29.190000000000005,
+      "scale": 1.1,
+      "fast": false
+    },
+    {
+      "start": 35.74999999999999,
+      "scale": 1.0,
+      "fast": false
+    },
+    {
+      "start": 37.96999999999999,
+      "scale": 1.06,
+      "fast": false
+    },
+    {
+      "start": 43.37,
+      "scale": 1.1,
+      "fast": false
+    },
+    {
+      "start": 47.65,
+      "scale": 1.0,
+      "fast": false
+    },
+    {
+      "start": 53.23000000000001,
+      "scale": 1.06,
+      "fast": false
+    },
+    {
+      "start": 54.51,
+      "scale": 1.1,
+      "fast": false
+    },
+    {
+      "start": 59.910000000000004,
+      "scale": 1.0,
+      "fast": false
+    },
+    {
+      "start": 63.449999999999996,
+      "scale": 1.06,
+      "fast": false
+    },
+    {
+      "start": 66.78999999999999,
+      "scale": 1.1,
+      "fast": false
+    },
+    {
+      "start": 71.00999999999999,
+      "scale": 1.0,
+      "fast": false
+    },
+    {
+      "start": 72.17666666666666,
+      "scale": 1.06,
+      "fast": false
+    },
+    {
+      "start": 73.71666666666665,
+      "scale": 1.18,
+      "fast": true
+    },
+    {
+      "start": 75.51666666666665,
+      "scale": 1.04,
+      "fast": false
+    }
+  ],
+  "edits": [
+    {
+      "source": [
+        0,
+        4.1
+      ],
+      "reason": "Preparação antes da fala"
+    },
+    {
+      "source": [
+        31.866666666666667,
+        32.666666666666664
+      ],
+      "reason": "Trecho abandonado “no seu lucro”; preserva “no seu bolso” e a frase inteira"
+    },
+    {
+      "source": [
+        77.0,
+        78.63333333333334
+      ],
+      "reason": "Pergunta com tropeço na dicção; preserva “Quer vender mais?” e o convite completo ao Saiba Mais"
+    },
+    {
+      "source": [
+        82.26666666666667,
+        86.1426875
+      ],
+      "reason": "Após o fim da fala"
+    }
+  ],
+  "audioPolicy": "Voz original, sem aceleração, clonagem ou remoção de pausas internas às tomadas mantidas.",
+  "source": "vd1.MOV",
+  "style": {
+    "palette": [
+      "#0131CD",
+      "#FFFFFF",
+      "#B9FC01"
+    ],
+    "captions": false,
+    "illustrations": false,
+    "splitScreen": false,
+    "musicVolume": 0.025
+  }
+}

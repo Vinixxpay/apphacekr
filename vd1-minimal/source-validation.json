@@ -1,0 +1,9 @@
+{
+  "sourceName": "vd1.MOV",
+  "originalBytes": 687228025,
+  "checkedPrefixBytes": 131072,
+  "prefixSha256": "aadb21644d80454ebc1bf5cf463bda80ff574c02f7d2c57d829f0119322b774c",
+  "remoteRangeReadMatched": true,
+  "remoteTotalBytesMatched": true,
+  "reusedVerifiedOriginal": true
+}
