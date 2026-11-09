@@ -1,0 +1,33 @@
+{
+  "reference": "ib-midias-vidracarias-video2-estatico.mp4",
+  "output": "ib-midias-vidracarias-video2-estatico-corrigido.mp4",
+  "removedReferenceFrames": [
+    1581,
+    1754
+  ],
+  "removedReferenceSeconds": [
+    52.7,
+    58.46666666666667
+  ],
+  "removedSourceSeconds": [
+    60.3333333333,
+    66.1
+  ],
+  "reason": "First incomplete ads take and recording interruption; complete take with Instagram, Facebook and Google retained once",
+  "captionPatchReferenceFrames": [
+    1754,
+    1997
+  ],
+  "correctedGraphicsFrames": [
+    1581,
+    1824
+  ],
+  "captionPatchOutputSeconds": [
+    52.7,
+    60.8
+  ],
+  "otherTimeline": "Preserved exactly apart from the 173-frame removal",
+  "framing": "Same constant crop, no tracking or animated zoom",
+  "frames": 2298,
+  "duration": 76.6
+}

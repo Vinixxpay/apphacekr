@@ -20,3 +20,18 @@ python scripts/verify.py
 ```
 
 O estágio de composição conserva os SVGs, as cores e as legendas originais. `static-framing.json` registra o recorte fixo e os intervalos da montagem. `verification.json` registra os quadros, a duração, a decodificação completa e a igualdade do áudio com o MP4 de referência.
+
+## Correção da tentativa interrompida por volta dos 57 segundos
+
+Entrega: `entregas/ib-midias-vidracarias-video2-estatico-corrigido.mp4`, com 1min16,6s.
+
+Retira os quadros 1581–1753 da versão estática anterior (52,7–58,4667s), que continham a primeira tentativa dos anúncios e a interrupção de gravação. Mantém uma única exposição completa com Instagram, Facebook e Google. São removidos 173 quadros; o restante da montagem conserva a mesma sequência e o enquadramento fixo aprovado.
+
+A região gráfica dos anúncios foi recomposta com as legendas já revisadas para a tentativa completa, pois a transcrição longa anterior havia fundido as duas tentativas. A recomposição usa o mesmo painel estático e a camada gráfica revisada disponível em `vidracarias-sticker-video2/out/stage-full.mp4`. A partir de 60,8s, retorna à composição original, já sem legenda ativa na emenda. A voz é mantida com a edição correspondente, sem alteração de velocidade, e fades de 3 ms evitam estalos no corte.
+
+```bash
+python scripts/correct_ads.py
+python scripts/verify_corrected.py
+```
+
+`ads-correction.json` registra os pontos da correção, e `corrected-verification.json` registra a duração, os quadros, a correlação do áudio com os trechos mantidos e a decodificação integral.

@@ -1,0 +1,26 @@
+{
+  "file": "ib-midias-vidracarias-video2-estatico-corrigido.mp4",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 2298,
+  "duration": 76.6,
+  "retainedAudioCorrelation": 0.9987372046001242,
+  "removedFrames": [
+    1581,
+    1754
+  ],
+  "removedSeconds": [
+    52.7,
+    58.46666666666667
+  ],
+  "durationRemoved": 5.766666666666667,
+  "completeAdsTake": "Instagram, Facebook e Google, once",
+  "captionPatch": "Aligned to complete retained take using previously reviewed graphics",
+  "framing": "Same fixed crop, no face tracking or animated zoom",
+  "fullDecode": "passed",
+  "bytes": 59778736,
+  "sha256": "56d34e3320ee03ad05d8fe7dcb37b47866cb1c0383ebbaaad7df8234c4dd5aeb"
+}
