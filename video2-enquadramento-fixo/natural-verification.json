@@ -1,0 +1,18 @@
+{
+  "file": "ib-midias-vidracarias-video2-final-natural.mp4",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 2295,
+  "duration": 76.5,
+  "voiceCorrelationAgainstKeptAudio": 0.9970566082608336,
+  "framing": "Same approved constant crop",
+  "closing": "Full correct first clause joined to pode contratar você; abandoned restart excluded",
+  "material": "Eight frames removed entirely inside three measured quiet gaps; no syllables cut",
+  "voiceSpeed": 1,
+  "fullDecode": "passed",
+  "bytes": 67328571,
+  "sha256": "e7f52e6511aca2407a1c39f1c95072f9c3d3b37f9dda2634d6d8304454630c37"
+}

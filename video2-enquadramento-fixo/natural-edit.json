@@ -1,0 +1,35 @@
+{
+  "output": "ib-midias-vidracarias-video2-final-natural.mp4",
+  "framing": "Same fixed crop, no zoom or tracking",
+  "closingSourceSegmentsSeconds": [
+    [
+      77.1,
+      80.7666666667
+    ],
+    [
+      85.7,
+      95.1
+    ]
+  ],
+  "closingSentence": "Agora é hora de mostrar o seu trabalho para quem pode contratar você.",
+  "materialSilenceCutsSourceSeconds": [
+    [
+      29.8,
+      29.9
+    ],
+    [
+      30.3666666667,
+      30.4666666667
+    ],
+    [
+      31.1666666667,
+      31.2333333333
+    ]
+  ],
+  "materialPauseReductionSeconds": 0.26666666666666666,
+  "speed": 1,
+  "frames": 2295,
+  "duration": 76.5,
+  "graphics": "Reviewed synchronized layer, with the same final closing splice; shifted together with the short silence cuts",
+  "audio": "Approved current audio through 63.7s; previously reviewed original-voice closing thereafter. No new or synthesized speech."
+}

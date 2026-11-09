@@ -35,3 +35,20 @@ python scripts/verify_corrected.py
 ```
 
 `ads-correction.json` registra os pontos da correção, e `corrected-verification.json` registra a duração, os quadros, a correlação do áudio com os trechos mantidos e a decodificação integral.
+
+## Fechamento natural e pausas em compra material
+
+Entrega: `entregas/ib-midias-vidracarias-video2-final-natural.mp4`, 1min16,5s.
+
+O fechamento foi remontado com os trechos corretos da gravação: a primeira parte da frase até “quem” (fonte 77,1–80,7667s), seguida de “pode contratar você” e do convite completo (85,7–95,1s). O enquadramento fixo é mantido também no trecho recuperado. A camada gráfica revisada acompanha a mesma emenda de fechamento.
+
+Em “você mede, compra material, instala”, foram retirados oito quadros, distribuídos em três silêncios medidos antes de compra, entre compra e material e após material: 29,8–29,9s; 30,3667–30,4667s; 31,1667–31,2333s da fonte. A redução total é de aproximadamente 0,27s, preservando as sílabas e a velocidade da voz. Todos os elementos visuais e o áudio são deslocados juntos nesses pequenos cortes.
+
+O áudio aprovado é mantido até o início do fechamento; a continuação utiliza o áudio original já revisado, com fades de 3 ms nas emendas. Não há fala sintetizada ou aceleração de áudio.
+
+```bash
+python scripts/natural_finish.py
+python scripts/verify_natural.py
+```
+
+`natural-edit.json` e `natural-verification.json` registram os intervalos, o recorte, a duração e as verificações da entrega.
