@@ -1,0 +1,27 @@
+{
+  "file": "ib-midias-vidracarias-video2-estatico.mp4",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 2471,
+  "duration": 82.366667,
+  "referenceVersion": "ib-midias-vidracarias-video2.mp4 (original 1min22s version)",
+  "audioIdenticalToReference": true,
+  "audioSha256": "e675bed26a9613d2da0286915ded0b76f3657979395a9073c8e59705b1d94a64",
+  "presenterCrop": {
+    "x": 0,
+    "y": 520,
+    "width": 984,
+    "height": 944
+  },
+  "cropIsConstantForAllFrames": true,
+  "faceTracking": false,
+  "animatedZoom": false,
+  "originalTimelinePreserved": true,
+  "graphicsAndCaptions": "Same archived Remotion composition and word timings as reference version",
+  "fullDecode": "passed",
+  "bytes": 72051341,
+  "sha256": "6b04de23b9b6f69892c3f56924b9be5b0047d235293413c72071973a170a952a"
+}

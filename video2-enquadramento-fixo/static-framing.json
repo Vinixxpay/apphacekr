@@ -1,0 +1,39 @@
+{
+  "reference": "ib-midias-vidracarias-video2.mp4 — original 1min22s version",
+  "frames": 2471,
+  "fps": 30,
+  "crop": {
+    "x": 0,
+    "y": 520,
+    "width": 984,
+    "height": 944
+  },
+  "sourceDimensions": [
+    1080,
+    1920
+  ],
+  "panelDimensions": [
+    1080,
+    1036
+  ],
+  "tracking": false,
+  "animatedZoom": false,
+  "scale": "Fixed for every frame and every cut",
+  "parts": [
+    {
+      "start": 6.8,
+      "end": 23.333333333333332,
+      "output": 0
+    },
+    {
+      "start": 24.166666666666668,
+      "end": 77.1,
+      "output": 16.53333333333333
+    },
+    {
+      "start": 82.3,
+      "end": 95.2,
+      "output": 69.46666666666665
+    }
+  ]
+}
