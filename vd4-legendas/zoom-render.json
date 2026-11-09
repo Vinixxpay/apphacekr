@@ -1,0 +1,16 @@
+{
+  "output": "ib-midias-vd4-zoom-leve.mp4",
+  "crop": {
+    "width": 1872,
+    "height": 3328,
+    "x": 144,
+    "y": 64,
+    "sourceWidth": 2160,
+    "sourceHeight": 3840
+  },
+  "zoomFactor": 1.1538461538461537,
+  "audio": "Exact AAC stream copy from approved version, including final sonic signature",
+  "captions": "Rendered after crop; original size and placement preserved",
+  "outro": "Same official logo animation, not cropped",
+  "duration": 35.2
+}

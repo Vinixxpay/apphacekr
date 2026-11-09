@@ -22,3 +22,12 @@ python scripts/make_outro.py
 CAPTION_SOURCE=/caminho/para/original.MOV python scripts/render.py
 CAPTION_SOURCE=/caminho/para/original.MOV python scripts/verify.py
 ```
+
+## Versão com zoom leve
+
+`entregas/ib-midias-vd4-zoom-leve.mp4` aplica aproximadamente 15% de aproximação somente à gravação, retirando mais da parte inferior do quadro. Recorte 1872 × 3328 em (144, 64) da imagem original orientada 2160 × 3840. As legendas são aplicadas após o recorte e mantêm tamanho e posição. A vinheta conserva seu enquadramento. O áudio completo, incluindo o som da logo, é copiado diretamente da versão aprovada, sem nova codificação.
+
+```bash
+CAPTION_SOURCE=/caminho/para/original.MOV python scripts/render_zoom.py
+python scripts/verify_zoom.py
+```

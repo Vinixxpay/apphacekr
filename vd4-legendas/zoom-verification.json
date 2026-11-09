@@ -1,0 +1,18 @@
+{
+  "file": "ib-midias-vd4-zoom-leve.mp4",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 60,
+  "duration": 35.2,
+  "frames": 2112,
+  "zoomFactor": 1.1538461538461537,
+  "audioPacketsIdenticalToApproved": true,
+  "audioSha256": "7e91e19225ac41dfccb44e0e0fc063f872725bf17583e5d261ae0dfa471d5db8",
+  "captionSizeAndPositionPreserved": true,
+  "outroNotCropped": true,
+  "fullDecode": "passed",
+  "bytes": 34835610,
+  "sha256": "16214a9240b261b3a4a84355516a3120612458a502d77740444a7eff9f255d32"
+}
