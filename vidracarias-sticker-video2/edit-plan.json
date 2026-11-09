@@ -9,17 +9,22 @@
     },
     {
       "start": 24.166666666666668,
-      "end": 77.1,
+      "end": 60.333333333333336,
       "output": 16.53333333333333
     },
     {
-      "start": 82.3,
-      "end": 95.2,
-      "output": 69.46666666666665
+      "start": 66.1,
+      "end": 80.76666666666667,
+      "output": 52.7
+    },
+    {
+      "start": 85.7,
+      "end": 95.1,
+      "output": 67.36666666666667
     }
   ],
-  "frames": 2471,
-  "duration": 82.36666666666666,
+  "frames": 2303,
+  "duration": 76.76666666666667,
   "zooms": [
     {
       "start": 0.15000000000000036,
@@ -102,42 +107,47 @@
       "fast": false
     },
     {
-      "start": 53.00666666666666,
+      "start": 52.7,
       "scale": 1.0,
       "fast": false
     },
     {
-      "start": 63.05666666666666,
+      "start": 57.360000000000014,
       "scale": 1.06,
       "fast": false
     },
     {
-      "start": 66.79666666666667,
+      "start": 60.92,
       "scale": 1.1,
       "fast": false
     },
     {
-      "start": 69.46666666666665,
+      "start": 63.860000000000014,
       "scale": 1.0,
       "fast": false
     },
     {
-      "start": 75.18666666666665,
+      "start": 67.40166666666669,
       "scale": 1.06,
       "fast": false
     },
     {
-      "start": 78.48666666666664,
+      "start": 69.68666666666665,
       "scale": 1.1,
       "fast": false
     },
     {
-      "start": 81.06666666666668,
+      "start": 72.66666666666667,
+      "scale": 1.0,
+      "fast": false
+    },
+    {
+      "start": 75.46666666666668,
       "scale": 1.18,
       "fast": true
     },
     {
-      "start": 82.86666666666667,
+      "start": 77.26666666666668,
       "scale": 1.04,
       "fast": false
     }
@@ -1092,537 +1102,509 @@
     },
     {
       "text": "ajudar.",
-      "start": 52.1467,
-      "end": 52.7467,
-      "sourceStart": 59.78,
-      "sourceEnd": 60.38
+      "start": 51.9867,
+      "end": 52.3667,
+      "sourceStart": 59.62,
+      "sourceEnd": 60.0
     },
     {
       "text": "Com",
-      "start": 53.0067,
-      "end": 53.2067,
-      "sourceStart": 60.64,
-      "sourceEnd": 60.84
-    },
-    {
-      "text": "os",
-      "start": 53.2067,
-      "end": 53.3867,
-      "sourceStart": 60.84,
-      "sourceEnd": 61.02
+      "start": 52.775,
+      "end": 52.88,
+      "sourceStart": 66.175,
+      "sourceEnd": 66.28
     },
     {
       "text": "anúncios",
-      "start": 53.3867,
-      "end": 53.6467,
-      "sourceStart": 61.02,
-      "sourceEnd": 61.28
+      "start": 52.88,
+      "end": 53.3,
+      "sourceStart": 66.28,
+      "sourceEnd": 66.7
     },
     {
       "text": "no",
-      "start": 53.6467,
-      "end": 53.8067,
-      "sourceStart": 61.28,
-      "sourceEnd": 61.44
+      "start": 53.3,
+      "end": 53.46,
+      "sourceStart": 66.7,
+      "sourceEnd": 66.86
     },
     {
-      "text": "Instagram",
-      "start": 53.8067,
-      "end": 54.2867,
-      "sourceStart": 61.44,
-      "sourceEnd": 61.92
-    },
-    {
-      "text": "e",
-      "start": 54.2867,
-      "end": 54.5667,
-      "sourceStart": 61.92,
-      "sourceEnd": 62.2
-    },
-    {
-      "text": "no",
-      "start": 54.5667,
-      "end": 54.7067,
-      "sourceStart": 62.2,
-      "sourceEnd": 62.34
+      "text": "Instagram,",
+      "start": 53.46,
+      "end": 53.7,
+      "sourceStart": 66.86,
+      "sourceEnd": 67.1
     },
     {
       "text": "Facebook",
-      "start": 54.7067,
-      "end": 55.2867,
-      "sourceStart": 62.34,
-      "sourceEnd": 62.92
+      "start": 53.96,
+      "end": 54.32,
+      "sourceStart": 67.36,
+      "sourceEnd": 67.72
     },
     {
       "text": "e",
-      "start": 56.4367,
-      "end": 60.4367,
-      "sourceStart": 64.07,
-      "sourceEnd": 68.07
+      "start": 54.32,
+      "end": 54.72,
+      "sourceStart": 67.72,
+      "sourceEnd": 68.12
     },
     {
       "text": "no",
-      "start": 60.4367,
-      "end": 60.6367,
-      "sourceStart": 68.07,
-      "sourceEnd": 68.27
+      "start": 54.72,
+      "end": 54.84,
+      "sourceStart": 68.12,
+      "sourceEnd": 68.24
     },
     {
       "text": "Google,",
-      "start": 60.6367,
-      "end": 61.0167,
-      "sourceStart": 68.27,
-      "sourceEnd": 68.65
+      "start": 54.84,
+      "end": 55.12,
+      "sourceStart": 68.24,
+      "sourceEnd": 68.52
     },
     {
       "text": "vamos",
-      "start": 61.3767,
-      "end": 61.4367,
-      "sourceStart": 69.01,
-      "sourceEnd": 69.07
+      "start": 55.32,
+      "end": 55.64,
+      "sourceStart": 68.72,
+      "sourceEnd": 69.04
     },
     {
       "text": "mostrar",
-      "start": 61.4367,
-      "end": 61.7967,
-      "sourceStart": 69.07,
-      "sourceEnd": 69.43
+      "start": 55.64,
+      "end": 55.96,
+      "sourceStart": 69.04,
+      "sourceEnd": 69.36
     },
     {
       "text": "seu",
-      "start": 61.7967,
-      "end": 62.0767,
-      "sourceStart": 69.43,
-      "sourceEnd": 69.71
+      "start": 55.96,
+      "end": 56.18,
+      "sourceStart": 69.36,
+      "sourceEnd": 69.58
     },
     {
       "text": "serviço",
-      "start": 62.0767,
-      "end": 62.7767,
-      "sourceStart": 69.71,
-      "sourceEnd": 70.41
-    },
-    {
-      "text": "pra",
-      "start": 62.7767,
-      "end": 63.0567,
-      "sourceStart": 70.41,
-      "sourceEnd": 70.69
-    },
-    {
-      "text": "mais",
-      "start": 63.0567,
-      "end": 63.2367,
-      "sourceStart": 70.69,
-      "sourceEnd": 70.87
-    },
-    {
-      "text": "pessoas",
-      "start": 63.2367,
-      "end": 63.5967,
-      "sourceStart": 70.87,
-      "sourceEnd": 71.23
-    },
-    {
-      "text": "na",
-      "start": 63.5967,
-      "end": 63.7767,
-      "sourceStart": 71.23,
-      "sourceEnd": 71.41
-    },
-    {
-      "text": "sua",
-      "start": 63.7767,
-      "end": 63.9367,
-      "sourceStart": 71.41,
-      "sourceEnd": 71.57
-    },
-    {
-      "text": "região",
-      "start": 63.9367,
-      "end": 64.2367,
-      "sourceStart": 71.57,
-      "sourceEnd": 71.87
-    },
-    {
-      "text": "e",
-      "start": 64.2367,
-      "end": 64.6367,
-      "sourceStart": 71.87,
-      "sourceEnd": 72.27
-    },
-    {
-      "text": "facilitar",
-      "start": 64.6367,
-      "end": 65.0367,
-      "sourceStart": 72.27,
-      "sourceEnd": 72.67
-    },
-    {
-      "text": "o",
-      "start": 65.0367,
-      "end": 65.1567,
-      "sourceStart": 72.67,
-      "sourceEnd": 72.79
-    },
-    {
-      "text": "contato",
-      "start": 65.1567,
-      "end": 65.6167,
-      "sourceStart": 72.79,
-      "sourceEnd": 73.25
-    },
-    {
-      "text": "pelo",
-      "start": 65.6167,
-      "end": 65.8367,
-      "sourceStart": 73.25,
-      "sourceEnd": 73.47
-    },
-    {
-      "text": "seu",
-      "start": 65.8367,
-      "end": 65.9967,
-      "sourceStart": 73.47,
-      "sourceEnd": 73.63
-    },
-    {
-      "text": "WhatsApp.",
-      "start": 65.9967,
-      "end": 66.3567,
-      "sourceStart": 73.63,
-      "sourceEnd": 73.99
-    },
-    {
-      "text": "Você",
-      "start": 66.7967,
-      "end": 67.0167,
-      "sourceStart": 74.43,
-      "sourceEnd": 74.65
-    },
-    {
-      "text": "já",
-      "start": 67.0167,
-      "end": 67.2767,
-      "sourceStart": 74.65,
-      "sourceEnd": 74.91
-    },
-    {
-      "text": "sabe",
-      "start": 67.2767,
-      "end": 67.4567,
-      "sourceStart": 74.91,
-      "sourceEnd": 75.09
-    },
-    {
-      "text": "transformar",
-      "start": 67.4567,
-      "end": 67.9767,
-      "sourceStart": 75.09,
-      "sourceEnd": 75.61
-    },
-    {
-      "text": "vidro",
-      "start": 67.9767,
-      "end": 68.2767,
-      "sourceStart": 75.61,
-      "sourceEnd": 75.91
-    },
-    {
-      "text": "em",
-      "start": 68.2767,
-      "end": 68.3767,
-      "sourceStart": 75.91,
-      "sourceEnd": 76.01
-    },
-    {
-      "text": "um",
-      "start": 68.3767,
-      "end": 68.5367,
-      "sourceStart": 76.01,
-      "sourceEnd": 76.17
-    },
-    {
-      "text": "projeto",
-      "start": 68.5367,
-      "end": 68.7567,
-      "sourceStart": 76.17,
-      "sourceEnd": 76.39
-    },
-    {
-      "text": "bonito.",
-      "start": 68.7567,
-      "end": 69.1767,
-      "sourceStart": 76.39,
-      "sourceEnd": 76.81
-    },
-    {
-      "text": "Agora",
-      "start": 69.6967,
-      "end": 69.8867,
-      "sourceStart": 82.53,
-      "sourceEnd": 82.72
-    },
-    {
-      "text": "é",
-      "start": 69.8867,
-      "end": 70.0467,
-      "sourceStart": 82.72,
-      "sourceEnd": 82.88
-    },
-    {
-      "text": "hora",
-      "start": 70.0467,
-      "end": 70.2067,
-      "sourceStart": 82.88,
-      "sourceEnd": 83.04
-    },
-    {
-      "text": "de",
-      "start": 70.2067,
-      "end": 70.3467,
-      "sourceStart": 83.04,
-      "sourceEnd": 83.18
-    },
-    {
-      "text": "mostrar",
-      "start": 70.3467,
-      "end": 70.6067,
-      "sourceStart": 83.18,
-      "sourceEnd": 83.44
-    },
-    {
-      "text": "o",
-      "start": 70.6067,
-      "end": 70.7267,
-      "sourceStart": 83.44,
-      "sourceEnd": 83.56
-    },
-    {
-      "text": "seu",
-      "start": 70.7267,
-      "end": 70.8067,
-      "sourceStart": 83.56,
-      "sourceEnd": 83.64
-    },
-    {
-      "text": "trabalho",
-      "start": 70.8067,
-      "end": 71.2467,
-      "sourceStart": 83.64,
-      "sourceEnd": 84.08
+      "start": 56.18,
+      "end": 56.84,
+      "sourceStart": 69.58,
+      "sourceEnd": 70.24
     },
     {
       "text": "para",
-      "start": 71.2467,
-      "end": 71.6867,
-      "sourceStart": 84.08,
-      "sourceEnd": 84.52
+      "start": 56.84,
+      "end": 57.16,
+      "sourceStart": 70.24,
+      "sourceEnd": 70.56
+    },
+    {
+      "text": "mais",
+      "start": 57.16,
+      "end": 57.36,
+      "sourceStart": 70.56,
+      "sourceEnd": 70.76
+    },
+    {
+      "text": "pessoas",
+      "start": 57.36,
+      "end": 57.74,
+      "sourceStart": 70.76,
+      "sourceEnd": 71.14
+    },
+    {
+      "text": "na",
+      "start": 57.74,
+      "end": 57.92,
+      "sourceStart": 71.14,
+      "sourceEnd": 71.32
+    },
+    {
+      "text": "sua",
+      "start": 57.92,
+      "end": 58.08,
+      "sourceStart": 71.32,
+      "sourceEnd": 71.48
+    },
+    {
+      "text": "região",
+      "start": 58.08,
+      "end": 58.38,
+      "sourceStart": 71.48,
+      "sourceEnd": 71.78
+    },
+    {
+      "text": "e",
+      "start": 58.38,
+      "end": 58.74,
+      "sourceStart": 71.78,
+      "sourceEnd": 72.14
+    },
+    {
+      "text": "facilitar",
+      "start": 58.74,
+      "end": 59.2,
+      "sourceStart": 72.14,
+      "sourceEnd": 72.6
+    },
+    {
+      "text": "o",
+      "start": 59.2,
+      "end": 59.34,
+      "sourceStart": 72.6,
+      "sourceEnd": 72.74
+    },
+    {
+      "text": "contato",
+      "start": 59.34,
+      "end": 59.78,
+      "sourceStart": 72.74,
+      "sourceEnd": 73.18
+    },
+    {
+      "text": "pelo",
+      "start": 59.78,
+      "end": 59.98,
+      "sourceStart": 73.18,
+      "sourceEnd": 73.38
+    },
+    {
+      "text": "seu",
+      "start": 59.98,
+      "end": 60.16,
+      "sourceStart": 73.38,
+      "sourceEnd": 73.56
+    },
+    {
+      "text": "WhatsApp.",
+      "start": 60.16,
+      "end": 60.38,
+      "sourceStart": 73.56,
+      "sourceEnd": 73.78
+    },
+    {
+      "text": "Você",
+      "start": 60.92,
+      "end": 61.14,
+      "sourceStart": 74.32,
+      "sourceEnd": 74.54
+    },
+    {
+      "text": "já",
+      "start": 61.14,
+      "end": 61.32,
+      "sourceStart": 74.54,
+      "sourceEnd": 74.72
+    },
+    {
+      "text": "sabe",
+      "start": 61.32,
+      "end": 61.62,
+      "sourceStart": 74.72,
+      "sourceEnd": 75.02
+    },
+    {
+      "text": "transformar",
+      "start": 61.62,
+      "end": 62.1,
+      "sourceStart": 75.02,
+      "sourceEnd": 75.5
+    },
+    {
+      "text": "vidro",
+      "start": 62.1,
+      "end": 62.48,
+      "sourceStart": 75.5,
+      "sourceEnd": 75.88
+    },
+    {
+      "text": "em",
+      "start": 62.48,
+      "end": 62.56,
+      "sourceStart": 75.88,
+      "sourceEnd": 75.96
+    },
+    {
+      "text": "um",
+      "start": 62.56,
+      "end": 62.62,
+      "sourceStart": 75.96,
+      "sourceEnd": 76.02
+    },
+    {
+      "text": "projeto",
+      "start": 62.62,
+      "end": 62.82,
+      "sourceStart": 76.02,
+      "sourceEnd": 76.22
+    },
+    {
+      "text": "bonito.",
+      "start": 62.82,
+      "end": 63.18,
+      "sourceStart": 76.22,
+      "sourceEnd": 76.58
+    },
+    {
+      "text": "Agora",
+      "start": 63.86,
+      "end": 64.08,
+      "sourceStart": 77.26,
+      "sourceEnd": 77.48
+    },
+    {
+      "text": "é",
+      "start": 64.08,
+      "end": 64.28,
+      "sourceStart": 77.48,
+      "sourceEnd": 77.68
+    },
+    {
+      "text": "hora",
+      "start": 64.28,
+      "end": 64.5,
+      "sourceStart": 77.68,
+      "sourceEnd": 77.9
+    },
+    {
+      "text": "de",
+      "start": 64.5,
+      "end": 64.72,
+      "sourceStart": 77.9,
+      "sourceEnd": 78.12
+    },
+    {
+      "text": "mostrar",
+      "start": 64.72,
+      "end": 65.14,
+      "sourceStart": 78.12,
+      "sourceEnd": 78.54
+    },
+    {
+      "text": "o",
+      "start": 65.14,
+      "end": 65.72,
+      "sourceStart": 78.54,
+      "sourceEnd": 79.12
+    },
+    {
+      "text": "seu",
+      "start": 65.72,
+      "end": 65.88,
+      "sourceStart": 79.12,
+      "sourceEnd": 79.28
+    },
+    {
+      "text": "trabalho",
+      "start": 65.88,
+      "end": 66.44,
+      "sourceStart": 79.28,
+      "sourceEnd": 79.84
+    },
+    {
+      "text": "para",
+      "start": 66.88,
+      "end": 67.04,
+      "sourceStart": 80.28,
+      "sourceEnd": 80.44
     },
     {
       "text": "quem",
-      "start": 71.6867,
-      "end": 72.1467,
-      "sourceStart": 84.52,
-      "sourceEnd": 84.98
+      "start": 67.04,
+      "end": 67.26,
+      "sourceStart": 80.44,
+      "sourceEnd": 80.66
     },
     {
       "text": "pode",
-      "start": 72.1467,
-      "end": 73.1267,
-      "sourceStart": 84.98,
+      "start": 67.4017,
+      "end": 67.6267,
+      "sourceStart": 85.735,
       "sourceEnd": 85.96
     },
     {
       "text": "contratar",
-      "start": 73.1267,
-      "end": 73.9467,
-      "sourceStart": 85.96,
+      "start": 67.6467,
+      "end": 68.4467,
+      "sourceStart": 85.98,
       "sourceEnd": 86.78
     },
     {
       "text": "você.",
-      "start": 73.9467,
-      "end": 74.2467,
+      "start": 68.4467,
+      "end": 68.7467,
       "sourceStart": 86.78,
       "sourceEnd": 87.08
     },
     {
       "text": "Quer",
-      "start": 75.1867,
-      "end": 75.4267,
+      "start": 69.6867,
+      "end": 69.9267,
       "sourceStart": 88.02,
       "sourceEnd": 88.26
     },
     {
       "text": "vender",
-      "start": 75.4267,
-      "end": 75.7667,
+      "start": 69.9267,
+      "end": 70.2667,
       "sourceStart": 88.26,
       "sourceEnd": 88.6
     },
     {
       "text": "mais",
-      "start": 75.7667,
-      "end": 76.0467,
+      "start": 70.2667,
+      "end": 70.5467,
       "sourceStart": 88.6,
       "sourceEnd": 88.88
     },
     {
       "text": "e",
-      "start": 76.0467,
-      "end": 76.1667,
+      "start": 70.5467,
+      "end": 70.6667,
       "sourceStart": 88.88,
       "sourceEnd": 89.0
     },
     {
       "text": "deixar",
-      "start": 76.1667,
-      "end": 76.4667,
+      "start": 70.6667,
+      "end": 70.9667,
       "sourceStart": 89.0,
       "sourceEnd": 89.3
     },
     {
       "text": "de",
-      "start": 76.4667,
-      "end": 76.7067,
+      "start": 70.9667,
+      "end": 71.2067,
       "sourceStart": 89.3,
       "sourceEnd": 89.54
     },
     {
       "text": "depender",
-      "start": 76.7067,
-      "end": 77.0867,
+      "start": 71.2067,
+      "end": 71.5867,
       "sourceStart": 89.54,
       "sourceEnd": 89.92
     },
     {
       "text": "das",
-      "start": 77.0867,
-      "end": 77.3667,
+      "start": 71.5867,
+      "end": 71.8667,
       "sourceStart": 89.92,
       "sourceEnd": 90.2
     },
     {
       "text": "indicações?",
-      "start": 77.3667,
-      "end": 78.1467,
+      "start": 71.8667,
+      "end": 72.6467,
       "sourceStart": 90.2,
       "sourceEnd": 90.98
     },
     {
-      "text": "Clique",
-      "start": 78.4867,
-      "end": 78.6467,
-      "sourceStart": 91.32,
-      "sourceEnd": 91.48
+      "text": "Clica",
+      "start": 72.7067,
+      "end": 73.0467,
+      "sourceStart": 91.04,
+      "sourceEnd": 91.38
     },
     {
       "text": "aqui",
-      "start": 78.6467,
-      "end": 78.8267,
-      "sourceStart": 91.48,
-      "sourceEnd": 91.66
+      "start": 73.0467,
+      "end": 73.2667,
+      "sourceStart": 91.38,
+      "sourceEnd": 91.6
     },
     {
       "text": "no",
-      "start": 78.8267,
-      "end": 78.9667,
-      "sourceStart": 91.66,
-      "sourceEnd": 91.8
+      "start": 73.2667,
+      "end": 73.3467,
+      "sourceStart": 91.6,
+      "sourceEnd": 91.68
     },
     {
       "text": "Saiba",
-      "start": 78.9667,
-      "end": 79.2067,
-      "sourceStart": 91.8,
-      "sourceEnd": 92.04,
+      "start": 73.3467,
+      "end": 73.6467,
+      "sourceStart": 91.68,
+      "sourceEnd": 91.98,
       "highlight": true
     },
     {
-      "text": "mais",
-      "start": 79.2067,
-      "end": 79.6467,
-      "sourceStart": 92.04,
-      "sourceEnd": 92.48,
+      "text": "mais,",
+      "start": 73.6467,
+      "end": 73.9267,
+      "sourceStart": 91.98,
+      "sourceEnd": 92.26,
       "highlight": true
     },
     {
-      "text": "pra",
-      "start": 79.6467,
-      "end": 79.9467,
-      "sourceStart": 92.48,
-      "sourceEnd": 92.78
-    },
-    {
-      "text": "preencher",
-      "start": 79.9467,
-      "end": 80.0867,
-      "sourceStart": 92.78,
-      "sourceEnd": 92.92
+      "text": "preenche",
+      "start": 74.2867,
+      "end": 74.5267,
+      "sourceStart": 92.62,
+      "sourceEnd": 92.86
     },
     {
       "text": "o",
-      "start": 80.0867,
-      "end": 80.2667,
-      "sourceStart": 92.92,
-      "sourceEnd": 93.1
+      "start": 74.5267,
+      "end": 74.6067,
+      "sourceStart": 92.86,
+      "sourceEnd": 92.94
     },
     {
       "text": "formulário",
-      "start": 80.2667,
-      "end": 80.6667,
-      "sourceStart": 93.1,
-      "sourceEnd": 93.5
+      "start": 74.6067,
+      "end": 75.0867,
+      "sourceStart": 92.94,
+      "sourceEnd": 93.42
     },
     {
       "text": "que",
-      "start": 80.6667,
-      "end": 80.8067,
-      "sourceStart": 93.5,
-      "sourceEnd": 93.64
+      "start": 75.0867,
+      "end": 75.2667,
+      "sourceStart": 93.42,
+      "sourceEnd": 93.6
     },
     {
       "text": "eu",
-      "start": 80.8067,
-      "end": 80.9467,
-      "sourceStart": 93.64,
-      "sourceEnd": 93.78
+      "start": 75.2667,
+      "end": 75.3667,
+      "sourceStart": 93.6,
+      "sourceEnd": 93.7
     },
     {
       "text": "vou",
-      "start": 80.9467,
-      "end": 81.0667,
-      "sourceStart": 93.78,
-      "sourceEnd": 93.9
+      "start": 75.3667,
+      "end": 75.4667,
+      "sourceStart": 93.7,
+      "sourceEnd": 93.8
     },
     {
       "text": "falar",
-      "start": 81.0667,
-      "end": 81.2467,
-      "sourceStart": 93.9,
-      "sourceEnd": 94.08
+      "start": 75.4667,
+      "end": 75.6467,
+      "sourceStart": 93.8,
+      "sourceEnd": 93.98
     },
     {
       "text": "direto",
-      "start": 81.2467,
-      "end": 81.7067,
-      "sourceStart": 94.08,
-      "sourceEnd": 94.54
+      "start": 75.6467,
+      "end": 76.1467,
+      "sourceStart": 93.98,
+      "sourceEnd": 94.48
     },
     {
       "text": "com",
-      "start": 81.7067,
-      "end": 81.9067,
-      "sourceStart": 94.54,
-      "sourceEnd": 94.74
+      "start": 76.1467,
+      "end": 76.2867,
+      "sourceStart": 94.48,
+      "sourceEnd": 94.62
     },
     {
       "text": "você.",
-      "start": 81.9067,
-      "end": 82.1267,
-      "sourceStart": 94.74,
-      "sourceEnd": 94.96
+      "start": 76.2867,
+      "end": 76.5067,
+      "sourceStart": 94.62,
+      "sourceEnd": 94.84
     }
   ],
   "edits": [
@@ -1631,28 +1613,35 @@
         0,
         6.8
       ],
-      "reason": "Preparação e entrada no enquadramento, antes da primeira fala"
+      "reason": "Preparação inicial, antes da primeira fala"
     },
     {
       "source": [
         23.333333333333332,
         24.166666666666668
       ],
-      "reason": "Reinício antes de “pede o orçamento”; mantém “o cliente pede o orçamento”"
+      "reason": "Reinício antes de pede o orçamento"
     },
     {
       "source": [
-        77.1,
-        82.3
+        60.333333333333336,
+        66.1
       ],
-      "reason": "Primeira tentativa interrompida de “Agora é hora…”; usa somente a repetição completa, sem remover a frase do roteiro"
+      "reason": "Primeira tentativa de anúncios e reposicionamento na cadeira; usa a tentativa completa seguinte"
     },
     {
       "source": [
-        95.2,
+        80.76666666666667,
+        85.7
+      ],
+      "reason": "Reinício e preparação da frase de fechamento; junta para quem da primeira tentativa com pode contratar você da continuação correta"
+    },
+    {
+      "source": [
+        95.1,
         98.945
       ],
-      "reason": "Sobra após o convite completo; não inclui a saída da cadeira"
+      "reason": "Saída da cadeira após a fala final; convite preservado até a última palavra"
     }
   ],
   "audioPolicy": "Voz original, sem aceleração, clonagem ou remoção de pausas internas às tomadas mantidas."

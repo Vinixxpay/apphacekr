@@ -1,0 +1,106 @@
+{
+  "revision": 2,
+  "source": "video2.MOV",
+  "method": "Transcrição por janelas curtas sobrepostas no original; conferência visual das interrupções; revisão independente dos trechos montados.",
+  "discardedSourceSeconds": [
+    {
+      "start": 0,
+      "end": 6.8
+    },
+    {
+      "start": 23.333333333333332,
+      "end": 24.166666666666668
+    },
+    {
+      "start": 60.333333333333336,
+      "end": 66.1
+    },
+    {
+      "start": 80.76666666666667,
+      "end": 85.7
+    },
+    {
+      "start": 95.1,
+      "end": 98.945
+    }
+  ],
+  "retainedSourceFrames": [
+    [
+      204,
+      700
+    ],
+    [
+      725,
+      1810
+    ],
+    [
+      1983,
+      2423
+    ],
+    [
+      2571,
+      2853
+    ]
+  ],
+  "adsPhraseOccurrencesInEditedReview": 1,
+  "closingPhraseOccurrencesInEditedReview": 1,
+  "audioReviews": [
+    {
+      "interval": [
+        51.3,
+        60.8
+      ],
+      "text": "que eu posso te ajudar. Com anúncios no Instagram, Facebook e no Google, vamos mostrar seu serviço para mais pessoas na sua região e facilitar o contato pelo seu WhatsApp."
+    },
+    {
+      "interval": [
+        63.5,
+        69.9
+      ],
+      "text": "Agora é hora de mostrar o seu trabalho para quem pode contratar você."
+    }
+  ],
+  "cta": "Preservado o convite ao Saiba Mais, preenchimento do formulário e conversa direta, até a palavra você.",
+  "sourceMotionChecks": {
+    "adPreparationExcluded": true,
+    "closingPreparationExcluded": true,
+    "initialSetupExcluded": true,
+    "exitAfterSpeechExcluded": true
+  },
+  "note": "Os cortes editoriais e os quadros também foram revisados; a correlação do áudio, sozinha, não comprova ausência de repetições.",
+  "renderedAudioReviews": [
+    {
+      "interval": [
+        51.3,
+        60.8
+      ],
+      "actualRenderedAudioTranscript": "que eu posso te ajudar. Com anúncios no Instagram, Facebook e no Google, vamos mostrar seu serviço pra mais pessoas na sua região e facilitar o contato pelo seu WhatsApp."
+    },
+    {
+      "interval": [
+        63.5,
+        69.4
+      ],
+      "actualRenderedAudioTranscript": "Agora é hora de mostrar o seu trabalho para quem pode contratar você."
+    }
+  ],
+  "closingJoin": "Primeira parte correta até quem, seguida de pode contratar você da continuação completa, sem o final da palavra repetida.",
+  "visualReviewOfRenderedEditSeconds": [
+    16.4,
+    16.6,
+    52.2,
+    52.7,
+    53.0,
+    63.7,
+    64.1,
+    65.0,
+    67.2,
+    67.4,
+    67.7,
+    68.5,
+    74.5,
+    76.0,
+    76.6
+  ],
+  "renderedVisualReview": "Apresentador sentado nas emendas, na continuação e no final; sem os reposicionamentos da gravação."
+}

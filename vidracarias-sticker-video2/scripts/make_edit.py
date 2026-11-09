@@ -2,8 +2,10 @@ from pathlib import Path
 import json,re,unicodedata,math
 r=Path(__file__).resolve().parents[1];raw=json.loads((r/'work/transcript.json').read_text())
 config=json.loads((r/'source-edit.json').read_text())
-for repl in config.get('replacementSegments',[]):
- a,b=repl['replaceRange'];raw['segments']=[s for s in raw['segments'] if not (a<=s['start'] and s['end']<=b)]+[repl['segment']]
+replacements=config.get('replacementSegments',[])
+for a,b in {tuple(repl['replaceRange']) for repl in replacements}:
+ raw['segments']=[s for s in raw['segments'] if not (a<=s['start'] and s['end']<=b)]
+raw['segments'] += [repl['segment'] for repl in replacements]
 raw['segments'].sort(key=lambda s:s['start'])
 parts=[(a/30,b/30) for a,b in config['keepFrames']]
 parts=[{'start':a,'end':b,'output':sum(y-x for x,y in parts[:i])} for i,(a,b) in enumerate(parts)]
