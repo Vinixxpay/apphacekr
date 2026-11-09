@@ -1,0 +1,59 @@
+{
+  "deliveries": [
+    {
+      "file": "ib-midias-vidracarias-video2-previa-10s.mp4",
+      "frames": 300,
+      "duration": 10.0,
+      "video": "H.264 1080x1920 30 fps",
+      "audio": "AAC",
+      "fullDecode": "passed",
+      "bytes": 9863605,
+      "sha256": "9cbe9c9dc88b843222040bdee4ffaffa77c68db3114a9a08520394a59aa218e8"
+    },
+    {
+      "file": "ib-midias-vidracarias-video2.mp4",
+      "frames": 2471,
+      "duration": 82.366667,
+      "video": "H.264 1080x1920 30 fps",
+      "audio": "AAC",
+      "fullDecode": "passed",
+      "bytes": 73598226,
+      "sha256": "f369472d6bcc3d2ce0bbf6d351f03c8fcf6240cb2673de3edbfc699341c0a192"
+    }
+  ],
+  "captions": {
+    "groups": 89,
+    "words": 211,
+    "maxWordsPerGroup": 3,
+    "fit": "passed",
+    "timing": "passed"
+  },
+  "voicePreservation": [
+    {
+      "interval": [
+        0.4,
+        4.4
+      ],
+      "voiceCorrelation": 0.99968,
+      "offsetSeconds": 0.0
+    },
+    {
+      "interval": [
+        37.065,
+        41.065
+      ],
+      "voiceCorrelation": 0.99987,
+      "offsetSeconds": 0.0
+    },
+    {
+      "interval": [
+        77.36666666666666,
+        82.33666666666666
+      ],
+      "voiceCorrelation": 0.999781,
+      "offsetSeconds": 0.0
+    }
+  ],
+  "speed": 1.0,
+  "sourceEditPlan": "edit-plan.json"
+}

@@ -1,0 +1,192 @@
+{
+  "source": "video2.MOV",
+  "keepFrames": [
+    [
+      204,
+      700
+    ],
+    [
+      725,
+      2313
+    ],
+    [
+      2469,
+      2856
+    ]
+  ],
+  "scenes": [
+    [
+      "hook",
+      6.8,
+      "VOCÊ OUVE ISSO?"
+    ],
+    [
+      "shops",
+      14.35,
+      "DUAS LOJAS. A MESMA CIDADE."
+    ],
+    [
+      "price",
+      20.49,
+      "PREÇO SOZINHO VIRA COMPARAÇÃO."
+    ],
+    [
+      "trust",
+      34.13,
+      "PROJETOS QUE GERAM CONFIANÇA."
+    ],
+    [
+      "map",
+      47.77,
+      "SEJA ENCONTRADO NA SUA REGIÃO."
+    ],
+    [
+      "ads",
+      60.64,
+      "DO ANÚNCIO À CONVERSA."
+    ],
+    [
+      "cta",
+      74.43,
+      "SUA VIDRAÇARIA EM DESTAQUE."
+    ]
+  ],
+  "fastZooms": [
+    12.17,
+    32.41,
+    93.9
+  ],
+  "edits": [
+    {
+      "source": [
+        0,
+        6.8
+      ],
+      "reason": "Preparação e entrada no enquadramento, antes da primeira fala"
+    },
+    {
+      "source": [
+        23.333333333333332,
+        24.166666666666668
+      ],
+      "reason": "Reinício antes de “pede o orçamento”; mantém “o cliente pede o orçamento”"
+    },
+    {
+      "source": [
+        77.1,
+        82.3
+      ],
+      "reason": "Primeira tentativa interrompida de “Agora é hora…”; usa somente a repetição completa, sem remover a frase do roteiro"
+    },
+    {
+      "source": [
+        95.2,
+        98.945
+      ],
+      "reason": "Sobra após o convite completo; não inclui a saída da cadeira"
+    }
+  ],
+  "wordTextOverrides": {
+    "12.17": "o",
+    "92.78": "preencher"
+  },
+  "wordTimeOverrides": {},
+  "notes": [
+    "Pausas naturais das tomadas mantidas, sem aceleração da voz.",
+    "O CTA acompanha a gravação: Saiba Mais e preenchimento de formulário.",
+    "A frase final foi transcrita novamente no trecho da segunda tentativa para evitar a fusão de duas tomadas pelo reconhecimento automático."
+  ],
+  "replacementSegments": [
+    {
+      "replaceRange": [
+        77.3,
+        87.5
+      ],
+      "segment": {
+        "start": 82.3,
+        "end": 87.08,
+        "text": " Agora é hora de mostrar o seu trabalho para quem pode contratar você.",
+        "words": [
+          {
+            "text": "Agora",
+            "start": 82.53,
+            "end": 82.72,
+            "probability": 0.7792264223098755
+          },
+          {
+            "text": "é",
+            "start": 82.72,
+            "end": 82.88,
+            "probability": 0.8672263622283936
+          },
+          {
+            "text": "hora",
+            "start": 82.88,
+            "end": 83.04,
+            "probability": 0.9319515824317932
+          },
+          {
+            "text": "de",
+            "start": 83.04,
+            "end": 83.18,
+            "probability": 0.9976287484169006
+          },
+          {
+            "text": "mostrar",
+            "start": 83.18,
+            "end": 83.44,
+            "probability": 0.9921087622642517
+          },
+          {
+            "text": "o",
+            "start": 83.44,
+            "end": 83.56,
+            "probability": 0.9654468297958374
+          },
+          {
+            "text": "seu",
+            "start": 83.56,
+            "end": 83.64,
+            "probability": 0.985316812992096
+          },
+          {
+            "text": "trabalho",
+            "start": 83.64,
+            "end": 84.08,
+            "probability": 0.999038815498352
+          },
+          {
+            "text": "para",
+            "start": 84.08,
+            "end": 84.52,
+            "probability": 0.9388520121574402
+          },
+          {
+            "text": "quem",
+            "start": 84.52,
+            "end": 84.98,
+            "probability": 0.9901571273803711
+          },
+          {
+            "text": "pode",
+            "start": 84.98,
+            "end": 85.96,
+            "probability": 0.9756082892417908
+          },
+          {
+            "text": "contratar",
+            "start": 85.96,
+            "end": 86.78,
+            "probability": 0.9474895894527435
+          },
+          {
+            "text": "você.",
+            "start": 86.78,
+            "end": 87.08,
+            "probability": 0.9969860911369324
+          }
+        ]
+      }
+    }
+  ]
+}
