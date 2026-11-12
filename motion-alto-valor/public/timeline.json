@@ -1,0 +1,80 @@
+{
+  "fps": 30,
+  "frames": 1708,
+  "duration": 56.93333333333333,
+  "voice": "Kokoro pm_alex, Brazilian Portuguese, generated speech",
+  "scenes": [
+    {
+      "kind": "hook",
+      "title": "VIDROS. PORTÕES. ESQUADRIAS.",
+      "subtitle": "Seu trabalho merece ser valorizado.",
+      "text": "Você trabalha com vidros, portões de alumínio ou esquadrias? Presta atenção!",
+      "start": 0.18,
+      "speechDuration": 4.416,
+      "end": 4.816
+    },
+    {
+      "kind": "busy",
+      "title": "AGENDA CHEIA.",
+      "subtitle": "Mas o retorno acompanha?",
+      "text": "Agenda cheia, três ou quatro serviços por dia... e, no fim do mês, trabalhou muito e ganhou pouco?",
+      "start": 4.816,
+      "speechDuration": 5.333333333333333,
+      "end": 10.3693
+    },
+    {
+      "kind": "price",
+      "title": "SÓ O MENOR PREÇO?",
+      "subtitle": "Seu trabalho tem mais valor.",
+      "text": "O problema pode ser atrair só quem procura o menor preço. Enquanto isso, os projetos de maior valor vão para a concorrência.",
+      "start": 10.3693,
+      "speechDuration": 7.125333333333334,
+      "end": 17.7147
+    },
+    {
+      "kind": "four",
+      "title": "4 SERVIÇOS OU 1 PROJETO?",
+      "subtitle": "Imagine uma escolha diferente.",
+      "text": "Imagine fechar um projeto que valha quatro serviços pequenos. Mais tempo para caprichar na entrega e espaço para aumentar seu faturamento.",
+      "start": 17.7147,
+      "speechDuration": 8.042666666666667,
+      "end": 25.9773
+    },
+    {
+      "kind": "value",
+      "title": "ATRAIA QUEM VALORIZA.",
+      "subtitle": "Qualidade. Acabamento. Confiança.",
+      "text": "Você não precisa abandonar os serviços pequenos. Precisa atrair também quem valoriza seu trabalho e busca projetos de alto padrão.",
+      "start": 25.9773,
+      "speechDuration": 7.573333333333333,
+      "end": 33.7707
+    },
+    {
+      "kind": "ads",
+      "title": "iB MÍDIAS",
+      "subtitle": "Estratégia para o seu negócio.",
+      "text": "Na i bê Mídias, criamos anúncios estratégicos para vidraceiros e empresas de esquadrias de alumínio, levando potenciais clientes ao seu WhatsApp.",
+      "start": 33.7707,
+      "speechDuration": 8.618666666666666,
+      "end": 42.6093
+    },
+    {
+      "kind": "work",
+      "title": "VOCÊ EXECUTA.",
+      "subtitle": "Nós ajudamos sua empresa a aparecer.",
+      "text": "Você cuida da execução. Nós ajudamos sua empresa a aparecer para quem procura seus serviços.",
+      "start": 42.6093,
+      "speechDuration": 5.568,
+      "end": 48.3973
+    },
+    {
+      "kind": "cta",
+      "title": "MAIS VALOR PARA SEU TRABALHO.",
+      "subtitle": "Converse com a nossa equipe.",
+      "text": "Quer oportunidades de maior valor? Clique em Saiba Mais e fale com nossa equipe pelo WhatsApp.",
+      "start": 48.3973,
+      "speechDuration": 5.312,
+      "end": 56.93333333333333
+    }
+  ]
+}

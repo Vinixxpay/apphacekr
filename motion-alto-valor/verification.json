@@ -1,0 +1,23 @@
+{
+  "file": "ib-midias-alto-valor.mp4",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1708,
+  "duration": 56.933333,
+  "scenes": 8,
+  "voice": "Generated Brazilian Portuguese male voice — Kokoro pm_alex",
+  "narrationIntact": true,
+  "audioCorrelationWithMix": 0.9999489442022508,
+  "peak": 0.8067523837089539,
+  "captionGroups": 61,
+  "captionWords": 143,
+  "captionFit": "passed",
+  "endCtaVisibleSeconds": 8.536033333333329,
+  "holdAfterNarrationSeconds": 3.224033333333331,
+  "fullDecode": "passed",
+  "bytes": 9384406,
+  "sha256": "5b32b29bf1159625099deef0edabaa5f3b2d070d9d66d69c5780c19f9a02cf2b"
+}
