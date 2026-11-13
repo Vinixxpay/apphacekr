@@ -1,0 +1,1287 @@
+[
+  {
+    "start": 0.18,
+    "end": 0.98,
+    "words": [
+      {
+        "text": "Você",
+        "start": 0.18,
+        "end": 0.36,
+        "hot": false
+      },
+      {
+        "text": "trabalha",
+        "start": 0.36,
+        "end": 0.84,
+        "hot": false
+      },
+      {
+        "text": "com",
+        "start": 0.84,
+        "end": 0.98,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 0.98,
+    "end": 1.56,
+    "words": [
+      {
+        "text": "vidros,",
+        "start": 0.98,
+        "end": 1.44,
+        "hot": true
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 1.56,
+    "end": 2.6,
+    "words": [
+      {
+        "text": "portões",
+        "start": 1.56,
+        "end": 1.92,
+        "hot": true
+      },
+      {
+        "text": "de",
+        "start": 1.92,
+        "end": 2.08,
+        "hot": false
+      },
+      {
+        "text": "alumínio",
+        "start": 2.08,
+        "end": 2.6,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 2.6,
+    "end": 3.42,
+    "words": [
+      {
+        "text": "ou",
+        "start": 2.6,
+        "end": 2.7,
+        "hot": false
+      },
+      {
+        "text": "esquadrias?",
+        "start": 2.7,
+        "end": 3.3,
+        "hot": true
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 3.7,
+    "end": 4.42,
+    "words": [
+      {
+        "text": "Presta",
+        "start": 3.7,
+        "end": 3.96,
+        "hot": false
+      },
+      {
+        "text": "atenção!",
+        "start": 3.96,
+        "end": 4.3,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 4.816,
+    "end": 5.656,
+    "words": [
+      {
+        "text": "Agenda",
+        "start": 4.816,
+        "end": 5.116,
+        "hot": false
+      },
+      {
+        "text": "cheia,",
+        "start": 5.116,
+        "end": 5.556,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 5.656,
+    "end": 6.376,
+    "words": [
+      {
+        "text": "três",
+        "start": 5.656,
+        "end": 5.876,
+        "hot": false
+      },
+      {
+        "text": "ou",
+        "start": 5.876,
+        "end": 6.076,
+        "hot": false
+      },
+      {
+        "text": "quatro",
+        "start": 6.076,
+        "end": 6.376,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 6.376,
+    "end": 7.476,
+    "words": [
+      {
+        "text": "serviços",
+        "start": 6.376,
+        "end": 6.816,
+        "hot": false
+      },
+      {
+        "text": "por",
+        "start": 6.816,
+        "end": 7.036,
+        "hot": false
+      },
+      {
+        "text": "dia…",
+        "start": 7.036,
+        "end": 7.356,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 7.776,
+    "end": 7.836,
+    "words": [
+      {
+        "text": "e,",
+        "start": 7.776,
+        "end": 7.836,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 7.836,
+    "end": 8.196,
+    "words": [
+      {
+        "text": "no",
+        "start": 7.836,
+        "end": 7.916,
+        "hot": false
+      },
+      {
+        "text": "fim",
+        "start": 7.916,
+        "end": 8.076,
+        "hot": false
+      },
+      {
+        "text": "do",
+        "start": 8.076,
+        "end": 8.196,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 8.196,
+    "end": 8.376,
+    "words": [
+      {
+        "text": "mês,",
+        "start": 8.196,
+        "end": 8.376,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 8.376,
+    "end": 9.256,
+    "words": [
+      {
+        "text": "trabalhou",
+        "start": 8.376,
+        "end": 8.996,
+        "hot": false
+      },
+      {
+        "text": "muito",
+        "start": 8.996,
+        "end": 9.256,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 9.256,
+    "end": 10.016,
+    "words": [
+      {
+        "text": "e",
+        "start": 9.256,
+        "end": 9.436,
+        "hot": false
+      },
+      {
+        "text": "ganhou",
+        "start": 9.436,
+        "end": 9.676,
+        "hot": false
+      },
+      {
+        "text": "pouco?",
+        "start": 9.676,
+        "end": 9.896,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 10.369,
+    "end": 11.109,
+    "words": [
+      {
+        "text": "O",
+        "start": 10.369,
+        "end": 10.469,
+        "hot": false
+      },
+      {
+        "text": "problema",
+        "start": 10.469,
+        "end": 10.789,
+        "hot": false
+      },
+      {
+        "text": "pode",
+        "start": 10.789,
+        "end": 11.109,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 11.109,
+    "end": 11.969,
+    "words": [
+      {
+        "text": "ser",
+        "start": 11.109,
+        "end": 11.409,
+        "hot": false
+      },
+      {
+        "text": "atrair",
+        "start": 11.409,
+        "end": 11.789,
+        "hot": false
+      },
+      {
+        "text": "só",
+        "start": 11.789,
+        "end": 11.969,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 11.969,
+    "end": 12.689,
+    "words": [
+      {
+        "text": "quem",
+        "start": 11.969,
+        "end": 12.169,
+        "hot": false
+      },
+      {
+        "text": "procura",
+        "start": 12.169,
+        "end": 12.689,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 12.689,
+    "end": 13.568999999999999,
+    "words": [
+      {
+        "text": "o",
+        "start": 12.689,
+        "end": 12.769,
+        "hot": false
+      },
+      {
+        "text": "menor",
+        "start": 12.769,
+        "end": 12.949,
+        "hot": true
+      },
+      {
+        "text": "preço.",
+        "start": 12.949,
+        "end": 13.449,
+        "hot": true
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 13.849,
+    "end": 14.709,
+    "words": [
+      {
+        "text": "Enquanto",
+        "start": 13.849,
+        "end": 14.289,
+        "hot": false
+      },
+      {
+        "text": "isso,",
+        "start": 14.289,
+        "end": 14.589,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 14.829,
+    "end": 15.489,
+    "words": [
+      {
+        "text": "os",
+        "start": 14.829,
+        "end": 14.889,
+        "hot": false
+      },
+      {
+        "text": "projetos",
+        "start": 14.889,
+        "end": 15.489,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 15.489,
+    "end": 16.229,
+    "words": [
+      {
+        "text": "de",
+        "start": 15.489,
+        "end": 15.589,
+        "hot": false
+      },
+      {
+        "text": "maior",
+        "start": 15.589,
+        "end": 15.829,
+        "hot": true
+      },
+      {
+        "text": "valor",
+        "start": 15.829,
+        "end": 16.229,
+        "hot": true
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 16.229,
+    "end": 16.629,
+    "words": [
+      {
+        "text": "vão",
+        "start": 16.229,
+        "end": 16.469,
+        "hot": false
+      },
+      {
+        "text": "para",
+        "start": 16.469,
+        "end": 16.629,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 16.629,
+    "end": 17.509,
+    "words": [
+      {
+        "text": "a",
+        "start": 16.629,
+        "end": 16.709,
+        "hot": false
+      },
+      {
+        "text": "concorrência.",
+        "start": 16.709,
+        "end": 17.389,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 17.715,
+    "end": 18.615,
+    "words": [
+      {
+        "text": "Imagine",
+        "start": 17.715,
+        "end": 18.015,
+        "hot": false
+      },
+      {
+        "text": "fechar",
+        "start": 18.015,
+        "end": 18.515,
+        "hot": false
+      },
+      {
+        "text": "um",
+        "start": 18.515,
+        "end": 18.615,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 18.615,
+    "end": 19.695,
+    "words": [
+      {
+        "text": "projeto",
+        "start": 18.615,
+        "end": 18.995,
+        "hot": false
+      },
+      {
+        "text": "que",
+        "start": 18.995,
+        "end": 19.355,
+        "hot": false
+      },
+      {
+        "text": "valha",
+        "start": 19.355,
+        "end": 19.695,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 19.695,
+    "end": 21.195,
+    "words": [
+      {
+        "text": "quatro",
+        "start": 19.695,
+        "end": 19.935,
+        "hot": false
+      },
+      {
+        "text": "serviços",
+        "start": 19.935,
+        "end": 20.455,
+        "hot": false
+      },
+      {
+        "text": "pequenos.",
+        "start": 20.455,
+        "end": 21.075,
+        "hot": false
+      }
+    ],
+    "fontSize": 48
+  },
+  {
+    "start": 21.355,
+    "end": 22.075,
+    "words": [
+      {
+        "text": "Mais",
+        "start": 21.355,
+        "end": 21.675,
+        "hot": false
+      },
+      {
+        "text": "tempo",
+        "start": 21.675,
+        "end": 22.075,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 22.075,
+    "end": 22.855,
+    "words": [
+      {
+        "text": "para",
+        "start": 22.075,
+        "end": 22.335,
+        "hot": false
+      },
+      {
+        "text": "caprichar",
+        "start": 22.335,
+        "end": 22.855,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 22.855,
+    "end": 23.455,
+    "words": [
+      {
+        "text": "na",
+        "start": 22.855,
+        "end": 22.955,
+        "hot": false
+      },
+      {
+        "text": "entrega",
+        "start": 22.955,
+        "end": 23.455,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 23.455,
+    "end": 23.895,
+    "words": [
+      {
+        "text": "e",
+        "start": 23.455,
+        "end": 23.535,
+        "hot": false
+      },
+      {
+        "text": "espaço",
+        "start": 23.535,
+        "end": 23.895,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 23.895,
+    "end": 24.595,
+    "words": [
+      {
+        "text": "para",
+        "start": 23.895,
+        "end": 24.195,
+        "hot": false
+      },
+      {
+        "text": "aumentar",
+        "start": 24.195,
+        "end": 24.595,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 24.595,
+    "end": 25.615000000000002,
+    "words": [
+      {
+        "text": "seu",
+        "start": 24.595,
+        "end": 24.935,
+        "hot": false
+      },
+      {
+        "text": "faturamento.",
+        "start": 24.935,
+        "end": 25.495,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 25.977,
+    "end": 26.677,
+    "words": [
+      {
+        "text": "Você",
+        "start": 25.977,
+        "end": 26.157,
+        "hot": false
+      },
+      {
+        "text": "não",
+        "start": 26.157,
+        "end": 26.317,
+        "hot": false
+      },
+      {
+        "text": "precisa",
+        "start": 26.317,
+        "end": 26.677,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 26.677,
+    "end": 27.877,
+    "words": [
+      {
+        "text": "abandonar",
+        "start": 26.677,
+        "end": 27.377,
+        "hot": false
+      },
+      {
+        "text": "os",
+        "start": 27.377,
+        "end": 27.457,
+        "hot": false
+      },
+      {
+        "text": "serviços",
+        "start": 27.457,
+        "end": 27.877,
+        "hot": false
+      }
+    ],
+    "fontSize": 56
+  },
+  {
+    "start": 27.877,
+    "end": 28.597,
+    "words": [
+      {
+        "text": "pequenos.",
+        "start": 27.877,
+        "end": 28.477,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 28.777,
+    "end": 29.937,
+    "words": [
+      {
+        "text": "Precisa",
+        "start": 28.777,
+        "end": 29.297,
+        "hot": false
+      },
+      {
+        "text": "atrair",
+        "start": 29.297,
+        "end": 29.697,
+        "hot": false
+      },
+      {
+        "text": "também",
+        "start": 29.697,
+        "end": 29.937,
+        "hot": false
+      }
+    ],
+    "fontSize": 58
+  },
+  {
+    "start": 29.937,
+    "end": 30.817,
+    "words": [
+      {
+        "text": "quem",
+        "start": 29.937,
+        "end": 30.257,
+        "hot": false
+      },
+      {
+        "text": "valoriza",
+        "start": 30.257,
+        "end": 30.817,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 30.817,
+    "end": 31.497,
+    "words": [
+      {
+        "text": "seu",
+        "start": 30.817,
+        "end": 31.017,
+        "hot": false
+      },
+      {
+        "text": "trabalho",
+        "start": 31.017,
+        "end": 31.497,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 31.497,
+    "end": 32.737,
+    "words": [
+      {
+        "text": "e",
+        "start": 31.497,
+        "end": 31.817,
+        "hot": false
+      },
+      {
+        "text": "busca",
+        "start": 31.817,
+        "end": 32.057,
+        "hot": false
+      },
+      {
+        "text": "projetos",
+        "start": 32.057,
+        "end": 32.737,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 32.737,
+    "end": 33.556999999999995,
+    "words": [
+      {
+        "text": "de",
+        "start": 32.737,
+        "end": 32.857,
+        "hot": false
+      },
+      {
+        "text": "alto",
+        "start": 32.857,
+        "end": 33.017,
+        "hot": true
+      },
+      {
+        "text": "padrão.",
+        "start": 33.017,
+        "end": 33.437,
+        "hot": true
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 33.771,
+    "end": 34.771,
+    "words": [
+      {
+        "text": "Na",
+        "start": 33.771,
+        "end": 33.891,
+        "hot": false
+      },
+      {
+        "text": "iB",
+        "start": 33.891,
+        "end": 34.071,
+        "hot": false
+      },
+      {
+        "text": "Mídias,",
+        "start": 34.071,
+        "end": 34.651,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 34.831,
+    "end": 35.591,
+    "words": [
+      {
+        "text": "criamos",
+        "start": 34.831,
+        "end": 35.151,
+        "hot": false
+      },
+      {
+        "text": "anúncios",
+        "start": 35.151,
+        "end": 35.591,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 35.591,
+    "end": 36.411,
+    "words": [
+      {
+        "text": "estratégicos",
+        "start": 35.591,
+        "end": 36.411,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 36.411,
+    "end": 37.351,
+    "words": [
+      {
+        "text": "para",
+        "start": 36.411,
+        "end": 36.591,
+        "hot": false
+      },
+      {
+        "text": "vidraceiros",
+        "start": 36.591,
+        "end": 37.351,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 37.351,
+    "end": 37.931,
+    "words": [
+      {
+        "text": "e",
+        "start": 37.351,
+        "end": 37.511,
+        "hot": false
+      },
+      {
+        "text": "empresas",
+        "start": 37.511,
+        "end": 37.931,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 37.931,
+    "end": 38.651,
+    "words": [
+      {
+        "text": "de",
+        "start": 37.931,
+        "end": 38.191,
+        "hot": false
+      },
+      {
+        "text": "esquadrias",
+        "start": 38.191,
+        "end": 38.651,
+        "hot": true
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 38.651,
+    "end": 39.491,
+    "words": [
+      {
+        "text": "de",
+        "start": 38.651,
+        "end": 38.811,
+        "hot": false
+      },
+      {
+        "text": "alumínio,",
+        "start": 38.811,
+        "end": 39.371,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 39.651,
+    "end": 41.331,
+    "words": [
+      {
+        "text": "levando",
+        "start": 39.651,
+        "end": 39.971,
+        "hot": false
+      },
+      {
+        "text": "potenciais",
+        "start": 39.971,
+        "end": 40.631,
+        "hot": false
+      },
+      {
+        "text": "clientes",
+        "start": 40.631,
+        "end": 41.331,
+        "hot": false
+      }
+    ],
+    "fontSize": 46
+  },
+  {
+    "start": 41.331,
+    "end": 42.111,
+    "words": [
+      {
+        "text": "ao",
+        "start": 41.331,
+        "end": 41.431,
+        "hot": false
+      },
+      {
+        "text": "seu",
+        "start": 41.431,
+        "end": 41.611,
+        "hot": false
+      },
+      {
+        "text": "WhatsApp.",
+        "start": 41.611,
+        "end": 41.991,
+        "hot": true
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 42.609,
+    "end": 43.369,
+    "words": [
+      {
+        "text": "Você",
+        "start": 42.609,
+        "end": 42.809,
+        "hot": false
+      },
+      {
+        "text": "cuida",
+        "start": 42.809,
+        "end": 43.249,
+        "hot": false
+      },
+      {
+        "text": "da",
+        "start": 43.249,
+        "end": 43.369,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 43.369,
+    "end": 44.068999999999996,
+    "words": [
+      {
+        "text": "execução.",
+        "start": 43.369,
+        "end": 43.949,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 44.369,
+    "end": 44.949,
+    "words": [
+      {
+        "text": "Nós",
+        "start": 44.369,
+        "end": 44.449,
+        "hot": false
+      },
+      {
+        "text": "ajudamos",
+        "start": 44.449,
+        "end": 44.949,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 44.949,
+    "end": 45.569,
+    "words": [
+      {
+        "text": "sua",
+        "start": 44.949,
+        "end": 45.149,
+        "hot": false
+      },
+      {
+        "text": "empresa",
+        "start": 45.149,
+        "end": 45.569,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 45.569,
+    "end": 46.149,
+    "words": [
+      {
+        "text": "a",
+        "start": 45.569,
+        "end": 45.749,
+        "hot": false
+      },
+      {
+        "text": "aparecer",
+        "start": 45.749,
+        "end": 46.149,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 46.149,
+    "end": 47.229,
+    "words": [
+      {
+        "text": "para",
+        "start": 46.149,
+        "end": 46.469,
+        "hot": false
+      },
+      {
+        "text": "quem",
+        "start": 46.469,
+        "end": 46.709,
+        "hot": false
+      },
+      {
+        "text": "procura",
+        "start": 46.709,
+        "end": 47.229,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 47.229,
+    "end": 48.108999999999995,
+    "words": [
+      {
+        "text": "seus",
+        "start": 47.229,
+        "end": 47.389,
+        "hot": false
+      },
+      {
+        "text": "serviços.",
+        "start": 47.389,
+        "end": 47.989,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 48.397,
+    "end": 49.277,
+    "words": [
+      {
+        "text": "Quer",
+        "start": 48.397,
+        "end": 48.537,
+        "hot": false
+      },
+      {
+        "text": "oportunidades",
+        "start": 48.537,
+        "end": 49.277,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 49.277,
+    "end": 50.276999999999994,
+    "words": [
+      {
+        "text": "de",
+        "start": 49.277,
+        "end": 49.477,
+        "hot": false
+      },
+      {
+        "text": "maior",
+        "start": 49.477,
+        "end": 49.737,
+        "hot": true
+      },
+      {
+        "text": "valor?",
+        "start": 49.737,
+        "end": 50.157,
+        "hot": true
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 50.517,
+    "end": 51.237,
+    "words": [
+      {
+        "text": "Clique",
+        "start": 50.517,
+        "end": 50.657,
+        "hot": false
+      },
+      {
+        "text": "em",
+        "start": 50.657,
+        "end": 50.897,
+        "hot": false
+      },
+      {
+        "text": "Saiba",
+        "start": 50.897,
+        "end": 51.237,
+        "hot": true
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 51.237,
+    "end": 51.957,
+    "words": [
+      {
+        "text": "Mais",
+        "start": 51.237,
+        "end": 51.497,
+        "hot": true
+      },
+      {
+        "text": "e",
+        "start": 51.497,
+        "end": 51.697,
+        "hot": false
+      },
+      {
+        "text": "fale",
+        "start": 51.697,
+        "end": 51.957,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 51.957,
+    "end": 52.757,
+    "words": [
+      {
+        "text": "com",
+        "start": 51.957,
+        "end": 52.177,
+        "hot": false
+      },
+      {
+        "text": "nossa",
+        "start": 52.177,
+        "end": 52.397,
+        "hot": false
+      },
+      {
+        "text": "equipe",
+        "start": 52.397,
+        "end": 52.757,
+        "hot": false
+      }
+    ],
+    "fontSize": 64
+  },
+  {
+    "start": 52.757,
+    "end": 53.416999999999994,
+    "words": [
+      {
+        "text": "pelo",
+        "start": 52.757,
+        "end": 52.957,
+        "hot": false
+      },
+      {
+        "text": "WhatsApp.",
+        "start": 52.957,
+        "end": 53.297,
+        "hot": true
+      }
+    ],
+    "fontSize": 64
+  }
+]

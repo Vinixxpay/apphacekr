@@ -1,0 +1,23 @@
+{
+  "file": "ib-midias-cartoon.mp4",
+  "duration": 56.939,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 1708,
+  "style": "Original 2D cartoon characters and illustrated sets, inspired by user reference",
+  "sequences": 8,
+  "shotSetups": 17,
+  "captions": "Top-centered bold white serif, dark outline; at most two lines",
+  "captionGroups": 61,
+  "captionWords": 143,
+  "maximumCaptionLines": 2,
+  "narrationIntact": true,
+  "audioCorrelationWithExistingMix": 0.9999489442022508,
+  "sameStoryAndNarrationAsPrevious": true,
+  "fullDecode": "passed",
+  "bytes": 15155981,
+  "sha256": "4087d6b1e4cc21044f50f50849e4e35988ac87d1d63bdb3d93c3ea4827d406d3"
+}
