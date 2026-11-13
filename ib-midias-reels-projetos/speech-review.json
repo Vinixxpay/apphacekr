@@ -1,0 +1,51 @@
+[
+  {
+    "scene": 0,
+    "expected": "Você que trabalha com vidros, portões de alumínio ou esquadrias… sua agenda vive cheia, mas o dinheiro parece que nunca sobra?",
+    "recognized": "Você que trabalha com vidros, portões de alumínio ou esquadrias, sua agenda vive cheia, mas o dinheiro parece que nunca sobra.",
+    "matchedWords": 21,
+    "words": 21
+  },
+  {
+    "scene": 1,
+    "expected": "Você pega três, quatro serviços por dia, trabalha sem parar e, quando chega no final do mês, o faturamento continua apertado.",
+    "recognized": "Você pega três, quatro serviços por dia, trabalha sem parar e, quando chega no final do mês, o faturamento continua apertado.",
+    "matchedWords": 21,
+    "words": 21
+  },
+  {
+    "scene": 2,
+    "expected": "Mas agora imagina uma coisa… E se você fechasse um único serviço que valesse o mesmo que aqueles quatro juntos?",
+    "recognized": "Mas agora imagina uma coisa, e se você fechasse um único serviço que valesse o mesmo que aqueles quatro juntos.",
+    "matchedWords": 20,
+    "words": 20
+  },
+  {
+    "scene": 3,
+    "expected": "Você não precisa parar de atender serviços pequenos. Mas pode começar a atrair clientes que valorizam seu trabalho, investir mais tempo em cada projeto e buscar um faturamento melhor.",
+    "recognized": "Você não precisa parar de atender serviços pequenos, mas pode começar a atrair clientes que valorizam seu trabalho, investir mais tempo em cada projeto e buscar um faturamento melhor.",
+    "matchedWords": 29,
+    "words": 29
+  },
+  {
+    "scene": 4,
+    "expected": "Chega de depender só de indicação e ficar esperando o próximo cliente aparecer. Sua empresa precisa ser encontrada por quem já está procurando esses serviços.",
+    "recognized": "Chega de depender só de indicação e ficar esperando o próximo cliente aparecer. Sua empresa precisa ser encontrada por quem já está procurando esses serviços.",
+    "matchedWords": 25,
+    "words": 25
+  },
+  {
+    "scene": 5,
+    "expected": "Na i bê Mídias, criamos anúncios estratégicos para ajudar vidraçarias e empresas de esquadrias a atrair potenciais clientes diretamente pelo WhatsApp.",
+    "recognized": "Na iB Mídias, criamos anúncios estratégicos para ajudar vidraçarias e empresas de esquadrias a atrair potenciais clientes diretamente pelo WhatsApp.",
+    "matchedWords": 20,
+    "words": 20
+  },
+  {
+    "scene": 6,
+    "expected": "Você cuida dos serviços. A i bê Mídias ajuda sua empresa a ser encontrada. Quer atrair oportunidades de projetos de maior valor? Clique em Saiba Mais e fale com a nossa equipe!",
+    "recognized": "Você cuida dos serviços. A iB Mídias ajuda sua empresa a ser encontrada. Quer atrair oportunidades de projetos de maior valor? Clique em Saiba Mais e fale com a nossa equipe.",
+    "matchedWords": 31,
+    "words": 31
+  }
+]

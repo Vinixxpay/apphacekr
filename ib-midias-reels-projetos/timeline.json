@@ -1,0 +1,71 @@
+{
+  "fps": 30,
+  "frames": 1932,
+  "duration": 64.4,
+  "voice": "Kokoro pm_alex, Brazilian Portuguese, generated speech",
+  "scenes": [
+    {
+      "kind": "hook",
+      "title": "AGENDA CHEIA ≠ LUCRO ALTO",
+      "subtitle": "",
+      "text": "Você que trabalha com vidros, portões de alumínio ou esquadrias… sua agenda vive cheia, mas o dinheiro parece que nunca sobra?",
+      "start": 0.18,
+      "speechDuration": 6.954666666666666,
+      "end": 7.3547
+    },
+    {
+      "kind": "busy",
+      "title": "POUCO TEMPO. MARGEM APERTADA.",
+      "subtitle": "",
+      "text": "Você pega três, quatro serviços por dia, trabalha sem parar e, quando chega no final do mês, o faturamento continua apertado.",
+      "start": 7.3547,
+      "speechDuration": 7.1466666666666665,
+      "end": 14.7213
+    },
+    {
+      "kind": "balance",
+      "title": "4 SERVIÇOS OU 1 PROJETO?",
+      "subtitle": "",
+      "text": "Mas agora imagina uma coisa… E se você fechasse um único serviço que valesse o mesmo que aqueles quatro juntos?",
+      "start": 14.7213,
+      "speechDuration": 6.165333333333334,
+      "end": 21.1067
+    },
+    {
+      "kind": "value",
+      "title": "PROJETOS DE MAIOR VALOR",
+      "subtitle": "",
+      "text": "Você não precisa parar de atender serviços pequenos. Mas pode começar a atrair clientes que valorizam seu trabalho, investir mais tempo em cada projeto e buscar um faturamento melhor.",
+      "start": 21.1067,
+      "speechDuration": 10.624,
+      "end": 31.9507
+    },
+    {
+      "kind": "search",
+      "title": "SEJA ENCONTRADO",
+      "subtitle": "",
+      "text": "Chega de depender só de indicação e ficar esperando o próximo cliente aparecer. Sua empresa precisa ser encontrada por quem já está procurando esses serviços.",
+      "start": 31.9507,
+      "speechDuration": 9.322666666666667,
+      "end": 41.4933
+    },
+    {
+      "kind": "agency",
+      "title": "ANÚNCIOS ESTRATÉGICOS",
+      "subtitle": "",
+      "text": "Na i bê Mídias, criamos anúncios estratégicos para ajudar vidraçarias e empresas de esquadrias a atrair potenciais clientes diretamente pelo WhatsApp.",
+      "start": 41.4933,
+      "speechDuration": 9.365333333333334,
+      "end": 51.0787
+    },
+    {
+      "kind": "cta",
+      "title": "FALE COM A iB MÍDIAS",
+      "subtitle": "",
+      "text": "Você cuida dos serviços. A i bê Mídias ajuda sua empresa a ser encontrada. Quer atrair oportunidades de projetos de maior valor? Clique em Saiba Mais e fale com a nossa equipe!",
+      "start": 51.0787,
+      "speechDuration": 10.090666666666667,
+      "end": 64.4
+    }
+  ]
+}

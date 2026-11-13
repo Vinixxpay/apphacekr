@@ -1,0 +1,28 @@
+{
+  "file": "ib-midias-reels-projetos.mp4",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "duration": 64.405,
+  "frames": 1932,
+  "sequences": 7,
+  "direction": "Cartoon 2D according to the supplied written brief",
+  "voice": "Brazilian Portuguese male, Kokoro pm_alex",
+  "script": "All seven narration passages included",
+  "captionWords": 167,
+  "captionGroups": 67,
+  "maximumCaptionLines": 2,
+  "effectsSynchronized": 26,
+  "audioCorrelationWithMix": 0.9999474071008394,
+  "peak": 0.8269651532173157,
+  "ctaVisibleSeconds": 6.821300000000008,
+  "holdAfterSpeechSeconds": 3.2306333333333406,
+  "comparison": "Hypothetical 4 small services versus 1 project, no invented prices",
+  "customerMessages": "Illustrative, labeled as such",
+  "roles": "Agency: ads and opportunities; company: service, negotiation and closing",
+  "fullDecode": "passed",
+  "bytes": 13912922,
+  "sha256": "6b7cba7c051d52a2598e32663dbc4b582404c8b3ff531ff1aa3abfa02c2fd7bb"
+}

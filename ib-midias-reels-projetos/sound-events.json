@@ -1,0 +1,132 @@
+[
+  {
+    "time": 0.2,
+    "type": "impact",
+    "gain": 0.07
+  },
+  {
+    "time": 0.88,
+    "type": "ring",
+    "gain": 0.03
+  },
+  {
+    "time": 1.83,
+    "type": "tool",
+    "gain": 0.045
+  },
+  {
+    "time": 2.68,
+    "type": "tool",
+    "gain": 0.045
+  },
+  {
+    "time": 7.655,
+    "type": "tick",
+    "gain": 0.009
+  },
+  {
+    "time": 8.105,
+    "type": "tick",
+    "gain": 0.009
+  },
+  {
+    "time": 8.555,
+    "type": "tick",
+    "gain": 0.009
+  },
+  {
+    "time": 9.005,
+    "type": "tick",
+    "gain": 0.009
+  },
+  {
+    "time": 9.455,
+    "type": "tick",
+    "gain": 0.009
+  },
+  {
+    "time": 9.905,
+    "type": "tick",
+    "gain": 0.009
+  },
+  {
+    "time": 10.355,
+    "type": "tick",
+    "gain": 0.009
+  },
+  {
+    "time": 10.805,
+    "type": "tick",
+    "gain": 0.009
+  },
+  {
+    "time": 13.055,
+    "type": "coin",
+    "gain": 0.035
+  },
+  {
+    "time": 14.721,
+    "type": "impact",
+    "gain": 0.06
+  },
+  {
+    "time": 17.721,
+    "type": "coin",
+    "gain": 0.025
+  },
+  {
+    "time": 25.507,
+    "type": "tool",
+    "gain": 0.025
+  },
+  {
+    "time": 26.607,
+    "type": "tool",
+    "gain": 0.025
+  },
+  {
+    "time": 27.507,
+    "type": "tool",
+    "gain": 0.025
+  },
+  {
+    "time": 29.207,
+    "type": "coin",
+    "gain": 0.025
+  },
+  {
+    "time": 38.301,
+    "type": "notification",
+    "gain": 0.055
+  },
+  {
+    "time": 43.743,
+    "type": "pop",
+    "gain": 0.024
+  },
+  {
+    "time": 44.493,
+    "type": "pop",
+    "gain": 0.024
+  },
+  {
+    "time": 45.243,
+    "type": "pop",
+    "gain": 0.024
+  },
+  {
+    "time": 45.993,
+    "type": "pop",
+    "gain": 0.024
+  },
+  {
+    "time": 46.743,
+    "type": "pop",
+    "gain": 0.024
+  },
+  {
+    "time": 58.659,
+    "type": "click",
+    "gain": 0.045
+  }
+]
