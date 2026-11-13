@@ -1,0 +1,28 @@
+{
+  "file": "ib-midias-reels-voz-brasileira.mp4",
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "duration": 66.645,
+  "frames": 1999,
+  "sequences": 7,
+  "direction": "Cartoon 2D according to the supplied written brief",
+  "voice": "Brazilian Portuguese male, Kokoro pm_santa",
+  "script": "All seven narration passages included",
+  "captionWords": 167,
+  "captionGroups": 67,
+  "maximumCaptionLines": 2,
+  "effectsSynchronized": 26,
+  "audioCorrelationWithMix": 0.9999417167195587,
+  "peak": 0.8174766898155212,
+  "ctaVisibleSeconds": 7.15603333333334,
+  "holdAfterSpeechSeconds": 3.202700000000007,
+  "comparison": "Hypothetical 4 small services versus 1 project, no invented prices",
+  "customerMessages": "Illustrative, labeled as such",
+  "roles": "Agency: ads and opportunities; company: service, negotiation and closing",
+  "fullDecode": "passed",
+  "bytes": 14248083,
+  "sha256": "d8945eed200a5fc9eea2d8391df093e5376f9172df10c03a2d0d406160a9ab5e"
+}

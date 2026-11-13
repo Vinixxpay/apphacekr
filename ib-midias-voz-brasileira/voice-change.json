@@ -1,0 +1,12 @@
+{
+  "reference": "ib-midias-reels-projetos.mp4",
+  "change": "Alternate adult male Brazilian Portuguese narration with conversational pacing",
+  "engine": "Kokoro",
+  "previousVoice": "pm_alex",
+  "newVoice": "pm_santa",
+  "language": "pt-br",
+  "nativeSpeechSpeed": 1.02,
+  "scriptUnchanged": true,
+  "drawingComponentsUnchanged": true,
+  "timing": "Re-aligned scenes, subtitles, mouth motion and sound cues to the new complete narration"
+}
