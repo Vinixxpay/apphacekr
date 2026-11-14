@@ -1,0 +1,782 @@
+[
+  {
+    "start": 0.16,
+    "end": 0.6,
+    "words": [
+      {
+        "text": "Deixa",
+        "start": 0.16,
+        "end": 0.38,
+        "hot": false
+      },
+      {
+        "text": "eu",
+        "start": 0.38,
+        "end": 0.54,
+        "hot": false
+      },
+      {
+        "text": "te",
+        "start": 0.54,
+        "end": 0.6,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 0.6,
+    "end": 1.4600000000000002,
+    "words": [
+      {
+        "text": "fazer",
+        "start": 0.6,
+        "end": 0.8,
+        "hot": false
+      },
+      {
+        "text": "uma",
+        "start": 0.8,
+        "end": 1.02,
+        "hot": false
+      },
+      {
+        "text": "pergunta…",
+        "start": 1.02,
+        "end": 1.36,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 1.78,
+    "end": 2.34,
+    "words": [
+      {
+        "text": "Você",
+        "start": 1.78,
+        "end": 2.0,
+        "hot": false
+      },
+      {
+        "text": "é",
+        "start": 2.0,
+        "end": 2.14,
+        "hot": false
+      },
+      {
+        "text": "dono",
+        "start": 2.14,
+        "end": 2.34,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.34,
+    "end": 3.06,
+    "words": [
+      {
+        "text": "de",
+        "start": 2.34,
+        "end": 2.44,
+        "hot": false
+      },
+      {
+        "text": "um",
+        "start": 2.44,
+        "end": 2.54,
+        "hot": false
+      },
+      {
+        "text": "lava-jato",
+        "start": 2.54,
+        "end": 3.06,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 3.06,
+    "end": 3.86,
+    "words": [
+      {
+        "text": "ou",
+        "start": 3.06,
+        "end": 3.22,
+        "hot": false
+      },
+      {
+        "text": "vive",
+        "start": 3.22,
+        "end": 3.38,
+        "hot": false
+      },
+      {
+        "text": "apagando",
+        "start": 3.38,
+        "end": 3.86,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 3.86,
+    "end": 5.04,
+    "words": [
+      {
+        "text": "incêndio",
+        "start": 3.86,
+        "end": 4.38,
+        "hot": false
+      },
+      {
+        "text": "dentro",
+        "start": 4.38,
+        "end": 4.64,
+        "hot": false
+      },
+      {
+        "text": "dele?",
+        "start": 4.64,
+        "end": 4.94,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.22,
+    "end": 6.02,
+    "words": [
+      {
+        "text": "Trabalhar",
+        "start": 5.22,
+        "end": 5.54,
+        "hot": false
+      },
+      {
+        "text": "muito",
+        "start": 5.54,
+        "end": 5.8,
+        "hot": false
+      },
+      {
+        "text": "não",
+        "start": 5.8,
+        "end": 6.02,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 6.02,
+    "end": 7.24,
+    "words": [
+      {
+        "text": "significa",
+        "start": 6.02,
+        "end": 6.56,
+        "hot": false
+      },
+      {
+        "text": "ter",
+        "start": 6.56,
+        "end": 6.84,
+        "hot": false
+      },
+      {
+        "text": "controle",
+        "start": 6.84,
+        "end": 7.24,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 7.24,
+    "end": 7.9799999999999995,
+    "words": [
+      {
+        "text": "do",
+        "start": 7.24,
+        "end": 7.44,
+        "hot": false
+      },
+      {
+        "text": "seu",
+        "start": 7.44,
+        "end": 7.56,
+        "hot": false
+      },
+      {
+        "text": "negócio!",
+        "start": 7.56,
+        "end": 7.88,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.28,
+    "end": 8.72,
+    "words": [
+      {
+        "text": "Se",
+        "start": 8.28,
+        "end": 8.38,
+        "hot": false
+      },
+      {
+        "text": "você",
+        "start": 8.38,
+        "end": 8.62,
+        "hot": false
+      },
+      {
+        "text": "não",
+        "start": 8.62,
+        "end": 8.72,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.72,
+    "end": 9.94,
+    "words": [
+      {
+        "text": "organiza",
+        "start": 8.72,
+        "end": 9.26,
+        "hot": true
+      },
+      {
+        "text": "seus",
+        "start": 9.26,
+        "end": 9.42,
+        "hot": false
+      },
+      {
+        "text": "serviços",
+        "start": 9.42,
+        "end": 9.94,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 9.94,
+    "end": 10.74,
+    "words": [
+      {
+        "text": "e",
+        "start": 9.94,
+        "end": 10.1,
+        "hot": false
+      },
+      {
+        "text": "clientes,",
+        "start": 10.1,
+        "end": 10.64,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 10.74,
+    "end": 12.04,
+    "words": [
+      {
+        "text": "fica",
+        "start": 10.74,
+        "end": 10.98,
+        "hot": false
+      },
+      {
+        "text": "difícil",
+        "start": 10.98,
+        "end": 11.38,
+        "hot": false
+      },
+      {
+        "text": "acompanhar",
+        "start": 11.38,
+        "end": 12.04,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.04,
+    "end": 12.74,
+    "words": [
+      {
+        "text": "a",
+        "start": 12.04,
+        "end": 12.12,
+        "hot": false
+      },
+      {
+        "text": "operação.",
+        "start": 12.12,
+        "end": 12.64,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.02,
+    "end": 13.5,
+    "words": [
+      {
+        "text": "É",
+        "start": 13.02,
+        "end": 13.14,
+        "hot": false
+      },
+      {
+        "text": "por",
+        "start": 13.14,
+        "end": 13.28,
+        "hot": false
+      },
+      {
+        "text": "isso",
+        "start": 13.28,
+        "end": 13.5,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.5,
+    "end": 13.98,
+    "words": [
+      {
+        "text": "que",
+        "start": 13.5,
+        "end": 13.64,
+        "hot": false
+      },
+      {
+        "text": "existe",
+        "start": 13.64,
+        "end": 13.98,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.98,
+    "end": 14.6,
+    "words": [
+      {
+        "text": "o",
+        "start": 13.98,
+        "end": 14.14,
+        "hot": false
+      },
+      {
+        "text": "Lavaí!",
+        "start": 14.14,
+        "end": 14.5,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 14.68,
+    "end": 15.74,
+    "words": [
+      {
+        "text": "Um",
+        "start": 14.68,
+        "end": 14.8,
+        "hot": false
+      },
+      {
+        "text": "aplicativo",
+        "start": 14.8,
+        "end": 15.4,
+        "hot": false
+      },
+      {
+        "text": "feito",
+        "start": 15.4,
+        "end": 15.74,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 15.74,
+    "end": 16.32,
+    "words": [
+      {
+        "text": "para",
+        "start": 15.74,
+        "end": 16.0,
+        "hot": false
+      },
+      {
+        "text": "donos",
+        "start": 16.0,
+        "end": 16.32,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 16.32,
+    "end": 17.12,
+    "words": [
+      {
+        "text": "de",
+        "start": 16.32,
+        "end": 16.44,
+        "hot": false
+      },
+      {
+        "text": "lava-jatos,",
+        "start": 16.44,
+        "end": 17.12,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 17.12,
+    "end": 18.32,
+    "words": [
+      {
+        "text": "lava-rápidos",
+        "start": 17.12,
+        "end": 17.8,
+        "hot": false
+      },
+      {
+        "text": "e",
+        "start": 17.8,
+        "end": 17.92,
+        "hot": false
+      },
+      {
+        "text": "estética",
+        "start": 17.92,
+        "end": 18.32,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 18.32,
+    "end": 19.08,
+    "words": [
+      {
+        "text": "automotiva.",
+        "start": 18.32,
+        "end": 19.08,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 19.08,
+    "end": 20.32,
+    "words": [
+      {
+        "text": "Cadastre",
+        "start": 19.08,
+        "end": 19.86,
+        "hot": false
+      },
+      {
+        "text": "clientes,",
+        "start": 19.86,
+        "end": 20.32,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 20.32,
+    "end": 21.28,
+    "words": [
+      {
+        "text": "registre",
+        "start": 20.32,
+        "end": 20.78,
+        "hot": false
+      },
+      {
+        "text": "serviços",
+        "start": 20.78,
+        "end": 21.28,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 21.28,
+    "end": 22.18,
+    "words": [
+      {
+        "text": "e",
+        "start": 21.28,
+        "end": 21.42,
+        "hot": false
+      },
+      {
+        "text": "envie",
+        "start": 21.42,
+        "end": 21.62,
+        "hot": false
+      },
+      {
+        "text": "comprovantes",
+        "start": 21.62,
+        "end": 22.18,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 22.18,
+    "end": 22.96,
+    "words": [
+      {
+        "text": "pelo",
+        "start": 22.18,
+        "end": 22.46,
+        "hot": false
+      },
+      {
+        "text": "WhatsApp.",
+        "start": 22.46,
+        "end": 22.86,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 23.24,
+    "end": 23.84,
+    "words": [
+      {
+        "text": "Tudo",
+        "start": 23.24,
+        "end": 23.38,
+        "hot": false
+      },
+      {
+        "text": "na",
+        "start": 23.38,
+        "end": 23.58,
+        "hot": false
+      },
+      {
+        "text": "palma",
+        "start": 23.58,
+        "end": 23.84,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 23.84,
+    "end": 24.5,
+    "words": [
+      {
+        "text": "da",
+        "start": 23.84,
+        "end": 23.98,
+        "hot": false
+      },
+      {
+        "text": "sua",
+        "start": 23.98,
+        "end": 24.16,
+        "hot": false
+      },
+      {
+        "text": "mão!",
+        "start": 24.16,
+        "end": 24.4,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 24.68,
+    "end": 25.6,
+    "words": [
+      {
+        "text": "Seu",
+        "start": 24.68,
+        "end": 24.78,
+        "hot": false
+      },
+      {
+        "text": "lava-jato",
+        "start": 24.78,
+        "end": 25.24,
+        "hot": false
+      },
+      {
+        "text": "merece",
+        "start": 25.24,
+        "end": 25.6,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 25.6,
+    "end": 26.7,
+    "words": [
+      {
+        "text": "uma",
+        "start": 25.6,
+        "end": 25.74,
+        "hot": false
+      },
+      {
+        "text": "gestão",
+        "start": 25.74,
+        "end": 26.08,
+        "hot": false
+      },
+      {
+        "text": "profissional.",
+        "start": 26.08,
+        "end": 26.7,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 26.7,
+    "end": 27.629,
+    "words": [
+      {
+        "text": "Por",
+        "start": 26.7,
+        "end": 27.14,
+        "hot": false
+      },
+      {
+        "text": "apenas",
+        "start": 27.14,
+        "end": 27.4,
+        "hot": false
+      },
+      {
+        "text": "trinta",
+        "start": 27.4,
+        "end": 27.629,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 27.629,
+    "end": 28.314,
+    "words": [
+      {
+        "text": "e",
+        "start": 27.629,
+        "end": 27.857,
+        "hot": false
+      },
+      {
+        "text": "nove",
+        "start": 27.857,
+        "end": 28.086,
+        "hot": false
+      },
+      {
+        "text": "reais",
+        "start": 28.086,
+        "end": 28.314,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 28.314,
+    "end": 29.0,
+    "words": [
+      {
+        "text": "e",
+        "start": 28.314,
+        "end": 28.543,
+        "hot": false
+      },
+      {
+        "text": "noventa",
+        "start": 28.543,
+        "end": 28.771,
+        "hot": false
+      },
+      {
+        "text": "centavos",
+        "start": 28.771,
+        "end": 29.0,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 29.0,
+    "end": 30.14,
+    "words": [
+      {
+        "text": "por",
+        "start": 29.0,
+        "end": 29.7,
+        "hot": false
+      },
+      {
+        "text": "mês!",
+        "start": 29.7,
+        "end": 30.04,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 30.24,
+    "end": 31.04,
+    "words": [
+      {
+        "text": "Clique",
+        "start": 30.24,
+        "end": 30.54,
+        "hot": false
+      },
+      {
+        "text": "em",
+        "start": 30.54,
+        "end": 30.7,
+        "hot": false
+      },
+      {
+        "text": "Saiba",
+        "start": 30.7,
+        "end": 31.04,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 31.04,
+    "end": 31.380000000000003,
+    "words": [
+      {
+        "text": "Mais!",
+        "start": 31.04,
+        "end": 31.28,
+        "hot": false
+      }
+    ]
+  }
+]

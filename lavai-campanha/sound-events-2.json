@@ -1,0 +1,50 @@
+[
+  {
+    "time": 0.2,
+    "kind": "whoosh"
+  },
+  {
+    "time": 0.8,
+    "kind": "paper"
+  },
+  {
+    "time": 1.6,
+    "kind": "paper"
+  },
+  {
+    "time": 2.5,
+    "kind": "tap"
+  },
+  {
+    "time": 3.3,
+    "kind": "tap"
+  },
+  {
+    "time": 4.5,
+    "kind": "whoosh"
+  },
+  {
+    "time": 6.48,
+    "kind": "whoosh"
+  },
+  {
+    "time": 7.08,
+    "kind": "tap"
+  },
+  {
+    "time": 15.82,
+    "kind": "tap"
+  },
+  {
+    "time": 10.62,
+    "kind": "notify"
+  },
+  {
+    "time": 23.62,
+    "kind": "coin"
+  },
+  {
+    "time": 26.62,
+    "kind": "tap"
+  }
+]

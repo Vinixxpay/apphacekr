@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "expected": "Você trabalha o dia inteiro no lava-jato... Mas, no final do mês, sabe quanto realmente faturou? É cliente chegando, carro saindo, dinheiro entrando e tudo anotado no caderno! Chega de perder o controle do seu negócio! Com o Lavaí, você organiza seus clientes, registra os serviços e mantém tudo em ordem direto pelo celular. Tudo de forma simples e rápida! Por apenas trinta e nove reais e noventa centavos por mês! Clique em Saiba Mais e conheça o Lavaí!",
+    "recognized": "Você trabalha o dia inteiro no Lava -jato, mas no final do mês, sabe quanto realmente faturou? É cliente chegando, carro saindo, dinheiro entrando e tudo anotado no caderno. Chega de perder o controle do seu negócio. Com o Lavaí, você organiza seus clientes, registra os serviços e mantém tudo em ordem direto pelo celular. Tudo de forma simples e rápida. Por apenas trinta e nove reais e noventa centavos por mês. Clique em Saiba Mais e conheça o Lavaí.",
+    "matchedWords": 78,
+    "targetWords": 79
+  },
+  {
+    "id": 2,
+    "expected": "Você ainda controla seu lava-jato com papel, caneta e calculadora? Então está na hora de modernizar seu negócio! Imagina cadastrar cada cliente, registrar os serviços e emitir comprovantes profissionais em poucos cliques? Com o Lavaí, você faz tudo isso direto do celular! Sem planilhas complicadas. Sem perder tempo procurando anotações. Menos papel, mais controle e mais organização! Tudo isso por apenas trinta e nove reais e noventa centavos por mês! Clique em Saiba Mais e conheça o Lavaí!",
+    "recognized": "Você ainda controla seu lava -jato com papel, caneta e calculadora? Então está na hora de modernizar seu negócio. Imagina cadastrar cada cliente, registrar os serviços e emitir comprovantes profissionais em poucos cliques. Com o Lavaí, você faz tudo isso direto do celular. Sem planilhas complicadas, sem perder tempo procurando anotações. Menos papel, mais controle e mais organização. Tudo isso por apenas trinta e nove reais e noventa centavos por mês. Clique em Saiba Mais e conheça o Lavaí.",
+    "matchedWords": 77,
+    "targetWords": 78
+  },
+  {
+    "id": 3,
+    "expected": "Deixa eu te fazer uma pergunta... Você é dono de um lava-jato ou vive apagando incêndio dentro dele? Trabalhar muito não significa ter controle do seu negócio! Se você não organiza seus serviços e clientes, fica difícil acompanhar a operação. É por isso que existe o Lavaí! Um aplicativo feito para donos de lava-jatos, lava-rápidos e estética automotiva. Cadastre clientes, registre serviços e envie comprovantes pelo WhatsApp. Tudo na palma da sua mão! Seu lava-jato merece uma gestão profissional. Por apenas trinta e nove reais e noventa centavos por mês! Clique em Saiba Mais!",
+    "recognized": "Deixa eu te fazer uma pergunta. Você é dono de um lava -jato ou vive apagando incêndio dentro dele? Trabalhar muito não significa ter controle do seu negócio. Se você não organiza seus serviços e clientes, fica difícil acompanhar a operação. É por isso que existe o Lavaí. Um aplicativo feito para donos de lava -jatos, lava rápidos e estética automotiva. Cadastra e clientes, registra serviços e envia comprovantes pelo WhatsApp. Tudo na palma da sua mão, seu lava -jato merece uma gestão profissional. por apenas R $ 39 ,90 por mês. Clique em Saiba Mais.",
+    "matchedWords": 80,
+    "targetWords": 94
+  }
+]

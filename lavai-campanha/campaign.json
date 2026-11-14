@@ -1,0 +1,35 @@
+{
+  "brand": "Lavaí App",
+  "price": "R$ 39,90",
+  "billing": "/mês",
+  "cta": "SAIBA MAIS",
+  "palette": {
+    "yellow": "#FFB300",
+    "navy": "#071321",
+    "white": "#FFFFFF"
+  },
+  "showFreeTrial": false,
+  "allowedFeatures": [
+    "Cadastro de clientes",
+    "Registro de serviços",
+    "Recibos PDF/PNG",
+    "Compartilhamento pelo WhatsApp"
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "title": "Seu lava-jato está dando lucro?",
+      "narration": "Você trabalha o dia inteiro no lava-jato... Mas, no final do mês, sabe quanto realmente faturou? É cliente chegando, carro saindo, dinheiro entrando e tudo anotado no caderno! Chega de perder o controle do seu negócio! Com o Lavaí, você organiza seus clientes, registra os serviços e mantém tudo em ordem direto pelo celular. Tudo de forma simples e rápida! Por apenas trinta e nove reais e noventa centavos por mês! Clique em Saiba Mais e conheça o Lavaí!"
+    },
+    {
+      "id": 2,
+      "title": "Pare de administrar no caderno",
+      "narration": "Você ainda controla seu lava-jato com papel, caneta e calculadora? Então está na hora de modernizar seu negócio! Imagina cadastrar cada cliente, registrar os serviços e emitir comprovantes profissionais em poucos cliques? Com o Lavaí, você faz tudo isso direto do celular! Sem planilhas complicadas. Sem perder tempo procurando anotações. Menos papel, mais controle e mais organização! Tudo isso por apenas trinta e nove reais e noventa centavos por mês! Clique em Saiba Mais e conheça o Lavaí!"
+    },
+    {
+      "id": 3,
+      "title": "Você lava carros ou administra um negócio?",
+      "narration": "Deixa eu te fazer uma pergunta... Você é dono de um lava-jato ou vive apagando incêndio dentro dele? Trabalhar muito não significa ter controle do seu negócio! Se você não organiza seus serviços e clientes, fica difícil acompanhar a operação. É por isso que existe o Lavaí! Um aplicativo feito para donos de lava-jatos, lava-rápidos e estética automotiva. Cadastre clientes, registre serviços e envie comprovantes pelo WhatsApp. Tudo na palma da sua mão! Seu lava-jato merece uma gestão profissional. Por apenas trinta e nove reais e noventa centavos por mês! Clique em Saiba Mais!"
+    }
+  ]
+}

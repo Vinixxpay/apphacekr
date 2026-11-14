@@ -1,0 +1,42 @@
+[
+  {
+    "time": 0.2,
+    "kind": "whoosh"
+  },
+  {
+    "time": 3.2,
+    "kind": "ring"
+  },
+  {
+    "time": 5.2,
+    "kind": "paper"
+  },
+  {
+    "time": 9,
+    "kind": "paper"
+  },
+  {
+    "time": 14.14,
+    "kind": "whoosh"
+  },
+  {
+    "time": 14.74,
+    "kind": "tap"
+  },
+  {
+    "time": 20.98,
+    "kind": "tap"
+  },
+  {
+    "time": 22.12,
+    "kind": "notify"
+  },
+  {
+    "time": 27.4,
+    "kind": "coin"
+  },
+  {
+    "time": 30.24,
+    "kind": "tap"
+  }
+]

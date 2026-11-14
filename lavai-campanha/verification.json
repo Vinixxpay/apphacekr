@@ -1,0 +1,32 @@
+[
+  {
+    "file": "video_01_lavai.mp4",
+    "duration": 30.507,
+    "frames": 915,
+    "size": 6172741,
+    "video": "H.264 1080x1920 30fps",
+    "audio": "AAC",
+    "audio_correlation": 0.9999518693579832,
+    "full_decode": "passed"
+  },
+  {
+    "file": "video_02_lavai.mp4",
+    "duration": 31.339,
+    "frames": 940,
+    "size": 6758670,
+    "video": "H.264 1080x1920 30fps",
+    "audio": "AAC",
+    "audio_correlation": 0.999948378192921,
+    "full_decode": "passed"
+  },
+  {
+    "file": "video_03_lavai.mp4",
+    "duration": 34.048,
+    "frames": 1021,
+    "size": 11229255,
+    "video": "H.264 1080x1920 30fps",
+    "audio": "AAC",
+    "audio_correlation": 0.9999512178827817,
+    "full_decode": "passed"
+  }
+]
