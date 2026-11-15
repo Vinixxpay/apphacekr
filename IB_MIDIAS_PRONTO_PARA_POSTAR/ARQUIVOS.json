@@ -1,0 +1,210 @@
+{
+  "01-agencia-cara/capa.jpg": {
+    "bytes": 119835,
+    "sha256": "9cb4becc53afdf2c92c9c6ca941aa9fb2fd8b0329582d175009afa455d24c1c8"
+  },
+  "01-agencia-cara/legenda.txt": {
+    "bytes": 161,
+    "sha256": "64496b84dcc9f7a4da98742e51e918e299412dbda113b115cc1a95bdb7ce075f"
+  },
+  "01-agencia-cara/legendas.srt": {
+    "bytes": 1765,
+    "sha256": "094b559eece1cc24ff7511b4f21ab539ae66d0f4c4f3f4a6448277be50e2f370"
+  },
+  "01-agencia-cara/reel.mp4": {
+    "bytes": 3950846,
+    "sha256": "b9a0836629c287cb27700b7c135c220df046cf41add5990712cc35fba57f4053"
+  },
+  "02-orcamento-sem-resposta/capa.jpg": {
+    "bytes": 125290,
+    "sha256": "ecac5b3e46829277e8d076399a092c3f66d1764cfbff6c9fc38fb7f8ed97a412"
+  },
+  "02-orcamento-sem-resposta/legenda.txt": {
+    "bytes": 140,
+    "sha256": "70dcbc4f9bdf48c96bf9e3ba441a449acd70228e991e47950f4eaf6167ef5647"
+  },
+  "02-orcamento-sem-resposta/legendas.srt": {
+    "bytes": 1020,
+    "sha256": "e44a2ba75e0fee0057aa71b1f2c29a58a2abe6f6e00dbc4add321cb80c0eb897"
+  },
+  "02-orcamento-sem-resposta/reel.mp4": {
+    "bytes": 2100335,
+    "sha256": "006832180d7e6d95cfe31769e8f7d9b896e329dbc116e6692b64e5f94386b55e"
+  },
+  "03-curioso-ou-cliente/capa.jpg": {
+    "bytes": 128018,
+    "sha256": "e9162fd1e119857e1615f719700e8ec65d47df08348ac5ecf184a995b82fe7b1"
+  },
+  "03-curioso-ou-cliente/legenda.txt": {
+    "bytes": 128,
+    "sha256": "c63e6f5cad7bcf435710a111f173182e3a877c5ec10137cad8e915a0b4017435"
+  },
+  "03-curioso-ou-cliente/legendas.srt": {
+    "bytes": 1105,
+    "sha256": "4212a2a28d69e5b2a8b2f35182c36ab56edbed433b296b725d877c032b40bee3"
+  },
+  "03-curioso-ou-cliente/reel.mp4": {
+    "bytes": 2852510,
+    "sha256": "271f4812925d296d703631eb1c882e7cc4a19530e8325ff412eed60f749eff0d"
+  },
+  "04-o-que-anunciar/capa.jpg": {
+    "bytes": 138936,
+    "sha256": "a18d0a40d6d8b688900cce6fe21243f76bc01274eecec3d45590d8769e7d65f5"
+  },
+  "04-o-que-anunciar/legenda.txt": {
+    "bytes": 148,
+    "sha256": "8a202d4262574d67c52236a2f8fa87b584fb24c8bca72592f82443d91d19b313"
+  },
+  "04-o-que-anunciar/legendas.srt": {
+    "bytes": 1756,
+    "sha256": "312dade6b0d7f5eca3a9d6461b23b79aa2a47a831e0c91420ecaeba94d765b51"
+  },
+  "04-o-que-anunciar/reel.mp4": {
+    "bytes": 3793730,
+    "sha256": "c887331540385e95b264c564a4e1bf9e1460204c524facf1793b6f7eeeb7bffc"
+  },
+  "05-um-projeto-maior/capa.jpg": {
+    "bytes": 127524,
+    "sha256": "325811461fa782df732b23074eb65a26fdde21ac94758c433ea3dcfb16e820d3"
+  },
+  "05-um-projeto-maior/legenda.txt": {
+    "bytes": 137,
+    "sha256": "67d3d9b2152c9d21ae1b9ee7797e87c37a56e0a4daa755fbd889a02c40ae71ef"
+  },
+  "05-um-projeto-maior/legendas.srt": {
+    "bytes": 1298,
+    "sha256": "b3d828e7be75ccab8039401b45ec67621c55ae0e71c0f1a6d4d2330b598960ed"
+  },
+  "05-um-projeto-maior/reel.mp4": {
+    "bytes": 2698362,
+    "sha256": "a13812931cc0ee1888771d563eb901d23f1d204d7ce94bad08a31e4e2da1e212"
+  },
+  "06-dependencia-de-indicacao/capa.jpg": {
+    "bytes": 121862,
+    "sha256": "c3a85d8d96d83cddcf57bdb21c96c394a020905a8af3d9f01bd9ce458308a1ee"
+  },
+  "06-dependencia-de-indicacao/legenda.txt": {
+    "bytes": 127,
+    "sha256": "0631e87c3a17f3b61a8fb11ba257f4135e2b21d4d48b541069895516888e4708"
+  },
+  "06-dependencia-de-indicacao/legendas.srt": {
+    "bytes": 971,
+    "sha256": "1f9a8507989996f5dd8a2a003400529465582e8974fd9742baaf517122002c8f"
+  },
+  "06-dependencia-de-indicacao/reel.mp4": {
+    "bytes": 2532179,
+    "sha256": "76561058ca34e8d52269a3a5cc5327bb0d7942137dc852a0fea4d3f22d7df8fd"
+  },
+  "07-take-do-acabamento/capa.jpg": {
+    "bytes": 127243,
+    "sha256": "b43190748134a4189d6ca4d607a79629d4e568298cb84e282cf275cf7b94380b"
+  },
+  "07-take-do-acabamento/legenda.txt": {
+    "bytes": 95,
+    "sha256": "e2c043f6f4f89967fe565735cf630bb33aa0a7de6c4757329816cf7df80919ca"
+  },
+  "07-take-do-acabamento/legendas.srt": {
+    "bytes": 790,
+    "sha256": "0fe47e786ce73ce3f7e7d121c102d20a092e9c4d4e808c693e89a5bac9442aa4"
+  },
+  "07-take-do-acabamento/reel.mp4": {
+    "bytes": 2005534,
+    "sha256": "ff2cfc3b00d4019aa128f4f47d19689645b26e5b6f7339ab872a3e046169d768"
+  },
+  "08-metodo-ib/capa.jpg": {
+    "bytes": 119985,
+    "sha256": "21fe0d2211618e96b4a65ec685bfd75b0e29b4deb08c9c2c7ad76c49e1373ab9"
+  },
+  "08-metodo-ib/legenda.txt": {
+    "bytes": 108,
+    "sha256": "924d2dfe68dff41b499ceea2b57f095be98c4f13e92eb7f79f4a3661f1d1e2dc"
+  },
+  "08-metodo-ib/legendas.srt": {
+    "bytes": 1415,
+    "sha256": "72f2abad791a338c723d342673a7e730a1d4c36966a48786a652a9e559cb0fa8"
+  },
+  "08-metodo-ib/reel.mp4": {
+    "bytes": 2981033,
+    "sha256": "1bb1a7f2bfca63e05ed34469f1add5feb7da84c529ad70c7317337bfd7ad60a7"
+  },
+  "09-diagnostico-da-venda/capa.jpg": {
+    "bytes": 121265,
+    "sha256": "4e6db2f3f741e247021f924b7a02a0d8e32df2b11fd9bb8b48658018c5533941"
+  },
+  "09-diagnostico-da-venda/legenda.txt": {
+    "bytes": 95,
+    "sha256": "7b3241657d5edec305e9bdd6431ae7d6a897aa888a89738a34dbd5f64428e70c"
+  },
+  "09-diagnostico-da-venda/legendas.srt": {
+    "bytes": 920,
+    "sha256": "4466463f3f784d7f996ab318cfa4caac572bdb9b491793f424df492544a76cae"
+  },
+  "09-diagnostico-da-venda/reel.mp4": {
+    "bytes": 1832874,
+    "sha256": "9fecbabeb494847e9ab2aae7324e542e7ee073880e035ac1d231f616e4ab0c8f"
+  },
+  "10-quanto-custa-vender/capa.jpg": {
+    "bytes": 130037,
+    "sha256": "fc8049787ec79dfdd46d9de0046f74d776b17d94dc328228ce3568c6bef6bc15"
+  },
+  "10-quanto-custa-vender/legenda.txt": {
+    "bytes": 114,
+    "sha256": "56781a6f0291087979d714777150cb85eab0386e2f9f92669232e8e850c09024"
+  },
+  "10-quanto-custa-vender/legendas.srt": {
+    "bytes": 1032,
+    "sha256": "6242b6ea16b11f67b4ea600758c04cd0a11756d8649c6bf9adbb3c9ab5600a2f"
+  },
+  "10-quanto-custa-vender/reel.mp4": {
+    "bytes": 2336390,
+    "sha256": "c203d2e167ea41629f93ac7f582077ca2b96855e69979406d126de434ad4539e"
+  },
+  "11-whatsapp-sem-lead-perdido/capa.jpg": {
+    "bytes": 134228,
+    "sha256": "3f4ab0bec365ba23f5f0a760a1865565052a8e5f342ba2cf8ba4f7b8a3164af6"
+  },
+  "11-whatsapp-sem-lead-perdido/legenda.txt": {
+    "bytes": 100,
+    "sha256": "fcfd65c4a3b8600c1dbd55accdb355c2275267fbf291ed23a60086298726f82b"
+  },
+  "11-whatsapp-sem-lead-perdido/legendas.srt": {
+    "bytes": 868,
+    "sha256": "9ebd243ae9bc5c4d523a0f9a284cca0b1b20a72c9f02128761b227ca1c459dfe"
+  },
+  "11-whatsapp-sem-lead-perdido/reel.mp4": {
+    "bytes": 2002079,
+    "sha256": "04f5f8c32c8402cec475f7f357e960dada89d4ece9c2822e59338eed6a56d0cc"
+  },
+  "12-tem-desconto/capa.jpg": {
+    "bytes": 130469,
+    "sha256": "e1d0e5d027b34e4bdae6568357b919411704e2cfdc2aa774600519310c283bdb"
+  },
+  "12-tem-desconto/legenda.txt": {
+    "bytes": 137,
+    "sha256": "87f087fcc2da931adf1fdced410eac11370b9f84c0363b3db6dbfdbe4fcd83c2"
+  },
+  "12-tem-desconto/legendas.srt": {
+    "bytes": 966,
+    "sha256": "a288d050e1d3c53ce093ffdc5dd6b11239d251b157c8cc934326abf12c1c8ccf"
+  },
+  "12-tem-desconto/reel.mp4": {
+    "bytes": 2605254,
+    "sha256": "f6753730d79397cab65ebc56aa78ec6d5c4fc6563eb19d107573a299e5b1b604"
+  },
+  "ARQUIVOS.json": {
+    "bytes": 7337,
+    "sha256": "52bab24831c0afb2ef939babddbafa3cb482f91c5351b1422323efa429f87af9"
+  },
+  "INDICE.md": {
+    "bytes": 3146,
+    "sha256": "562aaed48d9720454eb6d4d942a3668e10b26aeb5c5f0f62c8d3b2b7aca29c97"
+  },
+  "index.html": {
+    "bytes": 7149,
+    "sha256": "929475e914ed8cecc80384c5a7f4a79dd2d2c3b2f92a0f5f040cecc931c79513"
+  },
+  "verificacao.json": {
+    "bytes": 5604,
+    "sha256": "25ab3827cd881bc20cf08843ee9084062beb8149858db8f340c3a6fc00252c1b"
+  }
+}

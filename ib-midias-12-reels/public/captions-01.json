@@ -1,0 +1,776 @@
+[
+  {
+    "start": 0.15,
+    "end": 0.89,
+    "words": [
+      {
+        "text": "Você",
+        "start": 0.15,
+        "end": 0.37,
+        "hot": false
+      },
+      {
+        "text": "paga",
+        "start": 0.37,
+        "end": 0.65,
+        "hot": false
+      },
+      {
+        "text": "mil",
+        "start": 0.65,
+        "end": 0.89,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 0.89,
+    "end": 1.67,
+    "words": [
+      {
+        "text": "e",
+        "start": 0.89,
+        "end": 1.01,
+        "hot": false
+      },
+      {
+        "text": "quinhentos",
+        "start": 1.01,
+        "end": 1.41,
+        "hot": false
+      },
+      {
+        "text": "reais",
+        "start": 1.41,
+        "end": 1.67,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 1.67,
+    "end": 2.21,
+    "words": [
+      {
+        "text": "por",
+        "start": 1.67,
+        "end": 1.99,
+        "hot": false
+      },
+      {
+        "text": "mês",
+        "start": 1.99,
+        "end": 2.21,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.21,
+    "end": 2.91,
+    "words": [
+      {
+        "text": "pra",
+        "start": 2.21,
+        "end": 2.37,
+        "hot": false
+      },
+      {
+        "text": "uma",
+        "start": 2.37,
+        "end": 2.49,
+        "hot": false
+      },
+      {
+        "text": "agência",
+        "start": 2.49,
+        "end": 2.91,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.91,
+    "end": 4.11,
+    "words": [
+      {
+        "text": "que",
+        "start": 2.91,
+        "end": 3.09,
+        "hot": false
+      },
+      {
+        "text": "prometeu",
+        "start": 3.09,
+        "end": 3.57,
+        "hot": false
+      },
+      {
+        "text": "acompanhar",
+        "start": 3.57,
+        "end": 4.11,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 4.11,
+    "end": 4.83,
+    "words": [
+      {
+        "text": "de",
+        "start": 4.11,
+        "end": 4.29,
+        "hot": false
+      },
+      {
+        "text": "perto?",
+        "start": 4.29,
+        "end": 4.73,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.07,
+    "end": 5.53,
+    "words": [
+      {
+        "text": "Aí",
+        "start": 5.07,
+        "end": 5.23,
+        "hot": false
+      },
+      {
+        "text": "chega",
+        "start": 5.23,
+        "end": 5.53,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.53,
+    "end": 6.13,
+    "words": [
+      {
+        "text": "o",
+        "start": 5.53,
+        "end": 5.65,
+        "hot": false
+      },
+      {
+        "text": "relatório",
+        "start": 5.65,
+        "end": 6.13,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 6.13,
+    "end": 6.7299999999999995,
+    "words": [
+      {
+        "text": "no",
+        "start": 6.13,
+        "end": 6.29,
+        "hot": false
+      },
+      {
+        "text": "grupo,",
+        "start": 6.29,
+        "end": 6.63,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 6.93,
+    "end": 7.57,
+    "words": [
+      {
+        "text": "mas",
+        "start": 6.93,
+        "end": 7.09,
+        "hot": false
+      },
+      {
+        "text": "quando",
+        "start": 7.09,
+        "end": 7.25,
+        "hot": false
+      },
+      {
+        "text": "você",
+        "start": 7.25,
+        "end": 7.57,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 7.57,
+    "end": 8.31,
+    "words": [
+      {
+        "text": "quer",
+        "start": 7.57,
+        "end": 7.77,
+        "hot": false
+      },
+      {
+        "text": "entender",
+        "start": 7.77,
+        "end": 8.31,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.31,
+    "end": 8.85,
+    "words": [
+      {
+        "text": "o",
+        "start": 8.31,
+        "end": 8.51,
+        "hot": false
+      },
+      {
+        "text": "que",
+        "start": 8.51,
+        "end": 8.57,
+        "hot": false
+      },
+      {
+        "text": "fazer",
+        "start": 8.57,
+        "end": 8.85,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.85,
+    "end": 9.93,
+    "words": [
+      {
+        "text": "pra",
+        "start": 8.85,
+        "end": 9.09,
+        "hot": false
+      },
+      {
+        "text": "vender",
+        "start": 9.09,
+        "end": 9.35,
+        "hot": false
+      },
+      {
+        "text": "mais,",
+        "start": 9.35,
+        "end": 9.83,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 10.15,
+    "end": 10.71,
+    "words": [
+      {
+        "text": "só",
+        "start": 10.15,
+        "end": 10.33,
+        "hot": false
+      },
+      {
+        "text": "aparece",
+        "start": 10.33,
+        "end": 10.71,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 10.71,
+    "end": 11.27,
+    "words": [
+      {
+        "text": "o",
+        "start": 10.71,
+        "end": 10.89,
+        "hot": false
+      },
+      {
+        "text": "gestor",
+        "start": 10.89,
+        "end": 11.27,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 11.27,
+    "end": 12.07,
+    "words": [
+      {
+        "text": "pra",
+        "start": 11.27,
+        "end": 11.47,
+        "hot": false
+      },
+      {
+        "text": "responder.",
+        "start": 11.47,
+        "end": 11.97,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.55,
+    "end": 13.45,
+    "words": [
+      {
+        "text": "Na",
+        "start": 12.55,
+        "end": 12.67,
+        "hot": false
+      },
+      {
+        "text": "iB",
+        "start": 12.67,
+        "end": 12.85,
+        "hot": false
+      },
+      {
+        "text": "Mídias",
+        "start": 12.85,
+        "end": 13.41,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.45,
+    "end": 14.13,
+    "words": [
+      {
+        "text": "você",
+        "start": 13.45,
+        "end": 13.63,
+        "hot": false
+      },
+      {
+        "text": "já",
+        "start": 13.63,
+        "end": 13.83,
+        "hot": false
+      },
+      {
+        "text": "fala",
+        "start": 13.83,
+        "end": 14.13,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 14.13,
+    "end": 15.05,
+    "words": [
+      {
+        "text": "direto",
+        "start": 14.13,
+        "end": 14.65,
+        "hot": false
+      },
+      {
+        "text": "com",
+        "start": 14.65,
+        "end": 14.87,
+        "hot": false
+      },
+      {
+        "text": "quem",
+        "start": 14.87,
+        "end": 15.05,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 15.05,
+    "end": 16.21,
+    "words": [
+      {
+        "text": "cuida",
+        "start": 15.05,
+        "end": 15.49,
+        "hot": false
+      },
+      {
+        "text": "dos",
+        "start": 15.49,
+        "end": 15.65,
+        "hot": false
+      },
+      {
+        "text": "anúncios.",
+        "start": 15.65,
+        "end": 16.11,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 16.69,
+    "end": 17.31,
+    "words": [
+      {
+        "text": "A",
+        "start": 16.69,
+        "end": 16.83,
+        "hot": false
+      },
+      {
+        "text": "gente",
+        "start": 16.83,
+        "end": 17.03,
+        "hot": false
+      },
+      {
+        "text": "olha",
+        "start": 17.03,
+        "end": 17.31,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 17.31,
+    "end": 18.47,
+    "words": [
+      {
+        "text": "quais",
+        "start": 17.31,
+        "end": 17.61,
+        "hot": false
+      },
+      {
+        "text": "serviços",
+        "start": 17.61,
+        "end": 18.17,
+        "hot": false
+      },
+      {
+        "text": "vale",
+        "start": 18.17,
+        "end": 18.47,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 18.47,
+    "end": 19.33,
+    "words": [
+      {
+        "text": "anunciar",
+        "start": 18.47,
+        "end": 19.17,
+        "hot": false
+      },
+      {
+        "text": "e",
+        "start": 19.17,
+        "end": 19.33,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 19.33,
+    "end": 19.97,
+    "words": [
+      {
+        "text": "o",
+        "start": 19.33,
+        "end": 19.41,
+        "hot": false
+      },
+      {
+        "text": "que",
+        "start": 19.41,
+        "end": 19.45,
+        "hot": false
+      },
+      {
+        "text": "acontece",
+        "start": 19.45,
+        "end": 19.97,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 19.97,
+    "end": 20.81,
+    "words": [
+      {
+        "text": "quando",
+        "start": 19.97,
+        "end": 20.25,
+        "hot": false
+      },
+      {
+        "text": "o",
+        "start": 20.25,
+        "end": 20.43,
+        "hot": false
+      },
+      {
+        "text": "cliente",
+        "start": 20.43,
+        "end": 20.81,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 20.81,
+    "end": 21.33,
+    "words": [
+      {
+        "text": "chega",
+        "start": 20.81,
+        "end": 21.11,
+        "hot": false
+      },
+      {
+        "text": "no",
+        "start": 21.11,
+        "end": 21.33,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 21.33,
+    "end": 22.05,
+    "words": [
+      {
+        "text": "seu",
+        "start": 21.33,
+        "end": 21.49,
+        "hot": false
+      },
+      {
+        "text": "WhatsApp.",
+        "start": 21.49,
+        "end": 21.95,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 22.57,
+    "end": 23.25,
+    "words": [
+      {
+        "text": "A",
+        "start": 22.57,
+        "end": 22.69,
+        "hot": false
+      },
+      {
+        "text": "gestão",
+        "start": 22.69,
+        "end": 23.01,
+        "hot": false
+      },
+      {
+        "text": "sai",
+        "start": 23.01,
+        "end": 23.25,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 23.25,
+    "end": 24.09,
+    "words": [
+      {
+        "text": "por",
+        "start": 23.25,
+        "end": 23.45,
+        "hot": false
+      },
+      {
+        "text": "seiscentos",
+        "start": 23.45,
+        "end": 24.09,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 24.09,
+    "end": 24.91,
+    "words": [
+      {
+        "text": "e",
+        "start": 24.09,
+        "end": 24.21,
+        "hot": false
+      },
+      {
+        "text": "cinquenta",
+        "start": 24.21,
+        "end": 24.59,
+        "hot": false
+      },
+      {
+        "text": "reais",
+        "start": 24.59,
+        "end": 24.91,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 24.91,
+    "end": 25.630000000000003,
+    "words": [
+      {
+        "text": "por",
+        "start": 24.91,
+        "end": 25.21,
+        "hot": false
+      },
+      {
+        "text": "mês,",
+        "start": 25.21,
+        "end": 25.53,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 25.73,
+    "end": 26.19,
+    "words": [
+      {
+        "text": "com",
+        "start": 25.73,
+        "end": 25.87,
+        "hot": false
+      },
+      {
+        "text": "verba",
+        "start": 25.87,
+        "end": 26.19,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 26.19,
+    "end": 26.71,
+    "words": [
+      {
+        "text": "de",
+        "start": 26.19,
+        "end": 26.31,
+        "hot": false
+      },
+      {
+        "text": "anúncios",
+        "start": 26.31,
+        "end": 26.71,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 26.71,
+    "end": 27.330000000000002,
+    "words": [
+      {
+        "text": "à",
+        "start": 26.71,
+        "end": 26.91,
+        "hot": false
+      },
+      {
+        "text": "parte.",
+        "start": 26.91,
+        "end": 27.23,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 27.63,
+    "end": 28.47,
+    "words": [
+      {
+        "text": "Quer",
+        "start": 27.63,
+        "end": 27.79,
+        "hot": false
+      },
+      {
+        "text": "conversar?",
+        "start": 27.79,
+        "end": 28.47,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 28.47,
+    "end": 29.39,
+    "words": [
+      {
+        "text": "Chama",
+        "start": 28.47,
+        "end": 28.95,
+        "hot": false
+      },
+      {
+        "text": "no",
+        "start": 28.95,
+        "end": 29.15,
+        "hot": false
+      },
+      {
+        "text": "link",
+        "start": 29.15,
+        "end": 29.39,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 29.39,
+    "end": 29.87,
+    "words": [
+      {
+        "text": "da",
+        "start": 29.39,
+        "end": 29.57,
+        "hot": false
+      },
+      {
+        "text": "bio.",
+        "start": 29.57,
+        "end": 29.77,
+        "hot": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "time": 0.08,
+    "scene": "diagnosis"
+  },
+  {
+    "time": 2.47,
+    "scene": "diagnosisA"
+  },
+  {
+    "time": 6.91,
+    "scene": "diagnosisB"
+  },
+  {
+    "time": 11.79,
+    "scene": "final"
+  }
+]

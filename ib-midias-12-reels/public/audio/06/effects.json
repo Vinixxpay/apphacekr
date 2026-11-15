@@ -1,0 +1,22 @@
+[
+  {
+    "time": 0.08,
+    "scene": "calendarFull"
+  },
+  {
+    "time": 3.07,
+    "scene": "calendarEmpty"
+  },
+  {
+    "time": 5.33,
+    "scene": "map"
+  },
+  {
+    "time": 8.21,
+    "scene": "windowProject"
+  },
+  {
+    "time": 12.53,
+    "scene": "offer"
+  }
+]

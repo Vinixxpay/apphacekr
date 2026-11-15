@@ -1,0 +1,380 @@
+[
+  {
+    "start": 0.15,
+    "end": 1.31,
+    "words": [
+      {
+        "text": "Sabe",
+        "start": 0.15,
+        "end": 0.37,
+        "hot": false
+      },
+      {
+        "text": "aquele",
+        "start": 0.37,
+        "end": 0.65,
+        "hot": false
+      },
+      {
+        "text": "cliente",
+        "start": 0.65,
+        "end": 1.31,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 1.31,
+    "end": 1.81,
+    "words": [
+      {
+        "text": "que",
+        "start": 1.31,
+        "end": 1.39,
+        "hot": false
+      },
+      {
+        "text": "pediu",
+        "start": 1.39,
+        "end": 1.81,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 1.81,
+    "end": 2.29,
+    "words": [
+      {
+        "text": "a",
+        "start": 1.81,
+        "end": 1.87,
+        "hot": false
+      },
+      {
+        "text": "visita",
+        "start": 1.87,
+        "end": 2.29,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.29,
+    "end": 2.89,
+    "words": [
+      {
+        "text": "e",
+        "start": 2.29,
+        "end": 2.37,
+        "hot": false
+      },
+      {
+        "text": "todo",
+        "start": 2.37,
+        "end": 2.61,
+        "hot": false
+      },
+      {
+        "text": "mundo",
+        "start": 2.61,
+        "end": 2.89,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.89,
+    "end": 3.75,
+    "words": [
+      {
+        "text": "achou",
+        "start": 2.89,
+        "end": 3.29,
+        "hot": false
+      },
+      {
+        "text": "que",
+        "start": 3.29,
+        "end": 3.43,
+        "hot": false
+      },
+      {
+        "text": "alguém",
+        "start": 3.43,
+        "end": 3.75,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 3.75,
+    "end": 4.55,
+    "words": [
+      {
+        "text": "ia",
+        "start": 3.75,
+        "end": 3.95,
+        "hot": false
+      },
+      {
+        "text": "responder?",
+        "start": 3.95,
+        "end": 4.45,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 4.87,
+    "end": 5.83,
+    "words": [
+      {
+        "text": "Marca",
+        "start": 4.87,
+        "end": 5.21,
+        "hot": false
+      },
+      {
+        "text": "três",
+        "start": 5.21,
+        "end": 5.41,
+        "hot": false
+      },
+      {
+        "text": "coisas",
+        "start": 5.41,
+        "end": 5.83,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.83,
+    "end": 6.57,
+    "words": [
+      {
+        "text": "quando",
+        "start": 5.83,
+        "end": 6.03,
+        "hot": false
+      },
+      {
+        "text": "entrar",
+        "start": 6.03,
+        "end": 6.43,
+        "hot": false
+      },
+      {
+        "text": "um",
+        "start": 6.43,
+        "end": 6.57,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 6.57,
+    "end": 7.2299999999999995,
+    "words": [
+      {
+        "text": "pedido:",
+        "start": 6.57,
+        "end": 7.13,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 7.25,
+    "end": 7.989999999999999,
+    "words": [
+      {
+        "text": "de",
+        "start": 7.25,
+        "end": 7.41,
+        "hot": false
+      },
+      {
+        "text": "onde",
+        "start": 7.41,
+        "end": 7.55,
+        "hot": false
+      },
+      {
+        "text": "veio,",
+        "start": 7.55,
+        "end": 7.89,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.03,
+    "end": 8.79,
+    "words": [
+      {
+        "text": "quem",
+        "start": 8.03,
+        "end": 8.17,
+        "hot": false
+      },
+      {
+        "text": "vai",
+        "start": 8.17,
+        "end": 8.37,
+        "hot": false
+      },
+      {
+        "text": "atender",
+        "start": 8.37,
+        "end": 8.79,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.79,
+    "end": 9.17,
+    "words": [
+      {
+        "text": "e",
+        "start": 8.79,
+        "end": 8.97,
+        "hot": false
+      },
+      {
+        "text": "qual",
+        "start": 8.97,
+        "end": 9.17,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 9.17,
+    "end": 9.75,
+    "words": [
+      {
+        "text": "é",
+        "start": 9.17,
+        "end": 9.35,
+        "hot": false
+      },
+      {
+        "text": "a",
+        "start": 9.35,
+        "end": 9.43,
+        "hot": false
+      },
+      {
+        "text": "próxima",
+        "start": 9.43,
+        "end": 9.75,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 9.75,
+    "end": 10.33,
+    "words": [
+      {
+        "text": "ação.",
+        "start": 9.75,
+        "end": 10.23,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 10.51,
+    "end": 11.549999999999999,
+    "words": [
+      {
+        "text": "Pode",
+        "start": 10.51,
+        "end": 10.73,
+        "hot": false
+      },
+      {
+        "text": "ser",
+        "start": 10.73,
+        "end": 10.97,
+        "hot": false
+      },
+      {
+        "text": "simples:",
+        "start": 10.97,
+        "end": 11.45,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 11.67,
+    "end": 13.03,
+    "words": [
+      {
+        "text": "‘Confirmar",
+        "start": 11.67,
+        "end": 12.15,
+        "hot": false
+      },
+      {
+        "text": "visita",
+        "start": 12.15,
+        "end": 12.59,
+        "hot": false
+      },
+      {
+        "text": "amanhã’.",
+        "start": 12.59,
+        "end": 13.03,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.03,
+    "end": 14.11,
+    "words": [
+      {
+        "text": "Quer",
+        "start": 13.03,
+        "end": 13.57,
+        "hot": false
+      },
+      {
+        "text": "o",
+        "start": 13.57,
+        "end": 13.67,
+        "hot": false
+      },
+      {
+        "text": "modelo?",
+        "start": 13.67,
+        "end": 14.01,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 14.27,
+    "end": 15.389999999999999,
+    "words": [
+      {
+        "text": "Comenta",
+        "start": 14.27,
+        "end": 14.67,
+        "hot": false
+      },
+      {
+        "text": "CRM.",
+        "start": 14.67,
+        "end": 15.29,
+        "hot": true
+      }
+    ]
+  }
+]

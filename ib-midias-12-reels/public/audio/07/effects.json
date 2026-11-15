@@ -1,0 +1,26 @@
+[
+  {
+    "time": 0.08,
+    "scene": "windowHook"
+  },
+  {
+    "time": 2.71,
+    "scene": "threeTakes"
+  },
+  {
+    "time": 5.09,
+    "scene": "windowWide"
+  },
+  {
+    "time": 6.37,
+    "scene": "windowTrack"
+  },
+  {
+    "time": 7.29,
+    "scene": "windowMove"
+  },
+  {
+    "time": 11.93,
+    "scene": "final"
+  }
+]

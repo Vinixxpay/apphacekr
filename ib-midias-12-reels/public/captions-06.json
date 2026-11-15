@@ -1,0 +1,446 @@
+[
+  {
+    "start": 0.15,
+    "end": 0.95,
+    "words": [
+      {
+        "text": "Tem",
+        "start": 0.15,
+        "end": 0.33,
+        "hot": false
+      },
+      {
+        "text": "semana",
+        "start": 0.33,
+        "end": 0.73,
+        "hot": false
+      },
+      {
+        "text": "que",
+        "start": 0.73,
+        "end": 0.95,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 0.95,
+    "end": 2.07,
+    "words": [
+      {
+        "text": "chega",
+        "start": 0.95,
+        "end": 1.17,
+        "hot": false
+      },
+      {
+        "text": "indicação",
+        "start": 1.17,
+        "end": 1.75,
+        "hot": false
+      },
+      {
+        "text": "todo",
+        "start": 1.75,
+        "end": 2.07,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.07,
+    "end": 2.67,
+    "words": [
+      {
+        "text": "dia.",
+        "start": 2.07,
+        "end": 2.57,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.99,
+    "end": 3.5100000000000002,
+    "words": [
+      {
+        "text": "Na",
+        "start": 2.99,
+        "end": 3.09,
+        "hot": false
+      },
+      {
+        "text": "outra,",
+        "start": 3.09,
+        "end": 3.41,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 3.57,
+    "end": 4.37,
+    "words": [
+      {
+        "text": "o",
+        "start": 3.57,
+        "end": 3.63,
+        "hot": false
+      },
+      {
+        "text": "WhatsApp",
+        "start": 3.63,
+        "end": 3.97,
+        "hot": true
+      },
+      {
+        "text": "fica",
+        "start": 3.97,
+        "end": 4.37,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 4.37,
+    "end": 5.029999999999999,
+    "words": [
+      {
+        "text": "parado.",
+        "start": 4.37,
+        "end": 4.93,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.25,
+    "end": 6.13,
+    "words": [
+      {
+        "text": "Use",
+        "start": 5.25,
+        "end": 5.41,
+        "hot": false
+      },
+      {
+        "text": "os",
+        "start": 5.41,
+        "end": 5.55,
+        "hot": false
+      },
+      {
+        "text": "projetos",
+        "start": 5.55,
+        "end": 6.13,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 6.13,
+    "end": 6.61,
+    "words": [
+      {
+        "text": "que",
+        "start": 6.13,
+        "end": 6.21,
+        "hot": false
+      },
+      {
+        "text": "você",
+        "start": 6.21,
+        "end": 6.41,
+        "hot": false
+      },
+      {
+        "text": "já",
+        "start": 6.41,
+        "end": 6.61,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 6.61,
+    "end": 7.41,
+    "words": [
+      {
+        "text": "fez",
+        "start": 6.61,
+        "end": 6.87,
+        "hot": false
+      },
+      {
+        "text": "pra",
+        "start": 6.87,
+        "end": 7.07,
+        "hot": false
+      },
+      {
+        "text": "aparecer",
+        "start": 7.07,
+        "end": 7.41,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 7.41,
+    "end": 8.13,
+    "words": [
+      {
+        "text": "na",
+        "start": 7.41,
+        "end": 7.65,
+        "hot": false
+      },
+      {
+        "text": "sua",
+        "start": 7.65,
+        "end": 7.81,
+        "hot": false
+      },
+      {
+        "text": "região",
+        "start": 7.81,
+        "end": 8.13,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.13,
+    "end": 9.25,
+    "words": [
+      {
+        "text": "enquanto",
+        "start": 8.13,
+        "end": 8.45,
+        "hot": false
+      },
+      {
+        "text": "alguém",
+        "start": 8.45,
+        "end": 8.99,
+        "hot": false
+      },
+      {
+        "text": "está",
+        "start": 8.99,
+        "end": 9.25,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 9.25,
+    "end": 10.31,
+    "words": [
+      {
+        "text": "pensando",
+        "start": 9.25,
+        "end": 9.71,
+        "hot": false
+      },
+      {
+        "text": "em",
+        "start": 9.71,
+        "end": 9.95,
+        "hot": false
+      },
+      {
+        "text": "trocar",
+        "start": 9.95,
+        "end": 10.31,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 10.31,
+    "end": 11.13,
+    "words": [
+      {
+        "text": "as",
+        "start": 10.31,
+        "end": 10.43,
+        "hot": false
+      },
+      {
+        "text": "janelas",
+        "start": 10.43,
+        "end": 10.93,
+        "hot": false
+      },
+      {
+        "text": "ou",
+        "start": 10.93,
+        "end": 11.13,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 11.13,
+    "end": 12.15,
+    "words": [
+      {
+        "text": "fechar",
+        "start": 11.13,
+        "end": 11.51,
+        "hot": false
+      },
+      {
+        "text": "a",
+        "start": 11.51,
+        "end": 11.61,
+        "hot": false
+      },
+      {
+        "text": "varanda.",
+        "start": 11.61,
+        "end": 12.05,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.45,
+    "end": 13.21,
+    "words": [
+      {
+        "text": "Se",
+        "start": 12.45,
+        "end": 12.59,
+        "hot": false
+      },
+      {
+        "text": "quer",
+        "start": 12.59,
+        "end": 12.79,
+        "hot": false
+      },
+      {
+        "text": "montar",
+        "start": 12.79,
+        "end": 13.21,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.21,
+    "end": 14.09,
+    "words": [
+      {
+        "text": "uma",
+        "start": 13.21,
+        "end": 13.33,
+        "hot": false
+      },
+      {
+        "text": "campanha",
+        "start": 13.33,
+        "end": 13.77,
+        "hot": false
+      },
+      {
+        "text": "local",
+        "start": 13.77,
+        "end": 14.09,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 14.09,
+    "end": 15.19,
+    "words": [
+      {
+        "text": "pra",
+        "start": 14.09,
+        "end": 14.35,
+        "hot": false
+      },
+      {
+        "text": "sua",
+        "start": 14.35,
+        "end": 14.55,
+        "hot": false
+      },
+      {
+        "text": "empresa,",
+        "start": 14.55,
+        "end": 15.09,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 15.33,
+    "end": 15.97,
+    "words": [
+      {
+        "text": "chama",
+        "start": 15.33,
+        "end": 15.69,
+        "hot": false
+      },
+      {
+        "text": "a",
+        "start": 15.69,
+        "end": 15.71,
+        "hot": false
+      },
+      {
+        "text": "iB",
+        "start": 15.695,
+        "end": 15.97,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 15.97,
+    "end": 17.03,
+    "words": [
+      {
+        "text": "Mídias",
+        "start": 15.97,
+        "end": 16.51,
+        "hot": false
+      },
+      {
+        "text": "pelo",
+        "start": 16.51,
+        "end": 16.73,
+        "hot": false
+      },
+      {
+        "text": "link",
+        "start": 16.73,
+        "end": 17.03,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 17.03,
+    "end": 17.53,
+    "words": [
+      {
+        "text": "da",
+        "start": 17.03,
+        "end": 17.23,
+        "hot": false
+      },
+      {
+        "text": "bio.",
+        "start": 17.23,
+        "end": 17.43,
+        "hot": false
+      }
+    ]
+  }
+]

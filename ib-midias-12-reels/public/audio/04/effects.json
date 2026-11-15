@@ -1,0 +1,30 @@
+[
+  {
+    "time": 0.08,
+    "scene": "recordHook"
+  },
+  {
+    "time": 4.69,
+    "scene": "box"
+  },
+  {
+    "time": 8.55,
+    "scene": "balcony"
+  },
+  {
+    "time": 12.67,
+    "scene": "gate"
+  },
+  {
+    "time": 16.07,
+    "scene": "shotChecklist"
+  },
+  {
+    "time": 21.33,
+    "scene": "request"
+  },
+  {
+    "time": 26.01,
+    "scene": "offer"
+  }
+]

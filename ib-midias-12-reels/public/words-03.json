@@ -1,0 +1,356 @@
+[
+  {
+    "text": "O",
+    "start": 0.15,
+    "end": 0.29,
+    "hot": false
+  },
+  {
+    "text": "cliente",
+    "start": 0.29,
+    "end": 0.67,
+    "hot": false
+  },
+  {
+    "text": "manda:",
+    "start": 0.67,
+    "end": 1.07,
+    "hot": false
+  },
+  {
+    "text": "‘Quanto",
+    "start": 1.07,
+    "end": 1.45,
+    "hot": false
+  },
+  {
+    "text": "custa",
+    "start": 1.45,
+    "end": 1.85,
+    "hot": false
+  },
+  {
+    "text": "um",
+    "start": 1.85,
+    "end": 1.93,
+    "hot": false
+  },
+  {
+    "text": "portão",
+    "start": 1.93,
+    "end": 2.27,
+    "hot": true
+  },
+  {
+    "text": "de",
+    "start": 2.27,
+    "end": 2.39,
+    "hot": false
+  },
+  {
+    "text": "alumínio?’",
+    "start": 2.39,
+    "end": 2.97,
+    "hot": false
+  },
+  {
+    "text": "Você",
+    "start": 3.17,
+    "end": 3.37,
+    "hot": false
+  },
+  {
+    "text": "chuta",
+    "start": 3.37,
+    "end": 3.77,
+    "hot": false
+  },
+  {
+    "text": "um",
+    "start": 3.77,
+    "end": 3.89,
+    "hot": false
+  },
+  {
+    "text": "valor",
+    "start": 3.89,
+    "end": 4.17,
+    "hot": false
+  },
+  {
+    "text": "ou",
+    "start": 4.17,
+    "end": 4.43,
+    "hot": false
+  },
+  {
+    "text": "pede",
+    "start": 4.43,
+    "end": 4.81,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 4.81,
+    "end": 4.93,
+    "hot": false
+  },
+  {
+    "text": "bairro",
+    "start": 4.93,
+    "end": 5.35,
+    "hot": true
+  },
+  {
+    "text": "e",
+    "start": 5.35,
+    "end": 5.47,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 5.47,
+    "end": 5.55,
+    "hot": false
+  },
+  {
+    "text": "medida",
+    "start": 5.55,
+    "end": 5.89,
+    "hot": true
+  },
+  {
+    "text": "aproximada?",
+    "start": 5.89,
+    "end": 6.71,
+    "hot": false
+  },
+  {
+    "text": "Começa",
+    "start": 9.07,
+    "end": 9.35,
+    "hot": false
+  },
+  {
+    "text": "por",
+    "start": 9.35,
+    "end": 9.55,
+    "hot": false
+  },
+  {
+    "text": "bairro",
+    "start": 9.55,
+    "end": 10.03,
+    "hot": true
+  },
+  {
+    "text": "e",
+    "start": 10.03,
+    "end": 10.11,
+    "hot": false
+  },
+  {
+    "text": "medida.",
+    "start": 10.11,
+    "end": 10.61,
+    "hot": true
+  },
+  {
+    "text": "Depois",
+    "start": 10.99,
+    "end": 11.21,
+    "hot": false
+  },
+  {
+    "text": "pede",
+    "start": 11.21,
+    "end": 11.65,
+    "hot": false
+  },
+  {
+    "text": "uma",
+    "start": 11.65,
+    "end": 11.83,
+    "hot": false
+  },
+  {
+    "text": "foto",
+    "start": 11.83,
+    "end": 12.15,
+    "hot": false
+  },
+  {
+    "text": "do",
+    "start": 12.15,
+    "end": 12.31,
+    "hot": false
+  },
+  {
+    "text": "vão",
+    "start": 12.31,
+    "end": 12.45,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 12.45,
+    "end": 12.59,
+    "hot": false
+  },
+  {
+    "text": "confirma",
+    "start": 12.59,
+    "end": 13.09,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 13.09,
+    "end": 13.17,
+    "hot": false
+  },
+  {
+    "text": "modelo.",
+    "start": 13.17,
+    "end": 13.53,
+    "hot": false
+  },
+  {
+    "text": "Com",
+    "start": 13.95,
+    "end": 14.05,
+    "hot": false
+  },
+  {
+    "text": "isso",
+    "start": 14.05,
+    "end": 14.25,
+    "hot": false
+  },
+  {
+    "text": "você",
+    "start": 14.33,
+    "end": 14.49,
+    "hot": false
+  },
+  {
+    "text": "já",
+    "start": 14.49,
+    "end": 14.69,
+    "hot": false
+  },
+  {
+    "text": "sabe",
+    "start": 14.69,
+    "end": 15.03,
+    "hot": false
+  },
+  {
+    "text": "se",
+    "start": 15.03,
+    "end": 15.19,
+    "hot": false
+  },
+  {
+    "text": "atende",
+    "start": 15.19,
+    "end": 15.61,
+    "hot": false
+  },
+  {
+    "text": "aquela",
+    "start": 15.61,
+    "end": 15.89,
+    "hot": false
+  },
+  {
+    "text": "região",
+    "start": 15.89,
+    "end": 16.31,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 16.31,
+    "end": 16.55,
+    "hot": false
+  },
+  {
+    "text": "se",
+    "start": 16.55,
+    "end": 16.65,
+    "hot": false
+  },
+  {
+    "text": "vale",
+    "start": 16.65,
+    "end": 16.85,
+    "hot": false
+  },
+  {
+    "text": "partir",
+    "start": 16.85,
+    "end": 17.25,
+    "hot": false
+  },
+  {
+    "text": "pra",
+    "start": 17.25,
+    "end": 17.49,
+    "hot": false
+  },
+  {
+    "text": "uma",
+    "start": 17.49,
+    "end": 17.63,
+    "hot": false
+  },
+  {
+    "text": "visita.",
+    "start": 17.63,
+    "end": 18.11,
+    "hot": false
+  },
+  {
+    "text": "Quer",
+    "start": 18.41,
+    "end": 18.55,
+    "hot": false
+  },
+  {
+    "text": "mais",
+    "start": 18.55,
+    "end": 18.85,
+    "hot": false
+  },
+  {
+    "text": "exemplos",
+    "start": 18.85,
+    "end": 19.43,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 19.43,
+    "end": 19.57,
+    "hot": false
+  },
+  {
+    "text": "resposta?",
+    "start": 19.57,
+    "end": 20.03,
+    "hot": false
+  },
+  {
+    "text": "Comenta",
+    "start": 20.59,
+    "end": 20.89,
+    "hot": false
+  },
+  {
+    "text": "WHATSAPP.",
+    "start": 21.03,
+    "end": 21.27,
+    "hot": true
+  }
+]

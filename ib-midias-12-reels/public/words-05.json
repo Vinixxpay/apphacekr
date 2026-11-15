@@ -1,0 +1,410 @@
+[
+  {
+    "text": "Você",
+    "start": 0.15,
+    "end": 0.35,
+    "hot": false
+  },
+  {
+    "text": "faz",
+    "start": 0.35,
+    "end": 0.59,
+    "hot": false
+  },
+  {
+    "text": "três",
+    "start": 0.59,
+    "end": 0.93,
+    "hot": false
+  },
+  {
+    "text": "ou",
+    "start": 0.93,
+    "end": 1.09,
+    "hot": false
+  },
+  {
+    "text": "quatro",
+    "start": 1.09,
+    "end": 1.37,
+    "hot": false
+  },
+  {
+    "text": "serviços",
+    "start": 1.37,
+    "end": 1.89,
+    "hot": false
+  },
+  {
+    "text": "num",
+    "start": 1.89,
+    "end": 2.03,
+    "hot": false
+  },
+  {
+    "text": "dia",
+    "start": 2.03,
+    "end": 2.33,
+    "hot": false
+  },
+  {
+    "text": "e,",
+    "start": 2.33,
+    "end": 2.49,
+    "hot": false
+  },
+  {
+    "text": "quando",
+    "start": 2.57,
+    "end": 2.67,
+    "hot": false
+  },
+  {
+    "text": "fecha",
+    "start": 2.67,
+    "end": 3.05,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 3.05,
+    "end": 3.15,
+    "hot": false
+  },
+  {
+    "text": "conta,",
+    "start": 3.15,
+    "end": 3.41,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 3.53,
+    "end": 3.59,
+    "hot": false
+  },
+  {
+    "text": "margem",
+    "start": 3.59,
+    "end": 3.91,
+    "hot": false
+  },
+  {
+    "text": "fica",
+    "start": 3.91,
+    "end": 4.21,
+    "hot": false
+  },
+  {
+    "text": "apertada?",
+    "start": 4.21,
+    "end": 4.83,
+    "hot": false
+  },
+  {
+    "text": "Pensa",
+    "start": 5.09,
+    "end": 5.41,
+    "hot": false
+  },
+  {
+    "text": "num",
+    "start": 5.41,
+    "end": 5.53,
+    "hot": false
+  },
+  {
+    "text": "projeto",
+    "start": 5.53,
+    "end": 5.89,
+    "hot": true
+  },
+  {
+    "text": "que",
+    "start": 5.89,
+    "end": 6.19,
+    "hot": false
+  },
+  {
+    "text": "pode",
+    "start": 6.19,
+    "end": 6.37,
+    "hot": false
+  },
+  {
+    "text": "valer",
+    "start": 6.37,
+    "end": 6.79,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 6.79,
+    "end": 6.89,
+    "hot": false
+  },
+  {
+    "text": "mesmo",
+    "start": 6.89,
+    "end": 7.15,
+    "hot": false
+  },
+  {
+    "text": "que",
+    "start": 7.15,
+    "end": 7.39,
+    "hot": false
+  },
+  {
+    "text": "vários",
+    "start": 7.39,
+    "end": 7.67,
+    "hot": false
+  },
+  {
+    "text": "serviços",
+    "start": 7.67,
+    "end": 8.19,
+    "hot": false
+  },
+  {
+    "text": "menores.",
+    "start": 8.19,
+    "end": 8.65,
+    "hot": false
+  },
+  {
+    "text": "Pode",
+    "start": 8.89,
+    "end": 9.13,
+    "hot": false
+  },
+  {
+    "text": "ser",
+    "start": 9.13,
+    "end": 9.41,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 9.41,
+    "end": 9.47,
+    "hot": false
+  },
+  {
+    "text": "fechamento",
+    "start": 9.47,
+    "end": 9.95,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 9.95,
+    "end": 10.15,
+    "hot": false
+  },
+  {
+    "text": "uma",
+    "start": 10.15,
+    "end": 10.27,
+    "hot": false
+  },
+  {
+    "text": "varanda",
+    "start": 10.27,
+    "end": 10.71,
+    "hot": false
+  },
+  {
+    "text": "ou",
+    "start": 10.71,
+    "end": 10.87,
+    "hot": false
+  },
+  {
+    "text": "as",
+    "start": 10.87,
+    "end": 11.01,
+    "hot": false
+  },
+  {
+    "text": "esquadrias",
+    "start": 11.01,
+    "end": 11.47,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 11.47,
+    "end": 11.65,
+    "hot": false
+  },
+  {
+    "text": "uma",
+    "start": 11.65,
+    "end": 11.77,
+    "hot": false
+  },
+  {
+    "text": "casa.",
+    "start": 11.77,
+    "end": 12.11,
+    "hot": false
+  },
+  {
+    "text": "Pra",
+    "start": 12.11,
+    "end": 12.63,
+    "hot": false
+  },
+  {
+    "text": "atrair",
+    "start": 12.63,
+    "end": 12.99,
+    "hot": false
+  },
+  {
+    "text": "esse",
+    "start": 12.99,
+    "end": 13.13,
+    "hot": false
+  },
+  {
+    "text": "tipo",
+    "start": 13.13,
+    "end": 13.47,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 13.47,
+    "end": 13.61,
+    "hot": false
+  },
+  {
+    "text": "pedido,",
+    "start": 13.61,
+    "end": 14.17,
+    "hot": false
+  },
+  {
+    "text": "mostra",
+    "start": 14.23,
+    "end": 14.47,
+    "hot": false
+  },
+  {
+    "text": "obra",
+    "start": 14.63,
+    "end": 14.73,
+    "hot": false
+  },
+  {
+    "text": "completa,",
+    "start": 14.73,
+    "end": 15.15,
+    "hot": false
+  },
+  {
+    "text": "acabamento",
+    "start": 15.39,
+    "end": 15.93,
+    "hot": true
+  },
+  {
+    "text": "e",
+    "start": 15.93,
+    "end": 16.17,
+    "hot": false
+  },
+  {
+    "text": "região",
+    "start": 16.17,
+    "end": 16.57,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 16.57,
+    "end": 16.73,
+    "hot": false
+  },
+  {
+    "text": "atendimento.",
+    "start": 16.73,
+    "end": 17.53,
+    "hot": false
+  },
+  {
+    "text": "Quer",
+    "start": 17.79,
+    "end": 17.97,
+    "hot": false
+  },
+  {
+    "text": "anunciar",
+    "start": 17.97,
+    "end": 18.53,
+    "hot": false
+  },
+  {
+    "text": "esses",
+    "start": 18.53,
+    "end": 18.67,
+    "hot": false
+  },
+  {
+    "text": "projetos?",
+    "start": 18.67,
+    "end": 19.49,
+    "hot": false
+  },
+  {
+    "text": "Chama",
+    "start": 19.61,
+    "end": 20.03,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 20.03,
+    "end": 20.05,
+    "hot": false
+  },
+  {
+    "text": "iB",
+    "start": 20.035,
+    "end": 20.29,
+    "hot": false
+  },
+  {
+    "text": "Mídias",
+    "start": 20.29,
+    "end": 20.77,
+    "hot": false
+  },
+  {
+    "text": "pelo",
+    "start": 20.77,
+    "end": 21.01,
+    "hot": false
+  },
+  {
+    "text": "link",
+    "start": 21.01,
+    "end": 21.31,
+    "hot": false
+  },
+  {
+    "text": "da",
+    "start": 21.31,
+    "end": 21.49,
+    "hot": false
+  },
+  {
+    "text": "bio.",
+    "start": 21.49,
+    "end": 21.867,
+    "hot": false
+  }
+]

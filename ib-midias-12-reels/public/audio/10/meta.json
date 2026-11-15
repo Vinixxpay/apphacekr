@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "duration": 25.2,
+  "frames": 756,
+  "speechStart": 0.15,
+  "speechEnd": 22.182,
+  "text": "Qual número você precisa pra descobrir o custo de conquistar um cliente? Curtidas, conversas ou vendas?  Vendas. Divide o que investiu em anúncios pelas vendas que vieram deles, usando a mesma base de acompanhamento. Pra fazer essa conta, marca a origem do contato logo no atendimento. Salva pra olhar no próximo fechamento.",
+  "nativeSpeed": 0.93,
+  "voice": "Kokoro pm_santa, pt-br",
+  "pauses": [
+    {
+      "start": 6.785,
+      "end": 8.785
+    }
+  ]
+}

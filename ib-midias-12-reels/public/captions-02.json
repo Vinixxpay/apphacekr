@@ -1,0 +1,446 @@
+[
+  {
+    "start": 0.15,
+    "end": 1.05,
+    "words": [
+      {
+        "text": "Mandou",
+        "start": 0.15,
+        "end": 0.49,
+        "hot": false
+      },
+      {
+        "text": "o",
+        "start": 0.49,
+        "end": 0.61,
+        "hot": false
+      },
+      {
+        "text": "orçamento",
+        "start": 0.61,
+        "end": 1.05,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 1.05,
+    "end": 1.51,
+    "words": [
+      {
+        "text": "do",
+        "start": 1.05,
+        "end": 1.19,
+        "hot": false
+      },
+      {
+        "text": "box",
+        "start": 1.19,
+        "end": 1.51,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 1.51,
+    "end": 2.13,
+    "words": [
+      {
+        "text": "e",
+        "start": 1.51,
+        "end": 1.73,
+        "hot": false
+      },
+      {
+        "text": "o",
+        "start": 1.73,
+        "end": 1.77,
+        "hot": false
+      },
+      {
+        "text": "cliente",
+        "start": 1.77,
+        "end": 2.13,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.13,
+    "end": 2.71,
+    "words": [
+      {
+        "text": "sumiu?",
+        "start": 2.13,
+        "end": 2.61,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.83,
+    "end": 3.71,
+    "words": [
+      {
+        "text": "Tenta",
+        "start": 2.83,
+        "end": 3.09,
+        "hot": false
+      },
+      {
+        "text": "retomar",
+        "start": 3.09,
+        "end": 3.61,
+        "hot": false
+      },
+      {
+        "text": "com",
+        "start": 3.61,
+        "end": 3.71,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 3.71,
+    "end": 5.2299999999999995,
+    "words": [
+      {
+        "text": "uma",
+        "start": 3.71,
+        "end": 3.85,
+        "hot": false
+      },
+      {
+        "text": "pergunta",
+        "start": 3.85,
+        "end": 4.23,
+        "hot": false
+      },
+      {
+        "text": "específica.",
+        "start": 4.23,
+        "end": 5.13,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.35,
+    "end": 5.569999999999999,
+    "words": [
+      {
+        "text": "‘Oi,",
+        "start": 5.35,
+        "end": 5.47,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.59,
+    "end": 5.85,
+    "words": [
+      {
+        "text": "João!",
+        "start": 5.59,
+        "end": 5.75,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 6.11,
+    "end": 6.77,
+    "words": [
+      {
+        "text": "Você",
+        "start": 6.11,
+        "end": 6.27,
+        "hot": false
+      },
+      {
+        "text": "ficou",
+        "start": 6.27,
+        "end": 6.61,
+        "hot": false
+      },
+      {
+        "text": "com",
+        "start": 6.61,
+        "end": 6.77,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 6.77,
+    "end": 7.67,
+    "words": [
+      {
+        "text": "dúvida",
+        "start": 6.77,
+        "end": 7.13,
+        "hot": false
+      },
+      {
+        "text": "no",
+        "start": 7.13,
+        "end": 7.27,
+        "hot": false
+      },
+      {
+        "text": "vidro",
+        "start": 7.27,
+        "end": 7.67,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 7.67,
+    "end": 8.27,
+    "words": [
+      {
+        "text": "ou",
+        "start": 7.67,
+        "end": 7.79,
+        "hot": false
+      },
+      {
+        "text": "no",
+        "start": 7.79,
+        "end": 7.91,
+        "hot": false
+      },
+      {
+        "text": "prazo",
+        "start": 7.91,
+        "end": 8.27,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.27,
+    "end": 9.29,
+    "words": [
+      {
+        "text": "de",
+        "start": 8.27,
+        "end": 8.37,
+        "hot": false
+      },
+      {
+        "text": "instalação?’",
+        "start": 8.37,
+        "end": 8.99,
+        "hot": false
+      },
+      {
+        "text": "Assim",
+        "start": 9.05,
+        "end": 9.29,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 9.29,
+    "end": 9.73,
+    "words": [
+      {
+        "text": "ele",
+        "start": 9.29,
+        "end": 9.49,
+        "hot": false
+      },
+      {
+        "text": "tem",
+        "start": 9.49,
+        "end": 9.73,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 9.73,
+    "end": 10.69,
+    "words": [
+      {
+        "text": "por",
+        "start": 9.73,
+        "end": 9.95,
+        "hot": false
+      },
+      {
+        "text": "onde",
+        "start": 9.95,
+        "end": 10.09,
+        "hot": false
+      },
+      {
+        "text": "responder,",
+        "start": 10.09,
+        "end": 10.69,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 10.69,
+    "end": 11.83,
+    "words": [
+      {
+        "text": "e",
+        "start": 10.69,
+        "end": 11.13,
+        "hot": false
+      },
+      {
+        "text": "você",
+        "start": 11.13,
+        "end": 11.31,
+        "hot": false
+      },
+      {
+        "text": "descobre",
+        "start": 11.31,
+        "end": 11.83,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 11.83,
+    "end": 12.73,
+    "words": [
+      {
+        "text": "se",
+        "start": 11.83,
+        "end": 11.93,
+        "hot": false
+      },
+      {
+        "text": "vale",
+        "start": 11.93,
+        "end": 12.21,
+        "hot": false
+      },
+      {
+        "text": "ajustar",
+        "start": 12.21,
+        "end": 12.73,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.73,
+    "end": 13.65,
+    "words": [
+      {
+        "text": "a",
+        "start": 12.73,
+        "end": 12.79,
+        "hot": false
+      },
+      {
+        "text": "proposta",
+        "start": 12.79,
+        "end": 13.45,
+        "hot": false
+      },
+      {
+        "text": "ou",
+        "start": 13.45,
+        "end": 13.65,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.65,
+    "end": 14.55,
+    "words": [
+      {
+        "text": "combinar",
+        "start": 13.65,
+        "end": 14.11,
+        "hot": false
+      },
+      {
+        "text": "o",
+        "start": 14.11,
+        "end": 14.25,
+        "hot": false
+      },
+      {
+        "text": "próximo",
+        "start": 14.25,
+        "end": 14.55,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 14.55,
+    "end": 15.15,
+    "words": [
+      {
+        "text": "passo.",
+        "start": 14.55,
+        "end": 15.05,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 15.37,
+    "end": 16.21,
+    "words": [
+      {
+        "text": "Salva",
+        "start": 15.37,
+        "end": 15.79,
+        "hot": true
+      },
+      {
+        "text": "pra",
+        "start": 15.79,
+        "end": 15.93,
+        "hot": false
+      },
+      {
+        "text": "usar",
+        "start": 15.93,
+        "end": 16.21,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 16.21,
+    "end": 17.55,
+    "words": [
+      {
+        "text": "no",
+        "start": 16.21,
+        "end": 16.43,
+        "hot": false
+      },
+      {
+        "text": "próximo",
+        "start": 16.43,
+        "end": 16.81,
+        "hot": false
+      },
+      {
+        "text": "orçamento.",
+        "start": 16.81,
+        "end": 17.45,
+        "hot": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,596 @@
+[
+  {
+    "start": 0.15,
+    "end": 0.69,
+    "words": [
+      {
+        "text": "Uma",
+        "start": 0.15,
+        "end": 0.33,
+        "hot": false
+      },
+      {
+        "text": "venda",
+        "start": 0.33,
+        "end": 0.69,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 0.69,
+    "end": 1.49,
+    "words": [
+      {
+        "text": "de",
+        "start": 0.69,
+        "end": 0.83,
+        "hot": false
+      },
+      {
+        "text": "esquadria",
+        "start": 0.83,
+        "end": 1.27,
+        "hot": false
+      },
+      {
+        "text": "tem",
+        "start": 1.27,
+        "end": 1.49,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 1.49,
+    "end": 2.49,
+    "words": [
+      {
+        "text": "três",
+        "start": 1.49,
+        "end": 1.79,
+        "hot": false
+      },
+      {
+        "text": "momentos.",
+        "start": 1.79,
+        "end": 2.39,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.81,
+    "end": 3.45,
+    "words": [
+      {
+        "text": "No",
+        "start": 2.81,
+        "end": 2.93,
+        "hot": false
+      },
+      {
+        "text": "marketing,",
+        "start": 2.93,
+        "end": 3.35,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 3.45,
+    "end": 4.15,
+    "words": [
+      {
+        "text": "você",
+        "start": 3.45,
+        "end": 3.71,
+        "hot": false
+      },
+      {
+        "text": "mostra",
+        "start": 3.71,
+        "end": 4.01,
+        "hot": false
+      },
+      {
+        "text": "um",
+        "start": 4.01,
+        "end": 4.15,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 4.15,
+    "end": 4.79,
+    "words": [
+      {
+        "text": "projeto",
+        "start": 4.15,
+        "end": 4.41,
+        "hot": true
+      },
+      {
+        "text": "real",
+        "start": 4.41,
+        "end": 4.79,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 4.79,
+    "end": 5.61,
+    "words": [
+      {
+        "text": "pra",
+        "start": 4.79,
+        "end": 5.01,
+        "hot": false
+      },
+      {
+        "text": "quem",
+        "start": 5.01,
+        "end": 5.23,
+        "hot": false
+      },
+      {
+        "text": "mora",
+        "start": 5.23,
+        "end": 5.61,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.61,
+    "end": 6.609999999999999,
+    "words": [
+      {
+        "text": "onde",
+        "start": 5.61,
+        "end": 5.73,
+        "hot": false
+      },
+      {
+        "text": "você",
+        "start": 5.73,
+        "end": 5.99,
+        "hot": false
+      },
+      {
+        "text": "atende.",
+        "start": 5.99,
+        "end": 6.51,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 6.73,
+    "end": 7.31,
+    "words": [
+      {
+        "text": "Na",
+        "start": 6.73,
+        "end": 6.91,
+        "hot": false
+      },
+      {
+        "text": "venda,",
+        "start": 6.91,
+        "end": 7.29,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 7.31,
+    "end": 7.93,
+    "words": [
+      {
+        "text": "entende",
+        "start": 7.31,
+        "end": 7.77,
+        "hot": false
+      },
+      {
+        "text": "o",
+        "start": 7.77,
+        "end": 7.89,
+        "hot": false
+      },
+      {
+        "text": "que",
+        "start": 7.89,
+        "end": 7.93,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 7.93,
+    "end": 8.85,
+    "words": [
+      {
+        "text": "o",
+        "start": 7.93,
+        "end": 8.03,
+        "hot": false
+      },
+      {
+        "text": "cliente",
+        "start": 8.03,
+        "end": 8.41,
+        "hot": false
+      },
+      {
+        "text": "precisa,",
+        "start": 8.41,
+        "end": 8.75,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.99,
+    "end": 9.73,
+    "words": [
+      {
+        "text": "agenda",
+        "start": 8.99,
+        "end": 9.23,
+        "hot": false
+      },
+      {
+        "text": "a",
+        "start": 9.23,
+        "end": 9.35,
+        "hot": false
+      },
+      {
+        "text": "visita",
+        "start": 9.35,
+        "end": 9.73,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 9.73,
+    "end": 10.29,
+    "words": [
+      {
+        "text": "e",
+        "start": 9.73,
+        "end": 9.81,
+        "hot": false
+      },
+      {
+        "text": "acompanha",
+        "start": 9.81,
+        "end": 10.29,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 10.29,
+    "end": 10.91,
+    "words": [
+      {
+        "text": "a",
+        "start": 10.29,
+        "end": 10.31,
+        "hot": false
+      },
+      {
+        "text": "proposta.",
+        "start": 10.295,
+        "end": 10.81,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 11.11,
+    "end": 11.93,
+    "words": [
+      {
+        "text": "No",
+        "start": 11.11,
+        "end": 11.21,
+        "hot": false
+      },
+      {
+        "text": "pós-venda,",
+        "start": 11.21,
+        "end": 11.93,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 11.93,
+    "end": 12.71,
+    "words": [
+      {
+        "text": "pede",
+        "start": 11.93,
+        "end": 12.11,
+        "hot": false
+      },
+      {
+        "text": "avaliação",
+        "start": 12.11,
+        "end": 12.71,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.71,
+    "end": 12.91,
+    "words": [
+      {
+        "text": "e,",
+        "start": 12.71,
+        "end": 12.85,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.91,
+    "end": 13.709999999999999,
+    "words": [
+      {
+        "text": "com",
+        "start": 12.91,
+        "end": 12.99,
+        "hot": false
+      },
+      {
+        "text": "autorização,",
+        "start": 12.99,
+        "end": 13.61,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.81,
+    "end": 14.35,
+    "words": [
+      {
+        "text": "mostra",
+        "start": 13.81,
+        "end": 14.07,
+        "hot": false
+      },
+      {
+        "text": "a",
+        "start": 14.07,
+        "end": 14.17,
+        "hot": false
+      },
+      {
+        "text": "obra",
+        "start": 14.17,
+        "end": 14.35,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 14.35,
+    "end": 14.91,
+    "words": [
+      {
+        "text": "pronta.",
+        "start": 14.35,
+        "end": 14.81,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 15.09,
+    "end": 15.41,
+    "words": [
+      {
+        "text": "Esse",
+        "start": 15.09,
+        "end": 15.29,
+        "hot": false
+      },
+      {
+        "text": "é",
+        "start": 15.29,
+        "end": 15.41,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 15.41,
+    "end": 16.05,
+    "words": [
+      {
+        "text": "o",
+        "start": 15.41,
+        "end": 15.43,
+        "hot": false
+      },
+      {
+        "text": "Método",
+        "start": 15.43,
+        "end": 15.83,
+        "hot": false
+      },
+      {
+        "text": "iB",
+        "start": 15.83,
+        "end": 16.05,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 16.05,
+    "end": 16.77,
+    "words": [
+      {
+        "text": "pra",
+        "start": 16.05,
+        "end": 16.25,
+        "hot": false
+      },
+      {
+        "text": "conectar",
+        "start": 16.25,
+        "end": 16.77,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 16.77,
+    "end": 17.35,
+    "words": [
+      {
+        "text": "o",
+        "start": 16.77,
+        "end": 16.85,
+        "hot": false
+      },
+      {
+        "text": "anúncio",
+        "start": 16.85,
+        "end": 17.21,
+        "hot": false
+      },
+      {
+        "text": "com",
+        "start": 17.21,
+        "end": 17.35,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 17.35,
+    "end": 17.91,
+    "words": [
+      {
+        "text": "a",
+        "start": 17.35,
+        "end": 17.47,
+        "hot": false
+      },
+      {
+        "text": "venda.",
+        "start": 17.47,
+        "end": 17.91,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 17.91,
+    "end": 19.11,
+    "words": [
+      {
+        "text": "Quer",
+        "start": 17.91,
+        "end": 18.47,
+        "hot": false
+      },
+      {
+        "text": "entender",
+        "start": 18.47,
+        "end": 18.83,
+        "hot": false
+      },
+      {
+        "text": "como",
+        "start": 18.83,
+        "end": 19.11,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 19.11,
+    "end": 19.89,
+    "words": [
+      {
+        "text": "aplicar",
+        "start": 19.11,
+        "end": 19.61,
+        "hot": false
+      },
+      {
+        "text": "na",
+        "start": 19.61,
+        "end": 19.71,
+        "hot": false
+      },
+      {
+        "text": "sua",
+        "start": 19.71,
+        "end": 19.89,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 19.89,
+    "end": 20.470000000000002,
+    "words": [
+      {
+        "text": "empresa?",
+        "start": 19.89,
+        "end": 20.37,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 20.65,
+    "end": 21.45,
+    "words": [
+      {
+        "text": "Manda",
+        "start": 20.65,
+        "end": 21.01,
+        "hot": false
+      },
+      {
+        "text": "ANÁLISE",
+        "start": 21.01,
+        "end": 21.45,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 21.45,
+    "end": 21.970000000000002,
+    "words": [
+      {
+        "text": "no",
+        "start": 21.45,
+        "end": 21.57,
+        "hot": false
+      },
+      {
+        "text": "direct.",
+        "start": 21.57,
+        "end": 21.87,
+        "hot": false
+      }
+    ]
+  }
+]

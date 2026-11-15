@@ -1,0 +1,22 @@
+[
+  {
+    "time": 0.08,
+    "scene": "quizGate"
+  },
+  {
+    "time": 9.15,
+    "scene": "answerGate"
+  },
+  {
+    "time": 11.07,
+    "scene": "gateChecklist"
+  },
+  {
+    "time": 14.03,
+    "scene": "region"
+  },
+  {
+    "time": 18.49,
+    "scene": "final"
+  }
+]

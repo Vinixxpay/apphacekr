@@ -1,0 +1,26 @@
+[
+  {
+    "time": 0.08,
+    "scene": "methodHook"
+  },
+  {
+    "time": 2.89,
+    "scene": "marketing"
+  },
+  {
+    "time": 6.81,
+    "scene": "sales"
+  },
+  {
+    "time": 11.19,
+    "scene": "afterSales"
+  },
+  {
+    "time": 15.17,
+    "scene": "methodFlow"
+  },
+  {
+    "time": 17.99,
+    "scene": "final"
+  }
+]

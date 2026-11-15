@@ -1,0 +1,296 @@
+[
+  {
+    "text": "O",
+    "start": 0.15,
+    "end": 0.27,
+    "hot": false
+  },
+  {
+    "text": "cliente",
+    "start": 0.27,
+    "end": 0.71,
+    "hot": false
+  },
+  {
+    "text": "do",
+    "start": 0.71,
+    "end": 0.73,
+    "hot": false
+  },
+  {
+    "text": "portão",
+    "start": 0.73,
+    "end": 1.09,
+    "hot": true
+  },
+  {
+    "text": "pediu",
+    "start": 1.09,
+    "end": 1.51,
+    "hot": false
+  },
+  {
+    "text": "desconto?",
+    "start": 1.51,
+    "end": 2.07,
+    "hot": true
+  },
+  {
+    "text": "Antes",
+    "start": 2.39,
+    "end": 2.63,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 2.63,
+    "end": 2.83,
+    "hot": false
+  },
+  {
+    "text": "mexer",
+    "start": 2.83,
+    "end": 3.21,
+    "hot": false
+  },
+  {
+    "text": "no",
+    "start": 3.21,
+    "end": 3.33,
+    "hot": false
+  },
+  {
+    "text": "preço,",
+    "start": 3.33,
+    "end": 3.59,
+    "hot": false
+  },
+  {
+    "text": "pergunta:",
+    "start": 3.77,
+    "end": 4.21,
+    "hot": false
+  },
+  {
+    "text": "‘Você",
+    "start": 4.67,
+    "end": 4.77,
+    "hot": false
+  },
+  {
+    "text": "quer",
+    "start": 4.77,
+    "end": 5.01,
+    "hot": false
+  },
+  {
+    "text": "manter",
+    "start": 5.01,
+    "end": 5.37,
+    "hot": false
+  },
+  {
+    "text": "esse",
+    "start": 5.37,
+    "end": 5.61,
+    "hot": false
+  },
+  {
+    "text": "modelo",
+    "start": 5.61,
+    "end": 5.99,
+    "hot": false
+  },
+  {
+    "text": "ou",
+    "start": 5.99,
+    "end": 6.21,
+    "hot": false
+  },
+  {
+    "text": "prefere",
+    "start": 6.21,
+    "end": 6.69,
+    "hot": false
+  },
+  {
+    "text": "que",
+    "start": 6.69,
+    "end": 6.85,
+    "hot": false
+  },
+  {
+    "text": "eu",
+    "start": 6.85,
+    "end": 6.95,
+    "hot": false
+  },
+  {
+    "text": "te",
+    "start": 6.95,
+    "end": 7.05,
+    "hot": false
+  },
+  {
+    "text": "passe",
+    "start": 7.05,
+    "end": 7.27,
+    "hot": false
+  },
+  {
+    "text": "uma",
+    "start": 7.27,
+    "end": 7.47,
+    "hot": false
+  },
+  {
+    "text": "opção",
+    "start": 7.47,
+    "end": 7.79,
+    "hot": false
+  },
+  {
+    "text": "dentro",
+    "start": 7.79,
+    "end": 8.03,
+    "hot": false
+  },
+  {
+    "text": "do",
+    "start": 8.03,
+    "end": 8.25,
+    "hot": false
+  },
+  {
+    "text": "seu",
+    "start": 8.25,
+    "end": 8.41,
+    "hot": false
+  },
+  {
+    "text": "orçamento?’",
+    "start": 8.41,
+    "end": 8.87,
+    "hot": false
+  },
+  {
+    "text": "Isso",
+    "start": 9.07,
+    "end": 9.27,
+    "hot": false
+  },
+  {
+    "text": "abre",
+    "start": 9.59,
+    "end": 9.81,
+    "hot": false
+  },
+  {
+    "text": "espaço",
+    "start": 9.81,
+    "end": 10.19,
+    "hot": false
+  },
+  {
+    "text": "pra",
+    "start": 10.19,
+    "end": 10.45,
+    "hot": false
+  },
+  {
+    "text": "ajustar",
+    "start": 10.45,
+    "end": 10.91,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 10.91,
+    "end": 10.99,
+    "hot": false
+  },
+  {
+    "text": "projeto",
+    "start": 10.99,
+    "end": 11.33,
+    "hot": true
+  },
+  {
+    "text": "e",
+    "start": 11.33,
+    "end": 11.59,
+    "hot": false
+  },
+  {
+    "text": "explicar",
+    "start": 11.59,
+    "end": 12.01,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 12.01,
+    "end": 12.23,
+    "hot": false
+  },
+  {
+    "text": "que",
+    "start": 12.23,
+    "end": 12.35,
+    "hot": false
+  },
+  {
+    "text": "cada",
+    "start": 12.35,
+    "end": 12.65,
+    "hot": false
+  },
+  {
+    "text": "opção",
+    "start": 12.65,
+    "end": 13.07,
+    "hot": false
+  },
+  {
+    "text": "inclui.",
+    "start": 13.07,
+    "end": 13.71,
+    "hot": false
+  },
+  {
+    "text": "Salva",
+    "start": 14.01,
+    "end": 14.41,
+    "hot": true
+  },
+  {
+    "text": "pra",
+    "start": 14.41,
+    "end": 14.57,
+    "hot": false
+  },
+  {
+    "text": "lembrar",
+    "start": 14.57,
+    "end": 14.99,
+    "hot": false
+  },
+  {
+    "text": "na",
+    "start": 14.99,
+    "end": 15.17,
+    "hot": false
+  },
+  {
+    "text": "próxima",
+    "start": 15.17,
+    "end": 15.59,
+    "hot": false
+  },
+  {
+    "text": "negociação.",
+    "start": 15.59,
+    "end": 16.41,
+    "hot": false
+  }
+]

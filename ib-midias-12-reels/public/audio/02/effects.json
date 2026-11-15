@@ -1,0 +1,22 @@
+[
+  {
+    "time": 0.08,
+    "scene": "ghost"
+  },
+  {
+    "time": 2.91,
+    "scene": "compare"
+  },
+  {
+    "time": 5.43,
+    "scene": "message"
+  },
+  {
+    "time": 9.13,
+    "scene": "next"
+  },
+  {
+    "time": 15.45,
+    "scene": "final"
+  }
+]

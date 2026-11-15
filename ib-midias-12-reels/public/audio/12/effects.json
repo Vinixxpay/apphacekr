@@ -1,0 +1,22 @@
+[
+  {
+    "time": 0.08,
+    "scene": "discount"
+  },
+  {
+    "time": 2.47,
+    "scene": "askFirst"
+  },
+  {
+    "time": 4.75,
+    "scene": "choice"
+  },
+  {
+    "time": 9.15,
+    "scene": "options"
+  },
+  {
+    "time": 14.09,
+    "scene": "final"
+  }
+]

@@ -1,0 +1,404 @@
+[
+  {
+    "start": 0.15,
+    "end": 0.81,
+    "words": [
+      {
+        "text": "Onde",
+        "start": 0.15,
+        "end": 0.41,
+        "hot": false
+      },
+      {
+        "text": "a",
+        "start": 0.41,
+        "end": 0.49,
+        "hot": false
+      },
+      {
+        "text": "venda",
+        "start": 0.49,
+        "end": 0.81,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 0.81,
+    "end": 1.47,
+    "words": [
+      {
+        "text": "trava",
+        "start": 0.81,
+        "end": 1.11,
+        "hot": false
+      },
+      {
+        "text": "na",
+        "start": 1.11,
+        "end": 1.29,
+        "hot": false
+      },
+      {
+        "text": "sua",
+        "start": 1.29,
+        "end": 1.47,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 1.47,
+    "end": 2.23,
+    "words": [
+      {
+        "text": "vidraçaria?",
+        "start": 1.47,
+        "end": 2.13,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.39,
+    "end": 3.29,
+    "words": [
+      {
+        "text": "Se",
+        "start": 2.39,
+        "end": 2.57,
+        "hot": false
+      },
+      {
+        "text": "chegam",
+        "start": 2.57,
+        "end": 2.95,
+        "hot": false
+      },
+      {
+        "text": "poucas",
+        "start": 2.95,
+        "end": 3.29,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 3.29,
+    "end": 3.97,
+    "words": [
+      {
+        "text": "conversas,",
+        "start": 3.29,
+        "end": 3.97,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 3.97,
+    "end": 4.83,
+    "words": [
+      {
+        "text": "revisa",
+        "start": 3.97,
+        "end": 4.29,
+        "hot": false
+      },
+      {
+        "text": "o",
+        "start": 4.29,
+        "end": 4.49,
+        "hot": false
+      },
+      {
+        "text": "projeto",
+        "start": 4.49,
+        "end": 4.83,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 4.83,
+    "end": 5.51,
+    "words": [
+      {
+        "text": "que",
+        "start": 4.83,
+        "end": 5.09,
+        "hot": false
+      },
+      {
+        "text": "você",
+        "start": 5.09,
+        "end": 5.29,
+        "hot": false
+      },
+      {
+        "text": "tá",
+        "start": 5.29,
+        "end": 5.51,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.51,
+    "end": 6.67,
+    "words": [
+      {
+        "text": "mostrando",
+        "start": 5.51,
+        "end": 5.97,
+        "hot": false
+      },
+      {
+        "text": "no",
+        "start": 5.97,
+        "end": 6.11,
+        "hot": false
+      },
+      {
+        "text": "anúncio.",
+        "start": 6.11,
+        "end": 6.57,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 6.83,
+    "end": 7.81,
+    "words": [
+      {
+        "text": "Se",
+        "start": 6.83,
+        "end": 6.97,
+        "hot": false
+      },
+      {
+        "text": "conversa",
+        "start": 6.97,
+        "end": 7.55,
+        "hot": false
+      },
+      {
+        "text": "tem,",
+        "start": 7.55,
+        "end": 7.71,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 7.85,
+    "end": 8.71,
+    "words": [
+      {
+        "text": "mas",
+        "start": 7.85,
+        "end": 7.97,
+        "hot": false
+      },
+      {
+        "text": "orçamento",
+        "start": 7.97,
+        "end": 8.41,
+        "hot": false
+      },
+      {
+        "text": "fica",
+        "start": 8.41,
+        "end": 8.71,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.71,
+    "end": 9.25,
+    "words": [
+      {
+        "text": "parado,",
+        "start": 8.71,
+        "end": 9.25,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 9.25,
+    "end": 10.35,
+    "words": [
+      {
+        "text": "olha",
+        "start": 9.25,
+        "end": 9.67,
+        "hot": false
+      },
+      {
+        "text": "as",
+        "start": 9.67,
+        "end": 9.77,
+        "hot": false
+      },
+      {
+        "text": "propostas",
+        "start": 9.77,
+        "end": 10.35,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 10.35,
+    "end": 11.45,
+    "words": [
+      {
+        "text": "sem",
+        "start": 10.35,
+        "end": 10.49,
+        "hot": false
+      },
+      {
+        "text": "próxima",
+        "start": 10.49,
+        "end": 10.85,
+        "hot": false
+      },
+      {
+        "text": "ação.",
+        "start": 10.85,
+        "end": 11.35,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 11.71,
+    "end": 12.03,
+    "words": [
+      {
+        "text": "Qual",
+        "start": 11.71,
+        "end": 11.87,
+        "hot": false
+      },
+      {
+        "text": "é",
+        "start": 11.87,
+        "end": 12.03,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.03,
+    "end": 12.709999999999999,
+    "words": [
+      {
+        "text": "o",
+        "start": 12.03,
+        "end": 12.07,
+        "hot": false
+      },
+      {
+        "text": "seu",
+        "start": 12.07,
+        "end": 12.19,
+        "hot": false
+      },
+      {
+        "text": "caso?",
+        "start": 12.19,
+        "end": 12.61,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.97,
+    "end": 13.43,
+    "words": [
+      {
+        "text": "Comenta",
+        "start": 12.97,
+        "end": 13.35,
+        "hot": false
+      },
+      {
+        "text": "A",
+        "start": 13.35,
+        "end": 13.43,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.43,
+    "end": 14.71,
+    "words": [
+      {
+        "text": "pra",
+        "start": 13.43,
+        "end": 13.51,
+        "hot": false
+      },
+      {
+        "text": "poucas",
+        "start": 13.51,
+        "end": 14.03,
+        "hot": false
+      },
+      {
+        "text": "conversas",
+        "start": 14.03,
+        "end": 14.71,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 14.71,
+    "end": 15.12,
+    "words": [
+      {
+        "text": "ou",
+        "start": 14.71,
+        "end": 14.87,
+        "hot": false
+      },
+      {
+        "text": "B",
+        "start": 14.87,
+        "end": 15.12,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 15.12,
+    "end": 16.55,
+    "words": [
+      {
+        "text": "pra",
+        "start": 15.12,
+        "end": 15.37,
+        "hot": false
+      },
+      {
+        "text": "propostas",
+        "start": 15.37,
+        "end": 15.95,
+        "hot": false
+      },
+      {
+        "text": "paradas.",
+        "start": 15.95,
+        "end": 16.45,
+        "hot": false
+      }
+    ]
+  }
+]

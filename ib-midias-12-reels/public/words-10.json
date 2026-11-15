@@ -1,0 +1,314 @@
+[
+  {
+    "text": "Qual",
+    "start": 0.15,
+    "end": 0.31,
+    "hot": false
+  },
+  {
+    "text": "número",
+    "start": 0.31,
+    "end": 0.67,
+    "hot": false
+  },
+  {
+    "text": "você",
+    "start": 0.67,
+    "end": 0.95,
+    "hot": false
+  },
+  {
+    "text": "precisa",
+    "start": 0.95,
+    "end": 1.51,
+    "hot": false
+  },
+  {
+    "text": "pra",
+    "start": 1.51,
+    "end": 1.71,
+    "hot": false
+  },
+  {
+    "text": "descobrir",
+    "start": 1.71,
+    "end": 2.15,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 2.15,
+    "end": 2.37,
+    "hot": false
+  },
+  {
+    "text": "custo",
+    "start": 2.37,
+    "end": 2.77,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 2.77,
+    "end": 2.87,
+    "hot": false
+  },
+  {
+    "text": "conquistar",
+    "start": 2.87,
+    "end": 3.43,
+    "hot": false
+  },
+  {
+    "text": "um",
+    "start": 3.43,
+    "end": 3.55,
+    "hot": false
+  },
+  {
+    "text": "cliente?",
+    "start": 3.55,
+    "end": 4.21,
+    "hot": false
+  },
+  {
+    "text": "Curtidas,",
+    "start": 4.51,
+    "end": 5.01,
+    "hot": false
+  },
+  {
+    "text": "conversas",
+    "start": 5.25,
+    "end": 5.81,
+    "hot": false
+  },
+  {
+    "text": "ou",
+    "start": 5.81,
+    "end": 6.03,
+    "hot": false
+  },
+  {
+    "text": "vendas?",
+    "start": 6.03,
+    "end": 6.67,
+    "hot": true
+  },
+  {
+    "text": "Vendas.",
+    "start": 8.785,
+    "end": 9.19,
+    "hot": true
+  },
+  {
+    "text": "Divide",
+    "start": 9.45,
+    "end": 9.79,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 9.79,
+    "end": 9.89,
+    "hot": false
+  },
+  {
+    "text": "que",
+    "start": 9.89,
+    "end": 9.97,
+    "hot": false
+  },
+  {
+    "text": "investiu",
+    "start": 9.97,
+    "end": 10.53,
+    "hot": false
+  },
+  {
+    "text": "em",
+    "start": 10.53,
+    "end": 10.65,
+    "hot": false
+  },
+  {
+    "text": "anúncios",
+    "start": 10.65,
+    "end": 11.03,
+    "hot": true
+  },
+  {
+    "text": "pelas",
+    "start": 11.03,
+    "end": 11.45,
+    "hot": false
+  },
+  {
+    "text": "vendas",
+    "start": 11.45,
+    "end": 11.85,
+    "hot": true
+  },
+  {
+    "text": "que",
+    "start": 11.85,
+    "end": 11.97,
+    "hot": false
+  },
+  {
+    "text": "vieram",
+    "start": 11.97,
+    "end": 12.31,
+    "hot": false
+  },
+  {
+    "text": "deles,",
+    "start": 12.31,
+    "end": 12.65,
+    "hot": false
+  },
+  {
+    "text": "usando",
+    "start": 12.65,
+    "end": 13.21,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 13.21,
+    "end": 13.41,
+    "hot": false
+  },
+  {
+    "text": "mesma",
+    "start": 13.41,
+    "end": 13.59,
+    "hot": false
+  },
+  {
+    "text": "base",
+    "start": 13.59,
+    "end": 14.03,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 14.03,
+    "end": 14.19,
+    "hot": false
+  },
+  {
+    "text": "acompanhamento.",
+    "start": 14.19,
+    "end": 14.95,
+    "hot": false
+  },
+  {
+    "text": "Pra",
+    "start": 14.95,
+    "end": 15.45,
+    "hot": false
+  },
+  {
+    "text": "fazer",
+    "start": 15.45,
+    "end": 15.75,
+    "hot": false
+  },
+  {
+    "text": "essa",
+    "start": 15.75,
+    "end": 15.97,
+    "hot": false
+  },
+  {
+    "text": "conta,",
+    "start": 15.97,
+    "end": 16.41,
+    "hot": false
+  },
+  {
+    "text": "marca",
+    "start": 16.75,
+    "end": 16.93,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 16.93,
+    "end": 17.11,
+    "hot": false
+  },
+  {
+    "text": "origem",
+    "start": 17.11,
+    "end": 17.49,
+    "hot": false
+  },
+  {
+    "text": "do",
+    "start": 17.49,
+    "end": 17.63,
+    "hot": false
+  },
+  {
+    "text": "contato",
+    "start": 17.63,
+    "end": 18.13,
+    "hot": false
+  },
+  {
+    "text": "logo",
+    "start": 18.13,
+    "end": 18.49,
+    "hot": false
+  },
+  {
+    "text": "no",
+    "start": 18.49,
+    "end": 18.65,
+    "hot": false
+  },
+  {
+    "text": "atendimento.",
+    "start": 18.65,
+    "end": 19.31,
+    "hot": false
+  },
+  {
+    "text": "Salva",
+    "start": 19.79,
+    "end": 20.19,
+    "hot": true
+  },
+  {
+    "text": "pra",
+    "start": 20.19,
+    "end": 20.35,
+    "hot": false
+  },
+  {
+    "text": "olhar",
+    "start": 20.35,
+    "end": 20.61,
+    "hot": false
+  },
+  {
+    "text": "no",
+    "start": 20.61,
+    "end": 20.87,
+    "hot": false
+  },
+  {
+    "text": "próximo",
+    "start": 20.87,
+    "end": 21.27,
+    "hot": false
+  },
+  {
+    "text": "fechamento.",
+    "start": 21.27,
+    "end": 21.87,
+    "hot": false
+  }
+]

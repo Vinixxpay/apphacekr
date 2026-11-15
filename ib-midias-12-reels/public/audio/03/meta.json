@@ -1,0 +1,16 @@
+{
+  "id": 3,
+  "duration": 24.666666666666668,
+  "frames": 740,
+  "speechStart": 0.15,
+  "speechEnd": 21.648666666666664,
+  "text": "O cliente manda: ‘Quanto custa um portão de alumínio?’ Você chuta um valor ou pede o bairro e a medida aproximada?  Começa por bairro e medida. Depois pede uma foto do vão e confirma o modelo. Com isso você já sabe se atende aquela região e se vale partir pra uma visita. Quer mais exemplos de resposta? Comenta WHATSAPP.",
+  "nativeSpeed": 0.93,
+  "voice": "Kokoro pm_santa, pt-br",
+  "pauses": [
+    {
+      "start": 6.87,
+      "end": 8.87
+    }
+  ]
+}
