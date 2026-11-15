@@ -1,0 +1,13 @@
+{
+  "id": 5,
+  "duration": 24,
+  "frames": 720,
+  "speechStart": 0.15,
+  "speechEnd": 22.935333333333332,
+  "ctaStart": 19.97,
+  "finalScreenDuration": 4.030000000000001,
+  "text": "Moto, carro, caminhonete. Dá pra ter preço diferente pra cada tipo de veículo. No Lavaí você cadastra os serviços e adicionais com os valores que usa na sua operação. Na hora do atendimento, consulta sua tabela e confere a cobrança. Toque em Saiba mais e responda ao quiz do Lavaí.",
+  "nativeSpeed": 0.78,
+  "voice": "Kokoro pm_santa, pt-br",
+  "pauses": []
+}

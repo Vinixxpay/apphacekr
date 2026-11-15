@@ -1,0 +1,16 @@
+TEXTO PRINCIPAL
+Descubra o que você já acompanha no dia a dia e conheça o ranking de serviços no Lavaí. Toque em Saiba mais e responda ao quiz do Lavaí.
+
+TÍTULO
+Veja seus serviços mais vendidos
+
+BOTÃO
+Saiba mais
+
+DESTINO
+QUIZ_URL
+
+ESTADO DO DESTINO
+URL do quiz pendente para configurar no Meta Ads
+
+Fluxo: anúncio → Saiba mais → primeira pergunta do quiz. O botão real e a URL são configurados no Meta Ads.

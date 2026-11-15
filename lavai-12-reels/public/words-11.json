@@ -1,0 +1,260 @@
+[
+  {
+    "text": "Tem",
+    "start": 0.15,
+    "end": 0.41,
+    "hot": false
+  },
+  {
+    "text": "dois",
+    "start": 0.41,
+    "end": 0.77,
+    "hot": false
+  },
+  {
+    "text": "pontos",
+    "start": 0.77,
+    "end": 1.35,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 1.35,
+    "end": 1.59,
+    "hot": false
+  },
+  {
+    "text": "atendimento?",
+    "start": 1.59,
+    "end": 2.43,
+    "hot": false
+  },
+  {
+    "text": "Cada",
+    "start": 2.97,
+    "end": 3.21,
+    "hot": false
+  },
+  {
+    "text": "um",
+    "start": 3.21,
+    "end": 3.41,
+    "hot": false
+  },
+  {
+    "text": "pode",
+    "start": 3.41,
+    "end": 3.61,
+    "hot": false
+  },
+  {
+    "text": "ter",
+    "start": 3.61,
+    "end": 3.99,
+    "hot": false
+  },
+  {
+    "text": "tabela,",
+    "start": 3.99,
+    "end": 4.65,
+    "hot": false
+  },
+  {
+    "text": "clientes",
+    "start": 4.83,
+    "end": 5.63,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 5.63,
+    "end": 5.79,
+    "hot": false
+  },
+  {
+    "text": "marca",
+    "start": 5.79,
+    "end": 6.07,
+    "hot": false
+  },
+  {
+    "text": "próprios.",
+    "start": 6.07,
+    "end": 6.85,
+    "hot": false
+  },
+  {
+    "text": "No",
+    "start": 7.37,
+    "end": 7.51,
+    "hot": false
+  },
+  {
+    "text": "Lavaí,",
+    "start": 7.51,
+    "end": 8.07,
+    "hot": true
+  },
+  {
+    "text": "os",
+    "start": 8.33,
+    "end": 8.43,
+    "hot": false
+  },
+  {
+    "text": "dados",
+    "start": 8.43,
+    "end": 8.77,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 8.77,
+    "end": 9.07,
+    "hot": false
+  },
+  {
+    "text": "cada",
+    "start": 9.07,
+    "end": 9.35,
+    "hot": false
+  },
+  {
+    "text": "estabelecimento",
+    "start": 9.35,
+    "end": 10.33,
+    "hot": false
+  },
+  {
+    "text": "ficam",
+    "start": 10.33,
+    "end": 10.99,
+    "hot": false
+  },
+  {
+    "text": "separados.",
+    "start": 10.99,
+    "end": 11.87,
+    "hot": false
+  },
+  {
+    "text": "E",
+    "start": 12.41,
+    "end": 12.45,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 12.45,
+    "end": 12.55,
+    "hot": false
+  },
+  {
+    "text": "comprovante",
+    "start": 12.55,
+    "end": 13.35,
+    "hot": true
+  },
+  {
+    "text": "sai",
+    "start": 13.35,
+    "end": 13.79,
+    "hot": false
+  },
+  {
+    "text": "com",
+    "start": 13.79,
+    "end": 14.03,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 14.03,
+    "end": 14.13,
+    "hot": false
+  },
+  {
+    "text": "identidade",
+    "start": 14.13,
+    "end": 15.03,
+    "hot": false
+  },
+  {
+    "text": "cadastrada",
+    "start": 15.03,
+    "end": 16.01,
+    "hot": false
+  },
+  {
+    "text": "naquele",
+    "start": 16.01,
+    "end": 16.57,
+    "hot": false
+  },
+  {
+    "text": "estabelecimento.",
+    "start": 16.57,
+    "end": 17.87,
+    "hot": false
+  },
+  {
+    "text": "Toque",
+    "start": 18.27,
+    "end": 18.61,
+    "hot": false
+  },
+  {
+    "text": "em",
+    "start": 18.61,
+    "end": 18.75,
+    "hot": false
+  },
+  {
+    "text": "Saiba",
+    "start": 18.75,
+    "end": 19.09,
+    "hot": true
+  },
+  {
+    "text": "mais",
+    "start": 19.09,
+    "end": 19.41,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 19.41,
+    "end": 19.71,
+    "hot": false
+  },
+  {
+    "text": "responda",
+    "start": 19.71,
+    "end": 20.27,
+    "hot": false
+  },
+  {
+    "text": "ao",
+    "start": 20.27,
+    "end": 20.37,
+    "hot": false
+  },
+  {
+    "text": "quiz",
+    "start": 20.37,
+    "end": 20.55,
+    "hot": true
+  },
+  {
+    "text": "do",
+    "start": 20.55,
+    "end": 20.73,
+    "hot": false
+  },
+  {
+    "text": "Lavaí.",
+    "start": 20.73,
+    "end": 21.13,
+    "hot": true
+  }
+]

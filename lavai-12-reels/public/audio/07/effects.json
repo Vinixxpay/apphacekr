@@ -1,0 +1,18 @@
+[
+  {
+    "time": 0.08,
+    "scene": "returnClient"
+  },
+  {
+    "time": 5.59,
+    "scene": "historySearch"
+  },
+  {
+    "time": 10.81,
+    "scene": "historyResult"
+  },
+  {
+    "time": 17.073,
+    "scene": "final"
+  }
+]

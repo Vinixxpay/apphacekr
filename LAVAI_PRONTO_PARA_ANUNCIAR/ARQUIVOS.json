@@ -1,0 +1,206 @@
+{
+  "01-quanto-entrou-hoje/anuncio.txt": {
+    "bytes": 446,
+    "sha256": "0661e7fa056ab063d897188e6cdb8da218b661b663683a536ea46dd674fc1b82"
+  },
+  "01-quanto-entrou-hoje/capa.jpg": {
+    "bytes": 126543,
+    "sha256": "f237c49cd122cbee9e814bb3a6e11bf58749deaac9a1be541329e90cc85974bd"
+  },
+  "01-quanto-entrou-hoje/legendas.srt": {
+    "bytes": 982,
+    "sha256": "766e3ae18309ee5ad6528ea1d2656563d2bdb2add14f898a3650651838eecea6"
+  },
+  "01-quanto-entrou-hoje/reel.mp4": {
+    "bytes": 2401860,
+    "sha256": "79d4155bf02d1788394b663b37518f34b2506f5f1ee5a316ff9b566b11e41d8b"
+  },
+  "02-cadastro-rapido/anuncio.txt": {
+    "bytes": 417,
+    "sha256": "4ec9be18c0241e40faaba7c9314ea2d8247bf4b08fcd415e4f3ab9497e76d966"
+  },
+  "02-cadastro-rapido/capa.jpg": {
+    "bytes": 131662,
+    "sha256": "6e981bfd4278c988bfa63585e17e1bd48977d7a007b5584425eb77b2923b88a2"
+  },
+  "02-cadastro-rapido/legendas.srt": {
+    "bytes": 919,
+    "sha256": "e2c01b851fffdef4370e6c5f7fe96758201eafcc24ac36a6bab35326201daa02"
+  },
+  "02-cadastro-rapido/reel.mp4": {
+    "bytes": 2238026,
+    "sha256": "f901a345b68c2e73ca14b883e560984d8be6099a1f592f83ace3f6e507d3f4e6"
+  },
+  "03-muito-sujo/anuncio.txt": {
+    "bytes": 444,
+    "sha256": "4c8d5d6a58791b1cec5967d70b1ff0995b03a1a088ff2c13ace2a63837411469"
+  },
+  "03-muito-sujo/capa.jpg": {
+    "bytes": 133242,
+    "sha256": "cf47bc827a4299170bc96af755122406464ac032563006ff208a921a8fc569e7"
+  },
+  "03-muito-sujo/legendas.srt": {
+    "bytes": 1111,
+    "sha256": "3d8da9faa6917e8f83f432e9f2025ba01f29688a6fe2fec7fc4fa56d2ba149fb"
+  },
+  "03-muito-sujo/reel.mp4": {
+    "bytes": 2171880,
+    "sha256": "378ed4b7280d556f4ccff226c0cece6a5354238250ead3fdfd210b00ce7eb9d6"
+  },
+  "04-comprovante-com-sua-marca/anuncio.txt": {
+    "bytes": 417,
+    "sha256": "a1883a65e0f0c3bf40145aa14ca1c4eb0dc1181126e7a073a072a389b3582b24"
+  },
+  "04-comprovante-com-sua-marca/capa.jpg": {
+    "bytes": 120435,
+    "sha256": "311c4ed339995bc257a0fbd63be57af0fc086b0cf45e1ad42a5074c39b4aeff5"
+  },
+  "04-comprovante-com-sua-marca/legendas.srt": {
+    "bytes": 1096,
+    "sha256": "ff4fd6de96e67b900df93ba986fd628daa5a5e00dab55252da489f04ee304a35"
+  },
+  "04-comprovante-com-sua-marca/reel.mp4": {
+    "bytes": 2497692,
+    "sha256": "772334e43bf0c56aa7bc3d9233ca27ff5a47ebc8d1c2901b80c1abd412c3ef82"
+  },
+  "05-tabela-de-servicos/anuncio.txt": {
+    "bytes": 415,
+    "sha256": "e0b2de6062452e2ddb38ca8e5f9c3d442205fbf67da7b3b77be4c7bcd9e28112"
+  },
+  "05-tabela-de-servicos/capa.jpg": {
+    "bytes": 136483,
+    "sha256": "b225e2692e5859a9b7c61d81e07efa63b25f187e991c773574309fd49b9f1532"
+  },
+  "05-tabela-de-servicos/legendas.srt": {
+    "bytes": 1030,
+    "sha256": "fd03c626d396ebb74b60a435508ba1a02f2b4fc7bbcb889a439737cf8211e415"
+  },
+  "05-tabela-de-servicos/reel.mp4": {
+    "bytes": 2111107,
+    "sha256": "fea329958398c40db8b67ad4cc217c9740b56881f88329e21a909c8d5f6a4fad"
+  },
+  "06-da-garagem-ao-balcao/anuncio.txt": {
+    "bytes": 400,
+    "sha256": "35c4a82b599e08f0847a7ec9081484ba8eb4dd5bc9a0eb7fe56b69da157e89ff"
+  },
+  "06-da-garagem-ao-balcao/capa.jpg": {
+    "bytes": 121999,
+    "sha256": "a2b4002ce65c4dcaa2cd90402366c6f7a8959ce22a75701743d58529d1ffd979"
+  },
+  "06-da-garagem-ao-balcao/legendas.srt": {
+    "bytes": 955,
+    "sha256": "4de25b1bdd122ea95f45d4e8097556155c5a9a8909d48f5622e887d1fd521652"
+  },
+  "06-da-garagem-ao-balcao/reel.mp4": {
+    "bytes": 2885687,
+    "sha256": "9fd39c0b82102a9a1aae4e79840aac869e625a678727c6656388947210669dc7"
+  },
+  "07-cliente-que-voltou/anuncio.txt": {
+    "bytes": 422,
+    "sha256": "3c608317addd8b53920f56f92db6cef01070c2b0b3a9dd7c2d42f0cea669ea49"
+  },
+  "07-cliente-que-voltou/capa.jpg": {
+    "bytes": 125767,
+    "sha256": "77dcb4427c8667695dfad570b9555b540eec2446e73569e6ad70b3fe8cbcbb99"
+  },
+  "07-cliente-que-voltou/legendas.srt": {
+    "bytes": 901,
+    "sha256": "d528bf7d0a5cd9b829709c98907496496d3bbc0d23eaaf780dabd93b5717641c"
+  },
+  "07-cliente-que-voltou/reel.mp4": {
+    "bytes": 1956109,
+    "sha256": "d4ab954647ca194bb82918c6512673ccced696c994f1351fb53dced5aa102313"
+  },
+  "08-ticket-medio/anuncio.txt": {
+    "bytes": 390,
+    "sha256": "d8c16d9c4504a98277d3065371dc81e49b7751a4bf408643d335ec4ebdbcc96b"
+  },
+  "08-ticket-medio/capa.jpg": {
+    "bytes": 122293,
+    "sha256": "4367af76c542f60a6ed208d5b1258b75a10f0de3802196152042fc7c5c916098"
+  },
+  "08-ticket-medio/legendas.srt": {
+    "bytes": 1047,
+    "sha256": "29bdcba734c9ac0e4baf716c4ed18e26bce4e5c5a0a35d870175fc45cc95e1da"
+  },
+  "08-ticket-medio/reel.mp4": {
+    "bytes": 2377567,
+    "sha256": "1bf0711c9ac430a330988f8338dca28a3c9ba098a7bec355311659cae12c2f04"
+  },
+  "09-o-que-vendeu-mais/anuncio.txt": {
+    "bytes": 423,
+    "sha256": "d2aaf60a0b8802441f21ff2fdef97f875371a9203dd93221bf19f372651928cf"
+  },
+  "09-o-que-vendeu-mais/capa.jpg": {
+    "bytes": 125665,
+    "sha256": "b0c61d2df60eabb4c83d74478c6bce97a436361983e0634521f4931ba0dcb2c9"
+  },
+  "09-o-que-vendeu-mais/legendas.srt": {
+    "bytes": 920,
+    "sha256": "91ed2fbcaceb10731442bd9f26e1354d3d59f130efbe0b721561613a20e7e0c7"
+  },
+  "09-o-que-vendeu-mais/reel.mp4": {
+    "bytes": 1977015,
+    "sha256": "b11698e801e3be2a2bd4aafdfb05a4c1d51e86138e9fbd7791f219616fc2e337"
+  },
+  "10-pix-dinheiro-ou-cartao/anuncio.txt": {
+    "bytes": 399,
+    "sha256": "ba9c258e56feec0d5e7bf8da15536ecb26f0931218d64e1078b498d21e5841cd"
+  },
+  "10-pix-dinheiro-ou-cartao/capa.jpg": {
+    "bytes": 120827,
+    "sha256": "cbfa0ed428b7c817450d8a1ea14eba401e83a7eb3e92c09a0b349f9e3f95b274"
+  },
+  "10-pix-dinheiro-ou-cartao/legendas.srt": {
+    "bytes": 1009,
+    "sha256": "1d469b02f8eadff40c5e782b28ec5b3d942393de599b587a10bff6b52dbfd578"
+  },
+  "10-pix-dinheiro-ou-cartao/reel.mp4": {
+    "bytes": 1885182,
+    "sha256": "8094d47e7482d3e01eb35bd04f78f44e4c10ee4dd32b9c45e0eb6d484d6406a5"
+  },
+  "11-duas-unidades/anuncio.txt": {
+    "bytes": 395,
+    "sha256": "f54b6b04869ad55d15500a363b7f0fd666563ddb6ca287a95221f95eb1dc8f06"
+  },
+  "11-duas-unidades/capa.jpg": {
+    "bytes": 115361,
+    "sha256": "68d14da3119f7f7c2a6f978bea994ff05fe07137a6f66ad801274d7643c51108"
+  },
+  "11-duas-unidades/legendas.srt": {
+    "bytes": 871,
+    "sha256": "d3632706216c10f559ae03549f93ca3d978f36d359f3bf80a08e693337e0eed4"
+  },
+  "11-duas-unidades/reel.mp4": {
+    "bytes": 2131787,
+    "sha256": "3204f1d0dea8e5eaaf091068cfdd4da3f1ee98b47f1a508a6f93074136eec20e"
+  },
+  "12-diagnostico-da-rotina/anuncio.txt": {
+    "bytes": 423,
+    "sha256": "2ae4e24b13985d083ffcc4bf944fe252eb84393f24f7cc5013c1b42469690f16"
+  },
+  "12-diagnostico-da-rotina/capa.jpg": {
+    "bytes": 124704,
+    "sha256": "3f152cd97f17ca97306f68e40f9a00885865ef935196e17b2aec1ff54b8c1571"
+  },
+  "12-diagnostico-da-rotina/legendas.srt": {
+    "bytes": 1060,
+    "sha256": "93070e3c92a621de24ef65333f1b2b9efef678bed62abe7f4e845117416ce7d5"
+  },
+  "12-diagnostico-da-rotina/reel.mp4": {
+    "bytes": 2191836,
+    "sha256": "8417640b59e85cd2c489650e4de8deab7107b28252dd1b706e37a4466e0da66b"
+  },
+  "INDICE.md": {
+    "bytes": 3147,
+    "sha256": "eb953fde108f1b7937403531570007d4c9341ea1f53f2d7a96e08565e49fa1e6"
+  },
+  "index.html": {
+    "bytes": 7278,
+    "sha256": "3b9c8c1645214615a6f73b2da819b28ae751ea8e834584c0bdf43293d199cee8"
+  },
+  "verificacao.json": {
+    "bytes": 7016,
+    "sha256": "820b2dee95197824081bd23e94d2126a7ce98571ebcfb0dae4f01d5be9eb705a"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "duration": 24,
+  "frames": 720,
+  "speechStart": 0.15,
+  "speechEnd": 22.945999999999998,
+  "ctaStart": 19.980666666666664,
+  "finalScreenDuration": 4.019333333333336,
+  "text": "Fechou o lava-jato. Agora me diz: quanto entrou hoje? Uma lavagem tá no caderno, outra no Pix, e aquela higienização ficou no WhatsApp. No Lavaí você registra os atendimentos e vê quanto faturou no dia pelo celular. Bora ver como você organiza isso hoje? Toque em Saiba mais e responda ao quiz do Lavaí.",
+  "nativeSpeed": 0.78,
+  "voice": "Kokoro pm_santa, pt-br",
+  "pauses": []
+}

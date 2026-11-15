@@ -1,0 +1,16 @@
+TEXTO PRINCIPAL
+Você sabe quanto faturou no mês passado? Comece por essa pergunta e responda ao restante no quiz. Toque em Saiba mais e responda ao quiz do Lavaí.
+
+TÍTULO
+Responda ao quiz do Lavaí
+
+BOTÃO
+Saiba mais
+
+DESTINO
+QUIZ_URL
+
+ESTADO DO DESTINO
+URL do quiz pendente para configurar no Meta Ads
+
+Fluxo: anúncio → Saiba mais → primeira pergunta do quiz. O botão real e a URL são configurados no Meta Ads.

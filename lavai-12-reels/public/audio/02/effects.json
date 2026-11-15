@@ -1,0 +1,18 @@
+[
+  {
+    "time": 0.08,
+    "scene": "carArrives"
+  },
+  {
+    "time": 6.35,
+    "scene": "register"
+  },
+  {
+    "time": 12.93,
+    "scene": "summary"
+  },
+  {
+    "time": 17.946,
+    "scene": "final"
+  }
+]

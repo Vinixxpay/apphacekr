@@ -1,0 +1,18 @@
+[
+  {
+    "time": 0.08,
+    "scene": "twoLocations"
+  },
+  {
+    "time": 3.05,
+    "scene": "separateData"
+  },
+  {
+    "time": 12.49,
+    "scene": "separateReceipts"
+  },
+  {
+    "time": 18.351,
+    "scene": "final"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "text": "Fechou",
+    "start": 0.15,
+    "end": 0.69,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 0.69,
+    "end": 0.81,
+    "hot": false
+  },
+  {
+    "text": "lava-jato.",
+    "start": 0.81,
+    "end": 1.93,
+    "hot": false
+  },
+  {
+    "text": "Agora",
+    "start": 1.93,
+    "end": 2.23,
+    "hot": false
+  },
+  {
+    "text": "me",
+    "start": 2.23,
+    "end": 2.49,
+    "hot": false
+  },
+  {
+    "text": "diz:",
+    "start": 2.49,
+    "end": 2.87,
+    "hot": false
+  },
+  {
+    "text": "quanto",
+    "start": 3.11,
+    "end": 3.25,
+    "hot": false
+  },
+  {
+    "text": "entrou",
+    "start": 3.25,
+    "end": 3.79,
+    "hot": false
+  },
+  {
+    "text": "hoje?",
+    "start": 3.79,
+    "end": 4.21,
+    "hot": false
+  },
+  {
+    "text": "Uma",
+    "start": 4.53,
+    "end": 4.67,
+    "hot": false
+  },
+  {
+    "text": "lavagem",
+    "start": 4.67,
+    "end": 5.21,
+    "hot": false
+  },
+  {
+    "text": "tá",
+    "start": 5.21,
+    "end": 5.49,
+    "hot": false
+  },
+  {
+    "text": "no",
+    "start": 5.49,
+    "end": 5.61,
+    "hot": false
+  },
+  {
+    "text": "caderno,",
+    "start": 5.61,
+    "end": 6.33,
+    "hot": false
+  },
+  {
+    "text": "outra",
+    "start": 6.33,
+    "end": 6.67,
+    "hot": false
+  },
+  {
+    "text": "no",
+    "start": 6.67,
+    "end": 6.83,
+    "hot": false
+  },
+  {
+    "text": "Pix,",
+    "start": 6.83,
+    "end": 7.13,
+    "hot": true
+  },
+  {
+    "text": "e",
+    "start": 7.49,
+    "end": 7.57,
+    "hot": false
+  },
+  {
+    "text": "aquela",
+    "start": 7.57,
+    "end": 7.87,
+    "hot": false
+  },
+  {
+    "text": "higienização",
+    "start": 7.87,
+    "end": 8.67,
+    "hot": false
+  },
+  {
+    "text": "ficou",
+    "start": 8.67,
+    "end": 9.13,
+    "hot": false
+  },
+  {
+    "text": "no",
+    "start": 9.13,
+    "end": 9.41,
+    "hot": false
+  },
+  {
+    "text": "WhatsApp.",
+    "start": 9.41,
+    "end": 9.99,
+    "hot": false
+  },
+  {
+    "text": "No",
+    "start": 10.69,
+    "end": 10.81,
+    "hot": false
+  },
+  {
+    "text": "Lavaí",
+    "start": 10.81,
+    "end": 11.25,
+    "hot": true
+  },
+  {
+    "text": "você",
+    "start": 11.31,
+    "end": 11.51,
+    "hot": false
+  },
+  {
+    "text": "registra",
+    "start": 11.51,
+    "end": 12.27,
+    "hot": false
+  },
+  {
+    "text": "os",
+    "start": 12.27,
+    "end": 12.37,
+    "hot": false
+  },
+  {
+    "text": "atendimentos",
+    "start": 12.37,
+    "end": 13.45,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 13.45,
+    "end": 13.73,
+    "hot": false
+  },
+  {
+    "text": "vê",
+    "start": 13.73,
+    "end": 13.89,
+    "hot": false
+  },
+  {
+    "text": "quanto",
+    "start": 13.89,
+    "end": 14.15,
+    "hot": false
+  },
+  {
+    "text": "faturou",
+    "start": 14.15,
+    "end": 14.87,
+    "hot": false
+  },
+  {
+    "text": "no",
+    "start": 14.87,
+    "end": 15.01,
+    "hot": false
+  },
+  {
+    "text": "dia",
+    "start": 15.01,
+    "end": 15.37,
+    "hot": false
+  },
+  {
+    "text": "pelo",
+    "start": 15.37,
+    "end": 15.65,
+    "hot": false
+  },
+  {
+    "text": "celular.",
+    "start": 15.65,
+    "end": 16.29,
+    "hot": false
+  },
+  {
+    "text": "Bora",
+    "start": 16.87,
+    "end": 17.05,
+    "hot": false
+  },
+  {
+    "text": "ver",
+    "start": 17.05,
+    "end": 17.37,
+    "hot": false
+  },
+  {
+    "text": "como",
+    "start": 17.37,
+    "end": 17.69,
+    "hot": false
+  },
+  {
+    "text": "você",
+    "start": 17.69,
+    "end": 18.07,
+    "hot": false
+  },
+  {
+    "text": "organiza",
+    "start": 18.07,
+    "end": 18.75,
+    "hot": false
+  },
+  {
+    "text": "isso",
+    "start": 18.75,
+    "end": 19.03,
+    "hot": false
+  },
+  {
+    "text": "hoje?",
+    "start": 19.03,
+    "end": 19.51,
+    "hot": false
+  },
+  {
+    "text": "Toque",
+    "start": 20.01,
+    "end": 20.33,
+    "hot": false
+  },
+  {
+    "text": "em",
+    "start": 20.33,
+    "end": 20.45,
+    "hot": false
+  },
+  {
+    "text": "Saiba",
+    "start": 20.45,
+    "end": 20.81,
+    "hot": true
+  },
+  {
+    "text": "mais",
+    "start": 20.81,
+    "end": 21.13,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 21.13,
+    "end": 21.41,
+    "hot": false
+  },
+  {
+    "text": "responda",
+    "start": 21.41,
+    "end": 21.97,
+    "hot": false
+  },
+  {
+    "text": "ao",
+    "start": 21.97,
+    "end": 22.07,
+    "hot": false
+  },
+  {
+    "text": "quiz",
+    "start": 22.07,
+    "end": 22.25,
+    "hot": true
+  },
+  {
+    "text": "do",
+    "start": 22.25,
+    "end": 22.43,
+    "hot": false
+  },
+  {
+    "text": "Lavaí.",
+    "start": 22.43,
+    "end": 22.85,
+    "hot": true
+  }
+]

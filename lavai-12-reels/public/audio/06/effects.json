@@ -1,0 +1,18 @@
+[
+  {
+    "time": 0.08,
+    "scene": "garage"
+  },
+  {
+    "time": 6.75,
+    "scene": "counter"
+  },
+  {
+    "time": 11.93,
+    "scene": "mobileRegister"
+  },
+  {
+    "time": 18.074,
+    "scene": "final"
+  }
+]

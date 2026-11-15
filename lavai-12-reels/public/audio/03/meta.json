@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "duration": 25,
+  "frames": 750,
+  "speechStart": 0.15,
+  "speechEnd": 23.93933333333333,
+  "ctaStart": 20.973999999999997,
+  "finalScreenDuration": 4.026000000000003,
+  "text": "Chegou uma caminhonete cheia de barro. Você decide o adicional na hora ou já tem um valor definido?  No Lavaí, você configura quanto cobrar por tipo de veículo e nível de sujeira. Quando marca ‘Muito sujo’, o app puxa o valor cadastrado, e você pode ajustar naquele atendimento. Toque em Saiba mais e responda ao quiz do Lavaí.",
+  "nativeSpeed": 0.9,
+  "voice": "Kokoro pm_santa, pt-br",
+  "pauses": [
+    {
+      "start": 6.678,
+      "end": 8.678
+    }
+  ]
+}

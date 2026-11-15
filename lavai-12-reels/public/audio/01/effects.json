@@ -1,0 +1,22 @@
+[
+  {
+    "time": 0.08,
+    "scene": "closeDay"
+  },
+  {
+    "time": 4.61,
+    "scene": "scattered"
+  },
+  {
+    "time": 10.77,
+    "scene": "dashboard"
+  },
+  {
+    "time": 16.95,
+    "scene": "organize"
+  },
+  {
+    "time": 20.061,
+    "scene": "final"
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "text": "O",
+    "start": 0.15,
+    "end": 0.33,
+    "hot": false
+  },
+  {
+    "text": "que",
+    "start": 0.33,
+    "end": 0.45,
+    "hot": false
+  },
+  {
+    "text": "mais",
+    "start": 0.45,
+    "end": 0.71,
+    "hot": false
+  },
+  {
+    "text": "saiu",
+    "start": 0.71,
+    "end": 1.15,
+    "hot": false
+  },
+  {
+    "text": "na",
+    "start": 1.15,
+    "end": 1.29,
+    "hot": false
+  },
+  {
+    "text": "sua",
+    "start": 1.29,
+    "end": 1.47,
+    "hot": false
+  },
+  {
+    "text": "estética",
+    "start": 1.47,
+    "end": 1.99,
+    "hot": false
+  },
+  {
+    "text": "este",
+    "start": 1.99,
+    "end": 2.31,
+    "hot": false
+  },
+  {
+    "text": "mês?",
+    "start": 2.31,
+    "end": 2.61,
+    "hot": false
+  },
+  {
+    "text": "Lavagem",
+    "start": 2.61,
+    "end": 3.67,
+    "hot": false
+  },
+  {
+    "text": "completa",
+    "start": 3.67,
+    "end": 4.29,
+    "hot": false
+  },
+  {
+    "text": "ou",
+    "start": 4.29,
+    "end": 4.81,
+    "hot": false
+  },
+  {
+    "text": "higienização?",
+    "start": 4.81,
+    "end": 5.73,
+    "hot": false
+  },
+  {
+    "text": "Com",
+    "start": 8.038,
+    "end": 8.25,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 8.25,
+    "end": 8.35,
+    "hot": false
+  },
+  {
+    "text": "Lavaí",
+    "start": 8.35,
+    "end": 8.71,
+    "hot": true
+  },
+  {
+    "text": "você",
+    "start": 8.71,
+    "end": 8.95,
+    "hot": false
+  },
+  {
+    "text": "consulta",
+    "start": 8.95,
+    "end": 9.77,
+    "hot": false
+  },
+  {
+    "text": "os",
+    "start": 9.77,
+    "end": 9.87,
+    "hot": false
+  },
+  {
+    "text": "serviços",
+    "start": 9.87,
+    "end": 10.43,
+    "hot": false
+  },
+  {
+    "text": "mais",
+    "start": 10.43,
+    "end": 10.85,
+    "hot": false
+  },
+  {
+    "text": "vendidos",
+    "start": 10.85,
+    "end": 11.79,
+    "hot": false
+  },
+  {
+    "text": "no",
+    "start": 11.79,
+    "end": 12.03,
+    "hot": false
+  },
+  {
+    "text": "período.",
+    "start": 12.03,
+    "end": 12.59,
+    "hot": false
+  },
+  {
+    "text": "Aí",
+    "start": 13.17,
+    "end": 13.35,
+    "hot": false
+  },
+  {
+    "text": "você",
+    "start": 13.35,
+    "end": 13.63,
+    "hot": false
+  },
+  {
+    "text": "sabe",
+    "start": 13.63,
+    "end": 14.15,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 14.15,
+    "end": 14.31,
+    "hot": false
+  },
+  {
+    "text": "que",
+    "start": 14.31,
+    "end": 14.37,
+    "hot": false
+  },
+  {
+    "text": "saiu",
+    "start": 14.37,
+    "end": 14.79,
+    "hot": false
+  },
+  {
+    "text": "mais",
+    "start": 14.79,
+    "end": 15.15,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 15.15,
+    "end": 15.73,
+    "hot": false
+  },
+  {
+    "text": "pode",
+    "start": 15.73,
+    "end": 15.95,
+    "hot": false
+  },
+  {
+    "text": "olhar",
+    "start": 15.95,
+    "end": 16.41,
+    "hot": false
+  },
+  {
+    "text": "com",
+    "start": 16.41,
+    "end": 16.71,
+    "hot": false
+  },
+  {
+    "text": "calma",
+    "start": 16.71,
+    "end": 17.27,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 17.27,
+    "end": 17.37,
+    "hot": false
+  },
+  {
+    "text": "que",
+    "start": 17.37,
+    "end": 17.45,
+    "hot": false
+  },
+  {
+    "text": "merece",
+    "start": 17.45,
+    "end": 17.91,
+    "hot": false
+  },
+  {
+    "text": "mais",
+    "start": 17.91,
+    "end": 18.27,
+    "hot": false
+  },
+  {
+    "text": "divulgação.",
+    "start": 18.27,
+    "end": 19.23,
+    "hot": false
+  },
+  {
+    "text": "Toque",
+    "start": 19.53,
+    "end": 19.87,
+    "hot": false
+  },
+  {
+    "text": "em",
+    "start": 19.87,
+    "end": 20.03,
+    "hot": false
+  },
+  {
+    "text": "Saiba",
+    "start": 20.03,
+    "end": 20.37,
+    "hot": true
+  },
+  {
+    "text": "mais",
+    "start": 20.37,
+    "end": 20.67,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 20.67,
+    "end": 20.97,
+    "hot": false
+  },
+  {
+    "text": "responda",
+    "start": 20.97,
+    "end": 21.53,
+    "hot": false
+  },
+  {
+    "text": "ao",
+    "start": 21.53,
+    "end": 21.65,
+    "hot": false
+  },
+  {
+    "text": "quiz",
+    "start": 21.65,
+    "end": 21.83,
+    "hot": true
+  },
+  {
+    "text": "do",
+    "start": 21.83,
+    "end": 22.01,
+    "hot": false
+  },
+  {
+    "text": "Lavaí.",
+    "start": 22.01,
+    "end": 22.39,
+    "hot": true
+  }
+]

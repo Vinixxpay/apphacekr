@@ -1,0 +1,18 @@
+[
+  {
+    "time": 0.08,
+    "scene": "serviceQuiz"
+  },
+  {
+    "time": 8.118,
+    "scene": "ranking"
+  },
+  {
+    "time": 13.25,
+    "scene": "reviewRanking"
+  },
+  {
+    "time": 19.626,
+    "scene": "final"
+  }
+]

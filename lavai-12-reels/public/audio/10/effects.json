@@ -1,0 +1,18 @@
+[
+  {
+    "time": 0.08,
+    "scene": "paymentQuestion"
+  },
+  {
+    "time": 6.29,
+    "scene": "paymentRegister"
+  },
+  {
+    "time": 12.97,
+    "scene": "paymentReport"
+  },
+  {
+    "time": 19.418,
+    "scene": "final"
+  }
+]

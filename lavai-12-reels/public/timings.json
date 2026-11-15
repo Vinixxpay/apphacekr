@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "duration": 24,
+    "frames": 720,
+    "speechStart": 0.15,
+    "speechEnd": 22.945999999999998,
+    "ctaStart": 19.980666666666664,
+    "finalScreenDuration": 4.019333333333336,
+    "text": "Fechou o lava-jato. Agora me diz: quanto entrou hoje? Uma lavagem tá no caderno, outra no Pix, e aquela higienização ficou no WhatsApp. No Lavaí você registra os atendimentos e vê quanto faturou no dia pelo celular. Bora ver como você organiza isso hoje? Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.78,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": []
+  },
+  {
+    "id": 2,
+    "duration": 21.866666666666667,
+    "frames": 656,
+    "speechStart": 0.15,
+    "speechEnd": 20.831333333333333,
+    "ctaStart": 17.866,
+    "finalScreenDuration": 4.0006666666666675,
+    "text": "Chegou um carro pra lavagem completa. Onde você registra esse atendimento? No Lavaí você seleciona o cliente e o veículo, escolhe o serviço e confere o total. Quando o dia aperta, fica mais fácil consultar o que já registrou. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.78,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": []
+  },
+  {
+    "id": 3,
+    "duration": 25,
+    "frames": 750,
+    "speechStart": 0.15,
+    "speechEnd": 23.93933333333333,
+    "ctaStart": 20.973999999999997,
+    "finalScreenDuration": 4.026000000000003,
+    "text": "Chegou uma caminhonete cheia de barro. Você decide o adicional na hora ou já tem um valor definido?  No Lavaí, você configura quanto cobrar por tipo de veículo e nível de sujeira. Quando marca ‘Muito sujo’, o app puxa o valor cadastrado, e você pode ajustar naquele atendimento. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.9,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": [
+      {
+        "start": 6.678,
+        "end": 8.678
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "duration": 29.133333333333333,
+    "frames": 874,
+    "speechStart": 0.15,
+    "speechEnd": 28.074666666666666,
+    "ctaStart": 25.109333333333332,
+    "finalScreenDuration": 4.024000000000001,
+    "text": "Terminou o polimento e o cliente pediu o comprovante? No Lavaí você gera o comprovante de serviço com a logo da sua estética, os itens e o total. Dá pra compartilhar a imagem pelo WhatsApp ou salvar em PDF. O cliente recebe o resumo do que você fez e vê a sua marca. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.78,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": []
+  },
+  {
+    "id": 5,
+    "duration": 24,
+    "frames": 720,
+    "speechStart": 0.15,
+    "speechEnd": 22.935333333333332,
+    "ctaStart": 19.97,
+    "finalScreenDuration": 4.030000000000001,
+    "text": "Moto, carro, caminhonete. Dá pra ter preço diferente pra cada tipo de veículo. No Lavaí você cadastra os serviços e adicionais com os valores que usa na sua operação. Na hora do atendimento, consulta sua tabela e confere a cobrança. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.78,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": []
+  },
+  {
+    "id": 6,
+    "duration": 22,
+    "frames": 660,
+    "speechStart": 0.15,
+    "speechEnd": 20.959333333333333,
+    "ctaStart": 17.994,
+    "finalScreenDuration": 4.006,
+    "text": "Você lava carro na garagem, atende a domicílio ou já tem uma estética com equipe? Em qualquer um desses cenários, vale saber o que foi feito e quanto entrou. Com o Lavaí, você registra serviço, cliente e veículo pelo celular. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.78,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": []
+  },
+  {
+    "id": 7,
+    "duration": 21,
+    "frames": 630,
+    "speechStart": 0.15,
+    "speechEnd": 19.958,
+    "ctaStart": 16.992666666666665,
+    "finalScreenDuration": 4.007333333333335,
+    "text": "O cliente voltou e perguntou o que fez da última vez. Você lembra? No Lavaí dá pra buscar o histórico pela placa ou pelo telefone. Assim você confere o que foi registrado antes de sugerir o próximo serviço. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.78,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": []
+  },
+  {
+    "id": 8,
+    "duration": 27.1,
+    "frames": 813,
+    "speechStart": 0.15,
+    "speechEnd": 26.045333333333332,
+    "ctaStart": 23.08,
+    "finalScreenDuration": 4.020000000000003,
+    "text": "Seu lava-jato ficou cheio a semana toda. Mas quanto entrou, em média, por atendimento? Esse número é o ticket médio. No Lavaí você acompanha o indicador junto com o faturamento. Dá pra comparar os períodos e entender como o valor dos serviços mudou. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.78,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": []
+  },
+  {
+    "id": 9,
+    "duration": 23.566666666666666,
+    "frames": 707,
+    "speechStart": 0.15,
+    "speechEnd": 22.511333333333333,
+    "ctaStart": 19.546,
+    "finalScreenDuration": 4.020666666666667,
+    "text": "O que mais saiu na sua estética este mês? Lavagem completa ou higienização?  Com o Lavaí você consulta os serviços mais vendidos no período. Aí você sabe o que saiu mais e pode olhar com calma o que merece mais divulgação. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.801,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": [
+      {
+        "start": 6.038,
+        "end": 8.038
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "duration": 23.366666666666667,
+    "frames": 701,
+    "speechStart": 0.15,
+    "speechEnd": 22.30333333333333,
+    "ctaStart": 19.337999999999997,
+    "finalScreenDuration": 4.02866666666667,
+    "text": "Na hora de fechar o caixa, você sabe quanto entrou por cada forma de pagamento? No Lavaí, você registra o pagamento do atendimento e consulta os relatórios do período. Aí fica mais fácil conferir o que ficou registrado em Pix, cartão ou dinheiro. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.78,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": []
+  },
+  {
+    "id": 11,
+    "duration": 22.3,
+    "frames": 669,
+    "speechStart": 0.15,
+    "speechEnd": 21.236666666666665,
+    "ctaStart": 18.27133333333333,
+    "finalScreenDuration": 4.02866666666667,
+    "text": "Tem dois pontos de atendimento? Cada um pode ter tabela, clientes e marca próprios. No Lavaí, os dados de cada estabelecimento ficam separados. E o comprovante sai com a identidade cadastrada naquele estabelecimento. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.78,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": []
+  },
+  {
+    "id": 12,
+    "duration": 27.066666666666666,
+    "frames": 812,
+    "speechStart": 0.15,
+    "speechEnd": 25.999333333333333,
+    "ctaStart": 23.034,
+    "finalScreenDuration": 4.0326666666666675,
+    "text": "Dono de lava-rápido, responde sem abrir o caderno. Quanto você faturou no mês passado? Qual serviço mais saiu? Se um cliente voltar amanhã, onde você confere o que ele fez? Se alguma resposta ficou no chute, começa pelo quiz. Ele é sobre a rotina do seu negócio. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "nativeSpeed": 0.78,
+    "voice": "Kokoro pm_santa, pt-br",
+    "pauses": []
+  }
+]

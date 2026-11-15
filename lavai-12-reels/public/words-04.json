@@ -1,0 +1,380 @@
+[
+  {
+    "text": "Terminou",
+    "start": 0.15,
+    "end": 0.75,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 0.75,
+    "end": 0.91,
+    "hot": false
+  },
+  {
+    "text": "polimento",
+    "start": 0.91,
+    "end": 1.67,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 1.89,
+    "end": 1.93,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 1.93,
+    "end": 2.05,
+    "hot": false
+  },
+  {
+    "text": "cliente",
+    "start": 2.05,
+    "end": 2.71,
+    "hot": true
+  },
+  {
+    "text": "pediu",
+    "start": 2.71,
+    "end": 3.37,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 3.37,
+    "end": 3.39,
+    "hot": false
+  },
+  {
+    "text": "comprovante?",
+    "start": 3.375,
+    "end": 4.35,
+    "hot": true
+  },
+  {
+    "text": "No",
+    "start": 5.43,
+    "end": 5.67,
+    "hot": false
+  },
+  {
+    "text": "Lavaí",
+    "start": 5.67,
+    "end": 6.11,
+    "hot": true
+  },
+  {
+    "text": "você",
+    "start": 6.21,
+    "end": 6.41,
+    "hot": false
+  },
+  {
+    "text": "gera",
+    "start": 6.41,
+    "end": 6.89,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 6.89,
+    "end": 7.03,
+    "hot": false
+  },
+  {
+    "text": "comprovante",
+    "start": 7.03,
+    "end": 7.87,
+    "hot": true
+  },
+  {
+    "text": "de",
+    "start": 7.87,
+    "end": 8.13,
+    "hot": false
+  },
+  {
+    "text": "serviço",
+    "start": 8.13,
+    "end": 8.89,
+    "hot": true
+  },
+  {
+    "text": "com",
+    "start": 8.89,
+    "end": 9.07,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 9.07,
+    "end": 9.19,
+    "hot": false
+  },
+  {
+    "text": "logo",
+    "start": 9.19,
+    "end": 9.51,
+    "hot": false
+  },
+  {
+    "text": "da",
+    "start": 9.51,
+    "end": 9.73,
+    "hot": false
+  },
+  {
+    "text": "sua",
+    "start": 9.73,
+    "end": 9.89,
+    "hot": false
+  },
+  {
+    "text": "estética,",
+    "start": 9.89,
+    "end": 10.71,
+    "hot": false
+  },
+  {
+    "text": "os",
+    "start": 11.19,
+    "end": 11.35,
+    "hot": false
+  },
+  {
+    "text": "itens",
+    "start": 11.35,
+    "end": 11.91,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 11.91,
+    "end": 12.21,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 12.21,
+    "end": 12.35,
+    "hot": false
+  },
+  {
+    "text": "total.",
+    "start": 12.35,
+    "end": 12.75,
+    "hot": false
+  },
+  {
+    "text": "Dá",
+    "start": 13.95,
+    "end": 14.17,
+    "hot": false
+  },
+  {
+    "text": "pra",
+    "start": 14.17,
+    "end": 14.39,
+    "hot": false
+  },
+  {
+    "text": "compartilhar",
+    "start": 14.39,
+    "end": 15.29,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 15.29,
+    "end": 15.45,
+    "hot": false
+  },
+  {
+    "text": "imagem",
+    "start": 15.45,
+    "end": 15.85,
+    "hot": false
+  },
+  {
+    "text": "pelo",
+    "start": 15.85,
+    "end": 16.27,
+    "hot": false
+  },
+  {
+    "text": "WhatsApp",
+    "start": 16.27,
+    "end": 16.97,
+    "hot": false
+  },
+  {
+    "text": "ou",
+    "start": 16.97,
+    "end": 17.49,
+    "hot": false
+  },
+  {
+    "text": "salvar",
+    "start": 17.49,
+    "end": 17.99,
+    "hot": false
+  },
+  {
+    "text": "em",
+    "start": 17.99,
+    "end": 18.23,
+    "hot": false
+  },
+  {
+    "text": "PDF.",
+    "start": 18.23,
+    "end": 18.71,
+    "hot": false
+  },
+  {
+    "text": "O",
+    "start": 20.03,
+    "end": 20.23,
+    "hot": false
+  },
+  {
+    "text": "cliente",
+    "start": 20.23,
+    "end": 20.95,
+    "hot": true
+  },
+  {
+    "text": "recebe",
+    "start": 20.95,
+    "end": 21.51,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 21.51,
+    "end": 21.61,
+    "hot": false
+  },
+  {
+    "text": "resumo",
+    "start": 21.61,
+    "end": 22.11,
+    "hot": false
+  },
+  {
+    "text": "do",
+    "start": 22.11,
+    "end": 22.29,
+    "hot": false
+  },
+  {
+    "text": "que",
+    "start": 22.29,
+    "end": 22.43,
+    "hot": false
+  },
+  {
+    "text": "você",
+    "start": 22.43,
+    "end": 22.75,
+    "hot": false
+  },
+  {
+    "text": "fez",
+    "start": 22.75,
+    "end": 23.31,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 23.31,
+    "end": 23.65,
+    "hot": false
+  },
+  {
+    "text": "vê",
+    "start": 23.65,
+    "end": 23.83,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 23.83,
+    "end": 23.97,
+    "hot": false
+  },
+  {
+    "text": "sua",
+    "start": 23.97,
+    "end": 24.17,
+    "hot": false
+  },
+  {
+    "text": "marca.",
+    "start": 24.17,
+    "end": 24.71,
+    "hot": false
+  },
+  {
+    "text": "Toque",
+    "start": 25.15,
+    "end": 25.43,
+    "hot": false
+  },
+  {
+    "text": "em",
+    "start": 25.43,
+    "end": 25.57,
+    "hot": false
+  },
+  {
+    "text": "Saiba",
+    "start": 25.57,
+    "end": 25.93,
+    "hot": true
+  },
+  {
+    "text": "mais",
+    "start": 25.93,
+    "end": 26.25,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 26.25,
+    "end": 26.55,
+    "hot": false
+  },
+  {
+    "text": "responda",
+    "start": 26.55,
+    "end": 27.09,
+    "hot": false
+  },
+  {
+    "text": "ao",
+    "start": 27.09,
+    "end": 27.21,
+    "hot": false
+  },
+  {
+    "text": "quiz",
+    "start": 27.21,
+    "end": 27.39,
+    "hot": true
+  },
+  {
+    "text": "do",
+    "start": 27.39,
+    "end": 27.57,
+    "hot": false
+  },
+  {
+    "text": "Lavaí.",
+    "start": 27.57,
+    "end": 27.95,
+    "hot": true
+  }
+]

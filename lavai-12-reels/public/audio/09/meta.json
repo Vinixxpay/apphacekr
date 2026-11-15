@@ -1,0 +1,18 @@
+{
+  "id": 9,
+  "duration": 23.566666666666666,
+  "frames": 707,
+  "speechStart": 0.15,
+  "speechEnd": 22.511333333333333,
+  "ctaStart": 19.546,
+  "finalScreenDuration": 4.020666666666667,
+  "text": "O que mais saiu na sua estética este mês? Lavagem completa ou higienização?  Com o Lavaí você consulta os serviços mais vendidos no período. Aí você sabe o que saiu mais e pode olhar com calma o que merece mais divulgação. Toque em Saiba mais e responda ao quiz do Lavaí.",
+  "nativeSpeed": 0.801,
+  "voice": "Kokoro pm_santa, pt-br",
+  "pauses": [
+    {
+      "start": 6.038,
+      "end": 8.038
+    }
+  ]
+}

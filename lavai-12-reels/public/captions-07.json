@@ -1,0 +1,404 @@
+[
+  {
+    "start": 0.15,
+    "end": 1.57,
+    "words": [
+      {
+        "text": "O",
+        "start": 0.15,
+        "end": 0.33,
+        "hot": false
+      },
+      {
+        "text": "cliente",
+        "start": 0.33,
+        "end": 0.97,
+        "hot": true
+      },
+      {
+        "text": "voltou",
+        "start": 0.97,
+        "end": 1.57,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 1.57,
+    "end": 2.37,
+    "words": [
+      {
+        "text": "e",
+        "start": 1.57,
+        "end": 1.71,
+        "hot": false
+      },
+      {
+        "text": "perguntou",
+        "start": 1.71,
+        "end": 2.37,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.37,
+    "end": 2.95,
+    "words": [
+      {
+        "text": "o",
+        "start": 2.37,
+        "end": 2.49,
+        "hot": false
+      },
+      {
+        "text": "que",
+        "start": 2.49,
+        "end": 2.57,
+        "hot": false
+      },
+      {
+        "text": "fez",
+        "start": 2.57,
+        "end": 2.95,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.95,
+    "end": 4.13,
+    "words": [
+      {
+        "text": "da",
+        "start": 2.95,
+        "end": 3.11,
+        "hot": false
+      },
+      {
+        "text": "última",
+        "start": 3.11,
+        "end": 3.61,
+        "hot": false
+      },
+      {
+        "text": "vez.",
+        "start": 3.61,
+        "end": 4.03,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 4.55,
+    "end": 5.51,
+    "words": [
+      {
+        "text": "Você",
+        "start": 4.55,
+        "end": 4.81,
+        "hot": false
+      },
+      {
+        "text": "lembra?",
+        "start": 4.81,
+        "end": 5.51,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.51,
+    "end": 6.45,
+    "words": [
+      {
+        "text": "No",
+        "start": 5.51,
+        "end": 5.99,
+        "hot": false
+      },
+      {
+        "text": "Lavaí",
+        "start": 5.99,
+        "end": 6.45,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 6.45,
+    "end": 7.21,
+    "words": [
+      {
+        "text": "dá",
+        "start": 6.45,
+        "end": 6.57,
+        "hot": false
+      },
+      {
+        "text": "pra",
+        "start": 6.57,
+        "end": 6.75,
+        "hot": false
+      },
+      {
+        "text": "buscar",
+        "start": 6.75,
+        "end": 7.21,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 7.21,
+    "end": 8.29,
+    "words": [
+      {
+        "text": "o",
+        "start": 7.21,
+        "end": 7.37,
+        "hot": false
+      },
+      {
+        "text": "histórico",
+        "start": 7.37,
+        "end": 8.03,
+        "hot": true
+      },
+      {
+        "text": "pela",
+        "start": 8.03,
+        "end": 8.29,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.29,
+    "end": 9.53,
+    "words": [
+      {
+        "text": "placa",
+        "start": 8.29,
+        "end": 8.95,
+        "hot": false
+      },
+      {
+        "text": "ou",
+        "start": 8.95,
+        "end": 9.19,
+        "hot": false
+      },
+      {
+        "text": "pelo",
+        "start": 9.19,
+        "end": 9.53,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 9.53,
+    "end": 10.45,
+    "words": [
+      {
+        "text": "telefone.",
+        "start": 9.53,
+        "end": 10.35,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 10.73,
+    "end": 12.11,
+    "words": [
+      {
+        "text": "Assim",
+        "start": 10.73,
+        "end": 11.03,
+        "hot": false
+      },
+      {
+        "text": "você",
+        "start": 11.03,
+        "end": 11.37,
+        "hot": false
+      },
+      {
+        "text": "confere",
+        "start": 11.37,
+        "end": 12.11,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.11,
+    "end": 12.59,
+    "words": [
+      {
+        "text": "o",
+        "start": 12.11,
+        "end": 12.23,
+        "hot": false
+      },
+      {
+        "text": "que",
+        "start": 12.23,
+        "end": 12.35,
+        "hot": false
+      },
+      {
+        "text": "foi",
+        "start": 12.35,
+        "end": 12.59,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.59,
+    "end": 13.93,
+    "words": [
+      {
+        "text": "registrado",
+        "start": 12.59,
+        "end": 13.47,
+        "hot": false
+      },
+      {
+        "text": "antes",
+        "start": 13.47,
+        "end": 13.93,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.93,
+    "end": 14.89,
+    "words": [
+      {
+        "text": "de",
+        "start": 13.93,
+        "end": 14.25,
+        "hot": false
+      },
+      {
+        "text": "sugerir",
+        "start": 14.25,
+        "end": 14.89,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 14.89,
+    "end": 16.51,
+    "words": [
+      {
+        "text": "o",
+        "start": 14.89,
+        "end": 15.01,
+        "hot": false
+      },
+      {
+        "text": "próximo",
+        "start": 15.01,
+        "end": 15.47,
+        "hot": false
+      },
+      {
+        "text": "serviço.",
+        "start": 15.47,
+        "end": 16.41,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 16.95,
+    "end": 17.81,
+    "words": [
+      {
+        "text": "Toque",
+        "start": 16.95,
+        "end": 17.33,
+        "hot": false
+      },
+      {
+        "text": "em",
+        "start": 17.33,
+        "end": 17.45,
+        "hot": false
+      },
+      {
+        "text": "Saiba",
+        "start": 17.45,
+        "end": 17.81,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 17.81,
+    "end": 18.99,
+    "words": [
+      {
+        "text": "mais",
+        "start": 17.81,
+        "end": 18.13,
+        "hot": false
+      },
+      {
+        "text": "e",
+        "start": 18.13,
+        "end": 18.43,
+        "hot": false
+      },
+      {
+        "text": "responda",
+        "start": 18.43,
+        "end": 18.99,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 18.99,
+    "end": 19.27,
+    "words": [
+      {
+        "text": "ao",
+        "start": 18.99,
+        "end": 19.09,
+        "hot": false
+      },
+      {
+        "text": "quiz",
+        "start": 19.09,
+        "end": 19.27,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 19.27,
+    "end": 19.950000000000003,
+    "words": [
+      {
+        "text": "do",
+        "start": 19.27,
+        "end": 19.45,
+        "hot": false
+      },
+      {
+        "text": "Lavaí.",
+        "start": 19.45,
+        "end": 19.85,
+        "hot": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,488 @@
+[
+  {
+    "start": 0.15,
+    "end": 1.35,
+    "words": [
+      {
+        "text": "Chegou",
+        "start": 0.15,
+        "end": 0.51,
+        "hot": false
+      },
+      {
+        "text": "uma",
+        "start": 0.51,
+        "end": 0.67,
+        "hot": false
+      },
+      {
+        "text": "caminhonete",
+        "start": 0.67,
+        "end": 1.35,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 1.35,
+    "end": 2.5500000000000003,
+    "words": [
+      {
+        "text": "cheia",
+        "start": 1.35,
+        "end": 1.79,
+        "hot": false
+      },
+      {
+        "text": "de",
+        "start": 1.79,
+        "end": 1.95,
+        "hot": false
+      },
+      {
+        "text": "barro.",
+        "start": 1.95,
+        "end": 2.45,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 2.81,
+    "end": 3.47,
+    "words": [
+      {
+        "text": "Você",
+        "start": 2.81,
+        "end": 3.01,
+        "hot": false
+      },
+      {
+        "text": "decide",
+        "start": 3.01,
+        "end": 3.47,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 3.47,
+    "end": 4.09,
+    "words": [
+      {
+        "text": "o",
+        "start": 3.47,
+        "end": 3.63,
+        "hot": false
+      },
+      {
+        "text": "adicional",
+        "start": 3.63,
+        "end": 4.09,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 4.09,
+    "end": 4.99,
+    "words": [
+      {
+        "text": "na",
+        "start": 4.09,
+        "end": 4.41,
+        "hot": false
+      },
+      {
+        "text": "hora",
+        "start": 4.41,
+        "end": 4.73,
+        "hot": false
+      },
+      {
+        "text": "ou",
+        "start": 4.73,
+        "end": 4.99,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 4.99,
+    "end": 5.59,
+    "words": [
+      {
+        "text": "já",
+        "start": 4.99,
+        "end": 5.23,
+        "hot": false
+      },
+      {
+        "text": "tem",
+        "start": 5.23,
+        "end": 5.47,
+        "hot": false
+      },
+      {
+        "text": "um",
+        "start": 5.47,
+        "end": 5.59,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 5.59,
+    "end": 6.63,
+    "words": [
+      {
+        "text": "valor",
+        "start": 5.59,
+        "end": 5.83,
+        "hot": false
+      },
+      {
+        "text": "definido?",
+        "start": 5.83,
+        "end": 6.53,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 8.678,
+    "end": 9.23,
+    "words": [
+      {
+        "text": "No",
+        "start": 8.678,
+        "end": 8.83,
+        "hot": false
+      },
+      {
+        "text": "Lavaí,",
+        "start": 8.83,
+        "end": 9.23,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 9.23,
+    "end": 10.31,
+    "words": [
+      {
+        "text": "você",
+        "start": 9.23,
+        "end": 9.45,
+        "hot": false
+      },
+      {
+        "text": "configura",
+        "start": 9.45,
+        "end": 10.09,
+        "hot": false
+      },
+      {
+        "text": "quanto",
+        "start": 10.09,
+        "end": 10.31,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 10.31,
+    "end": 11.29,
+    "words": [
+      {
+        "text": "cobrar",
+        "start": 10.31,
+        "end": 10.73,
+        "hot": false
+      },
+      {
+        "text": "por",
+        "start": 10.73,
+        "end": 10.95,
+        "hot": false
+      },
+      {
+        "text": "tipo",
+        "start": 10.95,
+        "end": 11.29,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 11.29,
+    "end": 12.01,
+    "words": [
+      {
+        "text": "de",
+        "start": 11.29,
+        "end": 11.49,
+        "hot": false
+      },
+      {
+        "text": "veículo",
+        "start": 11.49,
+        "end": 12.01,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 12.01,
+    "end": 12.47,
+    "words": [
+      {
+        "text": "e",
+        "start": 12.01,
+        "end": 12.19,
+        "hot": false
+      },
+      {
+        "text": "nível",
+        "start": 12.19,
+        "end": 12.47,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 12.47,
+    "end": 13.33,
+    "words": [
+      {
+        "text": "de",
+        "start": 12.47,
+        "end": 12.63,
+        "hot": false
+      },
+      {
+        "text": "sujeira.",
+        "start": 12.63,
+        "end": 13.23,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 13.69,
+    "end": 14.45,
+    "words": [
+      {
+        "text": "Quando",
+        "start": 13.69,
+        "end": 13.83,
+        "hot": false
+      },
+      {
+        "text": "marca",
+        "start": 13.83,
+        "end": 14.17,
+        "hot": false
+      },
+      {
+        "text": "‘Muito",
+        "start": 14.17,
+        "end": 14.45,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 14.45,
+    "end": 15.15,
+    "words": [
+      {
+        "text": "sujo’,",
+        "start": 14.45,
+        "end": 15.05,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 15.37,
+    "end": 15.95,
+    "words": [
+      {
+        "text": "o",
+        "start": 15.37,
+        "end": 15.41,
+        "hot": false
+      },
+      {
+        "text": "app",
+        "start": 15.41,
+        "end": 15.57,
+        "hot": false
+      },
+      {
+        "text": "puxa",
+        "start": 15.57,
+        "end": 15.95,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 15.95,
+    "end": 17.11,
+    "words": [
+      {
+        "text": "o",
+        "start": 15.95,
+        "end": 16.03,
+        "hot": false
+      },
+      {
+        "text": "valor",
+        "start": 16.03,
+        "end": 16.27,
+        "hot": false
+      },
+      {
+        "text": "cadastrado,",
+        "start": 16.27,
+        "end": 17.11,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 17.11,
+    "end": 18.01,
+    "words": [
+      {
+        "text": "e",
+        "start": 17.11,
+        "end": 17.53,
+        "hot": false
+      },
+      {
+        "text": "você",
+        "start": 17.53,
+        "end": 17.77,
+        "hot": false
+      },
+      {
+        "text": "pode",
+        "start": 17.77,
+        "end": 18.01,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 18.01,
+    "end": 19.970000000000002,
+    "words": [
+      {
+        "text": "ajustar",
+        "start": 18.01,
+        "end": 18.59,
+        "hot": false
+      },
+      {
+        "text": "naquele",
+        "start": 18.59,
+        "end": 18.99,
+        "hot": false
+      },
+      {
+        "text": "atendimento.",
+        "start": 18.99,
+        "end": 19.87,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 20.85,
+    "end": 21.79,
+    "words": [
+      {
+        "text": "Toque",
+        "start": 20.85,
+        "end": 21.29,
+        "hot": false
+      },
+      {
+        "text": "em",
+        "start": 21.29,
+        "end": 21.43,
+        "hot": false
+      },
+      {
+        "text": "Saiba",
+        "start": 21.43,
+        "end": 21.79,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 21.79,
+    "end": 22.95,
+    "words": [
+      {
+        "text": "mais",
+        "start": 21.79,
+        "end": 22.11,
+        "hot": false
+      },
+      {
+        "text": "e",
+        "start": 22.11,
+        "end": 22.41,
+        "hot": false
+      },
+      {
+        "text": "responda",
+        "start": 22.41,
+        "end": 22.95,
+        "hot": false
+      }
+    ]
+  },
+  {
+    "start": 22.95,
+    "end": 23.25,
+    "words": [
+      {
+        "text": "ao",
+        "start": 22.95,
+        "end": 23.09,
+        "hot": false
+      },
+      {
+        "text": "quiz",
+        "start": 23.09,
+        "end": 23.25,
+        "hot": true
+      }
+    ]
+  },
+  {
+    "start": 23.25,
+    "end": 23.93,
+    "words": [
+      {
+        "text": "do",
+        "start": 23.25,
+        "end": 23.43,
+        "hot": false
+      },
+      {
+        "text": "Lavaí.",
+        "start": 23.43,
+        "end": 23.83,
+        "hot": true
+      }
+    ]
+  }
+]

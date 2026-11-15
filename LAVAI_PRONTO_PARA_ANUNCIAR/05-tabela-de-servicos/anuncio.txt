@@ -1,0 +1,16 @@
+TEXTO PRINCIPAL
+Lavagem simples, higienização, polimento e adicionais com os valores da sua operação. Toque em Saiba mais e responda ao quiz do Lavaí.
+
+TÍTULO
+Seus serviços, seus preços
+
+BOTÃO
+Saiba mais
+
+DESTINO
+QUIZ_URL
+
+ESTADO DO DESTINO
+URL do quiz pendente para configurar no Meta Ads
+
+Fluxo: anúncio → Saiba mais → primeira pergunta do quiz. O botão real e a URL são configurados no Meta Ads.

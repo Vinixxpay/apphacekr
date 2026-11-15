@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "duration": 21.866666666666667,
+  "frames": 656,
+  "speechStart": 0.15,
+  "speechEnd": 20.831333333333333,
+  "ctaStart": 17.866,
+  "finalScreenDuration": 4.0006666666666675,
+  "text": "Chegou um carro pra lavagem completa. Onde você registra esse atendimento? No Lavaí você seleciona o cliente e o veículo, escolhe o serviço e confere o total. Quando o dia aperta, fica mais fácil consultar o que já registrou. Toque em Saiba mais e responda ao quiz do Lavaí.",
+  "nativeSpeed": 0.78,
+  "voice": "Kokoro pm_santa, pt-br",
+  "pauses": []
+}

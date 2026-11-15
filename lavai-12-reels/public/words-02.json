@@ -1,0 +1,296 @@
+[
+  {
+    "text": "Chegou",
+    "start": 0.15,
+    "end": 0.61,
+    "hot": false
+  },
+  {
+    "text": "um",
+    "start": 0.61,
+    "end": 0.75,
+    "hot": false
+  },
+  {
+    "text": "carro",
+    "start": 0.75,
+    "end": 1.13,
+    "hot": false
+  },
+  {
+    "text": "pra",
+    "start": 1.13,
+    "end": 1.37,
+    "hot": false
+  },
+  {
+    "text": "lavagem",
+    "start": 1.37,
+    "end": 1.95,
+    "hot": false
+  },
+  {
+    "text": "completa.",
+    "start": 1.95,
+    "end": 2.59,
+    "hot": false
+  },
+  {
+    "text": "Onde",
+    "start": 3.27,
+    "end": 3.49,
+    "hot": false
+  },
+  {
+    "text": "você",
+    "start": 3.49,
+    "end": 3.85,
+    "hot": false
+  },
+  {
+    "text": "registra",
+    "start": 3.85,
+    "end": 4.63,
+    "hot": false
+  },
+  {
+    "text": "esse",
+    "start": 4.63,
+    "end": 4.77,
+    "hot": false
+  },
+  {
+    "text": "atendimento?",
+    "start": 4.77,
+    "end": 5.87,
+    "hot": false
+  },
+  {
+    "text": "No",
+    "start": 6.27,
+    "end": 6.39,
+    "hot": false
+  },
+  {
+    "text": "Lavaí",
+    "start": 6.39,
+    "end": 6.83,
+    "hot": true
+  },
+  {
+    "text": "você",
+    "start": 6.83,
+    "end": 7.11,
+    "hot": false
+  },
+  {
+    "text": "seleciona",
+    "start": 7.11,
+    "end": 7.99,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 7.99,
+    "end": 8.05,
+    "hot": false
+  },
+  {
+    "text": "cliente",
+    "start": 8.05,
+    "end": 8.81,
+    "hot": true
+  },
+  {
+    "text": "e",
+    "start": 8.81,
+    "end": 8.89,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 8.89,
+    "end": 8.95,
+    "hot": false
+  },
+  {
+    "text": "veículo,",
+    "start": 8.95,
+    "end": 9.53,
+    "hot": true
+  },
+  {
+    "text": "escolhe",
+    "start": 9.81,
+    "end": 10.33,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 10.33,
+    "end": 10.39,
+    "hot": false
+  },
+  {
+    "text": "serviço",
+    "start": 10.39,
+    "end": 11.09,
+    "hot": true
+  },
+  {
+    "text": "e",
+    "start": 11.09,
+    "end": 11.19,
+    "hot": false
+  },
+  {
+    "text": "confere",
+    "start": 11.19,
+    "end": 11.75,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 11.75,
+    "end": 11.87,
+    "hot": false
+  },
+  {
+    "text": "total.",
+    "start": 11.87,
+    "end": 12.25,
+    "hot": false
+  },
+  {
+    "text": "Quando",
+    "start": 12.85,
+    "end": 13.03,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 13.03,
+    "end": 13.23,
+    "hot": false
+  },
+  {
+    "text": "dia",
+    "start": 13.23,
+    "end": 13.39,
+    "hot": false
+  },
+  {
+    "text": "aperta,",
+    "start": 13.39,
+    "end": 14.03,
+    "hot": false
+  },
+  {
+    "text": "fica",
+    "start": 14.17,
+    "end": 14.49,
+    "hot": false
+  },
+  {
+    "text": "mais",
+    "start": 14.49,
+    "end": 14.91,
+    "hot": false
+  },
+  {
+    "text": "fácil",
+    "start": 14.91,
+    "end": 15.41,
+    "hot": false
+  },
+  {
+    "text": "consultar",
+    "start": 15.41,
+    "end": 16.29,
+    "hot": false
+  },
+  {
+    "text": "o",
+    "start": 16.29,
+    "end": 16.37,
+    "hot": false
+  },
+  {
+    "text": "que",
+    "start": 16.37,
+    "end": 16.49,
+    "hot": false
+  },
+  {
+    "text": "já",
+    "start": 16.49,
+    "end": 16.73,
+    "hot": false
+  },
+  {
+    "text": "registrou.",
+    "start": 16.73,
+    "end": 17.51,
+    "hot": false
+  },
+  {
+    "text": "Toque",
+    "start": 17.87,
+    "end": 18.21,
+    "hot": false
+  },
+  {
+    "text": "em",
+    "start": 18.21,
+    "end": 18.33,
+    "hot": false
+  },
+  {
+    "text": "Saiba",
+    "start": 18.33,
+    "end": 18.71,
+    "hot": true
+  },
+  {
+    "text": "mais",
+    "start": 18.71,
+    "end": 19.01,
+    "hot": false
+  },
+  {
+    "text": "e",
+    "start": 19.01,
+    "end": 19.29,
+    "hot": false
+  },
+  {
+    "text": "responda",
+    "start": 19.29,
+    "end": 19.85,
+    "hot": false
+  },
+  {
+    "text": "ao",
+    "start": 19.85,
+    "end": 19.97,
+    "hot": false
+  },
+  {
+    "text": "quiz",
+    "start": 19.97,
+    "end": 20.15,
+    "hot": true
+  },
+  {
+    "text": "do",
+    "start": 20.15,
+    "end": 20.31,
+    "hot": false
+  },
+  {
+    "text": "Lavaí.",
+    "start": 20.31,
+    "end": 20.71,
+    "hot": true
+  }
+]

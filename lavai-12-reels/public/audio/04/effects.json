@@ -1,0 +1,22 @@
+[
+  {
+    "time": 0.08,
+    "scene": "receiptRequest"
+  },
+  {
+    "time": 5.51,
+    "scene": "brandedReceipt"
+  },
+  {
+    "time": 14.03,
+    "scene": "shareReceipt"
+  },
+  {
+    "time": 20.11,
+    "scene": "receiptSummary"
+  },
+  {
+    "time": 25.189,
+    "scene": "final"
+  }
+]

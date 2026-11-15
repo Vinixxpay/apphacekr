@@ -1,0 +1,16 @@
+TEXTO PRINCIPAL
+Consulte o histórico do veículo sem depender da memória ou procurar em conversas antigas. Toque em Saiba mais e responda ao quiz do Lavaí.
+
+TÍTULO
+Consulte o histórico pela placa
+
+BOTÃO
+Saiba mais
+
+DESTINO
+QUIZ_URL
+
+ESTADO DO DESTINO
+URL do quiz pendente para configurar no Meta Ads
+
+Fluxo: anúncio → Saiba mais → primeira pergunta do quiz. O botão real e a URL são configurados no Meta Ads.

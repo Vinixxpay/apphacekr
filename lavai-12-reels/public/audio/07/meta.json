@@ -1,0 +1,13 @@
+{
+  "id": 7,
+  "duration": 21,
+  "frames": 630,
+  "speechStart": 0.15,
+  "speechEnd": 19.958,
+  "ctaStart": 16.992666666666665,
+  "finalScreenDuration": 4.007333333333335,
+  "text": "O cliente voltou e perguntou o que fez da última vez. Você lembra? No Lavaí dá pra buscar o histórico pela placa ou pelo telefone. Assim você confere o que foi registrado antes de sugerir o próximo serviço. Toque em Saiba mais e responda ao quiz do Lavaí.",
+  "nativeSpeed": 0.78,
+  "voice": "Kokoro pm_santa, pt-br",
+  "pauses": []
+}

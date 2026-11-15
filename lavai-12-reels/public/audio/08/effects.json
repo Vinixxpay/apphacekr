@@ -1,0 +1,22 @@
+[
+  {
+    "time": 0.08,
+    "scene": "busyWeek"
+  },
+  {
+    "time": 8.05,
+    "scene": "ticketFormula"
+  },
+  {
+    "time": 11.45,
+    "scene": "ticketPanel"
+  },
+  {
+    "time": 17.21,
+    "scene": "periodCompare"
+  },
+  {
+    "time": 23.16,
+    "scene": "final"
+  }
+]

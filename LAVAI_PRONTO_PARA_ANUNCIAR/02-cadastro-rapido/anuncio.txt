@@ -1,0 +1,16 @@
+TEXTO PRINCIPAL
+Para lava-rápidos e estéticas que querem organizar os serviços desde a chegada do veículo. Toque em Saiba mais e responda ao quiz do Lavaí.
+
+TÍTULO
+Organize cada atendimento
+
+BOTÃO
+Saiba mais
+
+DESTINO
+QUIZ_URL
+
+ESTADO DO DESTINO
+URL do quiz pendente para configurar no Meta Ads
+
+Fluxo: anúncio → Saiba mais → primeira pergunta do quiz. O botão real e a URL são configurados no Meta Ads.

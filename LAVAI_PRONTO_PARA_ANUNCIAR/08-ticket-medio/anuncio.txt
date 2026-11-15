@@ -1,0 +1,16 @@
+TEXTO PRINCIPAL
+Acompanhe quanto entrou e qual foi o valor médio dos atendimentos. Toque em Saiba mais e responda ao quiz do Lavaí.
+
+TÍTULO
+Entenda seu ticket médio
+
+BOTÃO
+Saiba mais
+
+DESTINO
+QUIZ_URL
+
+ESTADO DO DESTINO
+URL do quiz pendente para configurar no Meta Ads
+
+Fluxo: anúncio → Saiba mais → primeira pergunta do quiz. O botão real e a URL são configurados no Meta Ads.

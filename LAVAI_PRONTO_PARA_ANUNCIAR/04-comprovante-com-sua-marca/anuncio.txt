@@ -1,0 +1,16 @@
+TEXTO PRINCIPAL
+Veja como o comprovante com a sua logo entra na rotina do atendimento, da lavagem ao polimento. Toque em Saiba mais e responda ao quiz do Lavaí.
+
+TÍTULO
+Comprovante com sua logo
+
+BOTÃO
+Saiba mais
+
+DESTINO
+QUIZ_URL
+
+ESTADO DO DESTINO
+URL do quiz pendente para configurar no Meta Ads
+
+Fluxo: anúncio → Saiba mais → primeira pergunta do quiz. O botão real e a URL são configurados no Meta Ads.

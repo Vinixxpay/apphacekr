@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "expected": "Fechou o lava-jato. Agora me diz: quanto entrou hoje? Uma lavagem tá no caderno, outra no Pix, e aquela higienização ficou no WhatsApp. No Lavaí você registra os atendimentos e vê quanto faturou no dia pelo celular. Bora ver como você organiza isso hoje? Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "Fechou o Lava -jato. Agora me diz, quanto entrou hoje, uma lavagem tá no caderno, outra no Pix, e aquela higienização ficou no WhatsApp. No Lavaí, você registra os atendimentos e vê quanto faturou no dia pelo celular. Bora ver como você organiza isso hoje. Toque em Saiba Mais e responda ao quiz do Lavaí.",
+    "matchedWords": 53,
+    "targetWords": 54
+  },
+  {
+    "id": 2,
+    "expected": "Chegou um carro pra lavagem completa. Onde você registra esse atendimento? No Lavaí você seleciona o cliente e o veículo, escolhe o serviço e confere o total. Quando o dia aperta, fica mais fácil consultar o que já registrou. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "Chegou um carro para lavagem completa, onde você registra esse atendimento. No Lavaí você seleciona o cliente e o veículo, escolhe o serviço e confere o total. Quando o dia aperta, fica mais fácil consultar o que já registrou. Toque em Saiba Mais e responda ao quiz do Lavaí.",
+    "matchedWords": 48,
+    "targetWords": 49
+  },
+  {
+    "id": 3,
+    "expected": "Chegou uma caminhonete cheia de barro. Você decide o adicional na hora ou já tem um valor definido?  No Lavaí, você configura quanto cobrar por tipo de veículo e nível de sujeira. Quando marca ‘Muito sujo’, o app puxa o valor cadastrado, e você pode ajustar naquele atendimento. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "Chegou uma caminhonete cheia de barro. Você decide o adicional na hora ou já tem um valor definido. No Lavaí você configura quanto cobrar por tipo de veículo e nível de sujeira. Quando marca muito sujo, o app puxa o valor cadastrado e você pode ajustar naquele atendimento. Toque em Saiba Mais e responda ao quiz do Lavaí.",
+    "matchedWords": 58,
+    "targetWords": 58
+  },
+  {
+    "id": 4,
+    "expected": "Terminou o polimento e o cliente pediu o comprovante? No Lavaí você gera o comprovante de serviço com a logo da sua estética, os itens e o total. Dá pra compartilhar a imagem pelo WhatsApp ou salvar em PDF. O cliente recebe o resumo do que você fez e vê a sua marca. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "Terminou o polimento, e o cliente pediu comprovante. No Lavaí, você gera o comprovante de serviço com a logo da sua estética, os rítens e o total. Dá pra compartilhar a imagem pelo WhatsApp ou salvar em PDF. O cliente recebe o resumo do que você fez e vê a sua marca. Toque em Saiba Mais e responda ao quiz do Lavaí.",
+    "matchedWords": 61,
+    "targetWords": 63
+  },
+  {
+    "id": 5,
+    "expected": "Moto, carro, caminhonete. Dá pra ter preço diferente pra cada tipo de veículo. No Lavaí você cadastra os serviços e adicionais com os valores que usa na sua operação. Na hora do atendimento, consulta sua tabela e confere a cobrança. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "Moto, carro, caminhonete. Dá pra ter preço diferente pra cada tipo de veículo. No Lavaí, você cadastra os serviços e adicionais com os valores que usa na sua operação. Na hora do atendimento, consulta sua tabela e confere a cobrança. Toque em Saiba Mais e responda ao quiz do Lavaí.",
+    "matchedWords": 50,
+    "targetWords": 50
+  },
+  {
+    "id": 6,
+    "expected": "Você lava carro na garagem, atende a domicílio ou já tem uma estética com equipe? Em qualquer um desses cenários, vale saber o que foi feito e quanto entrou. Com o Lavaí, você registra serviço, cliente e veículo pelo celular. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "Você lava carro na garagem, atende a domicílio ou já tem uma estética com equipe? Em qualquer um desses cenários, vale saber o que foi feito e quanto entrou. Com o Lavaí, você registra serviço, cliente e veículo pelo celular. Toque em Saiba Mais e responda ao Quiz do Lavaí.",
+    "matchedWords": 50,
+    "targetWords": 50
+  },
+  {
+    "id": 7,
+    "expected": "O cliente voltou e perguntou o que fez da última vez. Você lembra? No Lavaí dá pra buscar o histórico pela placa ou pelo telefone. Assim você confere o que foi registrado antes de sugerir o próximo serviço. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "O cliente voltou e perguntou o que fez da última vez. Você lembra no Lavaí dá para buscar o histórico pela placa ou pelo telefone. Assim você confere o que foi registrado antes de sugerir o próximo serviço. Toque em Saiba Mais e responda ao quiz do Lavaí.",
+    "matchedWords": 47,
+    "targetWords": 48
+  },
+  {
+    "id": 8,
+    "expected": "Seu lava-jato ficou cheio a semana toda. Mas quanto entrou, em média, por atendimento? Esse número é o ticket médio. No Lavaí você acompanha o indicador junto com o faturamento. Dá pra comparar os períodos e entender como o valor dos serviços mudou. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "Seu lava -jato ficou cheio a semana toda, mas quanto entrou em média por atendimento? Esse número é o ticket médio. No Lavaí, você acompanha o indicador junto com o faturamento. Dá para comparar os períodos e entender como o valor dos serviços mudou. Toque em Saiba Mais e responda ao quiz do Lavaí.",
+    "matchedWords": 51,
+    "targetWords": 53
+  },
+  {
+    "id": 9,
+    "expected": "O que mais saiu na sua estética este mês? Lavagem completa ou higienização?  Com o Lavaí você consulta os serviços mais vendidos no período. Aí você sabe o que saiu mais e pode olhar com calma o que merece mais divulgação. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "O que mais saiu na sua estética este mês? Lavaagem completa ou higienização? Com o Lavaí você consulta os serviços mais vendidos no período. Aí você sabe o que saiu mais e pode olhar com calma o que merece mais divulgação. Toque em Saiba Mais e responda ao quiz do Lavaí.",
+    "matchedWords": 50,
+    "targetWords": 51
+  },
+  {
+    "id": 10,
+    "expected": "Na hora de fechar o caixa, você sabe quanto entrou por cada forma de pagamento? No Lavaí, você registra o pagamento do atendimento e consulta os relatórios do período. Aí fica mais fácil conferir o que ficou registrado em Pix, cartão ou dinheiro. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "Na hora de fechar o caixa, você sabe quanto entrou por cada forma de pagamento. No Lavaí, você registra o pagamento do atendimento e consulta os relatórios do período. Aí fica mais fácil conferir o que ficou registrado em Pix, cartão ou dinheiro. Toque em Saiba Mais e responda ao quiz do Lavaí.",
+    "matchedWords": 53,
+    "targetWords": 53
+  },
+  {
+    "id": 11,
+    "expected": "Tem dois pontos de atendimento? Cada um pode ter tabela, clientes e marca próprios. No Lavaí, os dados de cada estabelecimento ficam separados. E o comprovante sai com a identidade cadastrada naquele estabelecimento. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "Tem dois pontos de atendimento. Cada um pode ter tabela, clientes e marca próprios. No Lavaí, os dados de cada estabelecimento ficam separados. E o comprovante sai com a identidade cadastrada naquele estabelecimento. Toque em Saiba Mais e responda ao quiz do Lavaí.",
+    "matchedWords": 43,
+    "targetWords": 43
+  },
+  {
+    "id": 12,
+    "expected": "Dono de lava-rápido, responde sem abrir o caderno. Quanto você faturou no mês passado? Qual serviço mais saiu? Se um cliente voltar amanhã, onde você confere o que ele fez? Se alguma resposta ficou no chute, começa pelo quiz. Ele é sobre a rotina do seu negócio. Toque em Saiba mais e responda ao quiz do Lavaí.",
+    "recognized": "Dono de lava rápido responde sem abrir o caderno. E quanto você faturou no mês passado, qual serviço mais saiu? Se um cliente voltar amanhã, onde você confere o que ele fez, se alguma resposta ficou no chute, começa pelo quiz, ele é sobre a rotina do seu negócio. Toque em Saiba Mais e responda ao Quiz do Lavaí.",
+    "matchedWords": 56,
+    "targetWords": 57
+  }
+]

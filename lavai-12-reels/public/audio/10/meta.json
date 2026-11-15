@@ -1,0 +1,13 @@
+{
+  "id": 10,
+  "duration": 23.366666666666667,
+  "frames": 701,
+  "speechStart": 0.15,
+  "speechEnd": 22.30333333333333,
+  "ctaStart": 19.337999999999997,
+  "finalScreenDuration": 4.02866666666667,
+  "text": "Na hora de fechar o caixa, você sabe quanto entrou por cada forma de pagamento? No Lavaí, você registra o pagamento do atendimento e consulta os relatórios do período. Aí fica mais fácil conferir o que ficou registrado em Pix, cartão ou dinheiro. Toque em Saiba mais e responda ao quiz do Lavaí.",
+  "nativeSpeed": 0.78,
+  "voice": "Kokoro pm_santa, pt-br",
+  "pauses": []
+}
