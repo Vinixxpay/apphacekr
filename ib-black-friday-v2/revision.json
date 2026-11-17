@@ -1,0 +1,12 @@
+{
+  "revision": 2,
+  "requested": "Trocar a voz, corrigir Instagram e Black Friday e acrescentar animações.",
+  "voice": {"previous": "pm_santa", "new": "pm_alex", "language": "pt-br", "post_pitch_shift": false},
+  "pronunciation": {
+    "Instagram": {"synthesis_spelling": "Instagrã", "phoneme_target": "ˌiŋstaɡrˈɐ̃"},
+    "Black Friday": {"synthesis_spelling": "Blék Fráidei", "phoneme_target": "blˈɛk frˈaɪdeɪ"},
+    "iB Mídias": {"synthesis_spelling": "i bê Mídias"}
+  },
+  "animation_updates": ["Balão de dúvida", "Páginas de relatório em camadas", "Máscara de revelação do título", "Reentrada escalonada das plataformas", "Halo e moldura de preço", "Órbitas e confirmação de 24H", "Borda animada no CTA"],
+  "previous_exports_preserved": true
+}

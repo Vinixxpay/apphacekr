@@ -1,0 +1,72 @@
+{
+  "brand": "iB Mídias",
+  "price": "R$ 650",
+  "service": "Gestão dos seus anúncios",
+  "adBudget": "Verba de anúncios à parte",
+  "turnaround": "Primeiros anúncios no ar em até 24h",
+  "cta": "SAIBA MAIS",
+  "palette": {
+    "blue": "#0131CD",
+    "lime": "#B9FC01",
+    "white": "#FFFFFF",
+    "graphite": "#10141C"
+  },
+  "videos": [
+    {
+      "id": 1,
+      "name": "IB_Midias_Black_Friday_Pagou_Caro",
+      "title": "Pagou caro e não viu resultado?",
+      "chunks": [
+        [
+          "hook",
+          "Empresário, você já pagou caro pra uma agência, recebeu relatório todo mês e continuou esperando cliente chamar no WhatsApp?"
+        ],
+        [
+          "black",
+          "Na Black Friday da iB Mídias, a gestão dos seus anúncios no Instagram, no Facebook e no Google sai por"
+        ],
+        [
+          "price",
+          "seiscentos e cinquenta reais."
+        ],
+        [
+          "clock",
+          "Comece hoje e tenha seus primeiros anúncios no ar em até vinte e quatro horas."
+        ],
+        [
+          "cta",
+          "Quer começar hoje? Clique em Saiba Mais."
+        ]
+      ],
+      "narration": "Empresário, você já pagou caro pra uma agência, recebeu relatório todo mês e continuou esperando cliente chamar no WhatsApp? Na Black Friday da iB Mídias, a gestão dos seus anúncios no Instagram, no Facebook e no Google sai por seiscentos e cinquenta reais. Comece hoje e tenha seus primeiros anúncios no ar em até vinte e quatro horas. Quer começar hoje? Clique em Saiba Mais."
+    },
+    {
+      "id": 2,
+      "name": "IB_Midias_Black_Friday_Orcamento",
+      "title": "O orçamento da agência pesou?",
+      "chunks": [
+        [
+          "hook",
+          "Empresário, você quer anunciar no Instagram, no Facebook e no Google, mas todo orçamento de agência pesa no caixa?"
+        ],
+        [
+          "black",
+          "Chegou a Black Friday da iB Mídias. A gestão dos seus anúncios sai por apenas"
+        ],
+        [
+          "price",
+          "seiscentos e cinquenta reais."
+        ],
+        [
+          "clock",
+          "Você começa hoje e seus primeiros anúncios vão ao ar em até vinte e quatro horas."
+        ],
+        [
+          "cta",
+          "Clique em Saiba Mais e fale com a iB Mídias."
+        ]
+      ],
+      "narration": "Empresário, você quer anunciar no Instagram, no Facebook e no Google, mas todo orçamento de agência pesa no caixa? Chegou a Black Friday da iB Mídias. A gestão dos seus anúncios sai por apenas seiscentos e cinquenta reais. Você começa hoje e seus primeiros anúncios vão ao ar em até vinte e quatro horas. Clique em Saiba Mais e fale com a iB Mídias."
+    }
+  ]
+}

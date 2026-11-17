@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "duration": 28.5,
+    "frames": 855,
+    "speechEnd": 23.98066666666667,
+    "cues": {
+      "hook": 0.12,
+      "black": 7.886,
+      "price": 13.862,
+      "clock": 16.522000000000002,
+      "cta": 21.378000000000004,
+      "problem": 3.02,
+      "twentyFour": 19.862,
+      "hoursEnd": 20.962
+    },
+    "segments": [
+      {
+        "kind": "hook",
+        "start": 0.12,
+        "end": 7.736,
+        "text": "Empresário, você já pagou caro pra uma agência, recebeu relatório todo mês e continuou esperando cliente chamar no WhatsApp?",
+        "nativeSpeed": 1.0,
+        "synthesisText": "Empresário, você já pagou caro pra uma agência, recebeu relatório todo mês e continuou esperando cliente chamar no WhatsApp?",
+        "phonemes": "ˌeɪmprezˈaɾjʊ, vosˌe ʒˈa paɡˈow kˈaɾʊ pra ˌumæ ˌaʒˈeɪŋsjæ, xˌesebˈeʊ xˌelatˈɔɾjʊ tˈodʊ mˈez i kˌoŋtʃinwˈow ˌespeɾˈɐ̃ŋdʊ klˌiˈeɪŋtʃy ʃæmˈar nʊ wˈatz ˈap?"
+      },
+      {
+        "kind": "black",
+        "start": 7.886,
+        "end": 13.582,
+        "text": "Na Black Friday da iB Mídias, a gestão dos seus anúncios no Instagram, no Facebook e no Google sai por",
+        "nativeSpeed": 1.02,
+        "synthesisText": "Na Blék Fráidei da i bê Mídias, a gestão dos seus anúncios no Instagrã, no Facebook e no Google sai por",
+        "phonemes": "na blˈɛk frˈaɪdeɪ da ˈi bˈe mˈidʒjæs, a ʒestˈɐ̃ʊ̃ dʊs seʊz ˌænˈũŋsjʊz nʊ ˌiŋstaɡrˈɐ̃, nʊ fˌeɪsybˈuk i nʊ ɡˈuɡol sˈaɪ por"
+      },
+      {
+        "kind": "price",
+        "start": 13.862,
+        "end": 15.931333333333333,
+        "text": "seiscentos e cinquenta reais.",
+        "nativeSpeed": 0.96,
+        "synthesisText": "seiscentos e cinquenta reais.",
+        "phonemes": "sˌeɪsˈeɪŋtʊz i sˌiŋkwˈeɪŋtæ xeˈaɪs."
+      },
+      {
+        "kind": "clock",
+        "start": 16.522000000000002,
+        "end": 21.258000000000003,
+        "text": "Comece hoje e tenha seus primeiros anúncios no ar em até vinte e quatro horas.",
+        "nativeSpeed": 0.98,
+        "synthesisText": "Comece hoje e tenha seus primeiros anúncios no ar em até vinte e quatro horas.",
+        "phonemes": "kˌomˈɛsy ˈoʒj i tˈeɲæ seʊs prˌimˈeɪɾʊz ˌænˈũŋsjʊz nʊ ˈaɾ ˈeɪŋ atˌɛ vˈiŋtʃj i kwˈatrw ˈɔɾæs."
+      },
+      {
+        "kind": "cta",
+        "start": 21.378000000000004,
+        "end": 23.98066666666667,
+        "text": "Quer começar hoje? Clique em Saiba Mais.",
+        "nativeSpeed": 1.0,
+        "synthesisText": "Quer começar hoje? Clique em Saiba Mais.",
+        "phonemes": "kˈɛr kˌomesˈaɾ ˈoʒy? klˈikj ˈeɪŋ sˈaɪbæ mˈaɪs."
+      }
+    ],
+    "voice": "Kokoro pm_alex pt-br",
+    "brandPronunciation": "i bê Mídias",
+    "text": "Empresário, você já pagou caro pra uma agência, recebeu relatório todo mês e continuou esperando cliente chamar no WhatsApp? Na Black Friday da iB Mídias, a gestão dos seus anúncios no Instagram, no Facebook e no Google sai por seiscentos e cinquenta reais. Comece hoje e tenha seus primeiros anúncios no ar em até vinte e quatro horas. Quer começar hoje? Clique em Saiba Mais.",
+    "platformCues": {
+      "Instagram": 11.146,
+      "Facebook": 11.886,
+      "Google": 12.666
+    }
+  },
+  {
+    "id": 2,
+    "duration": 28.5,
+    "frames": 855,
+    "speechEnd": 22.380666666666666,
+    "cues": {
+      "hook": 0.12,
+      "black": 6.840666666666667,
+      "price": 11.878,
+      "clock": 14.538,
+      "cta": 19.564666666666668,
+      "problem": 4.1,
+      "twentyFour": 18.078,
+      "hoursEnd": 19.158
+    },
+    "segments": [
+      {
+        "kind": "hook",
+        "start": 0.12,
+        "end": 6.690666666666667,
+        "text": "Empresário, você quer anunciar no Instagram, no Facebook e no Google, mas todo orçamento de agência pesa no caixa?",
+        "nativeSpeed": 1.0,
+        "synthesisText": "Empresário, você quer anunciar no Instagrã, no Facebook e no Google, mas todo orçamento de agência pesa no caixa?",
+        "phonemes": "ˌeɪmprezˈaɾjʊ, vosˌe kˈɛɾ ˌænũŋsiˈar nʊ ˌiŋstaɡrˈɐ̃, nʊ fˌeɪsybˈuk i nʊ ɡˈuɡol, mas tˈodw ˌoɾəsæmˈeɪŋtʊ dʒj ˌaʒˈeɪŋsjæ pˈɛzæ nʊ kˈaɪʃæ?"
+      },
+      {
+        "kind": "black",
+        "start": 6.840666666666667,
+        "end": 11.598,
+        "text": "Chegou a Black Friday da iB Mídias. A gestão dos seus anúncios sai por apenas",
+        "nativeSpeed": 1.02,
+        "synthesisText": "Chegou a Blék Fráidei da i bê Mídias. A gestão dos seus anúncios sai por apenas",
+        "phonemes": "ʃeɡˈow a blˈɛk frˈaɪdeɪ da ˈi bˈe mˈidʒjæs. a ʒestˈɐ̃ʊ̃ dʊs seʊz ˌænˈũŋsjʊs sˈaɪ poɾ ˌapˈenæs"
+      },
+      {
+        "kind": "price",
+        "start": 11.878,
+        "end": 13.947333333333333,
+        "text": "seiscentos e cinquenta reais.",
+        "nativeSpeed": 0.96,
+        "synthesisText": "seiscentos e cinquenta reais.",
+        "phonemes": "sˌeɪsˈeɪŋtʊz i sˌiŋkwˈeɪŋtæ xeˈaɪs."
+      },
+      {
+        "kind": "clock",
+        "start": 14.538,
+        "end": 19.444666666666667,
+        "text": "Você começa hoje e seus primeiros anúncios vão ao ar em até vinte e quatro horas.",
+        "nativeSpeed": 0.98,
+        "synthesisText": "Você começa hoje e seus primeiros anúncios vão ao ar em até vinte e quatro horas.",
+        "phonemes": "vosˌe kˌomˈɛsæ ˈoʒj i seʊs prˌimˈeɪɾʊz ˌænˈũŋsjʊz vɐ̃ʊ̃ aʊ ˈaɾ ˈeɪŋ atˌɛ vˈiŋtʃj i kwˈatrw ˈɔɾæs."
+      },
+      {
+        "kind": "cta",
+        "start": 19.564666666666668,
+        "end": 22.380666666666666,
+        "text": "Clique em Saiba Mais e fale com a iB Mídias.",
+        "nativeSpeed": 1.0,
+        "synthesisText": "Clique em Saiba Mais e fale com a i bê Mídias.",
+        "phonemes": "klˈikj ˈeɪŋ sˈaɪbæ mˈaɪz i fˈaly koŋ a ˈi bˈe mˈidʒjæs."
+      }
+    ],
+    "voice": "Kokoro pm_alex pt-br",
+    "brandPronunciation": "i bê Mídias",
+    "text": "Empresário, você quer anunciar no Instagram, no Facebook e no Google, mas todo orçamento de agência pesa no caixa? Chegou a Black Friday da iB Mídias. A gestão dos seus anúncios sai por apenas seiscentos e cinquenta reais. Você começa hoje e seus primeiros anúncios vão ao ar em até vinte e quatro horas. Clique em Saiba Mais e fale com a iB Mídias.",
+    "platformCues": {
+      "Instagram": 1.92,
+      "Facebook": 2.6,
+      "Google": 3.42
+    }
+  }
+]

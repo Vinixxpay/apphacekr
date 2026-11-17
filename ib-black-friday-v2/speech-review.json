@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "segments": [
+      {
+        "kind": "hook",
+        "expected": "Empresário, você já pagou caro pra uma agência, recebeu relatório todo mês e continuou esperando cliente chamar no WhatsApp?",
+        "recognized": "Empresário, você já pagou o caro para uma agência, recebeu o relatório todo mês e continuou esperando o cliente chamar no WhatsApp.",
+        "matched": 19,
+        "words": 19
+      },
+      {
+        "kind": "black",
+        "expected": "Na Black Friday da iB Mídias, a gestão dos seus anúncios no Instagram, no Facebook e no Google sai por",
+        "recognized": "Na Black Friday da iB Mídias. A gestão dos seus anúncios no Instagram, no Facebook e no Google Cypher.",
+        "matched": 18,
+        "words": 20
+      },
+      {
+        "kind": "price",
+        "expected": "seiscentos e cinquenta reais.",
+        "recognized": "Seiscentos e cinquenta reais.",
+        "matched": 4,
+        "words": 4
+      },
+      {
+        "kind": "clock",
+        "expected": "Comece hoje e tenha seus primeiros anúncios no ar em até vinte e quatro horas.",
+        "recognized": "Comece hoje e tenha seus primeiros anúncios no areem até vinte e quatro horas.",
+        "matched": 13,
+        "words": 15
+      },
+      {
+        "kind": "cta",
+        "expected": "Quer começar hoje? Clique em Saiba Mais.",
+        "recognized": "Quer começar hoje, clique em Saiba Mais.",
+        "matched": 7,
+        "words": 7
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "segments": [
+      {
+        "kind": "hook",
+        "expected": "Empresário, você quer anunciar no Instagram, no Facebook e no Google, mas todo orçamento de agência pesa no caixa?",
+        "recognized": "Empresário, você quer anunciar no Instagram, no Facebook e no Google, mas todo orçamento de agência pesa no caixa.",
+        "matched": 19,
+        "words": 19
+      },
+      {
+        "kind": "black",
+        "expected": "Chegou a Black Friday da iB Mídias. A gestão dos seus anúncios sai por apenas",
+        "recognized": "Chegou a Black Friday da iB Mídias. A gestão dos seus anúncios sai por apenas.",
+        "matched": 15,
+        "words": 15
+      },
+      {
+        "kind": "price",
+        "expected": "seiscentos e cinquenta reais.",
+        "recognized": "Seiscentos e cinquenta reais.",
+        "matched": 4,
+        "words": 4
+      },
+      {
+        "kind": "clock",
+        "expected": "Você começa hoje e seus primeiros anúncios vão ao ar em até vinte e quatro horas.",
+        "recognized": "Você começa hoje e seus primeiros anúncios vão ao areem até vinte e quatro horas.",
+        "matched": 14,
+        "words": 16
+      },
+      {
+        "kind": "cta",
+        "expected": "Clique em Saiba Mais e fale com a iB Mídias.",
+        "recognized": "Clique em Saiba Mais e fale com a iB Mídias.",
+        "matched": 10,
+        "words": 10
+      }
+    ]
+  }
+]

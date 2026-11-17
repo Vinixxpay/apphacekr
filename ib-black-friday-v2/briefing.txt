@@ -1,0 +1,62 @@
+Produza e exporte dois anúncios em Motion Graphics para a Black Friday da iB Mídias. Entregue os dois vídeos renderizados, com narração, trilha, efeitos sonoros e textos animados.
+
+FORMATO
+• Vertical 9:16, 1080 × 1920, 30 fps, MP4 H.264 com áudio AAC.
+• Aproximadamente 30 segundos por vídeo. Sincronize os cortes com a narração.
+• Formato pensado para Instagram Stories, Facebook Stories e Reels.
+• Mantenha texto, logo, preço e CTA afastados das bordas superior e inferior para evitar sobreposição com a interface.
+• Use as artes estáticas da campanha como referência visual, caso estejam disponíveis no projeto.
+
+IDENTIDADE VISUAL
+Use azul royal #0131CD, branco #FFFFFF e verde-lima #B9FC01, com fundo preto ou grafite para dar contraste. Use o logo oficial da iB Mídias se estiver disponível. Caso contrário, escreva “iB Mídias” em branco.
+Use uma fonte forte e condensada nos títulos, como Barlow Condensed ExtraBold. Reserve o verde-lima para as palavras de impacto, o preço, o “24H” e o CTA.
+
+DIREÇÃO DO MOTION
+• Abra já com a pergunta na tela. A primeira palavra precisa aparecer no primeiro quadro.
+• Anime por blocos curtos. Use entradas rápidas, máscaras de revelação, pequenos movimentos de câmera e cortes secos.
+• Crie três batidas visuais claras: o gancho, o preço e o prazo de 24 horas.
+• Faça “R$ 650” ocupar o centro da tela. Use um impacto sonoro curto quando o valor aparecer e deixe o preço legível por pelo menos 2 segundos.
+• Faça o “24H” surgir com um arco de relógio acelerado que para exatamente quando a locução diz “vinte e quatro horas”.
+• No final, mantenha “SAIBA MAIS” visível por pelo menos 3 segundos. Use uma seta com pulsação sutil e mantenha o botão estável.
+• Use poucas palavras por tela. Quebre o texto em frases legíveis no celular e mantenha espaço entre os elementos.
+• Evite flashes fortes, tremores contínuos, números de desempenho inventados e contagem regressiva de fim da promoção.
+
+VOZ E ÁUDIO
+Use uma voz masculina adulta, grave, imponente, em português brasileiro. Direção de locução: firme, clara e com energia de promoção, como uma chamada de Black Friday. Abra com tom de pergunta direta ao empresário. Suba a energia em “Black Friday da iB Mídias”. Faça uma pausa curta antes de “seiscentos e cinquenta reais” e dê ênfase a “até vinte e quatro horas”. Feche com “Saiba Mais” bem articulado.
+Pronuncie “iB Mídias” como “i bê Mídias”. Use trilha eletrônica crescente, com batida firme e volume abaixo da voz. Sincronize os efeitos com a entrada do preço e do prazo.
+
+VÍDEO 1 — PAGOU CARO E NÃO VIU RESULTADO
+
+Narração:
+“Empresário, você já pagou caro pra uma agência, recebeu relatório todo mês e continuou esperando cliente chamar no WhatsApp?
+Na Black Friday da iB Mídias, a gestão dos seus anúncios no Instagram, no Facebook e no Google sai por seiscentos e cinquenta reais.
+Comece hoje e tenha seus primeiros anúncios no ar em até vinte e quatro horas.
+Quer começar hoje? Clique em Saiba Mais.”
+
+Sequência visual aproximada:
+• 00–04s — “PAGOU CARO?” entra em branco e “E NÃO VIU RESULTADO?” bate em verde-lima. Ao fundo, um empresário olha o celular no balcão da loja.
+• 04–09s — Um relatório desfila rapidamente pela tela. Corte para o celular e destaque “E OS CLIENTES NO WHATSAPP?”.
+• 09–14s — Uma faixa azul atravessa a tela e revela “BLACK FRIDAY iB MÍDIAS”. Instagram, Facebook e Google entram um por vez.
+• 14–20s — “GESTÃO DE TRÁFEGO” aparece acima de “R$ 650”, em tamanho dominante.
+• 20–27s — Relógio animado e texto “PRIMEIROS ANÚNCIOS NO AR EM ATÉ 24H”.
+• 27–30s — Tela final com “SAIBA MAIS”, assinatura iB Mídias e “R$ 650” como reforço da oferta.
+
+VÍDEO 2 — O ORÇAMENTO DA AGÊNCIA PESOU?
+
+Narração:
+“Empresário, você quer anunciar no Instagram, no Facebook e no Google, mas todo orçamento de agência pesa no caixa?
+Chegou a Black Friday da iB Mídias. A gestão dos seus anúncios sai por apenas seiscentos e cinquenta reais.
+Você começa hoje e seus primeiros anúncios vão ao ar em até vinte e quatro horas.
+Clique em Saiba Mais e fale com a iB Mídias.”
+
+Sequência visual aproximada:
+• 00–05s — “QUER ANUNCIAR?” entra em escala. Instagram, Facebook e Google aparecem em sequência num celular em movimento.
+• 05–10s — Cartões de orçamento se acumulam, sem valores fictícios. Surge “O ORÇAMENTO PESOU?”.
+• 10–15s — Corte no ritmo da trilha para “BLACK FRIDAY iB MÍDIAS”, com faixa verde-lima sobre fundo azul.
+• 15–20s — Um impacto revela “GESTÃO DE TRÁFEGO POR R$ 650”. Faça o preço permanecer enquanto a locução termina a frase.
+• 20–27s — “COMECE HOJE” seguido de “NO AR EM ATÉ 24H”. O relógio anima atrás do “24H”.
+• 27–30s — Tela final com “SAIBA MAIS”, assinatura iB Mídias e “R$ 650”.
+
+REVISÃO E ENTREGA
+Assista aos dois vídeos com e sem som. Confirme que a oferta de gestão por R$ 650 e o prazo de até 24 horas ficam claros nas duas situações. Confira a pronúncia da marca e a sincronização das palavras de impacto com o áudio. Ajuste a duração das cenas ao ritmo da voz, preservando os 3 segundos finais de CTA.
+Exporte como IB_Midias_Black_Friday_Pagou_Caro.mp4 e IB_Midias_Black_Friday_Orcamento.mp4.

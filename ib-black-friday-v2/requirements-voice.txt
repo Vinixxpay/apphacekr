@@ -1,0 +1,8 @@
+# Optional: only needed to regenerate narration and alignment.
+kokoro-onnx
+onnxruntime
+numpy
+soundfile
+faster-whisper
+
+Pillow
