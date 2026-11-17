@@ -1,0 +1,78 @@
+{
+  "01-vitrine-de-festa/anuncio.txt": {
+    "bytes": 311,
+    "sha256": "b9780ab791ed2fd43cd453425f121952bdb164752b06e2c1777a115e23ab2657"
+  },
+  "01-vitrine-de-festa/capa.jpg": {
+    "bytes": 335152,
+    "sha256": "9653f69400247f2bc32870f90d8728d3668ac1523420aee92834748b73e7a09c"
+  },
+  "01-vitrine-de-festa/legendas.srt": {
+    "bytes": 792,
+    "sha256": "7ef712fc07d89162e63137b48b8de70537e5429bcff7c7b1c29662708836e18b"
+  },
+  "01-vitrine-de-festa/story.mp4": {
+    "bytes": 12479729,
+    "sha256": "9b5f1a92d7d2f524bd9d6b1598db813faf72985a54d6f2156e94a4174bb3f690"
+  },
+  "02-varias-combinacoes/anuncio.txt": {
+    "bytes": 345,
+    "sha256": "e90c1a7dfacdb96f30d95b68b700b34cbb6e37db9f5d914c91180bff37947b11"
+  },
+  "02-varias-combinacoes/capa.jpg": {
+    "bytes": 223637,
+    "sha256": "ac1abf6d7eab5701deda389a26387cd1cfe36190948381d854c8e6e55e1049bd"
+  },
+  "02-varias-combinacoes/legendas.srt": {
+    "bytes": 613,
+    "sha256": "0f0adab5a0b9aa6c1d741392f54f9d5dd296899d6eae22967ca7fb134bd4055f"
+  },
+  "02-varias-combinacoes/story.mp4": {
+    "bytes": 10151028,
+    "sha256": "c0dc326b89cdca98a54f45dfffd0a80e1182a0055794c857a8949d677d91d33d"
+  },
+  "03-detalhes-da-colecao/anuncio.txt": {
+    "bytes": 312,
+    "sha256": "1510e594c4bc91250f44ed969761524ce88c9144ff4924af5301a7f9e6660347"
+  },
+  "03-detalhes-da-colecao/capa.jpg": {
+    "bytes": 236276,
+    "sha256": "a0997f1afeec026fb8a9be7bf3ab0d840a64891d348fa6b269aeb3fbaee1860d"
+  },
+  "03-detalhes-da-colecao/legendas.srt": {
+    "bytes": 792,
+    "sha256": "7ef712fc07d89162e63137b48b8de70537e5429bcff7c7b1c29662708836e18b"
+  },
+  "03-detalhes-da-colecao/story.mp4": {
+    "bytes": 9086805,
+    "sha256": "9b6528064222c78f937f1531aaa9a1867b2ec7e83e6a829cb677710f2a4e05d4"
+  },
+  "04-do-natal-a-virada/anuncio.txt": {
+    "bytes": 305,
+    "sha256": "cde56c94b85479f4e129bc2aa7da32c3804b1b3c80d58aedb193f6ee25d20cb5"
+  },
+  "04-do-natal-a-virada/capa.jpg": {
+    "bytes": 340689,
+    "sha256": "4c52b2f4fe51948cc920dc6d448d6eebd6253c489bbd7174829c9319e3e03bc9"
+  },
+  "04-do-natal-a-virada/legendas.srt": {
+    "bytes": 613,
+    "sha256": "0f0adab5a0b9aa6c1d741392f54f9d5dd296899d6eae22967ca7fb134bd4055f"
+  },
+  "04-do-natal-a-virada/story.mp4": {
+    "bytes": 11291162,
+    "sha256": "01f820b0fd9c123b3eef8bfdf489768aa56a7ee89162d26b9720b52d5ad5fecb"
+  },
+  "INDICE.md": {
+    "bytes": 1683,
+    "sha256": "ae2967df1729f7b43ebe32bce9fe1244f25144cb2f6c90f716b5fa28eb0056dc"
+  },
+  "index.html": {
+    "bytes": 3312,
+    "sha256": "7baece3da27d475e36ace2ad0c561b84c19d044bc24101440d1722395ceb6811"
+  },
+  "verificacao.json": {
+    "bytes": 1727,
+    "sha256": "83ac2ea94ec94d8aa97e61829647ca5f76e9731f8eaf900ef27ab0037dfde6ff"
+  }
+}

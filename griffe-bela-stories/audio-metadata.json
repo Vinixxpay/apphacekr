@@ -1,0 +1,20 @@
+{
+  "34": {
+    "source": "34.ogg",
+    "trimStart": 0.3,
+    "trimEnd": 15.35,
+    "speechEnd": 14.82,
+    "duration": 17.066666666666666,
+    "sourceText": "Lojista, sabe aquela peça que faz a cliente parar em frente à sua vitrine e perguntar: tem meu tamanho? Pois é, esse tipo de peça você encontra aqui na Griffe Bela. É a nossa coleção festa que já está disponível.",
+    "transcriptCorrection": "Grafia da marca confirmada pelo usuário; correções ortográficas em lojista, vitrine, look e festa. Voz original preservada."
+  },
+  "35": {
+    "source": "35.ogg",
+    "trimStart": 0,
+    "trimEnd": 13.3,
+    "speechEnd": 13.08,
+    "duration": 15.3,
+    "sourceText": "A Griffe Bela lançou a nova coleção festa. Olha só esse look aqui, você pode montar várias combinações e colocar na sua vitrine para a virada, Natal ou festa de fim de ano.",
+    "transcriptCorrection": "Grafia da marca confirmada pelo usuário; correções ortográficas em lojista, vitrine, look e festa. Voz original preservada."
+  }
+}

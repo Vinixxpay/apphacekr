@@ -1,0 +1,294 @@
+{
+  "brand": "Griffe Bela",
+  "brandSource": "Grafia confirmada pelo usuário",
+  "audience": "Lojistas",
+  "cta": "PEÇA O CATÁLOGO",
+  "button": "SAIBA MAIS",
+  "contact": "Destino não informado; configurar o botão real no gerenciador de anúncios.",
+  "voices": {
+    "34": {
+      "trimStart": 0.3,
+      "trimEnd": 15.35,
+      "text": "Lojista, sabe aquela peça que faz a cliente parar em frente à sua vitrine e perguntar: tem meu tamanho? Pois é, esse tipo de peça você encontra aqui na Griffe Bela. É a nossa coleção festa que já está disponível."
+    },
+    "35": {
+      "trimStart": 0,
+      "trimEnd": 13.3,
+      "text": "A Griffe Bela lançou a nova coleção festa. Olha só esse look aqui, você pode montar várias combinações e colocar na sua vitrine para a virada, Natal ou festa de fim de ano."
+    }
+  },
+  "videos": [
+    {
+      "id": 1,
+      "slug": "01-vitrine-de-festa",
+      "title": "Sua vitrine em clima de festa",
+      "audio": 34,
+      "theme": "wine",
+      "hook": [
+        "LOJISTA,",
+        "sua vitrine em festa."
+      ],
+      "label": "COLEÇÃO FESTA",
+      "frames": 512,
+      "shots": [
+        {
+          "at": 0,
+          "photos": [
+            4
+          ],
+          "layout": "hero",
+          "label": "LOOKS PARA SUA VITRINE"
+        },
+        {
+          "at": 2.45,
+          "photos": [
+            5
+          ],
+          "layout": "hero",
+          "label": "COLEÇÃO FESTA"
+        },
+        {
+          "at": 4.55,
+          "photos": [
+            6
+          ],
+          "layout": "hero",
+          "label": "COLEÇÃO FESTA"
+        },
+        {
+          "at": 7.3,
+          "photos": [
+            7,
+            10
+          ],
+          "layout": "duo",
+          "label": "ESCOLHA SEUS LOOKS"
+        },
+        {
+          "at": 10.6,
+          "photos": [
+            10
+          ],
+          "layout": "hero",
+          "label": "GRIFFE BELA"
+        },
+        {
+          "at": 12.5,
+          "photos": [
+            19
+          ],
+          "layout": "hero",
+          "label": "JÁ DISPONÍVEL"
+        }
+      ],
+      "endPhotos": [
+        4,
+        6,
+        10
+      ],
+      "duration": 17.066666666666666,
+      "finalStart": 14.066666666666666,
+      "post": "Lojista, sua vitrine já está no clima de festa? Conheça a coleção da Griffe Bela e peça o catálogo."
+    },
+    {
+      "id": 2,
+      "slug": "02-varias-combinacoes",
+      "title": "Várias combinações para sua vitrine",
+      "audio": 35,
+      "theme": "cream",
+      "hook": [
+        "Uma coleção.",
+        "Várias combinações."
+      ],
+      "label": "COLEÇÃO FESTA",
+      "frames": 459,
+      "shots": [
+        {
+          "at": 0,
+          "photos": [
+            24
+          ],
+          "layout": "hero",
+          "label": "NOVA COLEÇÃO FESTA"
+        },
+        {
+          "at": 3.3,
+          "photos": [
+            27
+          ],
+          "layout": "hero",
+          "label": "MONTE SEUS LOOKS"
+        },
+        {
+          "at": 5.65,
+          "photos": [
+            24,
+            27
+          ],
+          "layout": "duo",
+          "label": "VÁRIAS COMBINAÇÕES"
+        },
+        {
+          "at": 7.95,
+          "photos": [
+            2
+          ],
+          "layout": "hero",
+          "label": "PARA A SUA VITRINE"
+        },
+        {
+          "at": 10.35,
+          "photos": [
+            17
+          ],
+          "layout": "hero",
+          "label": "FESTAS DE FIM DE ANO"
+        }
+      ],
+      "endPhotos": [
+        24,
+        27,
+        2
+      ],
+      "duration": 15.3,
+      "finalStart": 12.3,
+      "post": "Uma coleção, várias combinações para a sua vitrine. Conheça a coleção festa da Griffe Bela. Peça o catálogo e saiba mais."
+    },
+    {
+      "id": 3,
+      "slug": "03-detalhes-da-colecao",
+      "title": "Detalhes da coleção festa",
+      "audio": 34,
+      "theme": "wine",
+      "hook": [
+        "O próximo look",
+        "da sua vitrine."
+      ],
+      "label": "GRIFFE BELA • COLEÇÃO FESTA",
+      "frames": 512,
+      "shots": [
+        {
+          "at": 0,
+          "photos": [
+            20
+          ],
+          "layout": "hero",
+          "label": "COLEÇÃO FESTA"
+        },
+        {
+          "at": 2.5,
+          "photos": [
+            22
+          ],
+          "layout": "hero",
+          "label": "UMA COLEÇÃO PARA CONHECER"
+        },
+        {
+          "at": 4.8,
+          "photos": [
+            15
+          ],
+          "layout": "hero",
+          "label": "ESCOLHA SEUS LOOKS"
+        },
+        {
+          "at": 7.35,
+          "photos": [
+            18,
+            29
+          ],
+          "layout": "detail",
+          "label": "DETALHES DA COLEÇÃO"
+        },
+        {
+          "at": 10.6,
+          "photos": [
+            23
+          ],
+          "layout": "hero",
+          "label": "PARA A SUA VITRINE"
+        },
+        {
+          "at": 12.6,
+          "photos": [
+            7
+          ],
+          "layout": "hero",
+          "label": "COLEÇÃO JÁ DISPONÍVEL"
+        }
+      ],
+      "endPhotos": [
+        20,
+        23,
+        15
+      ],
+      "duration": 17.066666666666666,
+      "finalStart": 14.066666666666666,
+      "post": "Conheça os detalhes da coleção festa da Griffe Bela e escolha os looks para a sua loja. Peça o catálogo."
+    },
+    {
+      "id": 4,
+      "slug": "04-do-natal-a-virada",
+      "title": "Do Natal à virada",
+      "audio": 35,
+      "theme": "cream",
+      "hook": [
+        "Do Natal",
+        "à virada."
+      ],
+      "label": "GRIFFE BELA • COLEÇÃO FESTA",
+      "frames": 459,
+      "shots": [
+        {
+          "at": 0,
+          "photos": [
+            5
+          ],
+          "layout": "hero",
+          "label": "NATAL EM CLIMA DE FESTA"
+        },
+        {
+          "at": 3.3,
+          "photos": [
+            4
+          ],
+          "layout": "hero",
+          "label": "CONHEÇA A COLEÇÃO"
+        },
+        {
+          "at": 5.65,
+          "photos": [
+            23,
+            7
+          ],
+          "layout": "duo",
+          "label": "LOOKS PARA A SUA VITRINE"
+        },
+        {
+          "at": 7.95,
+          "photos": [
+            1
+          ],
+          "layout": "hero",
+          "label": "DO NATAL À VIRADA"
+        },
+        {
+          "at": 10.35,
+          "photos": [
+            3
+          ],
+          "layout": "hero",
+          "label": "COLEÇÃO FESTA"
+        }
+      ],
+      "endPhotos": [
+        5,
+        1,
+        3
+      ],
+      "duration": 15.3,
+      "finalStart": 12.3,
+      "post": "Do Natal à virada: looks da coleção festa da Griffe Bela para a sua vitrine. Peça o catálogo e saiba mais."
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+[
+  {
+    "text": "A",
+    "start": 0,
+    "end": 0.7,
+    "hot": false
+  },
+  {
+    "text": "Griffe",
+    "start": 0.7,
+    "end": 0.94,
+    "hot": false
+  },
+  {
+    "text": "Bela",
+    "start": 0.94,
+    "end": 1.22,
+    "hot": false
+  },
+  {
+    "text": "lançou",
+    "start": 1.22,
+    "end": 1.84,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 1.84,
+    "end": 2.2,
+    "hot": false
+  },
+  {
+    "text": "nova",
+    "start": 2.2,
+    "end": 2.38,
+    "hot": false
+  },
+  {
+    "text": "coleção",
+    "start": 2.38,
+    "end": 2.96,
+    "hot": true
+  },
+  {
+    "text": "festa.",
+    "start": 2.96,
+    "end": 3.4,
+    "hot": true
+  },
+  {
+    "text": "Olha",
+    "start": 4.02,
+    "end": 4.16,
+    "hot": false
+  },
+  {
+    "text": "só",
+    "start": 4.16,
+    "end": 4.4,
+    "hot": false
+  },
+  {
+    "text": "esse",
+    "start": 4.4,
+    "end": 4.6,
+    "hot": false
+  },
+  {
+    "text": "look",
+    "start": 4.6,
+    "end": 4.84,
+    "hot": false
+  },
+  {
+    "text": "aqui,",
+    "start": 4.84,
+    "end": 5.16,
+    "hot": false
+  },
+  {
+    "text": "você",
+    "start": 5.32,
+    "end": 5.46,
+    "hot": false
+  },
+  {
+    "text": "pode",
+    "start": 5.46,
+    "end": 5.82,
+    "hot": false
+  },
+  {
+    "text": "montar",
+    "start": 5.82,
+    "end": 6.22,
+    "hot": false
+  },
+  {
+    "text": "várias",
+    "start": 6.22,
+    "end": 6.68,
+    "hot": false
+  },
+  {
+    "text": "combinações",
+    "start": 6.68,
+    "end": 7.56,
+    "hot": true
+  },
+  {
+    "text": "e",
+    "start": 7.56,
+    "end": 8.28,
+    "hot": false
+  },
+  {
+    "text": "colocar",
+    "start": 8.28,
+    "end": 8.56,
+    "hot": false
+  },
+  {
+    "text": "na",
+    "start": 8.56,
+    "end": 8.82,
+    "hot": false
+  },
+  {
+    "text": "sua",
+    "start": 8.82,
+    "end": 9.06,
+    "hot": false
+  },
+  {
+    "text": "vitrine",
+    "start": 9.06,
+    "end": 9.68,
+    "hot": true
+  },
+  {
+    "text": "para",
+    "start": 9.68,
+    "end": 10.44,
+    "hot": false
+  },
+  {
+    "text": "a",
+    "start": 10.44,
+    "end": 10.56,
+    "hot": false
+  },
+  {
+    "text": "virada,",
+    "start": 10.56,
+    "end": 10.94,
+    "hot": true
+  },
+  {
+    "text": "Natal",
+    "start": 11.1,
+    "end": 11.72,
+    "hot": true
+  },
+  {
+    "text": "ou",
+    "start": 11.72,
+    "end": 12.02,
+    "hot": false
+  },
+  {
+    "text": "festa",
+    "start": 12.02,
+    "end": 12.3,
+    "hot": true
+  },
+  {
+    "text": "de",
+    "start": 12.3,
+    "end": 12.52,
+    "hot": false
+  },
+  {
+    "text": "fim",
+    "start": 12.52,
+    "end": 12.7,
+    "hot": false
+  },
+  {
+    "text": "de",
+    "start": 12.7,
+    "end": 12.78,
+    "hot": false
+  },
+  {
+    "text": "ano.",
+    "start": 12.78,
+    "end": 13.08,
+    "hot": false
+  }
+]
