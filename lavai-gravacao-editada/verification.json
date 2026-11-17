@@ -1,0 +1,19 @@
+{
+  "output": "entregas/lavai-demonstracao/lavai-demonstracao-editada.mp4",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "durationSeconds": 49.6,
+  "videoCodec": "H.264",
+  "audioCodec": "AAC",
+  "sampleRate": 48000,
+  "integratedLoudnessLUFS": -16.8,
+  "truePeakDbfs": -1.2,
+  "fullDecode": "passed, 1487 frames",
+  "visualReview": [
+    "1.1s: gancho e destaque lava-jato",
+    "26s: identidade visual",
+    "49s: Android e iOS"
+  ],
+  "voice": "original, sem alteração de velocidade"
+}
