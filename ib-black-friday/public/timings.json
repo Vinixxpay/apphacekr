@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "duration": 29.5,
+    "frames": 885,
+    "speechEnd": 26.092666666666663,
+    "cues": {
+      "hook": 0.12,
+      "black": 8.952666666666666,
+      "price": 15.269999999999998,
+      "clock": 17.929999999999996,
+      "cta": 23.38333333333333
+    },
+    "segments": [
+      {
+        "kind": "hook",
+        "start": 0.12,
+        "end": 8.802666666666665,
+        "text": "Empresário, você já pagou caro pra uma agência, recebeu relatório todo mês e continuou esperando cliente chamar no WhatsApp?",
+        "nativeSpeed": 0.84
+      },
+      {
+        "kind": "black",
+        "start": 8.952666666666666,
+        "end": 14.989999999999998,
+        "text": "Na Black Friday da iB Mídias, a gestão dos seus anúncios no Instagram, no Facebook e no Google sai por",
+        "nativeSpeed": 0.96
+      },
+      {
+        "kind": "price",
+        "start": 15.269999999999998,
+        "end": 17.637999999999998,
+        "text": "seiscentos e cinquenta reais.",
+        "nativeSpeed": 0.85
+      },
+      {
+        "kind": "clock",
+        "start": 17.929999999999996,
+        "end": 23.26333333333333,
+        "text": "Comece hoje e tenha seus primeiros anúncios no ar em até vinte e quatro horas.",
+        "nativeSpeed": 0.84
+      },
+      {
+        "kind": "cta",
+        "start": 23.38333333333333,
+        "end": 26.092666666666663,
+        "text": "Quer começar hoje? Clique em Saiba Mais.",
+        "nativeSpeed": 0.9
+      }
+    ],
+    "voice": "Kokoro pm_santa pt-br",
+    "brandPronunciation": "i bê Mídias",
+    "text": "Empresário, você já pagou caro pra uma agência, recebeu relatório todo mês e continuou esperando cliente chamar no WhatsApp? Na Black Friday da iB Mídias, a gestão dos seus anúncios no Instagram, no Facebook e no Google sai por seiscentos e cinquenta reais. Comece hoje e tenha seus primeiros anúncios no ar em até vinte e quatro horas. Quer começar hoje? Clique em Saiba Mais."
+  },
+  {
+    "id": 2,
+    "duration": 29.5,
+    "frames": 885,
+    "speechEnd": 24.770000000000003,
+    "cues": {
+      "hook": 0.12,
+      "black": 8.035333333333334,
+      "price": 13.200666666666667,
+      "clock": 15.860666666666667,
+      "cta": 21.655333333333335
+    },
+    "segments": [
+      {
+        "kind": "hook",
+        "start": 0.12,
+        "end": 7.8853333333333335,
+        "text": "Empresário, você quer anunciar no Instagram, no Facebook e no Google, mas todo orçamento de agência pesa no caixa?",
+        "nativeSpeed": 0.84
+      },
+      {
+        "kind": "black",
+        "start": 8.035333333333334,
+        "end": 12.920666666666667,
+        "text": "Chegou a Black Friday da iB Mídias. A gestão dos seus anúncios sai por apenas",
+        "nativeSpeed": 0.96
+      },
+      {
+        "kind": "price",
+        "start": 13.200666666666667,
+        "end": 15.568666666666667,
+        "text": "seiscentos e cinquenta reais.",
+        "nativeSpeed": 0.85
+      },
+      {
+        "kind": "clock",
+        "start": 15.860666666666667,
+        "end": 21.535333333333334,
+        "text": "Você começa hoje e seus primeiros anúncios vão ao ar em até vinte e quatro horas.",
+        "nativeSpeed": 0.84
+      },
+      {
+        "kind": "cta",
+        "start": 21.655333333333335,
+        "end": 24.770000000000003,
+        "text": "Clique em Saiba Mais e fale com a iB Mídias.",
+        "nativeSpeed": 0.9
+      }
+    ],
+    "voice": "Kokoro pm_santa pt-br",
+    "brandPronunciation": "i bê Mídias",
+    "text": "Empresário, você quer anunciar no Instagram, no Facebook e no Google, mas todo orçamento de agência pesa no caixa? Chegou a Black Friday da iB Mídias. A gestão dos seus anúncios sai por apenas seiscentos e cinquenta reais. Você começa hoje e seus primeiros anúncios vão ao ar em até vinte e quatro horas. Clique em Saiba Mais e fale com a iB Mídias."
+  }
+]

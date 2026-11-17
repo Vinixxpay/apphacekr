@@ -1,0 +1,26 @@
+[
+  {
+    "time": 3.38,
+    "kind": "whoosh"
+  },
+  {
+    "time": 8.9527,
+    "kind": "whoosh"
+  },
+  {
+    "time": 15.07,
+    "kind": "impact"
+  },
+  {
+    "time": 17.93,
+    "kind": "whoosh"
+  },
+  {
+    "time": 21.61,
+    "kind": "tick"
+  },
+  {
+    "time": 23.3833,
+    "kind": "impact"
+  }
+]
