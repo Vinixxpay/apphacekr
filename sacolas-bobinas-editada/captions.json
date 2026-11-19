@@ -1,0 +1,408 @@
+{
+  "sourceTimeline": "Cortes editoriais em edit.json, sem mudança de velocidade",
+  "placement": {
+    "centerX": 540,
+    "centerY": 1480,
+    "maxBoxWidth": 866
+  },
+  "groups": [
+    {
+      "start": 0.0,
+      "end": 0.88,
+      "words": [
+        {
+          "text": "Aí",
+          "start": 0.0,
+          "end": 0.56,
+          "sourceStart": 0.0,
+          "sourceEnd": 0.56,
+          "highlight": false
+        },
+        {
+          "text": "gente,",
+          "start": 0.56,
+          "end": 0.76,
+          "sourceStart": 0.56,
+          "sourceEnd": 0.76,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 345.6875,
+        "y": 1429.0,
+        "width": 388.625,
+        "height": 102
+      }
+    },
+    {
+      "start": 0.88,
+      "end": 1.16,
+      "words": [
+        {
+          "text": "quem",
+          "start": 0.88,
+          "end": 0.92,
+          "sourceStart": 0.88,
+          "sourceEnd": 0.88,
+          "highlight": false
+        },
+        {
+          "text": "quiser",
+          "start": 0.89,
+          "end": 1.16,
+          "sourceStart": 0.88,
+          "sourceEnd": 1.16,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 282.765625,
+        "y": 1429.0,
+        "width": 514.46875,
+        "height": 102
+      }
+    },
+    {
+      "start": 1.16,
+      "end": 2.3200000000000003,
+      "words": [
+        {
+          "text": "bolsa",
+          "start": 1.16,
+          "end": 1.56,
+          "sourceStart": 1.16,
+          "sourceEnd": 1.56,
+          "highlight": false
+        },
+        {
+          "text": "de",
+          "start": 1.56,
+          "end": 1.84,
+          "sourceStart": 1.56,
+          "sourceEnd": 1.84,
+          "highlight": false
+        },
+        {
+          "text": "alça,",
+          "start": 1.84,
+          "end": 2.14,
+          "sourceStart": 1.84,
+          "sourceEnd": 2.14,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 237.671875,
+        "y": 1429.0,
+        "width": 604.65625,
+        "height": 102
+      }
+    },
+    {
+      "start": 2.6,
+      "end": 4.16,
+      "words": [
+        {
+          "text": "de",
+          "start": 2.6,
+          "end": 2.88,
+          "sourceStart": 2.6,
+          "sourceEnd": 2.88,
+          "highlight": false
+        },
+        {
+          "text": "quilo,",
+          "start": 2.88,
+          "end": 3.98,
+          "sourceStart": 2.88,
+          "sourceEnd": 3.98,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 348.140625,
+        "y": 1429.0,
+        "width": 383.71875,
+        "height": 102
+      }
+    },
+    {
+      "start": 4.38,
+      "end": 5.4399999999999995,
+      "words": [
+        {
+          "text": "melhor",
+          "start": 4.38,
+          "end": 4.52,
+          "sourceStart": 4.38,
+          "sourceEnd": 4.52,
+          "highlight": false
+        },
+        {
+          "text": "preço,",
+          "start": 4.52,
+          "end": 5.26,
+          "sourceStart": 4.52,
+          "sourceEnd": 5.26,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 242.359375,
+        "y": 1429.0,
+        "width": 595.28125,
+        "height": 102
+      }
+    },
+    {
+      "start": 5.64,
+      "end": 6.739999999999999,
+      "words": [
+        {
+          "text": "de",
+          "start": 5.64,
+          "end": 5.8,
+          "sourceStart": 5.64,
+          "sourceEnd": 5.8,
+          "highlight": false
+        },
+        {
+          "text": "Caruaru,",
+          "start": 5.8,
+          "end": 6.56,
+          "sourceStart": 5.8,
+          "sourceEnd": 6.56,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 286.8125,
+        "y": 1429.0,
+        "width": 506.375,
+        "height": 102
+      }
+    },
+    {
+      "start": 7.1,
+      "end": 7.56,
+      "words": [
+        {
+          "text": "viu?",
+          "start": 7.1,
+          "end": 7.38,
+          "sourceStart": 7.1,
+          "sourceEnd": 7.38,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 434.4375,
+        "y": 1429.0,
+        "width": 211.125,
+        "height": 102
+      }
+    },
+    {
+      "start": 7.94,
+      "end": 8.06,
+      "words": [
+        {
+          "text": "Ó,",
+          "start": 7.94,
+          "end": 8.04,
+          "sourceStart": 7.94,
+          "sourceEnd": 8.04,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 475.390625,
+        "y": 1429.0,
+        "width": 129.21875,
+        "height": 102
+      }
+    },
+    {
+      "start": 8.06,
+      "end": 9.12,
+      "words": [
+        {
+          "text": "tem",
+          "start": 8.06,
+          "end": 8.24,
+          "sourceStart": 8.06,
+          "sourceEnd": 8.24,
+          "highlight": false
+        },
+        {
+          "text": "G,",
+          "start": 8.24,
+          "end": 8.94,
+          "sourceStart": 8.24,
+          "sourceEnd": 8.94,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 393.28125,
+        "y": 1429.0,
+        "width": 293.4375,
+        "height": 102
+      }
+    },
+    {
+      "start": 9.2733333334,
+      "end": 9.993333333400003,
+      "words": [
+        {
+          "text": "tem",
+          "start": 9.2733333334,
+          "end": 9.513333333399999,
+          "sourceStart": 9.74,
+          "sourceEnd": 9.98,
+          "highlight": false
+        },
+        {
+          "text": "M,",
+          "start": 9.513333333399999,
+          "end": 9.9133333334,
+          "sourceStart": 9.98,
+          "sourceEnd": 10.38,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 387.171875,
+        "y": 1429.0,
+        "width": 305.65625,
+        "height": 102
+      }
+    },
+    {
+      "start": 9.993333333400003,
+      "end": 11.5733333334,
+      "words": [
+        {
+          "text": "tem",
+          "start": 9.993333333400003,
+          "end": 10.2533333334,
+          "sourceStart": 10.46,
+          "sourceEnd": 10.72,
+          "highlight": false
+        },
+        {
+          "text": "P,",
+          "start": 10.2533333334,
+          "end": 11.393333333400001,
+          "sourceStart": 10.72,
+          "sourceEnd": 11.86,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 397.765625,
+        "y": 1429.0,
+        "width": 284.46875,
+        "height": 102
+      }
+    },
+    {
+      "start": 11.753333333399999,
+      "end": 13.880000000099999,
+      "words": [
+        {
+          "text": "qualidade,",
+          "start": 11.753333333399999,
+          "end": 12.5133333334,
+          "sourceStart": 12.62,
+          "sourceEnd": 13.38,
+          "highlight": true
+        },
+        {
+          "text": "maravilhosa,",
+          "start": 12.8200000001,
+          "end": 13.7000000001,
+          "sourceStart": 14.32,
+          "sourceEnd": 15.2,
+          "highlight": true
+        }
+      ],
+      "fontSize": 54,
+      "box": {
+        "x": 116.40625,
+        "y": 1435.0,
+        "width": 847.1875,
+        "height": 90
+      }
+    },
+    {
+      "start": 14.0933333334,
+      "end": 14.740000000099997,
+      "words": [
+        {
+          "text": "e",
+          "start": 14.0933333334,
+          "end": 14.2533333334,
+          "sourceStart": 16.26,
+          "sourceEnd": 16.42,
+          "highlight": false
+        },
+        {
+          "text": "também",
+          "start": 14.2533333334,
+          "end": 14.6133333334,
+          "sourceStart": 16.42,
+          "sourceEnd": 16.78,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 335.9375,
+        "y": 1429.0,
+        "width": 408.125,
+        "height": 102
+      }
+    },
+    {
+      "start": 14.740000000099997,
+      "end": 16.0700000001,
+      "words": [
+        {
+          "text": "Bobina",
+          "start": 14.740000000099997,
+          "end": 15.160000000099998,
+          "sourceStart": 22.24,
+          "sourceEnd": 22.66,
+          "highlight": true
+        },
+        {
+          "text": "picotada.",
+          "start": 15.160000000099998,
+          "end": 15.900000000099993,
+          "sourceStart": 22.66,
+          "sourceEnd": 23.4,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 196.015625,
+        "y": 1429.0,
+        "width": 687.96875,
+        "height": 102
+      }
+    }
+  ]
+}

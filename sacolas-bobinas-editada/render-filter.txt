@@ -1,0 +1,15 @@
+[0:v]trim=start_frame=0:end_frame=272,setpts=PTS-STARTPTS,scale=1080:1920:flags=lanczos,setsar=1[v0];
+[0:a]atrim=start=0.00000000:end=9.06666667,asetpts=PTS-STARTPTS,afade=t=in:d=0.007,afade=t=out:st=9.05966667:d=0.007[a0];
+[0:v]trim=start_frame=286:end_frame=360,setpts=PTS-STARTPTS,scale=1080:1920:flags=lanczos,setsar=1[v1];
+[0:a]atrim=start=9.53333333:end=12.00000000,asetpts=PTS-STARTPTS,afade=t=in:d=0.007,afade=t=out:st=2.45966667:d=0.007[a1];
+[0:v]trim=start_frame=372:end_frame=405,setpts=PTS-STARTPTS,scale=1080:1920:flags=lanczos,setsar=1[v2];
+[0:a]atrim=start=12.40000000:end=13.50000000,asetpts=PTS-STARTPTS,afade=t=in:d=0.007,afade=t=out:st=1.09300000:d=0.007[a2];
+[0:v]trim=start_frame=424:end_frame=462,setpts=PTS-STARTPTS,scale=1080:1920:flags=lanczos,setsar=1[v3];
+[0:a]atrim=start=14.13333333:end=15.40000000,asetpts=PTS-STARTPTS,afade=t=in:d=0.007,afade=t=out:st=1.25966667:d=0.007[a3];
+[0:v]trim=start_frame=482:end_frame=504,setpts=PTS-STARTPTS,scale=1080:1920:flags=lanczos,setsar=1[v4];
+[0:a]atrim=start=16.06666667:end=16.80000000,asetpts=PTS-STARTPTS,afade=t=in:d=0.007,afade=t=out:st=0.72633333:d=0.007[a4];
+[0:v]trim=start_frame=664:end_frame=708,setpts=PTS-STARTPTS,scale=1080:1920:flags=lanczos,setsar=1[v5];
+[0:a]atrim=start=22.13333333:end=23.60000000,asetpts=PTS-STARTPTS,afade=t=in:d=0.007,afade=t=out:st=1.45966667:d=0.007[a5];
+[v0][a0][v1][a1][v2][a2][v3][a3][v4][a4][v5][a5]concat=n=6:v=1:a=1[vcat][acat];
+[vcat]ass=filename=/workspace/apphacekr/sacolas-bobinas-editada/captions.ass:fontsdir=/workspace/apphacekr/sacolas-bobinas-editada/public/fonts[v];
+[acat]highpass=f=75,afftdn=nf=-40:nr=5:tn=1,equalizer=f=280:t=q:w=0.8:g=-1.5,equalizer=f=2800:t=q:w=0.8:g=1.5,acompressor=threshold=0.1:ratio=2:attack=15:release=180:makeup=1.5,loudnorm=I=-16:TP=-1.5:LRA=9,aresample=48000[a]

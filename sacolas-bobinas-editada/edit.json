@@ -1,0 +1,33 @@
+{
+  "fps": 30,
+  "keptSourceIntervals": [
+    [
+      0,
+      9.0666666667
+    ],
+    [
+      9.5333333333,
+      12
+    ],
+    [
+      12.4,
+      13.5
+    ],
+    [
+      14.1333333333,
+      15.4
+    ],
+    [
+      16.0666666667,
+      16.8
+    ],
+    [
+      22.1333333333,
+      23.6
+    ]
+  ],
+  "speechDuration": 16.1000000001,
+  "price": "R$ 16/kg",
+  "sourceName": "IMG_2485.MP4",
+  "notes": "Retirada a intervenção de outra voz e a hesitação entre 16,8 e 22,13 segundos; mantida a frase final da apresentadora."
+}
