@@ -1,0 +1,438 @@
+{
+  "words": [
+    {
+      "text": "Deu",
+      "start": 1.5666666666666664,
+      "end": 2.2266666666666666,
+      "sourceStart": 4.5,
+      "sourceEnd": 5.16
+    },
+    {
+      "text": "a",
+      "start": 2.2266666666666666,
+      "end": 2.4466666666666663,
+      "sourceStart": 5.16,
+      "sourceEnd": 5.38
+    },
+    {
+      "text": "louca",
+      "start": 2.4466666666666663,
+      "end": 2.7266666666666666,
+      "sourceStart": 5.38,
+      "sourceEnd": 5.66
+    },
+    {
+      "text": "na",
+      "start": 2.7266666666666666,
+      "end": 3.046666666666667,
+      "sourceStart": 5.66,
+      "sourceEnd": 5.98
+    },
+    {
+      "text": "Ruby.",
+      "start": 3.046666666666667,
+      "end": 3.8666666666666663,
+      "sourceStart": 5.98,
+      "sourceEnd": 6.8
+    },
+    {
+      "text": "É",
+      "start": 4.326666666666666,
+      "end": 4.426666666666667,
+      "sourceStart": 7.26,
+      "sourceEnd": 7.36
+    },
+    {
+      "text": "isso",
+      "start": 4.426666666666667,
+      "end": 4.726666666666667,
+      "sourceStart": 7.36,
+      "sourceEnd": 7.66
+    },
+    {
+      "text": "mesmo",
+      "start": 4.726666666666667,
+      "end": 5.026666666666666,
+      "sourceStart": 7.66,
+      "sourceEnd": 7.96
+    },
+    {
+      "text": "que",
+      "start": 5.026666666666666,
+      "end": 5.266666666666666,
+      "sourceStart": 7.96,
+      "sourceEnd": 8.2
+    },
+    {
+      "text": "você",
+      "start": 5.266666666666666,
+      "end": 5.726666666666667,
+      "sourceStart": 8.2,
+      "sourceEnd": 8.66
+    },
+    {
+      "text": "ouviu.",
+      "start": 5.726666666666667,
+      "end": 6.506666666666666,
+      "sourceStart": 8.66,
+      "sourceEnd": 9.44
+    },
+    {
+      "text": "Black",
+      "start": 6.706666666666667,
+      "end": 6.946666666666667,
+      "sourceStart": 9.64,
+      "sourceEnd": 9.88
+    },
+    {
+      "text": "Friday",
+      "start": 6.946666666666667,
+      "end": 7.486666666666666,
+      "sourceStart": 9.88,
+      "sourceEnd": 10.42
+    },
+    {
+      "text": "aqui",
+      "start": 7.486666666666666,
+      "end": 7.886666666666667,
+      "sourceStart": 10.42,
+      "sourceEnd": 10.82
+    },
+    {
+      "text": "na",
+      "start": 7.886666666666667,
+      "end": 8.066666666666666,
+      "sourceStart": 10.82,
+      "sourceEnd": 11.0
+    },
+    {
+      "text": "Ruby",
+      "start": 8.066666666666666,
+      "end": 8.546666666666667,
+      "sourceStart": 11.0,
+      "sourceEnd": 11.48
+    },
+    {
+      "text": "com",
+      "start": 8.546666666666667,
+      "end": 8.926666666666666,
+      "sourceStart": 11.48,
+      "sourceEnd": 11.86
+    },
+    {
+      "text": "produtos",
+      "start": 8.926666666666666,
+      "end": 9.526666666666667,
+      "sourceStart": 11.86,
+      "sourceEnd": 12.46
+    },
+    {
+      "text": "a",
+      "start": 9.526666666666667,
+      "end": 9.746666666666666,
+      "sourceStart": 12.46,
+      "sourceEnd": 12.68
+    },
+    {
+      "text": "partir",
+      "start": 9.746666666666666,
+      "end": 10.166666666666666,
+      "sourceStart": 12.68,
+      "sourceEnd": 13.1
+    },
+    {
+      "text": "de",
+      "start": 10.166666666666666,
+      "end": 10.626666666666667,
+      "sourceStart": 13.1,
+      "sourceEnd": 13.56
+    },
+    {
+      "text": "um",
+      "start": 10.626666666666667,
+      "end": 10.906666666666666,
+      "sourceStart": 13.56,
+      "sourceEnd": 13.84
+    },
+    {
+      "text": "real.",
+      "start": 10.906666666666666,
+      "end": 11.306666666666667,
+      "sourceStart": 13.84,
+      "sourceEnd": 14.24
+    },
+    {
+      "text": "É",
+      "start": 11.646666666666667,
+      "end": 11.786666666666667,
+      "sourceStart": 14.58,
+      "sourceEnd": 14.72
+    },
+    {
+      "text": "isso",
+      "start": 11.786666666666667,
+      "end": 12.086666666666666,
+      "sourceStart": 14.72,
+      "sourceEnd": 15.02
+    },
+    {
+      "text": "mesmo,",
+      "start": 12.086666666666666,
+      "end": 12.406666666666666,
+      "sourceStart": 15.02,
+      "sourceEnd": 15.34
+    },
+    {
+      "text": "você",
+      "start": 12.626666666666667,
+      "end": 12.946666666666667,
+      "sourceStart": 15.56,
+      "sourceEnd": 15.88
+    },
+    {
+      "text": "escutou",
+      "start": 12.946666666666667,
+      "end": 13.326666666666668,
+      "sourceStart": 15.88,
+      "sourceEnd": 16.26
+    },
+    {
+      "text": "direito.",
+      "start": 13.326666666666668,
+      "end": 13.866666666666667,
+      "sourceStart": 16.26,
+      "sourceEnd": 16.8
+    },
+    {
+      "text": "A",
+      "start": 14.299999999966666,
+      "end": 14.459999999966666,
+      "sourceStart": 17.5,
+      "sourceEnd": 17.66
+    },
+    {
+      "text": "nossa",
+      "start": 14.459999999966666,
+      "end": 14.819999999966665,
+      "sourceStart": 17.66,
+      "sourceEnd": 18.02
+    },
+    {
+      "text": "Black",
+      "start": 14.819999999966665,
+      "end": 15.179999999966665,
+      "sourceStart": 18.02,
+      "sourceEnd": 18.38
+    },
+    {
+      "text": "Friday",
+      "start": 15.179999999966665,
+      "end": 15.699999999966664,
+      "sourceStart": 18.38,
+      "sourceEnd": 18.9
+    },
+    {
+      "text": "nós",
+      "start": 15.699999999966664,
+      "end": 15.939999999966666,
+      "sourceStart": 18.9,
+      "sourceEnd": 19.14
+    },
+    {
+      "text": "vamos",
+      "start": 15.939999999966666,
+      "end": 16.199999999966664,
+      "sourceStart": 19.14,
+      "sourceEnd": 19.4
+    },
+    {
+      "text": "fazer",
+      "start": 16.199999999966664,
+      "end": 16.439999999966666,
+      "sourceStart": 19.4,
+      "sourceEnd": 19.64
+    },
+    {
+      "text": "o",
+      "start": 16.439999999966666,
+      "end": 16.579999999966667,
+      "sourceStart": 19.64,
+      "sourceEnd": 19.78
+    },
+    {
+      "text": "que",
+      "start": 16.579999999966667,
+      "end": 16.799999999966666,
+      "sourceStart": 19.78,
+      "sourceEnd": 20.0
+    },
+    {
+      "text": "nunca",
+      "start": 16.799999999966666,
+      "end": 17.199999999966664,
+      "sourceStart": 20.0,
+      "sourceEnd": 20.4
+    },
+    {
+      "text": "foi",
+      "start": 17.199999999966664,
+      "end": 17.399999999966667,
+      "sourceStart": 20.4,
+      "sourceEnd": 20.6
+    },
+    {
+      "text": "visto.",
+      "start": 17.399999999966667,
+      "end": 17.859999999966664,
+      "sourceStart": 20.6,
+      "sourceEnd": 21.06
+    },
+    {
+      "text": "Produtos",
+      "start": 18.273333333266663,
+      "end": 18.933333333266663,
+      "sourceStart": 21.74,
+      "sourceEnd": 22.4
+    },
+    {
+      "text": "e",
+      "start": 18.933333333266663,
+      "end": 19.393333333266664,
+      "sourceStart": 22.4,
+      "sourceEnd": 22.86
+    },
+    {
+      "text": "peças",
+      "start": 19.393333333266664,
+      "end": 19.793333333266666,
+      "sourceStart": 22.86,
+      "sourceEnd": 23.26
+    },
+    {
+      "text": "a",
+      "start": 19.793333333266666,
+      "end": 20.073333333266664,
+      "sourceStart": 23.26,
+      "sourceEnd": 23.54
+    },
+    {
+      "text": "partir",
+      "start": 20.073333333266664,
+      "end": 20.413333333266664,
+      "sourceStart": 23.54,
+      "sourceEnd": 23.88
+    },
+    {
+      "text": "de",
+      "start": 20.413333333266664,
+      "end": 20.633333333266666,
+      "sourceStart": 23.88,
+      "sourceEnd": 24.1
+    },
+    {
+      "text": "um",
+      "start": 20.633333333266666,
+      "end": 20.833333333266665,
+      "sourceStart": 24.1,
+      "sourceEnd": 24.3
+    },
+    {
+      "text": "real,",
+      "start": 20.833333333266665,
+      "end": 21.173333333266665,
+      "sourceStart": 24.3,
+      "sourceEnd": 24.64
+    },
+    {
+      "text": "tá?",
+      "start": 21.293333333266666,
+      "end": 21.433333333266663,
+      "sourceStart": 24.76,
+      "sourceEnd": 24.9
+    },
+    {
+      "text": "Então",
+      "start": 21.753333333266664,
+      "end": 22.133333333266666,
+      "sourceStart": 25.22,
+      "sourceEnd": 25.6
+    },
+    {
+      "text": "corre,",
+      "start": 22.133333333266666,
+      "end": 22.733333333266664,
+      "sourceStart": 25.6,
+      "sourceEnd": 26.2
+    },
+    {
+      "text": "vem",
+      "start": 23.213333333266664,
+      "end": 23.353333333266665,
+      "sourceStart": 26.68,
+      "sourceEnd": 26.82
+    },
+    {
+      "text": "participar",
+      "start": 23.353333333266665,
+      "end": 23.873333333266665,
+      "sourceStart": 26.82,
+      "sourceEnd": 27.34
+    },
+    {
+      "text": "da",
+      "start": 23.873333333266665,
+      "end": 24.133333333266666,
+      "sourceStart": 27.34,
+      "sourceEnd": 27.6
+    },
+    {
+      "text": "nossa",
+      "start": 24.133333333266666,
+      "end": 24.473333333266666,
+      "sourceStart": 27.6,
+      "sourceEnd": 27.94
+    },
+    {
+      "text": "Black",
+      "start": 24.473333333266666,
+      "end": 24.773333333266663,
+      "sourceStart": 27.94,
+      "sourceEnd": 28.24
+    },
+    {
+      "text": "e",
+      "start": 24.773333333266663,
+      "end": 25.073333333266664,
+      "sourceStart": 28.24,
+      "sourceEnd": 28.54
+    },
+    {
+      "text": "garante",
+      "start": 25.073333333266664,
+      "end": 25.393333333266664,
+      "sourceStart": 28.54,
+      "sourceEnd": 28.86
+    },
+    {
+      "text": "seus",
+      "start": 25.393333333266664,
+      "end": 25.653333333266666,
+      "sourceStart": 28.86,
+      "sourceEnd": 29.12
+    },
+    {
+      "text": "produtinhos,",
+      "start": 25.653333333266666,
+      "end": 26.373333333266665,
+      "sourceStart": 29.12,
+      "sourceEnd": 29.84
+    },
+    {
+      "text": "tá?",
+      "start": 26.553333333266664,
+      "end": 26.773333333266663,
+      "sourceStart": 30.02,
+      "sourceEnd": 30.24
+    }
+  ]
+}

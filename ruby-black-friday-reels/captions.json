@@ -1,0 +1,844 @@
+{
+  "sourceTimeline": "Cortes editoriais em edit.json, sem mudança de velocidade",
+  "placement": {
+    "centerX": 540,
+    "centerY": 1460,
+    "maxBoxWidth": 866
+  },
+  "groups": [
+    {
+      "start": 1.5666666666666664,
+      "end": 2.7266666666666666,
+      "words": [
+        {
+          "text": "Deu",
+          "start": 1.5666666666666664,
+          "end": 2.2266666666666666,
+          "sourceStart": 4.5,
+          "sourceEnd": 5.16,
+          "highlight": false
+        },
+        {
+          "text": "a",
+          "start": 2.2266666666666666,
+          "end": 2.4466666666666663,
+          "sourceStart": 5.16,
+          "sourceEnd": 5.38,
+          "highlight": false
+        },
+        {
+          "text": "louca",
+          "start": 2.4466666666666663,
+          "end": 2.7266666666666666,
+          "sourceStart": 5.38,
+          "sourceEnd": 5.66,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 286.84375,
+        "y": 1409.0,
+        "width": 506.3125,
+        "height": 102
+      }
+    },
+    {
+      "start": 2.7266666666666666,
+      "end": 4.046666666666666,
+      "words": [
+        {
+          "text": "na",
+          "start": 2.7266666666666666,
+          "end": 3.046666666666667,
+          "sourceStart": 5.66,
+          "sourceEnd": 5.98,
+          "highlight": false
+        },
+        {
+          "text": "Ruby.",
+          "start": 3.046666666666667,
+          "end": 3.8666666666666663,
+          "sourceStart": 5.98,
+          "sourceEnd": 6.8,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 352.28125,
+        "y": 1409.0,
+        "width": 375.4375,
+        "height": 102
+      }
+    },
+    {
+      "start": 4.326666666666666,
+      "end": 5.026666666666666,
+      "words": [
+        {
+          "text": "É",
+          "start": 4.326666666666666,
+          "end": 4.426666666666667,
+          "sourceStart": 7.26,
+          "sourceEnd": 7.36,
+          "highlight": false
+        },
+        {
+          "text": "isso",
+          "start": 4.426666666666667,
+          "end": 4.726666666666667,
+          "sourceStart": 7.36,
+          "sourceEnd": 7.66,
+          "highlight": false
+        },
+        {
+          "text": "mesmo",
+          "start": 4.726666666666667,
+          "end": 5.026666666666666,
+          "sourceStart": 7.66,
+          "sourceEnd": 7.96,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 268.609375,
+        "y": 1409.0,
+        "width": 542.78125,
+        "height": 102
+      }
+    },
+    {
+      "start": 5.026666666666666,
+      "end": 6.686666666666666,
+      "words": [
+        {
+          "text": "que",
+          "start": 5.026666666666666,
+          "end": 5.266666666666666,
+          "sourceStart": 7.96,
+          "sourceEnd": 8.2,
+          "highlight": false
+        },
+        {
+          "text": "você",
+          "start": 5.266666666666666,
+          "end": 5.726666666666667,
+          "sourceStart": 8.2,
+          "sourceEnd": 8.66,
+          "highlight": false
+        },
+        {
+          "text": "ouviu.",
+          "start": 5.726666666666667,
+          "end": 6.506666666666666,
+          "sourceStart": 8.66,
+          "sourceEnd": 9.44,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 215.65625,
+        "y": 1409.0,
+        "width": 648.6875,
+        "height": 102
+      }
+    },
+    {
+      "start": 6.706666666666667,
+      "end": 7.486666666666666,
+      "words": [
+        {
+          "text": "Black",
+          "start": 6.706666666666667,
+          "end": 6.946666666666667,
+          "sourceStart": 9.64,
+          "sourceEnd": 9.88,
+          "highlight": true
+        },
+        {
+          "text": "Friday",
+          "start": 6.946666666666667,
+          "end": 7.486666666666666,
+          "sourceStart": 9.88,
+          "sourceEnd": 10.42,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 273.203125,
+        "y": 1409.0,
+        "width": 533.59375,
+        "height": 102
+      }
+    },
+    {
+      "start": 7.486666666666666,
+      "end": 8.546666666666667,
+      "words": [
+        {
+          "text": "aqui",
+          "start": 7.486666666666666,
+          "end": 7.886666666666667,
+          "sourceStart": 10.42,
+          "sourceEnd": 10.82,
+          "highlight": false
+        },
+        {
+          "text": "na",
+          "start": 7.886666666666667,
+          "end": 8.066666666666666,
+          "sourceStart": 10.82,
+          "sourceEnd": 11.0,
+          "highlight": false
+        },
+        {
+          "text": "Ruby",
+          "start": 8.066666666666666,
+          "end": 8.546666666666667,
+          "sourceStart": 11.0,
+          "sourceEnd": 11.48,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 270.5,
+        "y": 1409.0,
+        "width": 539.0,
+        "height": 102
+      }
+    },
+    {
+      "start": 8.546666666666667,
+      "end": 9.526666666666667,
+      "words": [
+        {
+          "text": "com",
+          "start": 8.546666666666667,
+          "end": 8.926666666666666,
+          "sourceStart": 11.48,
+          "sourceEnd": 11.86,
+          "highlight": false
+        },
+        {
+          "text": "produtos",
+          "start": 8.926666666666666,
+          "end": 9.526666666666667,
+          "sourceStart": 11.86,
+          "sourceEnd": 12.46,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 241.640625,
+        "y": 1409.0,
+        "width": 596.71875,
+        "height": 102
+      }
+    },
+    {
+      "start": 9.526666666666667,
+      "end": 10.626666666666667,
+      "words": [
+        {
+          "text": "a",
+          "start": 9.526666666666667,
+          "end": 9.746666666666666,
+          "sourceStart": 12.46,
+          "sourceEnd": 12.68,
+          "highlight": false
+        },
+        {
+          "text": "partir",
+          "start": 9.746666666666666,
+          "end": 10.166666666666666,
+          "sourceStart": 12.68,
+          "sourceEnd": 13.1,
+          "highlight": false
+        },
+        {
+          "text": "de",
+          "start": 10.166666666666666,
+          "end": 10.626666666666667,
+          "sourceStart": 13.1,
+          "sourceEnd": 13.56,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 306.859375,
+        "y": 1409.0,
+        "width": 466.28125,
+        "height": 102
+      }
+    },
+    {
+      "start": 10.626666666666667,
+      "end": 11.486666666666666,
+      "words": [
+        {
+          "text": "um",
+          "start": 10.626666666666667,
+          "end": 10.906666666666666,
+          "sourceStart": 13.56,
+          "sourceEnd": 13.84,
+          "highlight": true
+        },
+        {
+          "text": "real.",
+          "start": 10.906666666666666,
+          "end": 11.306666666666667,
+          "sourceStart": 13.84,
+          "sourceEnd": 14.24,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 351.84375,
+        "y": 1409.0,
+        "width": 376.3125,
+        "height": 102
+      }
+    },
+    {
+      "start": 11.646666666666667,
+      "end": 12.586666666666666,
+      "words": [
+        {
+          "text": "É",
+          "start": 11.646666666666667,
+          "end": 11.786666666666667,
+          "sourceStart": 14.58,
+          "sourceEnd": 14.72,
+          "highlight": false
+        },
+        {
+          "text": "isso",
+          "start": 11.786666666666667,
+          "end": 12.086666666666666,
+          "sourceStart": 14.72,
+          "sourceEnd": 15.02,
+          "highlight": false
+        },
+        {
+          "text": "mesmo,",
+          "start": 12.086666666666666,
+          "end": 12.406666666666666,
+          "sourceStart": 15.02,
+          "sourceEnd": 15.34,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 258.734375,
+        "y": 1409.0,
+        "width": 562.53125,
+        "height": 102
+      }
+    },
+    {
+      "start": 12.626666666666667,
+      "end": 14.046666666666667,
+      "words": [
+        {
+          "text": "você",
+          "start": 12.626666666666667,
+          "end": 12.946666666666667,
+          "sourceStart": 15.56,
+          "sourceEnd": 15.88,
+          "highlight": false
+        },
+        {
+          "text": "escutou",
+          "start": 12.946666666666667,
+          "end": 13.326666666666668,
+          "sourceStart": 15.88,
+          "sourceEnd": 16.26,
+          "highlight": false
+        },
+        {
+          "text": "direito.",
+          "start": 13.326666666666668,
+          "end": 13.866666666666667,
+          "sourceStart": 16.26,
+          "sourceEnd": 16.8,
+          "highlight": false
+        }
+      ],
+      "fontSize": 62,
+      "box": {
+        "x": 117.078125,
+        "y": 1410.0,
+        "width": 845.84375,
+        "height": 100
+      }
+    },
+    {
+      "start": 14.299999999966666,
+      "end": 14.819999999966665,
+      "words": [
+        {
+          "text": "A",
+          "start": 14.299999999966666,
+          "end": 14.459999999966666,
+          "sourceStart": 17.5,
+          "sourceEnd": 17.66,
+          "highlight": false
+        },
+        {
+          "text": "nossa",
+          "start": 14.459999999966666,
+          "end": 14.819999999966665,
+          "sourceStart": 17.66,
+          "sourceEnd": 18.02,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 359.953125,
+        "y": 1409.0,
+        "width": 360.09375,
+        "height": 102
+      }
+    },
+    {
+      "start": 14.819999999966665,
+      "end": 15.699999999966664,
+      "words": [
+        {
+          "text": "Black",
+          "start": 14.819999999966665,
+          "end": 15.179999999966665,
+          "sourceStart": 18.02,
+          "sourceEnd": 18.38,
+          "highlight": true
+        },
+        {
+          "text": "Friday",
+          "start": 15.179999999966665,
+          "end": 15.699999999966664,
+          "sourceStart": 18.38,
+          "sourceEnd": 18.9,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 273.203125,
+        "y": 1409.0,
+        "width": 533.59375,
+        "height": 102
+      }
+    },
+    {
+      "start": 15.699999999966664,
+      "end": 16.439999999966666,
+      "words": [
+        {
+          "text": "nós",
+          "start": 15.699999999966664,
+          "end": 15.939999999966666,
+          "sourceStart": 18.9,
+          "sourceEnd": 19.14,
+          "highlight": false
+        },
+        {
+          "text": "vamos",
+          "start": 15.939999999966666,
+          "end": 16.199999999966664,
+          "sourceStart": 19.14,
+          "sourceEnd": 19.4,
+          "highlight": false
+        },
+        {
+          "text": "fazer",
+          "start": 16.199999999966664,
+          "end": 16.439999999966666,
+          "sourceStart": 19.4,
+          "sourceEnd": 19.64,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 194.125,
+        "y": 1409.0,
+        "width": 691.75,
+        "height": 102
+      }
+    },
+    {
+      "start": 16.439999999966666,
+      "end": 17.199999999966664,
+      "words": [
+        {
+          "text": "o",
+          "start": 16.439999999966666,
+          "end": 16.579999999966667,
+          "sourceStart": 19.64,
+          "sourceEnd": 19.78,
+          "highlight": false
+        },
+        {
+          "text": "que",
+          "start": 16.579999999966667,
+          "end": 16.799999999966666,
+          "sourceStart": 19.78,
+          "sourceEnd": 20.0,
+          "highlight": false
+        },
+        {
+          "text": "nunca",
+          "start": 16.799999999966666,
+          "end": 17.199999999966664,
+          "sourceStart": 20.0,
+          "sourceEnd": 20.4,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 277.765625,
+        "y": 1409.0,
+        "width": 524.46875,
+        "height": 102
+      }
+    },
+    {
+      "start": 17.199999999966664,
+      "end": 18.039999999966664,
+      "words": [
+        {
+          "text": "foi",
+          "start": 17.199999999966664,
+          "end": 17.399999999966667,
+          "sourceStart": 20.4,
+          "sourceEnd": 20.6,
+          "highlight": false
+        },
+        {
+          "text": "visto.",
+          "start": 17.399999999966667,
+          "end": 17.859999999966664,
+          "sourceStart": 20.6,
+          "sourceEnd": 21.06,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 337.5625,
+        "y": 1409.0,
+        "width": 404.875,
+        "height": 102
+      }
+    },
+    {
+      "start": 18.273333333266663,
+      "end": 19.793333333266666,
+      "words": [
+        {
+          "text": "Produtos",
+          "start": 18.273333333266663,
+          "end": 18.933333333266663,
+          "sourceStart": 21.74,
+          "sourceEnd": 22.4,
+          "highlight": false
+        },
+        {
+          "text": "e",
+          "start": 18.933333333266663,
+          "end": 19.393333333266664,
+          "sourceStart": 22.4,
+          "sourceEnd": 22.86,
+          "highlight": false
+        },
+        {
+          "text": "peças",
+          "start": 19.393333333266664,
+          "end": 19.793333333266666,
+          "sourceStart": 22.86,
+          "sourceEnd": 23.26,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 182.59375,
+        "y": 1409.0,
+        "width": 714.8125,
+        "height": 102
+      }
+    },
+    {
+      "start": 19.793333333266666,
+      "end": 20.633333333266666,
+      "words": [
+        {
+          "text": "a",
+          "start": 19.793333333266666,
+          "end": 20.073333333266664,
+          "sourceStart": 23.26,
+          "sourceEnd": 23.54,
+          "highlight": false
+        },
+        {
+          "text": "partir",
+          "start": 20.073333333266664,
+          "end": 20.413333333266664,
+          "sourceStart": 23.54,
+          "sourceEnd": 23.88,
+          "highlight": false
+        },
+        {
+          "text": "de",
+          "start": 20.413333333266664,
+          "end": 20.633333333266666,
+          "sourceStart": 23.88,
+          "sourceEnd": 24.1,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 306.859375,
+        "y": 1409.0,
+        "width": 466.28125,
+        "height": 102
+      }
+    },
+    {
+      "start": 20.633333333266666,
+      "end": 21.293333333266666,
+      "words": [
+        {
+          "text": "um",
+          "start": 20.633333333266666,
+          "end": 20.833333333266665,
+          "sourceStart": 24.1,
+          "sourceEnd": 24.3,
+          "highlight": true
+        },
+        {
+          "text": "real,",
+          "start": 20.833333333266665,
+          "end": 21.173333333266665,
+          "sourceStart": 24.3,
+          "sourceEnd": 24.64,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 351.84375,
+        "y": 1409.0,
+        "width": 376.3125,
+        "height": 102
+      }
+    },
+    {
+      "start": 21.293333333266666,
+      "end": 21.613333333266663,
+      "words": [
+        {
+          "text": "tá?",
+          "start": 21.293333333266666,
+          "end": 21.433333333266663,
+          "sourceStart": 24.76,
+          "sourceEnd": 24.9,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 450.078125,
+        "y": 1409.0,
+        "width": 179.84375,
+        "height": 102
+      }
+    },
+    {
+      "start": 21.753333333266664,
+      "end": 22.913333333266664,
+      "words": [
+        {
+          "text": "Então",
+          "start": 21.753333333266664,
+          "end": 22.133333333266666,
+          "sourceStart": 25.22,
+          "sourceEnd": 25.6,
+          "highlight": false
+        },
+        {
+          "text": "corre,",
+          "start": 22.133333333266666,
+          "end": 22.733333333266664,
+          "sourceStart": 25.6,
+          "sourceEnd": 26.2,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 267.609375,
+        "y": 1409.0,
+        "width": 544.78125,
+        "height": 102
+      }
+    },
+    {
+      "start": 23.213333333266664,
+      "end": 23.873333333266665,
+      "words": [
+        {
+          "text": "vem",
+          "start": 23.213333333266664,
+          "end": 23.353333333266665,
+          "sourceStart": 26.68,
+          "sourceEnd": 26.82,
+          "highlight": false
+        },
+        {
+          "text": "participar",
+          "start": 23.353333333266665,
+          "end": 23.873333333266665,
+          "sourceStart": 26.82,
+          "sourceEnd": 27.34,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 234.15625,
+        "y": 1409.0,
+        "width": 611.6875,
+        "height": 102
+      }
+    },
+    {
+      "start": 23.873333333266665,
+      "end": 24.773333333266663,
+      "words": [
+        {
+          "text": "da",
+          "start": 23.873333333266665,
+          "end": 24.133333333266666,
+          "sourceStart": 27.34,
+          "sourceEnd": 27.6,
+          "highlight": false
+        },
+        {
+          "text": "nossa",
+          "start": 24.133333333266666,
+          "end": 24.473333333266666,
+          "sourceStart": 27.6,
+          "sourceEnd": 27.94,
+          "highlight": false
+        },
+        {
+          "text": "Black",
+          "start": 24.473333333266666,
+          "end": 24.773333333266663,
+          "sourceStart": 27.94,
+          "sourceEnd": 28.24,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 218.328125,
+        "y": 1409.0,
+        "width": 643.34375,
+        "height": 102
+      }
+    },
+    {
+      "start": 24.773333333266663,
+      "end": 25.393333333266664,
+      "words": [
+        {
+          "text": "e",
+          "start": 24.773333333266663,
+          "end": 25.073333333266664,
+          "sourceStart": 28.24,
+          "sourceEnd": 28.54,
+          "highlight": false
+        },
+        {
+          "text": "garante",
+          "start": 25.073333333266664,
+          "end": 25.393333333266664,
+          "sourceStart": 28.54,
+          "sourceEnd": 28.86,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 321.421875,
+        "y": 1409.0,
+        "width": 437.15625,
+        "height": 102
+      }
+    },
+    {
+      "start": 25.393333333266664,
+      "end": 26.553333333266664,
+      "words": [
+        {
+          "text": "seus",
+          "start": 25.393333333266664,
+          "end": 25.653333333266666,
+          "sourceStart": 28.86,
+          "sourceEnd": 29.12,
+          "highlight": false
+        },
+        {
+          "text": "produtinhos,",
+          "start": 25.653333333266666,
+          "end": 26.373333333266665,
+          "sourceStart": 29.12,
+          "sourceEnd": 29.84,
+          "highlight": true
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 165.40625,
+        "y": 1409.0,
+        "width": 749.1875,
+        "height": 102
+      }
+    },
+    {
+      "start": 26.553333333266664,
+      "end": 26.903333333266662,
+      "words": [
+        {
+          "text": "tá?",
+          "start": 26.553333333266664,
+          "end": 26.773333333266663,
+          "sourceStart": 30.02,
+          "sourceEnd": 30.24,
+          "highlight": false
+        }
+      ],
+      "fontSize": 64,
+      "box": {
+        "x": 450.078125,
+        "y": 1409.0,
+        "width": 179.84375,
+        "height": 102
+      }
+    }
+  ]
+}

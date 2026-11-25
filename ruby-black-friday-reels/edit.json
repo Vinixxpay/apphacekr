@@ -1,0 +1,66 @@
+{
+  "fps": 30,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.4,
+      "speed": 3,
+      "zoom": 1,
+      "outputStart": 0,
+      "outputEnd": 1.4666666666666668
+    },
+    {
+      "start": 4.4,
+      "end": 9.5,
+      "speed": 1,
+      "zoom": 1.02,
+      "outputStart": 1.4666666666666668,
+      "outputEnd": 6.566666666666666
+    },
+    {
+      "start": 9.5,
+      "end": 14.4,
+      "speed": 1,
+      "zoom": 1.1,
+      "outputStart": 6.566666666666666,
+      "outputEnd": 11.466666666666667
+    },
+    {
+      "start": 14.4,
+      "end": 17,
+      "speed": 1,
+      "zoom": 1.025,
+      "outputStart": 11.466666666666667,
+      "outputEnd": 14.066666666666666
+    },
+    {
+      "start": 17.2666666667,
+      "end": 21.2,
+      "speed": 1,
+      "zoom": 1.09,
+      "outputStart": 14.066666666666666,
+      "outputEnd": 17.999999999966665
+    },
+    {
+      "start": 21.4666666667,
+      "end": 25.14,
+      "speed": 1,
+      "zoom": 1.035,
+      "outputStart": 17.999999999966665,
+      "outputEnd": 21.673333333266665
+    },
+    {
+      "start": 25.14,
+      "end": 30.4,
+      "speed": 1,
+      "zoom": 1.08,
+      "outputStart": 21.673333333266665,
+      "outputEnd": 26.933333333266663
+    }
+  ],
+  "speechDuration": 26.933333333266663,
+  "duration": 29.933333333266663,
+  "outroStart": 26.933333333266663,
+  "source": "input/original.mp4",
+  "outro": "Zoom animado sobre frame real da placa aos 32,9 segundos; sem alteração do texto da placa."
+}

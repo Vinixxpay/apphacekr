@@ -1,0 +1,26 @@
+{
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "durationSeconds": 29.9333,
+  "video": "H.264",
+  "audio": "AAC 48kHz stereo",
+  "fullDecode": "passed",
+  "visualReviewSeconds": [
+    0.7,
+    3,
+    10.8,
+    20.8,
+    27.5,
+    29.4
+  ],
+  "originalSpeechPreserved": true,
+  "outroZoom": {
+    "sourceFrameSeconds": 32.9,
+    "startScale": 1,
+    "endScale": 1.8,
+    "durationSeconds": 3
+  }
+}
