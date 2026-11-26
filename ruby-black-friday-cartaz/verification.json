@@ -1,0 +1,26 @@
+{
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "durationSeconds": 30.933333333333334,
+  "video": "H.264",
+  "audio": "AAC",
+  "fullDecode": "passed",
+  "coinFirstOnly": true,
+  "checkedFramesSeconds": [
+    11.05,
+    21.05,
+    27.1,
+    27.7,
+    28.6,
+    30.5
+  ],
+  "generatedPosterTextVerified": [
+    "SUPER OFERTAS DE",
+    "BLACK",
+    "FRIDAY",
+    "EM BREVE!"
+  ]
+}

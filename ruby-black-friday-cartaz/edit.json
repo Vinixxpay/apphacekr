@@ -1,0 +1,28 @@
+{
+  "baseVideo": "entregas/ruby-black-friday/ruby-black-friday-reels.mp4",
+  "coinInstances": [
+    {
+      "startSeconds": 10.6266666667,
+      "durationSeconds": 2
+    }
+  ],
+  "secondCoinRemoved": true,
+  "secondCoinSoundRemoved": true,
+  "headFrames": 808,
+  "outroFrames": 120,
+  "fps": 30,
+  "durationSeconds": 30.933333333333334,
+  "outro": {
+    "sourceFrame": "ruby-black-friday-reels/public/placa-original.jpg",
+    "generatedImage": "public/cartaz-recriado.png",
+    "artRectangleAtStart": [
+      355,
+      456,
+      328,
+      478
+    ],
+    "zoomStart": 1,
+    "zoomEnd": 3.23,
+    "transition": "Arte revelada sobre a placa, cenário dissolve e aproximação continua."
+  }
+}

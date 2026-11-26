@@ -1,0 +1,4 @@
+[0:v]trim=duration=4,setpts=PTS-STARTPTS,scale=3240:5760:flags=lanczos,fade=t=out:st=0.5:d=1:color=0x211421[bg];
+[1:v]scale=984:1434:flags=lanczos,format=rgba,trim=duration=4,setpts=PTS-STARTPTS,fade=t=in:st=0.25:d=0.4:alpha=1[art];
+[bg][art]overlay=x=1065:y=1368:shortest=1[scene];
+[scene]zoompan=z='1+2.2*(pow(min(on/54,1),2)*(3-2*min(on/54,1)))+0.03*min(max((on-54)/66,0),1)':x='max(0,1620-63*(pow(min(on/54,1),2)*(3-2*min(on/54,1)))-iw/(2*zoom))':y='max(0,2880-795*(pow(min(on/54,1),2)*(3-2*min(on/54,1)))-ih/(2*zoom))':d=1:s=1080x1920:fps=30,format=yuv420p[v]
