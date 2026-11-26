@@ -1,0 +1,12 @@
+[2:v]trim=duration=2.3,format=rgba,fade=t=in:d=0.18:alpha=1,fade=t=out:st=1.8:d=0.5:alpha=1,split=2[g1][g2];
+[g1]setpts=PTS-STARTPTS+10.45/TB[gg1];
+[g2]setpts=PTS-STARTPTS+20.45/TB[gg2];
+[0:v][gg1]overlay=0:0:eof_action=pass:repeatlast=0[v1];
+[v1][gg2]overlay=0:0:eof_action=pass:repeatlast=0[v2];
+[1:v]scale=300:300:flags=lanczos,format=rgba,fade=t=out:st=1.65:d=0.35:alpha=1,split=2[c1][c2];
+[c1]setpts=PTS-STARTPTS+10.6266666667/TB[cc1];
+[v2][cc1]overlay=x=715:y='if(lt((t-10.6266666667),0.36),40+1050*pow((t-10.6266666667)/0.36,2),1090-100*abs(sin(((t-10.6266666667)-0.36)*9))*exp(-2.6*((t-10.6266666667)-0.36)))':eof_action=pass:repeatlast=0[v3];
+[c2]setpts=PTS-STARTPTS+20.6333333333/TB[cc2];
+[v3][cc2]overlay=x=715:y='if(lt((t-20.6333333333),0.36),40+1050*pow((t-20.6333333333)/0.36,2),1090-100*abs(sin(((t-20.6333333333)-0.36)*9))*exp(-2.6*((t-20.6333333333)-0.36)))':eof_action=pass:repeatlast=0[v4];
+[0:a][3:a]amix=inputs=2:normalize=0:duration=first,alimiter=limit=0.891:level=0:latency=1[a];
+[v4]format=yuv420p[v]

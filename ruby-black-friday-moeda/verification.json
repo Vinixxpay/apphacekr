@@ -1,0 +1,21 @@
+{
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "coinStarts": [
+    10.6266666667,
+    20.6333333333
+  ],
+  "visualChecks": [
+    11.05,
+    11.6,
+    21.05,
+    21.6
+  ],
+  "durationApproxSeconds": 30,
+  "voice": "Original do vídeo aprovado, sem novos cortes ou alteração de velocidade",
+  "background": "Brilhos laterais, região central preservada",
+  "fullDecode": "passed"
+}
